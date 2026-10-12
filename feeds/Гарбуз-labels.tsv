@@ -970,7 +970,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1004			Shopping_ads	ne_v_nayavnosti			
 1006			Shopping_ads	ne_v_nayavnosti			
 1007			Shopping_ads	ne_v_nayavnosti			
-1007144608	dup:Гарбуз				dovedeni	cina	
+1007144608	dup:Тиква		Shopping_ads			cina	
 1008			Shopping_ads	ne_v_nayavnosti			
 1009	dup:Тиква		Shopping_ads	ne_v_nayavnosti			
 101-007	dup:Гарбуз						
@@ -1032,7 +1032,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1031	dup:Тиква		Shopping_ads	ne_v_nayavnosti			
 1032			Shopping_ads	ne_v_nayavnosti			Садиба Центр
 1032379638	dup:Гарбуз						
-1032395676	dup:Гарбуз				dovedeni	prybutok	
+1032395676	dup:Тиква		Shopping_ads			prybutok	
 1032531069	dup:Гарбуз						
 1033	dup:Тиква		Shopping_ads	ne_v_nayavnosti			
 1033466498	dup:Гарбуз					prybutok	
@@ -2724,7 +2724,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482027305					dovedeni	prybutok	
 482027306					dovedeni	prybutok	
 482027307			Shopping_ads	season_off			
-482027308	dup:Гарбуз				dovedeni	prybutok	
+482027308	dup:Гарбуз						
 482027309			Shopping_ads	ne_v_nayavnosti			
 482027310			Shopping_ads	season_off		prybutok	
 482027311	dup:Гарбуз				dovedeni	stop	
@@ -2764,7 +2764,7 @@ ARHB3112BT	dup:Гарбуз		Shopping_ads	ne_v_nayavnosti
 ARHC2510SB	dup:Тиква		Shopping_ads	ne_v_nayavnosti			
 ART0215SB	dup:Тиква		Shopping_ads	ne_v_nayavnosti			
 ART0729PB	dup:Гарбуз				dovedeni	prybutok	
-AV18BSR	dup:Гарбуз	ads_zero				cina	
+AV18BSR	dup:Тиква	ads_zero	Shopping_ads			cina	
 BB-20405	dup:Гарбуз	ads_zero			dovedeni	prybutok	
 BB-25512			Shopping_ads	ne_v_nayavnosti			
 BB-261710			Shopping_ads	ne_v_nayavnosti			
@@ -2772,7 +2772,7 @@ BB-31083			Shopping_ads	ne_v_nayavnosti
 BB-32506			Shopping_ads	ne_v_nayavnosti			
 CHESNOK-DUSHES-40	dup:Гарбуз				dovedeni	prybutok	
 CHESNOK-DUSHES-50	dup:Гарбуз					prybutok	
-CHESNOK-DUSHES-60	dup:Гарбуз					prybutok	
+CHESNOK-DUSHES-60	dup:Гарбуз						
 CYB-EXHIBITION-1KG			Shopping_ads	ne_v_nayavnosti			
 CYB-GLOBO-1KG			Shopping_ads	ne_v_nayavnosti			
 CYB-SHAKESPEARE-1KG					dovedeni		
@@ -4222,7 +4222,7 @@ PLX-17-002	dup:Гарбуз
 PLX-17-003	dup:Гарбуз					prybutok	
 PLX-17-004	dup:Гарбуз					prybutok	
 PLX-17-005	dup:Гарбуз						
-PLX-17-006	dup:Гарбуз				dovedeni	prybutok	
+PLX-17-006	dup:Гарбуз					prybutok	
 PLX-17-007	dup:Гарбуз					prybutok	
 PLX-17-008	dup:Гарбуз					stop	
 PLX-17-019	dup:Гарбуз						
@@ -4879,7 +4879,7 @@ PLX-3158	dup:Гарбуз
 PLX-3160	dup:Гарбуз		Shopping_ads	cina_vid_4000			
 PLX-3164	dup:Гарбуз					prybutok	
 PLX-3165	dup:Гарбуз						
-PLX-3166	dup:Едім		Shopping_ads	ne_v_nayavnosti			
+PLX-3166	dup:Едім		Shopping_ads	ne_v_nayavnosti		stop	
 PLX-3167	dup:Гарбуз						
 PLX-31672	dup:Гарбуз						
 PLX-3168	dup:Гарбуз						
@@ -6188,7 +6188,7 @@ PLX-70-125	dup:Гарбуз
 PLX-70-126	dup:Едім		Shopping_ads	ne_v_nayavnosti			
 PLX-70-127	dup:Гарбуз					prybutok	
 PLX-70-129	dup:Едім		Shopping_ads	ne_v_nayavnosti			
-PLX-70-130	dup:Едім		Shopping_ads	ne_v_nayavnosti			
+PLX-70-130	dup:Едім		Shopping_ads	ne_v_nayavnosti		stop	
 PLX-70-131	dup:Едім		Shopping_ads	ne_v_nayavnosti			
 PLX-70-132	dup:Гарбуз						
 PLX-70-133	dup:Гарбуз						
@@ -9681,6 +9681,7 @@ lp-LP21934			Shopping_ads	drop_bez_reklamy
 lp-LP21935			Shopping_ads	drop_bez_reklamy			
 lp-LP21936			Shopping_ads	cina_vid_4000			
 lp-LP21937			Shopping_ads	cina_vid_4000			
+lp-LP22111						prybutok	
 lp-LP22497			Shopping_ads	drop_bez_reklamy			
 lp-LP22506			Shopping_ads	drop_bez_reklamy			
 lp-LP22571			Shopping_ads	drop_bez_reklamy			
@@ -11922,6 +11923,7 @@ vt-AR1228B PREMIUM	dup:Гарбуз
 vt-AR1305SFM							Ardesto
 vt-AR1307SFM							Ardesto
 vt-AR1309BP			Shopping_ads	ne_v_nayavnosti			
+vt-AR1310BBS							Ardesto
 vt-AR1310BLR							Ardesto
 vt-AR1311GG			Shopping_ads	ne_v_nayavnosti			
 vt-AR1311SF	dup:Гарбуз						
@@ -12966,7 +12968,7 @@ vt-KM-1129							Kamille
 vt-KM-1131							Kamille
 vt-KM-1134							Kamille
 vt-KM-1134B							Kamille
-vt-KM-1601						stop	Kamille
+vt-KM-1601							Kamille
 vt-KM-1701A			Shopping_ads	ne_v_nayavnosti			Kamille
 vt-KM-1701B			Shopping_ads	ne_v_nayavnosti			Kamille
 vt-KM-1710							Kamille
