@@ -6,5 +6,5 @@
 | артикул Едіму | назва | сторінка | зараз (ціна / наявність) | очікувано після імпорту | Гарбуз |
 |---|---|---|---|---|---|
 | 001-h | Аерозольний балон, DOMEX WHITE LINE, високотемпера | https://edimik.com.ua/aerozolnyi-balon-domex-white-line-vysokotemperaturna-bila-123-400-ml/ | 339 / є | 339 / немає | 2605598806 339.0 |
+| 01-013 | Ящик для інструментів 16" 415х210х190 (мет/защ) | https://edimik.com.ua/yashchyk-dlia-instrumentiv-16-415kh210kh190-met-zashch/ | 959 / немає | 979 / є | PLX-01-013 979.0 |
 | 01-0144 | Ящик для інструментів 19" 480х250х230" (мет/защ) | https://edimik.com.ua/yashchyk-dlia-instrumentiv-19-480kh250kh230-met-zashch/ | 1079 / немає | 1359 / є | PLX-01-0144 1359.0 |
-| 01-33-004 | Шпінгалет врізний, 3053, 140 мм, AB | https://edimik.com.ua/shpinhalet-vriznyi-3053-140-mm-ab/ | 119 / немає | 109 / є | PLX-01-33-004 109.0 |
