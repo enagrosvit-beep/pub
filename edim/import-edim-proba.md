@@ -5,6 +5,6 @@
 
 | артикул Едіму | назва | сторінка | зараз (ціна / наявність) | очікувано після імпорту | Гарбуз |
 |---|---|---|---|---|---|
-| 001-h | Аерозольний балон, DOMEX WHITE LINE, високотемпера | https://edimik.com.ua/aerozolnyi-balon-domex-white-line-vysokotemperaturna-bila-123-400-ml/ | 339 / є | 339 / немає | 2605598806 339.0 |
-| 01-013 | Ящик для інструментів 16" 415х210х190 (мет/защ) | https://edimik.com.ua/yashchyk-dlia-instrumentiv-16-415kh210kh190-met-zashch/ | 959 / немає | 979 / є | PLX-01-013 979.0 |
+| 00001400 | Дискова пила Basic Series по дереву 125*22.23*40T  | https://edimik.com.ua/dyskova-pyla-basic-series-po-derevu-12522.2340t-saw-blade/ | 219 / є | 399 / немає | PLX-НФ-00001400 399.0 |
+| 01-013 | Ящик для інструментів 16" 415х210х190 (мет/защ) | https://edimik.com.ua/yashchyk-dlia-instrumentiv-16-415kh210kh190-met-zashch/ | 959 / немає | 879 / є | PLX-01-013 879.0 |
 | 01-0144 | Ящик для інструментів 19" 480х250х230" (мет/защ) | https://edimik.com.ua/yashchyk-dlia-instrumentiv-19-480kh250kh230-met-zashch/ | 1079 / немає | 1359 / є | PLX-01-0144 1359.0 |
