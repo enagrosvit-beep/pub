@@ -689,7 +689,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 101-196	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				2212
 101-h	dup:Гарбуз		Shopping_ads,Display_ads					4325
 101277	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				
-101278	dup:Едім		Shopping_ads,Display_ads		konv_google	stop		
+101278	dup:Едім				konv_google	stop		
 101284	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				
 101285	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				
 101287	dup:Едім		Shopping_ads,Display_ads	season_off			VMF	
@@ -1122,7 +1122,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 19-04-012	dup:Гарбуз		Shopping_ads,Display_ads					7214
 19015	dup:Тиква		Shopping_ads,Display_ads					2212
 19016	dup:Тиква		Shopping_ads,Display_ads					2212
-1923	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti				2802
+1923	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok		2802
 1925	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti				2802
 1928	dup:Гарбуз		Shopping_ads,Display_ads					2802
 1943	dup:Тиква		Shopping_ads,Display_ads					2802
@@ -1405,7 +1405,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2524	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti				1202
 2525	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti				1202
 2526	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				1202
-2530	dup:Едім		Shopping_ads,Display_ads		konv_google			1202
+2530	dup:Едім				konv_google			1202
 2546	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti				1774
 2576	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				1202
 2577	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				7020
@@ -1519,7 +1519,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 3-003-002	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti				499981
 3-004-001	dup:Гарбуз		Shopping_ads,Display_ads					499981
 3-004-002	dup:Гарбуз		Shopping_ads,Display_ads					499981
-3-005	dup:Едім	ads_zero	Shopping_ads,Display_ads		chempion	stop		499981
+3-005	dup:Едім	ads_zero			chempion	stop		499981
 3-006	dup:Едім		Shopping_ads,Display_ads	khvist				499981
 3-007-001	dup:Едім		Shopping_ads,Display_ads	khvist				499981
 3-007-002			Shopping_ads,Display_ads	khvist				499981
@@ -2120,7 +2120,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482018615	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti				503774
 482018617	dup:Тиква		Shopping_ads,Display_ads					536
 482018621	dup:Гарбуз		Shopping_ads,Display_ads					2454
-482018624			Shopping_ads,Display_ads		chempion	stop		338
+482018624					chempion	stop		338
 482018625	dup:Тиква		Shopping_ads,Display_ads	season_off				
 482018626	dup:Едім		Shopping_ads,Display_ads	season_off				
 482018634	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti				
@@ -3908,7 +3908,7 @@ PLX-14-16			Shopping_ads,Display_ads	khvist				1974
 PLX-14-17					konv_google			1974
 PLX-14-18					konv_google			1974
 PLX-14-30			Shopping_ads,Display_ads	khvist				1974
-PLX-14-35			Shopping_ads,Display_ads		chempion			1974
+PLX-14-35					chempion			1974
 PLX-14-36			Shopping_ads,Display_ads	khvist				1974
 PLX-14-37	dup:Гарбуз		Shopping_ads,Display_ads					1974
 PLX-14-40	dup:Гарбуз		Shopping_ads,Display_ads				SOFIA	1974
@@ -4330,7 +4330,7 @@ PLX-1904			Shopping_ads,Display_ads	khvist				2481
 PLX-191	dup:Гарбуз		Shopping_ads,Display_ads					6343
 PLX-192	dup:Гарбуз		Shopping_ads,Display_ads			prybutok		6343
 PLX-1920			Shopping_ads,Display_ads	khvist				2796
-PLX-1923					chempion			1202
+PLX-1923					chempion	prybutok		1202
 PLX-1925			Shopping_ads,Display_ads	khvist				1202
 PLX-1925-Б	dup:Гарбуз		Shopping_ads,Display_ads					500054
 PLX-193	dup:Гарбуз		Shopping_ads,Display_ads					6343
@@ -4901,7 +4901,7 @@ PLX-3-003-001	dup:Гарбуз		Shopping_ads,Display_ads					503730
 PLX-3-003-002	dup:Гарбуз		Shopping_ads,Display_ads					503730
 PLX-3-004-001	dup:Гарбуз		Shopping_ads,Display_ads					503730
 PLX-3-004-002	dup:Гарбуз		Shopping_ads,Display_ads					503730
-PLX-3-005	dup:Едім		Shopping_ads,Display_ads		chempion	stop		503730
+PLX-3-005	dup:Едім				chempion	stop		503730
 PLX-3-006	dup:Гарбуз		Shopping_ads,Display_ads					503730
 PLX-3-007-001	dup:Едім		Shopping_ads,Display_ads	khvist				503730
 PLX-3-007-002			Shopping_ads,Display_ads	khvist				503730
@@ -6756,7 +6756,7 @@ PLX-940008	dup:Гарбуз		Shopping_ads,Display_ads				UNIFIX	503742
 PLX-940021			Shopping_ads,Display_ads	ne_v_nayavnosti			UNIFIX	503742
 PLX-940022	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			UNIFIX	503742
 PLX-940023			Shopping_ads,Display_ads	ne_v_nayavnosti			UNIFIX	503742
-PLX-940024			Shopping_ads,Display_ads		konv_google	stop	UNIFIX	503742
+PLX-940024					konv_google	stop	UNIFIX	503742
 PLX-940026	dup:Гарбуз		Shopping_ads,Display_ads				UNIFIX	503742
 PLX-940027	dup:Едім		Shopping_ads,Display_ads	khvist			UNIFIX	503742
 PLX-940028	dup:Гарбуз		Shopping_ads,Display_ads				UNIFIX	503742
@@ -6837,7 +6837,7 @@ PLX-990	dup:Гарбуз		Shopping_ads,Display_ads				Аріко	1974
 PLX-A-0423	dup:Гарбуз		Shopping_ads,Display_ads				Smartech	503742
 PLX-AB-1272	dup:Едім		Shopping_ads,Display_ads	khvist			Alloid	1171
 PLX-AS-0411			Shopping_ads,Display_ads	khvist			Mounter	4325
-PLX-AW-170141000	dup:Едім		Shopping_ads,Display_ads		konv_google		Alloid	1171
+PLX-AW-170141000	dup:Едім				konv_google		Alloid	1171
 PLX-AW-170141500	dup:Гарбуз		Shopping_ads,Display_ads				Alloid	1171
 PLX-AW-17014800	dup:Гарбуз		Shopping_ads,Display_ads				Alloid	1171
 PLX-AW-170600	dup:Едім		Shopping_ads,Display_ads	khvist			Alloid	1171
