@@ -534,7 +534,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0500	dup:Гарбуз		Shopping_ads	khvist							2026-11-10T09:00+0300
 0502	dup:Гарбуз		Shopping_ads	khvist							2026-11-10T09:00+0300
 0503	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							
-0504					rozvidka						
+0504			Shopping_ads,Display_ads	ne_v_nayavnosti							
 0505	dup:Гарбуз				rozvidka						
 0506			Shopping_ads	khvist							
 0507	dup:Гарбуз		Shopping_ads	khvist							
@@ -2208,7 +2208,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2100	dup:Гарбуз		Shopping_ads	khvist							
 2101	dup:Гарбуз		Shopping_ads	khvist							
 2102	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
-2102583814	dup:Тиква				chempion						
+2102583814	dup:Гарбуз				chempion						
 2110115127	dup:Гарбуз				rozvidka						
 2116	dup:Гарбуз		Shopping_ads	khvist							
 2117	dup:Гарбуз		Shopping_ads	khvist							
@@ -2376,7 +2376,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2398			Shopping_ads,Display_ads	season_off							2026-11-10T09:00+0300
 2399			Shopping_ads,Display_ads	season_off							2026-11-10T09:00+0300
 2400			Shopping_ads,Display_ads	season_off							2026-11-10T09:00+0300
-2401	dup:Гарбуз		Shopping_ads,Display_ads	season_off							2026-11-10T09:00+0300
+2401	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 2402	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 2403	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 2403669171			Shopping_ads	khvist							2026-11-10T09:00+0300
@@ -3061,7 +3061,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 3032	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 3033	dup:Гарбуз				chempion	prybutok					
 3034	dup:Гарбуз				rozvidka						
-3035	dup:Гарбуз				chempion	prybutok		6474			
+3035	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok		6474			
 3047			Shopping_ads,Display_ads	ne_v_nayavnosti							
 3060			Shopping_ads	khvist							2026-11-10T09:00+0300
 3068					chempion						
@@ -3230,7 +3230,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482019756			Shopping_ads	khvist							
 482019761	dup:Гарбуз				rozvidka						
 482019762	dup:Гарбуз				rozvidka						
-482019783	dup:Гарбуз		Shopping_ads	khvist							2026-11-10T09:00+0300
+482019783	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							
 482019784	dup:Гарбуз	ads_zero			chempion	prybutok					
 482019785	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti		cina					
 482019789	dup:Гарбуз				rozvidka						
@@ -3287,7 +3287,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482026564	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 482026569			Shopping_ads	khvist							
 482026593	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
-482026594	dup:Тиква				chempion	prybutok					
+482026594	dup:Гарбуз				chempion	prybutok					
 482026599	dup:Гарбуз		Shopping_ads	khvist							2026-11-10T09:00+0300
 482026602	dup:Гарбуз				rozvidka						
 482026603	dup:Гарбуз				rozvidka						
@@ -3318,7 +3318,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482027314	dup:Гарбуз				chempion	prybutok					
 482027315	dup:Гарбуз				rozvidka						
 482027316			Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok					
-482027317	dup:Тиква				chempion	prybutok					
+482027317	dup:Гарбуз				chempion	prybutok					
 482027318					chempion	prybutok					
 482027319	dup:Гарбуз		Shopping_ads	khvist							
 482027320	dup:Гарбуз				rozvidka						
@@ -3363,7 +3363,7 @@ ARHB3112BT	dup:Гарбуз		Shopping_ads	khvist							2026-11-10T09:00+0300
 ARHC2510SB	dup:Гарбуз		Shopping_ads	khvist							2026-11-10T09:00+0300
 ART0215SB	dup:Гарбуз				konv_google						2026-11-10T09:00+0300
 ART0729PB	dup:Гарбуз		Shopping_ads	khvist							
-AV18BSR	dup:Тиква	ads_zero	Shopping_ads,Display_ads								
+AV18BSR	dup:Гарбуз	ads_zero	Shopping_ads	khvist							
 BB-20405	dup:Гарбуз	ads_zero			chempion	prybutok		4714			
 BB-25512			Shopping_ads	khvist							2026-11-10T09:00+0300
 BB-261710			Shopping_ads	khvist							2026-11-10T09:00+0300
@@ -4414,7 +4414,7 @@ PLX-1115600	dup:Гарбуз		Shopping_ads	khvist
 PLX-1115800			Shopping_ads	khvist							
 PLX-11196	dup:Гарбуз		Shopping_ads	khvist							
 PLX-113-230	dup:Гарбуз				rozvidka						
-PLX-113-330	dup:Едім		Shopping_ads	khvist							
+PLX-113-330	dup:Гарбуз		Shopping_ads	khvist							
 PLX-11348	dup:Гарбуз		Shopping_ads	khvist							
 PLX-116461	dup:Гарбуз		Shopping_ads	khvist							
 PLX-117232	dup:Гарбуз		Shopping_ads	khvist							
@@ -4522,8 +4522,8 @@ PLX-13-62-002	dup:Гарбуз		Shopping_ads	khvist			FZB
 PLX-13-63-002	dup:Гарбуз		Shopping_ads	khvist							
 PLX-13087	dup:Гарбуз		Shopping_ads	khvist							
 PLX-13089	dup:Гарбуз		Shopping_ads	khvist							
-PLX-131			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
-PLX-132			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
+PLX-131			Shopping_ads,Display_ads	ne_v_nayavnosti							
+PLX-132			Shopping_ads,Display_ads	ne_v_nayavnosti							
 PLX-13219	dup:Гарбуз		Shopping_ads	khvist							
 PLX-133			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 PLX-134	dup:Гарбуз		Shopping_ads	khvist							2026-11-10T09:00+0300
@@ -6900,7 +6900,7 @@ PLX-830520	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-
 PLX-840	dup:Гарбуз		Shopping_ads	khvist							
 PLX-842			Shopping_ads	khvist							
 PLX-843	dup:Гарбуз		Shopping_ads	khvist							
-PLX-844			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
+PLX-844			Shopping_ads,Display_ads	ne_v_nayavnosti							
 PLX-85-0423-AB	dup:Гарбуз		Shopping_ads	khvist							
 PLX-85-0423-SN/CP	dup:Гарбуз		Shopping_ads	khvist							
 PLX-851	dup:Гарбуз		Shopping_ads	khvist							
@@ -11400,118 +11400,118 @@ led-pglf-blue	dup:Гарбуз				chempion			100
 led-pglf-pink	dup:Гарбуз				chempion	prybutok		100			
 led-t3	dup:Гарбуз	ads_zero			chempion	prybutok		100			
 led-yj101	dup:Гарбуз		Shopping_ads	cina_vid_4000				107			
-lg-1000L100MGBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1000L100MGML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1000L100MGW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1000L100MGY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1000L100MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1000L100MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1000L100MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-100L10MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
+lg-1000L100MGBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1000L100MGML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1000L100MGW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1000L100MGY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1000L100MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1000L100MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1000L100MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-100L10MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
 lg-100L10MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-12MBBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-12MBML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-12MBW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-12MBY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-12MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-12MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-12MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-12MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733012GW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733012GY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733012Y			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733015GW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733015GY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733015W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-173301ML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-173302BL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-173303W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733042W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733043GR			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733044W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733051W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733053ML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733054BL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733055W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-173305ML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733061ML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733062BL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733063Y			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733064W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733065ML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733066BL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733067W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733068Y			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733069ML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-173306BL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733070BL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733071W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-1733072Y			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-173307W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-173309ML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-2000L200MGBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-2000L200MGML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-2000L200MGW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-2000L200MGY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-2000L200MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-2000L200MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-2000L200MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-2000L200MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
+lg-12MBBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-12MBML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-12MBW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-12MBY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-12MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-12MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-12MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-12MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733012GW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733012GY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733012Y			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733015GW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733015GY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733015W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-173301ML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-173302BL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-173303W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733042W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733043GR			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733044W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733051W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733053ML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733054BL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733055W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-173305ML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733061ML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733062BL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733063Y			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733064W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733065ML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733066BL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733067W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733068Y			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733069ML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-173306BL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733070BL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733071W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-1733072Y			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-173307W			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-173309ML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-2000L200MGBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-2000L200MGML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-2000L200MGW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-2000L200MGY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-2000L200MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-2000L200MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-2000L200MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-2000L200MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
 lg-2026-CR-3-1			Shopping_ads,Display_ads	drop_bez_reklamy				596			
-lg-2026-CR-3-2			Shopping_ads,Display_ads	drop_bez_reklamy				596			2026-11-10T09:00+0300
-lg-2026-CR-3-3			Shopping_ads,Display_ads	drop_bez_reklamy				596			2026-11-10T09:00+0300
+lg-2026-CR-3-2			Shopping_ads,Display_ads	drop_bez_reklamy				596			
+lg-2026-CR-3-3			Shopping_ads,Display_ads	drop_bez_reklamy				596			
 lg-2026-CR-3-5			Shopping_ads,Display_ads	drop_bez_reklamy				596			
 lg-2026-CR-3-6			Shopping_ads,Display_ads	drop_bez_reklamy				596			
 lg-2026-CR-3-7			Shopping_ads,Display_ads	drop_bez_reklamy				596			
-lg-2026-CR-3-8			Shopping_ads,Display_ads	drop_bez_reklamy				596			2026-11-10T09:00+0300
+lg-2026-CR-3-8			Shopping_ads,Display_ads	drop_bez_reklamy				596			
 lg-2026-CR-3-9			Shopping_ads,Display_ads	drop_bez_reklamy				596			
-lg-20MBBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-20MBML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-20MBW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-20MBY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-20MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-20MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-20MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-20MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-25MBBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-25MBML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-25MBW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-25MBY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-25MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-25MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-25MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-25MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
+lg-20MBBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-20MBML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-20MBW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-20MBY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-20MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-20MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-20MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-20MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-25MBBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-25MBML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-25MBW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-25MBY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-25MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-25MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-25MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-25MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
 lg-281233001			Shopping_ads,Display_ads	drop_bez_reklamy				596			
 lg-28124201			Shopping_ads,Display_ads	drop_bez_reklamy				596			
 lg-28124303			Shopping_ads,Display_ads	drop_bez_reklamy				596			
 lg-28124400			Shopping_ads,Display_ads	drop_bez_reklamy				596			
 lg-28124499			Shopping_ads,Display_ads	drop_bez_reklamy				596			
 lg-28124500			Shopping_ads,Display_ads	drop_bez_reklamy				596			
-lg-30L3MGW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-30L3MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
+lg-30L3MGW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-30L3MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
 lg-36MBML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
 lg-36MBW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
 lg-36MBY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-36MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-36MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-36MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-36MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-500L50MGBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-500L50MGW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-500L50MGY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-500L50MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-500L50MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-500L50MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-500L50MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-50L5MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-50L5MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-50MBBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-50MBML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-50MBW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-50MBY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-50MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-50MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
-lg-50MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			2026-11-10T09:00+0300
+lg-36MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-36MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-36MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-36MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-500L50MGBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-500L50MGW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-500L50MGY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-500L50MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-500L50MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-500L50MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-500L50MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-50L5MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-50L5MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-50MBBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-50MBML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-50MBW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-50MBY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-50MWBL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-50MWML			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
+lg-50MWW			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
 lg-50MWY			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
 lg-5MTR			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
 lg-6L3MBAL			Shopping_ads,Display_ads	drop_bez_reklamy				2608			
@@ -13016,7 +13016,7 @@ vt-100612M			Shopping_ads	khvist				652			2026-11-10T09:00+0300
 vt-100613M			Shopping_ads	khvist				652			2026-11-10T09:00+0300
 vt-100615L			Shopping_ads	khvist							
 vt-100615M			Shopping_ads	khvist				652			
-vt-100700			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-100700			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-100701			Shopping_ads	khvist				643			
 vt-100702			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-100703			Shopping_ads	khvist							
@@ -13483,13 +13483,13 @@ vt-228821-А			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-228826-А			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-228922	dup:Гарбуз		Shopping_ads	khvist							
 vt-228922-А			Shopping_ads	khvist							
-vt-22900			Shopping_ads,Display_ads	ne_v_prajsi					7895730213225		
+vt-22900			Shopping_ads,Display_ads	ne_v_nayavnosti					7895730213225		
 vt-23-060AC			Shopping_ads	khvist			GarboGlass		6942178908761	23-060AC	
 vt-23001 440			Shopping_ads	khvist							
-vt-23190-00			Shopping_ads,Display_ads	ne_v_prajsi			S&T		4823082542468		
+vt-23190-00			Shopping_ads,Display_ads	ne_v_nayavnosti			S&T		4823082542468		
 vt-23194-00			Shopping_ads,Display_ads	ne_v_nayavnosti					4823082543281		2026-11-10T09:00+0300
-vt-23419/103			Shopping_ads,Display_ads	ne_v_prajsi			Tramontina		7891112224919		
-vt-23498/013	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi			Tramontina		7891112229310		
+vt-23419/103			Shopping_ads,Display_ads	ne_v_nayavnosti			Tramontina		7891112224919		
+vt-23498/013	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti			Tramontina		7891112229310		
 vt-23498/032	dup:Гарбуз		Shopping_ads	khvist			Tramontina		7891112253391		2026-11-10T09:00+0300
 vt-23498/313			Shopping_ads,Display_ads	ne_v_nayavnosti			Tramontina				2026-11-10T09:00+0300
 vt-23498/612	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			Tramontina		7891112229303		2026-11-10T09:00+0300
@@ -13610,7 +13610,7 @@ vt-25-45-290			Shopping_ads	khvist
 vt-25-45-291			Shopping_ads	khvist				6838			
 vt-2501			Shopping_ads	khvist							
 vt-25015 230			Shopping_ads	khvist							
-vt-25015 250			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-25015 250			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-25015 290			Shopping_ads	khvist							
 vt-25015 380			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-2502			Shopping_ads	khvist							
@@ -13651,7 +13651,7 @@ vt-26-184-073			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-26-202-017			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-26-202-032			Shopping_ads	khvist				659			
 vt-26-202-033			Shopping_ads,Display_ads	ne_v_nayavnosti							
-vt-26-203-003			Shopping_ads,Display_ads	ne_v_prajsi				1647			
+vt-26-203-003			Shopping_ads,Display_ads	ne_v_nayavnosti				1647			
 vt-26-203-030			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-26-203-071					chempion	prybutok		1647			
 vt-26-203-072			Shopping_ads	khvist							
@@ -13781,7 +13781,7 @@ vt-29-250-044			Shopping_ads	khvist				5251			2026-11-10T09:00+0300
 vt-29-256-001			Shopping_ads	khvist				4762			
 vt-29-260-001			Shopping_ads	khvist				3521			2026-11-10T09:00+0300
 vt-29-260-002			Shopping_ads	khvist							2026-11-10T09:00+0300
-vt-29-260-006			Shopping_ads,Display_ads	ne_v_prajsi				3248			
+vt-29-260-006			Shopping_ads,Display_ads	ne_v_nayavnosti				3248			
 vt-29-274-002			Shopping_ads,Display_ads	season_off				666			
 vt-29-274-006			Shopping_ads,Display_ads	ne_v_prajsi				3382			
 vt-29-282-001			Shopping_ads	khvist							2026-11-10T09:00+0300
@@ -13844,7 +13844,7 @@ vt-29-305-052			Shopping_ads	khvist			Krauff	665
 vt-29-305-053			Shopping_ads	khvist				665			
 vt-29-305-054			Shopping_ads	khvist				665			
 vt-29-305-055			Shopping_ads	khvist				666			
-vt-29-305-072			Shopping_ads,Display_ads	ne_v_prajsi				3196			
+vt-29-305-072			Shopping_ads,Display_ads	ne_v_nayavnosti				3196			
 vt-29-305-075			Shopping_ads	khvist				3381			
 vt-29-305-079			Shopping_ads	khvist							
 vt-29-305-090			Shopping_ads	khvist							
@@ -14035,7 +14035,7 @@ vt-41280			Shopping_ads	khvist
 vt-4129			Shopping_ads,Display_ads	ne_v_nayavnosti	bez_foto						2026-11-10T09:00+0300
 vt-41290			Shopping_ads	khvist							
 vt-41300	dup:Гарбуз		Shopping_ads	khvist					8693357111738		
-vt-4160-100			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-4160-100			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-4160-101			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-4160-103			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-4160-104			Shopping_ads	khvist							
@@ -14139,7 +14139,7 @@ vt-440099			Shopping_ads	khvist					8693357249172
 vt-440111			Shopping_ads	khvist							
 vt-440111-SL			Shopping_ads	khvist							
 vt-440176	dup:Гарбуз		Shopping_ads	khvist					8693357418288		
-vt-440186			Shopping_ads,Display_ads	ne_v_prajsi		prybutok					
+vt-440186			Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok					
 vt-440211	dup:Гарбуз		Shopping_ads	khvist							
 vt-440236	dup:Гарбуз		Shopping_ads	khvist					8693357586154		
 vt-440237	dup:Гарбуз		Shopping_ads	khvist					8693357394186		2026-11-10T09:00+0300
@@ -14242,7 +14242,7 @@ vt-50132			Shopping_ads	khvist			Vinzer		5907706501327
 vt-501351			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-5014			Shopping_ads	khvist							
 vt-5015			Shopping_ads	khvist							
-vt-50155			Shopping_ads	khvist							2026-11-10T09:00+0300
+vt-50155			Shopping_ads	khvist							
 vt-50156			Shopping_ads	khvist							
 vt-50157			Shopping_ads	khvist				661			
 vt-50158			Shopping_ads	khvist							
@@ -14250,10 +14250,10 @@ vt-50161			Shopping_ads	khvist				661
 vt-50162			Shopping_ads	khvist			Vinzer		5907706501624		
 vt-50165			Shopping_ads	khvist							
 vt-5017			Shopping_ads	khvist							2026-11-10T09:00+0300
-vt-50170			Shopping_ads	khvist							2026-11-10T09:00+0300
-vt-50171			Shopping_ads	khvist							2026-11-10T09:00+0300
+vt-50170			Shopping_ads	khvist							
+vt-50171			Shopping_ads	khvist							
 vt-50172			Shopping_ads	khvist							
-vt-50173			Shopping_ads	khvist							2026-11-10T09:00+0300
+vt-50173			Shopping_ads	khvist							
 vt-50181 (89181)			Shopping_ads	khvist							
 vt-50182			Shopping_ads	khvist							
 vt-50190			Shopping_ads	khvist				666			
@@ -14261,14 +14261,14 @@ vt-50195			Shopping_ads	khvist
 vt-50202			Shopping_ads	khvist				733			
 vt-50204			Shopping_ads,Display_ads	ne_v_nayavnosti				3248			
 vt-50206			Shopping_ads	khvist				3430			
-vt-50207			Shopping_ads	khvist				3156			2026-11-10T09:00+0300
+vt-50207			Shopping_ads	khvist				3156			
 vt-50209			Shopping_ads	khvist				3196			
 vt-5021			Shopping_ads,Display_ads	ne_v_nayavnosti							
-vt-50210			Shopping_ads	khvist				3196			2026-11-10T09:00+0300
+vt-50210			Shopping_ads	khvist				3196			
 vt-50211			Shopping_ads	khvist							
 vt-50212			Shopping_ads	khvist				668			
 vt-50213			Shopping_ads	khvist				3196			
-vt-50215			Shopping_ads	khvist				3620			2026-11-10T09:00+0300
+vt-50215			Shopping_ads	khvist				3620			
 vt-50217			Shopping_ads	khvist			Vinzer		5907706502171		
 vt-50218			Shopping_ads	khvist				666			
 vt-5022			Shopping_ads	khvist							
@@ -14278,8 +14278,8 @@ vt-5023			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-50230			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-50237			Shopping_ads	khvist							
 vt-5024			Shopping_ads	khvist							2026-11-10T09:00+0300
-vt-50242			Shopping_ads,Display_ads	ne_v_prajsi			Vinzer		5907706502423		
-vt-50246			Shopping_ads,Display_ads	ne_v_prajsi			Vinzer		5907706502461		
+vt-50242			Shopping_ads,Display_ads	ne_v_nayavnosti			Vinzer		5907706502423		
+vt-50246			Shopping_ads,Display_ads	ne_v_nayavnosti			Vinzer		5907706502461		
 vt-50247			Shopping_ads	khvist							
 vt-50249			Shopping_ads	khvist			Vinzer		5907706502492		
 vt-50252			Shopping_ads	khvist			Vinzer		7640143892525		
@@ -14287,24 +14287,24 @@ vt-50257			Shopping_ads	khvist				666
 vt-50258			Shopping_ads	khvist							
 vt-50259			Shopping_ads	khvist							
 vt-5026			Shopping_ads	khvist							
-vt-50260			Shopping_ads	khvist							2026-11-10T09:00+0300
+vt-50260			Shopping_ads	khvist							
 vt-50261			Shopping_ads	khvist							
 vt-50262			Shopping_ads	khvist				665			
 vt-50264			Shopping_ads,Display_ads	ne_v_nayavnosti			Vinzer				
-vt-50265			Shopping_ads	khvist				665			2026-11-10T09:00+0300
+vt-50265			Shopping_ads	khvist				665			
 vt-5027			Shopping_ads	khvist							
 vt-50270					chempion	prybutok		665			
-vt-50273			Shopping_ads	khvist							2026-11-10T09:00+0300
+vt-50273			Shopping_ads	khvist							
 vt-50276			Shopping_ads	khvist				665			
 vt-50278			Shopping_ads	khvist							
 vt-50289			Shopping_ads	khvist			Vinzer		5907706502898		
-vt-50290			Shopping_ads	khvist				752			2026-11-10T09:00+0300
+vt-50290			Shopping_ads	khvist				752			
 vt-50293			Shopping_ads	khvist				665			
-vt-50295			Shopping_ads	khvist							2026-11-10T09:00+0300
+vt-50295			Shopping_ads	khvist							
 vt-50296			Shopping_ads	khvist							
-vt-50301			Shopping_ads	khvist				665			2026-11-10T09:00+0300
-vt-50303			Shopping_ads	khvist				665			2026-11-10T09:00+0300
-vt-50304			Shopping_ads	khvist							2026-11-10T09:00+0300
+vt-50301			Shopping_ads	khvist				665			
+vt-50303			Shopping_ads	khvist				665			
+vt-50304			Shopping_ads	khvist							
 vt-50305(89305)			Shopping_ads	khvist				665			
 vt-50307			Shopping_ads,Display_ads	ne_v_prajsi				5157			2026-11-10T09:00+0300
 vt-50310			Shopping_ads	khvist				752			2026-11-10T09:00+0300
@@ -14316,7 +14316,7 @@ vt-50332			Shopping_ads	khvist
 vt-50333			Shopping_ads	khvist							
 vt-50336			Shopping_ads	khvist							
 vt-50337			Shopping_ads	khvist							
-vt-50338			Shopping_ads,Display_ads	ne_v_prajsi		prybutok		666			
+vt-50338			Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok		666			
 vt-50341			Shopping_ads	khvist				5157			
 vt-50342			Shopping_ads	khvist				4026			
 vt-50343			Shopping_ads	khvist				3498			
@@ -14325,67 +14325,67 @@ vt-503599			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-5036			Shopping_ads	khvist							
 vt-503600	dup:Гарбуз		Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-50367			Shopping_ads	khvist				652			2026-11-10T09:00+0300
-vt-50372			Shopping_ads	khvist				652			2026-11-10T09:00+0300
+vt-50372			Shopping_ads	khvist				652			
 vt-50393			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-50399			Shopping_ads	khvist			Vinzer		5907706503994		
 vt-50409			Shopping_ads	khvist				6838			2026-11-10T09:00+0300
 vt-50410			Shopping_ads,Display_ads	ne_v_nayavnosti				6838			
 vt-50411			Shopping_ads	khvist							
-vt-50414			Shopping_ads	khvist							2026-11-10T09:00+0300
+vt-50414			Shopping_ads	khvist							
 vt-50418			Shopping_ads	khvist				664			
 vt-50419			Shopping_ads	khvist				6838			2026-11-10T09:00+0300
-vt-50420			Shopping_ads	khvist				6838			2026-11-10T09:00+0300
+vt-50420			Shopping_ads	khvist				6838			
 vt-50421			Shopping_ads,Display_ads	ne_v_nayavnosti			Vinzer				
 vt-50422			Shopping_ads,Display_ads	ne_v_nayavnosti				6838			
 vt-50423			Shopping_ads	khvist				6838			2026-11-10T09:00+0300
 vt-50424			Shopping_ads	khvist							
-vt-50425			Shopping_ads	khvist				6838			2026-11-10T09:00+0300
+vt-50425			Shopping_ads	khvist				6838			
 vt-50426			Shopping_ads	khvist				661			
 vt-50427			Shopping_ads	khvist				661			
-vt-50428			Shopping_ads	khvist				661			2026-11-10T09:00+0300
+vt-50428			Shopping_ads	cina_vid_4000				661			
 vt-5044			Shopping_ads	khvist							
 vt-50443			Shopping_ads	khvist							
 vt-50445			Shopping_ads	khvist							
 vt-50451			Shopping_ads	khvist				6838			2026-11-10T09:00+0300
 vt-50452			Shopping_ads,Display_ads	ne_v_nayavnosti				6838			
 vt-50453			Shopping_ads	khvist				654			
-vt-50454			Shopping_ads	khvist				6838			2026-11-10T09:00+0300
+vt-50454			Shopping_ads	khvist				6838			
 vt-50455			Shopping_ads	khvist							
 vt-50456			Shopping_ads	khvist			Vinzer				
 vt-50457			Shopping_ads	khvist				661			
-vt-50458			Shopping_ads	khvist				661			2026-11-10T09:00+0300
+vt-50458			Shopping_ads	khvist				661			
 vt-5047			Shopping_ads	khvist							
 vt-50471			Shopping_ads	khvist				6838			2026-11-10T09:00+0300
 vt-50472			Shopping_ads	khvist				6838			2026-11-10T09:00+0300
 vt-50473			Shopping_ads	khvist							2026-11-10T09:00+0300
-vt-50511			Shopping_ads	khvist				4660			2026-11-10T09:00+0300
-vt-50512			Shopping_ads	khvist							2026-11-10T09:00+0300
+vt-50511			Shopping_ads	khvist				4660			
+vt-50512			Shopping_ads	khvist							
 vt-5052	dup:Гарбуз		Shopping_ads	khvist							
-vt-50520			Shopping_ads	khvist			Vinzer	3196			2026-11-10T09:00+0300
+vt-50520			Shopping_ads	khvist			Vinzer	3196			
 vt-50521			Shopping_ads	khvist			Vinzer	668			
 vt-50522			Shopping_ads	khvist			Vinzer	6388			
 vt-50523			Shopping_ads	khvist			Vinzer	3620			
 vt-50525			Shopping_ads	khvist				3381			
 vt-5053			Shopping_ads	khvist							
-vt-50543			Shopping_ads	khvist				666			2026-11-10T09:00+0300
+vt-50543			Shopping_ads	khvist				666			
 vt-50545			Shopping_ads	khvist				666			
 vt-50547			Shopping_ads	khvist				666			
-vt-50550			Shopping_ads	khvist				666			2026-11-10T09:00+0300
+vt-50550			Shopping_ads	khvist				666			
 vt-50594			Shopping_ads	khvist							
 vt-50595			Shopping_ads	khvist							
-vt-50596			Shopping_ads	khvist							2026-11-10T09:00+0300
-vt-50597			Shopping_ads	khvist							2026-11-10T09:00+0300
+vt-50596			Shopping_ads	khvist							
+vt-50597			Shopping_ads	khvist							
 vt-5060			Shopping_ads	khvist							
 vt-50602			Shopping_ads	khvist					6948661750602		
 vt-5061			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-50610			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-50611			Shopping_ads,Display_ads	ne_v_nayavnosti				665			
-vt-50612			Shopping_ads	khvist				665			2026-11-10T09:00+0300
+vt-50612			Shopping_ads	khvist				665			
 vt-50613			Shopping_ads	khvist				665			
-vt-50615			Shopping_ads,Display_ads	ne_v_nayavnosti				665			
+vt-50615			Shopping_ads	khvist				665			
 vt-5062			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-5063			Shopping_ads	khvist							2026-11-10T09:00+0300
-vt-50660			Shopping_ads	khvist				6388			2026-11-10T09:00+0300
+vt-50660			Shopping_ads	khvist				6388			
 vt-50661			Shopping_ads	khvist				668			
 vt-50663			Shopping_ads	khvist				3196			
 vt-50664			Shopping_ads	khvist			Vinzer		5907706506643		
@@ -14396,19 +14396,19 @@ vt-50673			Shopping_ads,Display_ads	ne_v_nayavnosti				3467
 vt-50674			Shopping_ads	khvist				3467			
 vt-50677			Shopping_ads,Display_ads	ne_v_nayavnosti				3381			
 vt-50678			Shopping_ads,Display_ads	ne_v_nayavnosti			Vinzer				
-vt-50680			Shopping_ads	khvist				3196			2026-11-10T09:00+0300
+vt-50680			Shopping_ads	khvist				3196			
 vt-50681			Shopping_ads	khvist				668			
 vt-50682			Shopping_ads	khvist							
 vt-50683			Shopping_ads	khvist				3196			
 vt-50684			Shopping_ads	khvist				6388			
 vt-50685			Shopping_ads	khvist				3196			2026-11-10T09:00+0300
-vt-50686			Shopping_ads	khvist				3196			2026-11-10T09:00+0300
+vt-50686			Shopping_ads	khvist				3196			
 vt-50687			Shopping_ads	khvist				668			
 vt-50688			Shopping_ads	khvist							
 vt-50689			Shopping_ads	khvist				3294			2026-11-10T09:00+0300
 vt-50690			Shopping_ads	khvist				3620			
 vt-50691			Shopping_ads	khvist				6388			
-vt-50692			Shopping_ads	khvist				3196			2026-11-10T09:00+0300
+vt-50692			Shopping_ads	khvist				3196			
 vt-50693			Shopping_ads	khvist				668			
 vt-50693-420	dup:Гарбуз		Shopping_ads	khvist							
 vt-50730			Shopping_ads	khvist			Vinzer		5907706507305		
@@ -14419,19 +14419,19 @@ vt-50735			Shopping_ads	khvist			Vinzer		5907706507350
 vt-50736			Shopping_ads	khvist			Vinzer		5907706507367		
 vt-50739			Shopping_ads	khvist			Vinzer		5907706507398		
 vt-50742			Shopping_ads	khvist							
-vt-50770			Shopping_ads	khvist							2026-11-10T09:00+0300
-vt-50771			Shopping_ads	khvist				653			2026-11-10T09:00+0300
-vt-50772			Shopping_ads	khvist				653			2026-11-10T09:00+0300
-vt-50773			Shopping_ads	khvist							2026-11-10T09:00+0300
-vt-50774			Shopping_ads	khvist							2026-11-10T09:00+0300
-vt-50775			Shopping_ads	khvist							2026-11-10T09:00+0300
-vt-50776			Shopping_ads	khvist							2026-11-10T09:00+0300
+vt-50770			Shopping_ads	khvist							
+vt-50771			Shopping_ads	khvist				653			
+vt-50772			Shopping_ads	khvist				653			
+vt-50773			Shopping_ads	khvist							
+vt-50774			Shopping_ads	khvist							
+vt-50775			Shopping_ads	khvist							
+vt-50776			Shopping_ads	khvist							
 vt-50782			Shopping_ads	khvist							
 vt-50783			Shopping_ads	khvist				643			2026-11-10T09:00+0300
-vt-50784			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-50784			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-50785			Shopping_ads	khvist							
 vt-50786			Shopping_ads	khvist				643			2026-11-10T09:00+0300
-vt-50787			Shopping_ads	khvist				643			2026-11-10T09:00+0300
+vt-50787			Shopping_ads	khvist				643			
 vt-5079			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-5089			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-5100000			Shopping_ads	khvist			Pasabahce				
@@ -14505,7 +14505,7 @@ vt-530042			Shopping_ads	khvist
 vt-530044			Shopping_ads	khvist							
 vt-530068			Shopping_ads	khvist				637			
 vt-530106			Shopping_ads	khvist							
-vt-530122					chempion	prybutok					
+vt-530122			Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok					
 vt-530138			Shopping_ads	khvist							
 vt-530144/4			Shopping_ads	khvist			Pasabahce				
 vt-530146	dup:Гарбуз		Shopping_ads	khvist							
@@ -14583,7 +14583,7 @@ vt-59014			Shopping_ads,Display_ads	ne_v_nayavnosti			Borcam				2026-11-10T09:00
 vt-59019	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			Borcam		8693357192447		2026-11-10T09:00+0300
 vt-59023			Shopping_ads	khvist			Borcam		8693357192485		
 vt-59024			Shopping_ads,Display_ads	ne_v_nayavnosti			Borcam				2026-11-10T09:00+0300
-vt-59024g			Shopping_ads,Display_ads	ne_v_prajsi			Borcam				
+vt-59024g			Shopping_ads,Display_ads	ne_v_nayavnosti			Borcam				
 vt-59032			Shopping_ads,Display_ads	ne_v_nayavnosti			Borcam		8693357192546		
 vt-59034			Shopping_ads	khvist			Borcam				2026-11-10T09:00+0300
 vt-59044			Shopping_ads	khvist			Borcam				
@@ -14727,7 +14727,7 @@ vt-77095			Shopping_ads	khvist			Krauzer		6904610533085
 vt-77327			Shopping_ads	khvist			Krauzer		8200013689212		
 vt-77328			Shopping_ads	khvist			Krauzer		8200013689236		
 vt-77330			Shopping_ads,Display_ads	ne_v_prajsi			Krauzer				
-vt-77331			Shopping_ads,Display_ads	ne_v_prajsi			Krauzer				
+vt-77331			Shopping_ads,Display_ads	ne_v_nayavnosti			Krauzer				
 vt-77360			Shopping_ads	khvist			Krauzer		8200113599763		
 vt-77361	dup:Гарбуз		Shopping_ads	khvist			Krauzer		8200113599862		
 vt-77400			Shopping_ads	khvist			Krauzer		8200113600018		
@@ -14766,8 +14766,8 @@ vt-80229-2	dup:Гарбуз		Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-80229-SL	dup:Гарбуз		Shopping_ads	khvist			Pasabahce				
 vt-80230	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357361300		2026-11-10T09:00+0300
 vt-80350	dup:Гарбуз				chempion	prybutok					
-vt-80383			Shopping_ads,Display_ads	ne_v_prajsi							
-vt-80383-SL			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-80383			Shopping_ads,Display_ads	ne_v_nayavnosti							
+vt-80383-SL			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-80384			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-80384-SL					chempion	prybutok					
 vt-80385			Shopping_ads	khvist							2026-11-10T09:00+0300
@@ -14811,7 +14811,7 @@ vt-88-222-127			Shopping_ads	khvist			Krauff	666
 vt-88-222-128			Shopping_ads	khvist							
 vt-88-222-129			Shopping_ads	khvist							
 vt-88-222-130			Shopping_ads	khvist							
-vt-88-222-131			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-88-222-131			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-8805А BS	dup:Гарбуз		Shopping_ads	khvist			Besser	582			2026-11-10T09:00+0300
 vt-8822			Shopping_ads	khvist							
 vt-8832			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
@@ -14863,8 +14863,8 @@ vt-9038-6			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-9038-8			Shopping_ads	khvist			S&T				
 vt-90788			Shopping_ads	khvist					6910787090788		
 vt-9090-20			Shopping_ads	khvist							2026-11-10T09:00+0300
-vt-9090-24			Shopping_ads,Display_ads	ne_v_prajsi							
-vt-9090-26			Shopping_ads,Display_ads	ne_v_prajsi					4823082530465		
+vt-9090-24			Shopping_ads,Display_ads	ne_v_nayavnosti							
+vt-9090-26			Shopping_ads,Display_ads	ne_v_nayavnosti					4823082530465		
 vt-9090-28			Shopping_ads	khvist					4823082530472		
 vt-9097-11			Shopping_ads	khvist			S&T		4823082541379		
 vt-9097-12			Shopping_ads	khvist			S&T		4823082541386		
@@ -14899,10 +14899,10 @@ vt-9304-7			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-93053			Shopping_ads	khvist							
 vt-9328			Shopping_ads	khvist			S&T				
 vt-9329			Shopping_ads	khvist							
-vt-9330			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-9330			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-933511			Shopping_ads	khvist							
 vt-933511-А			Shopping_ads	khvist							
-vt-9343			Shopping_ads,Display_ads	ne_v_prajsi			S&T				
+vt-9343			Shopping_ads,Display_ads	ne_v_nayavnosti			S&T				
 vt-9392			Shopping_ads	khvist							
 vt-94-1200			Shopping_ads	khvist			Krauzer		8200013590389		
 vt-94-1500			Shopping_ads	khvist			Krauzer		8200013590396		
@@ -15417,7 +15417,7 @@ vt-AR2128PG			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+03
 vt-AR2130C			Shopping_ads	khvist			Ardesto		0767637189484	AR2130C	
 vt-AR2131SB			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-AR2131SS			Shopping_ads	khvist							
-vt-AR2132SP	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi							
+vt-AR2132SP	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-AR2132SS			Shopping_ads	khvist							
 vt-AR2133C			Shopping_ads	khvist			Ardesto		0767637189491	AR2133C	
 vt-AR2134MN			Shopping_ads	khvist			Ardesto		0614537765808	AR2134MN	
@@ -15476,7 +15476,7 @@ vt-AR2412GES			Shopping_ads	khvist
 vt-AR2414FW			Shopping_ads	khvist							
 vt-AR2415FW			Shopping_ads	khvist							
 vt-AR2416FW			Shopping_ads	khvist							
-vt-AR2424GE			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-AR2424GE			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-AR2426GE			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-AR2428UL			Shopping_ads	khvist							
 vt-AR2430GE	dup:Гарбуз		Shopping_ads	khvist							2026-11-10T09:00+0300
@@ -15545,7 +15545,7 @@ vt-AR2631GT	dup:Гарбуз		Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-AR2631WRC			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-AR2631WRT			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-AR2632BRG			Shopping_ads	khvist			Ardesto		0674012409856	AR2632BRG	
-vt-AR2632GRE			Shopping_ads,Display_ads	ne_v_nayavnosti			Ardesto		0674012409863	AR2632GRE	
+vt-AR2632GRE			Shopping_ads	khvist			Ardesto		0674012409863	AR2632GRE	
 vt-AR2632GRG			Shopping_ads	khvist			Ardesto		0674012409849	AR2632GRG	
 vt-AR2632WRC	dup:Гарбуз		Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-AR2633BHL	dup:Гарбуз		Shopping_ads	khvist							
@@ -15600,7 +15600,7 @@ vt-AR2650KMA	dup:Гарбуз		Shopping_ads	khvist
 vt-AR2650TMB					konv_google	stop					2026-11-10T09:00+0300
 vt-AR2670WGS	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi							
 vt-AR2690GBL			Shopping_ads	khvist							
-vt-AR2690GGR			Shopping_ads,Display_ads	ne_v_prajsi			Ardesto		0767637169776		
+vt-AR2690GGR			Shopping_ads,Display_ads	ne_v_nayavnosti			Ardesto		0767637169776		
 vt-AR2690GP			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-AR2914BGC			Shopping_ads	khvist							
 vt-AR2914GMC			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
@@ -15727,7 +15727,7 @@ vt-AR3010BBH	dup:Гарбуз		Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-AR3010BGA			Shopping_ads	khvist							
 vt-AR3010BGR					chempion	prybutok					
 vt-AR3010GBB			Shopping_ads,Display_ads	ne_v_nayavnosti							
-vt-AR3010GBM		ads_low	Shopping_ads,Display_ads	ne_v_prajsi		prybutok					
+vt-AR3010GBM		ads_low	Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok					
 vt-AR3010GFB			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-AR3010GHM			Shopping_ads	khvist							
 vt-AR3012GBM			Shopping_ads,Display_ads	ne_v_nayavnosti							
@@ -15743,12 +15743,12 @@ vt-AR3042Y	dup:Гарбуз		Shopping_ads	khvist
 vt-AR3043BL			Shopping_ads	khvist							
 vt-AR3043OR	dup:Гарбуз		Shopping_ads	khvist							
 vt-AR3043Y	dup:Гарбуз		Shopping_ads	khvist							
-vt-AR3044BN			Shopping_ads	khvist							
+vt-AR3044BN	dup:Гарбуз		Shopping_ads	khvist							
 vt-AR3044GY	dup:Гарбуз		Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-AR3044LG			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-AR3049	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi							
 vt-AR3052			Shopping_ads	khvist							
-vt-AR3054			Shopping_ads	khvist							
+vt-AR3054	dup:Гарбуз		Shopping_ads	khvist							
 vt-AR3055	dup:Гарбуз		Shopping_ads	khvist							
 vt-AR3056	dup:Гарбуз		Shopping_ads	khvist							
 vt-AR3057	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
@@ -15768,7 +15768,7 @@ vt-AR3114			Shopping_ads	khvist			Ardesto		0767637189576	AR3114
 vt-AR3301G			Shopping_ads	khvist							
 vt-AR3301GN	dup:Гарбуз		Shopping_ads	khvist							
 vt-AR3301N			Shopping_ads	khvist							
-vt-AR3302GR	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi							
+vt-AR3302GR	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-AR3305GN			Shopping_ads	khvist							
 vt-AR3309GN			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-AR3312G			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
@@ -15957,7 +15957,7 @@ vt-AR7002B			Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-AR8103W			Shopping_ads	khvist				736			
 vt-AR8104W			Shopping_ads	khvist							
 vt-ARHB3101GS					chempion	prybutok		2948			
-vt-ARHB3102GS			Shopping_ads	khvist							2026-11-10T09:00+0300
+vt-ARHB3102GS			Shopping_ads	khvist							
 vt-ARHB3103SV			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-ARHB3104EB			Shopping_ads	khvist							
 vt-ARHB3104OB			Shopping_ads	khvist							2026-11-10T09:00+0300
@@ -15997,7 +15997,7 @@ vt-ARHB3177A			Shopping_ads	khvist
 vt-ARHB3177G			Shopping_ads	khvist							
 vt-ARHB3179A			Shopping_ads	khvist							
 vt-ARHB3179B			Shopping_ads	khvist							
-vt-ARHB3187A			Shopping_ads,Display_ads	ne_v_nayavnosti							
+vt-ARHB3187A			Shopping_ads	khvist							
 vt-ARHB3187G			Shopping_ads	khvist							
 vt-ARHB3301OB			Shopping_ads	khvist							
 vt-ARHB3301RB	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
@@ -16009,7 +16009,7 @@ vt-ARHB3503GB			Shopping_ads,Display_ads	ne_v_prajsi
 vt-ARHB3503WB			Shopping_ads,Display_ads	ne_v_prajsi							
 vt-ARHB3601WB			Shopping_ads	khvist		stop		637			
 vt-ARHC2101BB					chempion	prybutok					
-vt-ARHC2402GG			Shopping_ads,Display_ads	ne_v_nayavnosti							
+vt-ARHC2402GG			Shopping_ads	khvist							
 vt-ARHC2503A			Shopping_ads	khvist			Ardesto		0614537767932	ARHC2503A	
 vt-ARHC2503BG			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-ARHC2504BG			Shopping_ads	khvist							
@@ -16030,7 +16030,7 @@ vt-ARHC2512PG			Shopping_ads	khvist
 vt-ARHC2513B	dup:Гарбуз				chempion	prybutok					
 vt-ARHC2513G			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-ARHC2523B			Shopping_ads	khvist							
-vt-ARHC2523G			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-ARHC2523G			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-ARHC2534BG			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-ARHC2534GG			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-ARHC2548B			Shopping_ads	khvist			Ardesto		0614537767901	ARHC2548B	
@@ -16081,7 +16081,7 @@ vt-ARHK4204B			Shopping_ads,Display_ads	ne_v_prajsi
 vt-ARHK4205B			Shopping_ads,Display_ads	ne_v_prajsi							
 vt-ARHK4206G			Shopping_ads,Display_ads	ne_v_prajsi							
 vt-ARHK4501BB			Shopping_ads	khvist							
-vt-ARHK4501PB			Shopping_ads	khvist							2026-11-10T09:00+0300
+vt-ARHK4501PB			Shopping_ads	khvist							
 vt-ARHK4502BB			Shopping_ads	khvist							
 vt-ARHK4502PB			Shopping_ads	khvist							
 vt-ARHK4503PB			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
@@ -16297,7 +16297,7 @@ vt-DD-B006			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+030
 vt-DD08-Z12			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-DD08-Z13			Shopping_ads	khvist							
 vt-DD08-Z14			Shopping_ads	khvist							
-vt-DD10-Z049	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi							
+vt-DD10-Z049	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-DEF226F	dup:Гарбуз		Shopping_ads	khvist							
 vt-DEF247F	dup:Гарбуз		Shopping_ads	khvist							
 vt-DF008-4			Shopping_ads	khvist							
@@ -16437,7 +16437,7 @@ vt-EM-9672			Shopping_ads	khvist
 vt-EM-9748			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-EM-9749			Shopping_ads	khvist							
 vt-EM-9780			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
-vt-EM-9784			Shopping_ads	khvist							
+vt-EM-9784			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-EM-9789			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-EM-9833			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-EM-9840			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
@@ -16559,7 +16559,7 @@ vt-KM-0620MR			Shopping_ads	khvist
 vt-KM-0621MR			Shopping_ads	khvist				6838			
 vt-KM-0623MR			Shopping_ads	khvist				6838			
 vt-KM-0625MR			Shopping_ads	khvist				6838			
-vt-KM-0655			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-KM-0655			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-KM-0670			Shopping_ads	khvist				3419			
 vt-KM-0671			Shopping_ads	khvist							
 vt-KM-0671А			Shopping_ads	khvist							
@@ -16699,7 +16699,7 @@ vt-KM-1107			Shopping_ads,Display_ads	ne_v_prajsi				3337
 vt-KM-1123			Shopping_ads	khvist				3337			
 vt-KM-1126			Shopping_ads	khvist				3337			
 vt-KM-1127			Shopping_ads	khvist				3337			
-vt-KM-1128			Shopping_ads,Display_ads	ne_v_prajsi				666			
+vt-KM-1128			Shopping_ads,Display_ads	ne_v_nayavnosti				666			
 vt-KM-1129			Shopping_ads	khvist				666			
 vt-KM-1131			Shopping_ads	khvist				3337			
 vt-KM-1134			Shopping_ads	khvist				666			
@@ -16802,7 +16802,7 @@ vt-KM-2155			Shopping_ads	khvist				3800
 vt-KM-2156			Shopping_ads	khvist				3800			
 vt-KM-2157			Shopping_ads	khvist							
 vt-KM-2158			Shopping_ads	khvist							
-vt-KM-2159			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-KM-2159			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-KM-2160			Shopping_ads	khvist							
 vt-KM-2161			Shopping_ads	khvist			Kamille				
 vt-KM-2162			Shopping_ads	khvist				3800			
@@ -16860,7 +16860,7 @@ vt-KM-4125			Shopping_ads	khvist
 vt-KM-4128			Shopping_ads	khvist							
 vt-KM-4130			Shopping_ads	khvist							
 vt-KM-4133			Shopping_ads	khvist							
-vt-KM-4134			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-KM-4134			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-KM-4135			Shopping_ads	khvist				4423			
 vt-KM-4136			Shopping_ads	khvist							
 vt-KM-4160			Shopping_ads	khvist							
@@ -16869,7 +16869,7 @@ vt-KM-4163			Shopping_ads	khvist
 vt-KM-4164			Shopping_ads	khvist							
 vt-KM-4165			Shopping_ads	khvist				4423			
 vt-KM-4166			Shopping_ads	khvist				4423			
-vt-KM-4167			Shopping_ads,Display_ads	ne_v_prajsi				4423			
+vt-KM-4167			Shopping_ads,Display_ads	ne_v_nayavnosti				4423			
 vt-KM-4169			Shopping_ads	khvist				666			
 vt-KM-4170			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-KM-4172			Shopping_ads	khvist							
@@ -16881,7 +16881,7 @@ vt-KM-4214			Shopping_ads	khvist
 vt-KM-4215			Shopping_ads	khvist							
 vt-KM-4218			Shopping_ads	khvist							
 vt-KM-4219			Shopping_ads	khvist				661			
-vt-KM-4227S			Shopping_ads,Display_ads	ne_v_prajsi		prybutok					
+vt-KM-4227S			Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok					
 vt-KM-4278GR			Shopping_ads	khvist				658			
 vt-KM-4281GR			Shopping_ads	khvist				661			
 vt-KM-4282GR			Shopping_ads	khvist				661			
@@ -16902,9 +16902,9 @@ vt-KM-4312			Shopping_ads	khvist
 vt-KM-4313			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-KM-4315			Shopping_ads,Display_ads	ne_v_nayavnosti				652			
 vt-KM-4316			Shopping_ads	khvist				652			
-vt-KM-4318			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-KM-4318			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-KM-4319			Shopping_ads	khvist							
-vt-KM-4320			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-KM-4320			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-KM-4328			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-KM-4330			Shopping_ads	khvist							
 vt-KM-4343			Shopping_ads	khvist			Kamille		5902539655186	KM-4343	
@@ -16918,7 +16918,7 @@ vt-KM-4352			Shopping_ads	khvist
 vt-KM-4354			Shopping_ads	khvist							
 vt-KM-4355			Shopping_ads	khvist				505806			
 vt-KM-4356			Shopping_ads	khvist				505806			
-vt-KM-4358			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-KM-4358			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-KM-4360			Shopping_ads	khvist							
 vt-KM-4361			Shopping_ads	khvist							
 vt-KM-4362			Shopping_ads	khvist							
@@ -16991,7 +16991,7 @@ vt-KM-4526S			Shopping_ads	khvist				661			2026-11-10T09:00+0300
 vt-KM-4670			Shopping_ads	khvist				661			
 vt-KM-4671			Shopping_ads	khvist				661			
 vt-KM-4675			Shopping_ads	khvist							
-vt-KM-4676			Shopping_ads,Display_ads	ne_v_prajsi				6838			
+vt-KM-4676			Shopping_ads,Display_ads	ne_v_nayavnosti				6838			
 vt-KM-4677			Shopping_ads	khvist							
 vt-KM-4678			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-KM-4679			Shopping_ads	khvist				6838			
@@ -17141,7 +17141,7 @@ vt-KM-5254					rozvidka
 vt-KM-5255			Shopping_ads	khvist				666			
 vt-KM-5260			Shopping_ads	khvist							
 vt-KM-5261			Shopping_ads	khvist							
-vt-KM-5262			Shopping_ads,Display_ads	ne_v_prajsi			Kamille		5904734064527		
+vt-KM-5262			Shopping_ads,Display_ads	ne_v_nayavnosti			Kamille		5904734064527		
 vt-KM-5263			Shopping_ads	khvist			Kamille		5904734064534	KM-5263	
 vt-KM-5264					rozvidka						
 vt-KM-5265			Shopping_ads	khvist				666			
@@ -17182,8 +17182,8 @@ vt-KM-5618S			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-KM-5622S			Shopping_ads	khvist							
 vt-KM-5624S			Shopping_ads	khvist							
 vt-KM-5625S			Shopping_ads	khvist			Kamille				
-vt-KM-5627S			Shopping_ads,Display_ads	ne_v_prajsi							
-vt-KM-5632S			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-KM-5627S			Shopping_ads,Display_ads	ne_v_nayavnosti							
+vt-KM-5632S			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-KM-5633S			Shopping_ads	khvist							
 vt-KM-5634S			Shopping_ads	cina_vid_4000							
 vt-KM-5638S			Shopping_ads	cina_vid_4000							2026-11-10T09:00+0300
@@ -17259,8 +17259,8 @@ vt-KM-6303			Shopping_ads,Display_ads	ne_v_nayavnosti				643
 vt-KM-6304			Shopping_ads	khvist							
 vt-KM-6305			Shopping_ads	khvist							
 vt-KM-6420			Shopping_ads	khvist				5103			
-vt-KM-6425			Shopping_ads,Display_ads	ne_v_prajsi				5103			
-vt-KM-6511			Shopping_ads,Display_ads	ne_v_prajsi		prybutok		3156			
+vt-KM-6425			Shopping_ads,Display_ads	ne_v_nayavnosti				5103			
+vt-KM-6511			Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok		3156			
 vt-KM-6514			Shopping_ads	khvist				6749			
 vt-KM-6520			Shopping_ads	khvist				643			
 vt-KM-6530			Shopping_ads	cina_vid_4000				6749			
@@ -17277,7 +17277,7 @@ vt-KM-6721			Shopping_ads	khvist				730
 vt-KM-6722			Shopping_ads	khvist				730			
 vt-KM-6723			Shopping_ads	khvist				730			
 vt-KM-6724			Shopping_ads	khvist				730			
-vt-KM-6725			Shopping_ads,Display_ads	ne_v_prajsi				730			
+vt-KM-6725			Shopping_ads,Display_ads	ne_v_nayavnosti				730			
 vt-KM-6726			Shopping_ads	khvist				730			
 vt-KM-6730			Shopping_ads	khvist				734			
 vt-KM-6731			Shopping_ads	khvist				734			
@@ -17346,7 +17346,7 @@ vt-KM-7056			Shopping_ads	khvist				4762
 vt-KM-7057			Shopping_ads	khvist							
 vt-KM-7058			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-KM-7059			Shopping_ads	khvist							
-vt-KM-7060			Shopping_ads,Display_ads	ne_v_prajsi				4762			
+vt-KM-7060			Shopping_ads,Display_ads	ne_v_nayavnosti				4762			
 vt-KM-7062			Shopping_ads	khvist							
 vt-KM-7063			Shopping_ads	khvist							
 vt-KM-7065			Shopping_ads	khvist				4762			
@@ -17373,7 +17373,7 @@ vt-KM-7501			Shopping_ads	khvist
 vt-KM-7502			Shopping_ads	khvist							
 vt-KM-7505			Shopping_ads	khvist							
 vt-KM-7509			Shopping_ads	khvist				666			
-vt-KM-7511			Shopping_ads,Display_ads	ne_v_prajsi				3381			
+vt-KM-7511			Shopping_ads,Display_ads	ne_v_nayavnosti				3381			
 vt-KM-7512			Shopping_ads	khvist				3381			
 vt-KM-7513			Shopping_ads	khvist				3381			
 vt-KM-7519			Shopping_ads	khvist				3381			
@@ -17388,7 +17388,7 @@ vt-KM-7616			Shopping_ads	khvist				5157
 vt-KM-7617			Shopping_ads	khvist				5157			
 vt-KM-7618			Shopping_ads	khvist				4026			
 vt-KM-7626			Shopping_ads	khvist				5157			
-vt-KM-7627			Shopping_ads,Display_ads	ne_v_prajsi				5157			
+vt-KM-7627			Shopping_ads,Display_ads	ne_v_nayavnosti				5157			
 vt-KM-7628			Shopping_ads	khvist							
 vt-KM-7754			Shopping_ads	khvist							
 vt-KM-7758			Shopping_ads	khvist							
@@ -17399,7 +17399,7 @@ vt-KM-7762			Shopping_ads	khvist				666
 vt-KM-7763			Shopping_ads	khvist				666			
 vt-KM-7766			Shopping_ads	khvist							
 vt-KM-7767			Shopping_ads	khvist							
-vt-KM-7770			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-KM-7770			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-KM-7777			Shopping_ads	khvist							
 vt-KM-7779					chempion			4630			
 vt-KM-7780			Shopping_ads	khvist				4630			
@@ -17517,7 +17517,7 @@ vt-KM-9205			Shopping_ads	khvist
 vt-KM-9206			Shopping_ads	khvist				650			
 vt-KM-9207			Shopping_ads	khvist							
 vt-KM-9208					chempion	prybutok	Kamille		5904734065487	KM-9208	
-vt-KM-9209			Shopping_ads,Display_ads	ne_v_prajsi		prybutok					
+vt-KM-9209			Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok					
 vt-KM-9210					chempion	prybutok					2026-11-10T09:00+0300
 vt-KM-9211					chempion	prybutok					
 vt-KM-9212					chempion	prybutok					
@@ -17526,7 +17526,7 @@ vt-KM-9214					chempion	prybutok
 vt-KM-9215					chempion	prybutok					
 vt-KM-9216					chempion	prybutok		650			
 vt-KM-9217			Shopping_ads	khvist				3330			
-vt-KM-9218			Shopping_ads,Display_ads	ne_v_prajsi				650			
+vt-KM-9218			Shopping_ads,Display_ads	ne_v_nayavnosti				650			
 vt-KM-9219			Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok		3330			
 vt-KM-9221			Shopping_ads	ne_v_nayavnosti				650			
 vt-KM0445E			Shopping_ads	khvist				6372			2026-11-10T09:00+0300
@@ -17588,7 +17588,7 @@ vt-N3913			Shopping_ads	khvist
 vt-N3941	dup:Гарбуз				chempion	prybutok					
 vt-N6416			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-N7784			Shopping_ads	khvist				2169			
-vt-N8005			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-N8005			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-NM3019			Shopping_ads	khvist							
 vt-NM3025			Shopping_ads	khvist							
 vt-NM3116			Shopping_ads	khvist							
@@ -17673,7 +17673,7 @@ vt-PJ02812			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+030
 vt-PJ02889-1			Shopping_ads	khvist							
 vt-PJ03030	dup:Гарбуз		Shopping_ads	khvist							
 vt-PJ03146			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
-vt-PJ03346-1			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-PJ03346-1			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-PJ03396			Shopping_ads	khvist							
 vt-PJ03629			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-PJ03762-M1			Shopping_ads	khvist							
@@ -17689,7 +17689,7 @@ vt-Q2786			Shopping_ads	khvist
 vt-Q3201			Shopping_ads	khvist							2026-11-10T09:00+0300
 vt-Q5933			Shopping_ads	khvist							
 vt-Q9970 J6973			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
-vt-Q9971			Shopping_ads,Display_ads	ne_v_prajsi							
+vt-Q9971			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-QD-F-T-0326-L			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
 vt-QD-F0328	dup:Гарбуз		Shopping_ads	khvist							
 vt-QD-FF018L			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-10T09:00+0300
@@ -17743,8 +17743,8 @@ vt-T0704	dup:Гарбуз		Shopping_ads	khvist			GarboGlass
 vt-T0707	dup:Гарбуз		Shopping_ads	khvist			GarboGlass				
 vt-T0901			Shopping_ads	khvist			GarboGlass				2026-11-10T09:00+0300
 vt-T1004	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			GarboGlass				
-vt-T610	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi			GarboGlass				
-vt-TCF9003D			Shopping_ads,Display_ads	ne_v_prajsi			GarboGlass		6976225351811		
+vt-T610	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti			GarboGlass				
+vt-TCF9003D			Shopping_ads,Display_ads	ne_v_nayavnosti			GarboGlass		6976225351811		
 vt-TG040			Shopping_ads	khvist			GarboGlass		6971493041235	TG040	
 vt-TK501-1B			Shopping_ads	khvist			GarboGlass		6902178934061	TK501-1B	
 vt-TM-CA16-1	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			Santaremo				2026-11-10T09:00+0300
@@ -17802,16 +17802,16 @@ vt-TU3164			Shopping_ads	khvist			Tudor England
 vt-TU3165			Shopping_ads,Display_ads	ne_v_nayavnosti			Tudor England				2026-11-10T09:00+0300
 vt-TU3195			Shopping_ads	khvist			Tudor England				
 vt-TU3386-1			Shopping_ads	khvist			Tudor England				2026-11-10T09:00+0300
-vt-TU3517-1			Shopping_ads,Display_ads	ne_v_prajsi			Tudor England				
+vt-TU3517-1			Shopping_ads,Display_ads	ne_v_nayavnosti			Tudor England				
 vt-TU3544-1			Shopping_ads,Display_ads	ne_v_nayavnosti			Tudor England				2026-11-10T09:00+0300
 vt-TU3558			Shopping_ads	khvist			Tudor England				
-vt-TU3563-1			Shopping_ads,Display_ads	ne_v_prajsi			Tudor England				
+vt-TU3563-1			Shopping_ads,Display_ads	ne_v_nayavnosti			Tudor England				
 vt-TU3563-2			Shopping_ads,Display_ads	ne_v_nayavnosti			Tudor England				2026-11-10T09:00+0300
 vt-TU3620			Shopping_ads	khvist			Tudor England				
 vt-TU3871			Shopping_ads	khvist			Tudor England	655			
 vt-TU3873			Shopping_ads	khvist			Tudor England				
 vt-TU3885			Shopping_ads,Display_ads	ne_v_nayavnosti			Tudor England				2026-11-10T09:00+0300
-vt-TU3911			Shopping_ads,Display_ads	ne_v_prajsi			Tudor England				
+vt-TU3911			Shopping_ads,Display_ads	ne_v_nayavnosti			Tudor England				
 vt-TU9999-1	dup:Гарбуз		Shopping_ads	khvist			Tudor England				
 vt-TU9999-2			Shopping_ads	khvist			Tudor England				
 vt-TU9999-3			Shopping_ads	khvist			Tudor England				2026-11-10T09:00+0300
@@ -17819,7 +17819,7 @@ vt-TU9999-4			Shopping_ads	khvist			Tudor England				2026-11-10T09:00+0300
 vt-TY2273			Shopping_ads,Display_ads	ne_v_nayavnosti			Sweet House				2026-11-10T09:00+0300
 vt-TY51314			Shopping_ads,Display_ads	ne_v_nayavnosti			Sweet House				2026-11-10T09:00+0300
 vt-TY940			Shopping_ads,Display_ads	ne_v_nayavnosti			Sweet House				2026-11-10T09:00+0300
-vt-V-190L			Shopping_ads,Display_ads	ne_v_prajsi			Vittora				
+vt-V-190L			Shopping_ads,Display_ads	ne_v_nayavnosti			Vittora				
 vt-V-190T			Shopping_ads,Display_ads	ne_v_nayavnosti			Vittora				
 vt-V-220D			Shopping_ads	khvist							
 vt-V-230B			Shopping_ads,Display_ads	ne_v_nayavnosti			Vittora				2026-11-10T09:00+0300
