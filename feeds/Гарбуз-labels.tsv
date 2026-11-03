@@ -17,7 +17,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 000023774	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 0001	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok		689			
 0002	dup:Гарбуз				chempion	prybutok		2988			
-0003		ads_low			chempion	prybutok		2988			
+0003		ads_low			chempion	stop		2988			
 0004		ads_low			chempion	stop		2988			
 0005	dup:Гарбуз		Shopping_ads	khvist							
 0006			Shopping_ads	khvist							
@@ -43,7 +43,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0029	dup:Гарбуз		Shopping_ads	khvist							
 0030			Shopping_ads	khvist							
 0031					rozvidka						
-0032	dup:Гарбуз		Shopping_ads	khvist							
+0032	dup:Гарбуз				chempion						
 0033					chempion	stop					
 0034	dup:Гарбуз				chempion	prybutok					
 0035			Shopping_ads,Display_ads	season_off							
@@ -63,7 +63,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0049					chempion	prybutok					
 0050	dup:Гарбуз		Shopping_ads,Display_ads	season_off							2026-11-17T09:00+0300
 0051			Shopping_ads,Display_ads	season_off							2026-11-17T09:00+0300
-0052					dovedeni	cina					
+0052					dovedeni	stop					
 0053	dup:Гарбуз				chempion	prybutok					
 0054	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 0055			Shopping_ads	khvist							2026-11-17T09:00+0300
@@ -98,7 +98,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0089			Shopping_ads	khvist				499894			
 0090			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 0092	dup:Гарбуз				rozvidka	stop		974			
-0093	dup:Гарбуз				rozvidka			974			
+0093	dup:Гарбуз				rozvidka	stop		974			
 0094	dup:Гарбуз				chempion	prybutok		974			
 0095					rozvidka						2026-11-17T09:00+0300
 0096			Shopping_ads,Display_ads	season_off							
@@ -183,7 +183,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0108783	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 0108938	dup:Гарбуз		Shopping_ads	khvist							
 0108951	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
-0109					chempion			2277			
+0109					chempion	prybutok		2277			
 0109082	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 0110	dup:Гарбуз		Shopping_ads	khvist				2277			
 0111	dup:Гарбуз		Shopping_ads	khvist				2277			
@@ -269,7 +269,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0210			Shopping_ads	khvist							
 0211	dup:Гарбуз		Shopping_ads	khvist							
 0212			Shopping_ads	khvist							
-0213					chempion	prybutok					
+0213					chempion						
 0220	dup:Гарбуз		Shopping_ads	khvist							
 0221	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 0222	dup:Гарбуз		Shopping_ads	khvist							
@@ -278,7 +278,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0225	dup:Гарбуз										
 0226	dup:Гарбуз		Shopping_ads	khvist							
 0227	dup:Гарбуз				chempion	prybutok					
-0228	dup:Гарбуз		Shopping_ads	khvist							
+0228	dup:Гарбуз										
 0229	dup:Гарбуз				rozvidka						
 0230	dup:Гарбуз		Shopping_ads	khvist							
 0231	dup:Гарбуз		Shopping_ads	khvist							
@@ -336,7 +336,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0287			Shopping_ads	khvist							
 0288			Shopping_ads,Display_ads	season_off							
 0291	dup:Гарбуз				rozvidka						
-0292	dup:Гарбуз										
+0292	dup:Гарбуз				chempion	prybutok					
 0294					chempion	prybutok					
 0295			Shopping_ads,Display_ads	season_off							
 0296			Shopping_ads,Display_ads	ne_v_nayavnosti							
@@ -358,7 +358,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0309					rozvidka			500035			
 0310			Shopping_ads	khvist				500035			2026-11-17T09:00+0300
 0311					rozvidka			500035			
-0312					chempion	prybutok		276			
+0312			Shopping_ads	khvist				276			
 0313			Shopping_ads	cina_vid_4000				4928			2026-11-17T09:00+0300
 0314	dup:Тиква		Shopping_ads	ne_v_nayavnosti				276			
 0315					rozvidka			4928			
@@ -619,13 +619,13 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0592	dup:Гарбуз				rozvidka						
 0593	dup:Гарбуз				rozvidka						
 0594	dup:Тиква		Shopping_ads	ne_v_nayavnosti							
-0595	dup:Гарбуз				rozvidka						
+0595	dup:Гарбуз										
 0596	dup:Тиква		Shopping_ads	ne_v_nayavnosti							
 0597	dup:Гарбуз		Shopping_ads	cina_vid_4000							
 0598			Shopping_ads	khvist							2026-11-17T09:00+0300
 0599	dup:Гарбуз				rozvidka						
 0600	dup:Гарбуз				rozvidka						
-0601	dup:Гарбуз		Shopping_ads	khvist							
+0601	dup:Гарбуз		Shopping_ads	khvist		stop					
 0602	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 0603	dup:Гарбуз				rozvidka						
 0604	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							
@@ -736,7 +736,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0715	dup:Гарбуз		Shopping_ads	khvist							
 0716	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 0717			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
-0718	dup:Гарбуз										
+0718	dup:Гарбуз		Shopping_ads	khvist							
 0719	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 0720			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 0721	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
@@ -830,7 +830,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0819	dup:Гарбуз		Shopping_ads,Display_ads	season_off							2026-11-17T09:00+0300
 0820	dup:Гарбуз		Shopping_ads,Display_ads	season_off							2026-11-17T09:00+0300
 0821	dup:Гарбуз				rozvidka						2026-11-17T09:00+0300
-0822	dup:Гарбуз		Shopping_ads	khvist		cina					
+0822	dup:Гарбуз				chempion	prybutok					
 0823	dup:Гарбуз		Shopping_ads	khvist							
 0825	dup:Гарбуз		Shopping_ads	khvist							
 0826	dup:Гарбуз				rozvidka						
@@ -1061,7 +1061,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 101377б	dup:Гарбуз		Shopping_ads	khvist				5591			
 101380б	dup:Гарбуз				rozvidka			5591			
 101383	dup:Гарбуз		Shopping_ads	khvist				5591			
-101384б	dup:Гарбуз				chempion			5591			
+101384б	dup:Гарбуз				chempion	prybutok		5591			
 101387б	dup:Гарбуз		Shopping_ads	khvist				5591			
 1014	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 1015	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
@@ -1535,7 +1535,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1451	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 1452	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 1453	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
-1454	dup:Гарбуз		Shopping_ads,Display_ads	season_off		prybutok					
+1454	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 1455	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 1456	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 1457			Shopping_ads	khvist							2026-11-17T09:00+0300
@@ -2102,7 +2102,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1997			Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр				2026-11-17T09:00+0300
 1998	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр				2026-11-17T09:00+0300
 1999	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр				2026-11-17T09:00+0300
-200-D5	dup:Гарбуз				konv_google						
+200-D5	dup:Гарбуз				konv_google	stop					
 2000			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 2001	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 2002	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
@@ -2188,7 +2188,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2082	dup:Гарбуз		Shopping_ads	cina_vid_4000							2026-11-17T09:00+0300
 2083	dup:Гарбуз				chempion						
 2084	dup:Гарбуз		Shopping_ads	khvist							
-2085	dup:Гарбуз		Shopping_ads	khvist							
+2085	dup:Гарбуз				chempion						
 2086	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 2087	dup:Гарбуз		Shopping_ads	khvist							
 2088	dup:Гарбуз		Shopping_ads	khvist							
@@ -2412,7 +2412,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2427	dup:Гарбуз				rozvidka						
 2428	dup:Гарбуз				rozvidka						
 2429	dup:Гарбуз		Shopping_ads	khvist							
-2430	dup:Гарбуз				chempion	cina					
+2430	dup:Гарбуз				chempion	stop					
 2431306594			Shopping_ads	khvist							2026-11-17T09:00+0300
 2431306999	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 2431308466	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
@@ -2493,7 +2493,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2453	dup:Гарбуз		Shopping_ads	khvist							
 2454	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 2455	dup:Гарбуз		Shopping_ads	khvist							
-2456	dup:Гарбуз				chempion	prybutok					
+2456	dup:Гарбуз		Shopping_ads	khvist							
 2457	dup:Гарбуз				konv_google						2026-11-17T09:00+0300
 2458	dup:Гарбуз		Shopping_ads	khvist							
 2459	dup:Гарбуз		Shopping_ads	khvist							
@@ -2507,7 +2507,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2467	dup:Гарбуз		Shopping_ads	khvist							
 2468	dup:Гарбуз		Shopping_ads	khvist							
 2469	dup:Гарбуз				rozvidka						
-2470	dup:Гарбуз				chempion	prybutok					
+2470	dup:Гарбуз				chempion						
 2471			Shopping_ads	khvist							2026-11-17T09:00+0300
 2472			Shopping_ads	khvist							2026-11-17T09:00+0300
 2473			Shopping_ads	khvist							
@@ -2555,7 +2555,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2528	dup:Гарбуз		Shopping_ads	khvist							
 2529	dup:Гарбуз		Shopping_ads	khvist							
 2529385480	dup:Гарбуз		Shopping_ads	khvist							
-2530	dup:Гарбуз				chempion						
+2530	dup:Гарбуз		Shopping_ads	khvist		prybutok					
 2531	dup:Гарбуз		Shopping_ads	khvist							
 2532	dup:Гарбуз		Shopping_ads	khvist							
 2533	dup:Гарбуз		Shopping_ads	khvist							
@@ -2650,7 +2650,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2608934876	dup:Гарбуз		Shopping_ads	khvist							
 2608975939	dup:Гарбуз				chempion	prybutok					
 2608978794	dup:Гарбуз				chempion	prybutok					
-2608992514	dup:Гарбуз				rozvidka						
+2608992514	dup:Гарбуз										
 2608995574	dup:Гарбуз		Shopping_ads	khvist							
 2608997738	dup:Гарбуз		Shopping_ads	khvist							
 2609	dup:Гарбуз				rozvidka						
@@ -2766,7 +2766,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2690			Shopping_ads,Display_ads	season_off							
 2691			Shopping_ads,Display_ads	season_off							
 2692			Shopping_ads	season_off							
-2693			Shopping_ads,Display_ads	ne_v_nayavnosti							
+2693			Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok					
 27-006	dup:Гарбуз		Shopping_ads	khvist							
 2702	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							
 2703	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
@@ -3018,11 +3018,11 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2991			Shopping_ads	khvist							
 2992			Shopping_ads	khvist							
 2993			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
-2994			Shopping_ads	khvist							
-2995			Shopping_ads	khvist							
-2996	dup:Гарбуз		Shopping_ads	khvist							
+2994					chempion	cina					
+2995					chempion	prybutok					
+2996	dup:Гарбуз				chempion	prybutok					
 2997	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
-2998	dup:Гарбуз		Shopping_ads	khvist							
+2998	dup:Гарбуз				chempion	prybutok					
 2999			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 3-010-001	dup:Гарбуз				rozvidka						
 3-010-002	dup:Гарбуз		Shopping_ads	khvist							
@@ -3104,7 +3104,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 475-1	dup:Гарбуз		Shopping_ads	khvist							
 4820119619	dup:Гарбуз		Shopping_ads	khvist							
 482018221	dup:Гарбуз				chempion						
-482018224	dup:Гарбуз		Shopping_ads	khvist							
+482018224	dup:Гарбуз				chempion						
 482018300	dup:Гарбуз				rozvidka			4928			
 482018301	dup:Гарбуз				rozvidka			4928			
 482018302	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti				4928			
@@ -3230,7 +3230,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482019755			Shopping_ads	khvist							
 482019756			Shopping_ads	khvist							
 482019761	dup:Гарбуз				rozvidka						
-482019762	dup:Гарбуз										
+482019762	dup:Гарбуз				chempion	prybutok					
 482019783	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							
 482019784	dup:Гарбуз	ads_zero			chempion	prybutok					
 482019785	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							
@@ -3273,8 +3273,8 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482026079	dup:Гарбуз		Shopping_ads	khvist							
 482026235			Shopping_ads	khvist							
 482026274			Shopping_ads,Display_ads	season_off							
-482026453		ads_zero			chempion	stop					
-482026469	dup:Гарбуз		Shopping_ads	khvist		stop					
+482026453		ads_zero			chempion						
+482026469	dup:Гарбуз				chempion	stop					
 482026503	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 482026504	dup:Гарбуз		Shopping_ads,Display_ads	season_off							
 482026506	dup:Гарбуз				rozvidka						
@@ -3310,7 +3310,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482027305	dup:Гарбуз				chempion	prybutok					
 482027306	dup:Гарбуз				chempion	prybutok					
 482027307			Shopping_ads,Display_ads	season_off							
-482027308	dup:Гарбуз	ads_zero	Shopping_ads	khvist							
+482027308	dup:Гарбуз	ads_zero			chempion						
 482027309	dup:Гарбуз		Shopping_ads	khvist							
 482027310			Shopping_ads,Display_ads	season_off		prybutok					
 482027311	dup:Гарбуз		Shopping_ads	khvist							
@@ -3364,14 +3364,14 @@ ARHB3112BT	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 ARHC2510SB	dup:Гарбуз		Shopping_ads	khvist							
 ART0215SB	dup:Гарбуз		Shopping_ads	khvist							
 ART0729PB	dup:Гарбуз		Shopping_ads	khvist							
-AV18BSR	dup:Гарбуз				konv_google	stop					
+AV18BSR	dup:Гарбуз				konv_google	cina					
 BB-20405	dup:Гарбуз	ads_zero	Shopping_ads	khvist		stop		4714			
 BB-25512			Shopping_ads	khvist							2026-11-17T09:00+0300
 BB-261710			Shopping_ads	khvist							2026-11-17T09:00+0300
 BB-31083			Shopping_ads	khvist							2026-11-17T09:00+0300
 BB-32506			Shopping_ads	khvist							2026-11-17T09:00+0300
 CHESNOK-DUSHES-40	dup:Гарбуз		Shopping_ads	khvist							
-CHESNOK-DUSHES-50	dup:Гарбуз				chempion	prybutok					
+CHESNOK-DUSHES-50	dup:Гарбуз		Shopping_ads	khvist							
 CHESNOK-DUSHES-60	dup:Гарбуз		Shopping_ads	khvist							
 CYB-AUGUSTA-1KG	dup:Гарбуз		Shopping_ads	khvist							
 CYB-BOLERO-1KG	dup:Гарбуз		Shopping_ads	khvist							
@@ -3409,10 +3409,10 @@ KRS-612-2	dup:Гарбуз		Shopping_ads	khvist
 ML-60 вулична	dup:Гарбуз		Shopping_ads	khvist							
 N521-1			Shopping_ads	khvist							
 N522			Shopping_ads	khvist							
-OZER-B-013	dup:Гарбуз										
+OZER-B-013	dup:Гарбуз				chempion	prybutok					
 OZER-CZ-019-1	dup:Гарбуз		Shopping_ads	khvist							
 OZER-D-026 129	dup:Гарбуз		Shopping_ads	khvist							
-OZER-N-008					chempion	prybutok					
+OZER-N-008			Shopping_ads	khvist							
 PLX-01-009	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 PLX-01-01-002	dup:Гарбуз		Shopping_ads	khvist							
 PLX-01-01-004	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
@@ -3565,7 +3565,7 @@ PLX-03-11-003	dup:Гарбуз		Shopping_ads	khvist
 PLX-03-11-006	dup:Гарбуз		Shopping_ads	khvist							
 PLX-03-12-001	dup:Гарбуз		Shopping_ads	khvist							
 PLX-03-12-003	dup:Гарбуз		Shopping_ads	khvist							
-PLX-03-12-004	dup:Гарбуз				chempion						
+PLX-03-12-004	dup:Гарбуз				chempion	prybutok					
 PLX-03-12-006			Shopping_ads	khvist							
 PLX-03-13-004	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 PLX-03-13-006	dup:Гарбуз		Shopping_ads	khvist							
@@ -3611,7 +3611,7 @@ PLX-04-004	dup:Гарбуз		Shopping_ads	khvist
 PLX-04-007	dup:Гарбуз				chempion	prybutok					
 PLX-04-01-001	dup:Гарбуз				chempion	prybutok					
 PLX-04-06	dup:Гарбуз				chempion	prybutok					
-PLX-04-19	dup:Гарбуз		Shopping_ads	khvist							
+PLX-04-19	dup:Гарбуз				chempion	cina					
 PLX-04-29	dup:Гарбуз				chempion	stop					
 PLX-04-36	dup:Гарбуз				chempion	prybutok					
 PLX-04-696	dup:Гарбуз		Shopping_ads	khvist							
@@ -3749,7 +3749,7 @@ PLX-1-025b-001	dup:Гарбуз				rozvidka
 PLX-1-026-003	dup:Гарбуз		Shopping_ads	khvist							
 PLX-1-03	dup:Гарбуз		Shopping_ads	khvist							
 PLX-1-038-005	dup:Гарбуз		Shopping_ads	khvist							
-PLX-1-038-006	dup:Гарбуз										
+PLX-1-038-006	dup:Гарбуз		Shopping_ads	khvist							
 PLX-1-038-007	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 PLX-1-038-008	dup:Гарбуз		Shopping_ads	khvist							
 PLX-1-038-009	dup:Гарбуз		Shopping_ads	khvist							
@@ -3758,9 +3758,9 @@ PLX-1-038-021	dup:Гарбуз		Shopping_ads	khvist
 PLX-1-038-Black	dup:Гарбуз		Shopping_ads	khvist							
 PLX-1-04	dup:Гарбуз		Shopping_ads	khvist							
 PLX-1-040-001	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_prajsi							
-PLX-1-040-003	dup:Гарбуз				chempion	prybutok					
+PLX-1-040-003	dup:Гарбуз				chempion	stop					
 PLX-1-040-004	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							
-PLX-1-040-005	dup:Гарбуз										
+PLX-1-040-005	dup:Гарбуз		Shopping_ads	khvist							
 PLX-1-044-002	dup:Гарбуз		Shopping_ads	khvist							
 PLX-1-045-001	dup:Гарбуз				rozvidka						
 PLX-1-05	dup:Гарбуз				rozvidka						
@@ -3953,7 +3953,6 @@ PLX-100-073			Shopping_ads	khvist
 PLX-100-074	dup:Едім				chempion	prybutok					
 PLX-100-075	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 PLX-100-077					chempion						
-PLX-100-078					chempion						
 PLX-100-079	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 PLX-100-080	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 PLX-100-080с	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
@@ -4429,7 +4428,7 @@ PLX-12-001	dup:Гарбуз		Shopping_ads	khvist
 PLX-12-002	dup:Гарбуз		Shopping_ads	khvist							
 PLX-12-003	dup:Гарбуз		Shopping_ads	khvist							
 PLX-12-004	dup:Гарбуз				chempion						
-PLX-12-083	dup:Гарбуз				chempion	prybutok					
+PLX-12-083	dup:Гарбуз				chempion						
 PLX-12-085	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							
 PLX-12-086	dup:Гарбуз				konv_google						2026-11-17T09:00+0300
 PLX-12-108	dup:Гарбуз		Shopping_ads	khvist							
@@ -4446,7 +4445,7 @@ PLX-12-272	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-12-274	dup:Гарбуз		Shopping_ads	khvist							
 PLX-12-275	dup:Гарбуз		Shopping_ads	khvist							
 PLX-12-276	dup:Гарбуз		Shopping_ads	khvist							
-PLX-12-387	dup:Гарбуз										
+PLX-12-387	dup:Гарбуз		Shopping_ads	khvist							
 PLX-12-398	dup:Гарбуз		Shopping_ads	khvist							
 PLX-12-428	dup:Гарбуз		Shopping_ads	khvist							
 PLX-12-429	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							
@@ -4762,7 +4761,7 @@ PLX-15-70-002	dup:Гарбуз		Shopping_ads	khvist
 PLX-15-71-001	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 PLX-15-71-002	dup:Гарбуз		Shopping_ads	khvist							
 PLX-15-71-003	dup:Гарбуз		Shopping_ads	khvist							
-PLX-15-71-004	dup:Гарбуз		Shopping_ads	khvist							
+PLX-15-71-004	dup:Гарбуз				chempion						
 PLX-15-72-008	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 PLX-15-73-003	dup:Гарбуз		Shopping_ads	khvist							
 PLX-15-73-004	dup:Гарбуз		Shopping_ads	khvist							
@@ -5066,7 +5065,6 @@ PLX-21-037			Shopping_ads	khvist
 PLX-210			Shopping_ads	khvist							
 PLX-210-110	dup:Гарбуз		Shopping_ads	khvist							
 PLX-212			Shopping_ads,Display_ads	ne_v_nayavnosti							
-PLX-2121			Shopping_ads	khvist							
 PLX-2122			Shopping_ads	khvist							
 PLX-2123					chempion						
 PLX-21270	dup:Гарбуз		Shopping_ads	khvist							
@@ -5150,7 +5148,7 @@ PLX-230	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-23000	dup:Гарбуз		Shopping_ads	khvist							
 PLX-23001	dup:Гарбуз		Shopping_ads	khvist							
 PLX-231	dup:Гарбуз		Shopping_ads	khvist							
-PLX-2316	dup:Гарбуз				chempion	prybutok					
+PLX-2316	dup:Гарбуз		Shopping_ads	khvist		stop					
 PLX-232	dup:Гарбуз		Shopping_ads	khvist							
 PLX-235			Shopping_ads	khvist							
 PLX-23522	dup:Гарбуз		Shopping_ads	khvist							
@@ -5329,7 +5327,7 @@ PLX-3-013-002	dup:Гарбуз		Shopping_ads	khvist
 PLX-3-018-002	dup:Гарбуз				rozvidka						
 PLX-3-019-001	dup:Гарбуз		Shopping_ads	khvist							
 PLX-3-019-003	dup:Гарбуз				chempion	prybutok					
-PLX-3-046-001	dup:Гарбуз		Shopping_ads	khvist							
+PLX-3-046-001	dup:Гарбуз										
 PLX-3-046-003	dup:Гарбуз		Shopping_ads	khvist							
 PLX-3-046-007	dup:Гарбуз		Shopping_ads	khvist							
 PLX-3-046-008	dup:Гарбуз		Shopping_ads	khvist							
@@ -5570,7 +5568,7 @@ PLX-320141	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-320142	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							
 PLX-320143	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 PLX-3202	dup:Гарбуз		Shopping_ads	khvist							
-PLX-3203	dup:Гарбуз				chempion	prybutok					
+PLX-3203	dup:Гарбуз				chempion						
 PLX-3204	dup:Гарбуз		Shopping_ads	khvist							
 PLX-3205	dup:Гарбуз		Shopping_ads	khvist							
 PLX-320518	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_prajsi							
@@ -5590,7 +5588,7 @@ PLX-3239	dup:Гарбуз		Shopping_ads	khvist
 PLX-3242					konv_google						
 PLX-3243			Shopping_ads	khvist							
 PLX-3244			Shopping_ads	khvist							
-PLX-3245	dup:Гарбуз		Shopping_ads	khvist							
+PLX-3245	dup:Гарбуз										
 PLX-3246	dup:Гарбуз				chempion	prybutok					
 PLX-3251	dup:Гарбуз		Shopping_ads	khvist							
 PLX-3253	dup:Гарбуз		Shopping_ads	khvist							
@@ -5638,8 +5636,8 @@ PLX-33264	dup:Гарбуз		Shopping_ads	khvist
 PLX-33265	dup:Гарбуз		Shopping_ads	khvist							
 PLX-33266	dup:Гарбуз		Shopping_ads	khvist							
 PLX-33267	dup:Гарбуз		Shopping_ads	khvist							
-PLX-33269	dup:Гарбуз										
-PLX-33271	dup:Гарбуз		Shopping_ads	khvist							
+PLX-33269	dup:Гарбуз				chempion	prybutok					
+PLX-33271	dup:Гарбуз				chempion						
 PLX-33273	dup:Гарбуз		Shopping_ads	khvist							
 PLX-33274	dup:Гарбуз		Shopping_ads	khvist							
 PLX-33275	dup:Гарбуз		Shopping_ads	khvist							
@@ -5770,7 +5768,7 @@ PLX-35-022			Shopping_ads	khvist
 PLX-35-023			Shopping_ads,Display_ads	ne_v_nayavnosti							
 PLX-35-024			Shopping_ads,Display_ads	ne_v_nayavnosti							
 PLX-35-025			Shopping_ads	khvist							
-PLX-35-026					chempion						
+PLX-35-026					chempion	prybutok					
 PLX-35-027	dup:Гарбуз		Shopping_ads	khvist							
 PLX-35-030			Shopping_ads	khvist							
 PLX-35-031			Shopping_ads	khvist							
@@ -5840,7 +5838,7 @@ PLX-36-017					chempion	prybutok
 PLX-36-018			Shopping_ads	khvist							
 PLX-36-019			Shopping_ads	khvist							
 PLX-36-020	dup:Гарбуз		Shopping_ads	khvist							
-PLX-36-022	dup:Гарбуз		Shopping_ads	khvist							
+PLX-36-022	dup:Гарбуз				chempion						
 PLX-36-024	dup:Гарбуз		Shopping_ads	khvist							
 PLX-36-025	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							
 PLX-36-026			Shopping_ads,Display_ads	ne_v_nayavnosti							
@@ -6252,7 +6250,7 @@ PLX-45-613	dup:Гарбуз		Shopping_ads	khvist
 PLX-45-614	dup:Гарбуз		Shopping_ads	khvist							
 PLX-45-623	dup:Гарбуз				rozvidka						
 PLX-45-624	dup:Гарбуз		Shopping_ads	khvist							
-PLX-45-625	dup:Гарбуз				chempion						
+PLX-45-625	dup:Гарбуз				chempion	prybutok					
 PLX-45-632	dup:Гарбуз		Shopping_ads	khvist							
 PLX-45-634	dup:Гарбуз		Shopping_ads	khvist							
 PLX-45-643	dup:Гарбуз				chempion						
@@ -9616,7 +9614,7 @@ amt-150738			Shopping_ads,Display_ads	drop_t8						150738
 amt-150739			Shopping_ads,Display_ads	drop_marzha						150739	
 amt-150742			Shopping_ads,Display_ads	drop_marzha						150742	
 amt-150745			Shopping_ads,Display_ads	drop_marzha						150745	
-amt-150747			Shopping_ads,Display_ads	drop_t8						150747	
+amt-150747			Shopping_ads,Display_ads	drop_marzha						150747	
 amt-150751			Shopping_ads,Display_ads	drop_marzha						150751	
 amt-150752			Shopping_ads,Display_ads	drop_marzha						150752	
 amt-150780			Shopping_ads,Display_ads	drop_marzha						150780	
@@ -9670,7 +9668,7 @@ amt-163192			Shopping_ads,Display_ads	drop_t5						163192
 amt-163193			Shopping_ads,Display_ads	drop_t8						163193	
 amt-163194			Shopping_ads,Display_ads	drop_marzha						163194	
 amt-163195			Shopping_ads,Display_ads	drop_marzha						163195	
-amt-16596			Shopping_ads,Display_ads	drop_t8				3610		16596	
+amt-16596			Shopping_ads,Display_ads	drop_marzha				3610		16596	
 amt-168106			Shopping_ads,Display_ads	drop_marzha						168106	
 amt-168108			Shopping_ads,Display_ads	drop_t8						168108	
 amt-168109			Shopping_ads,Display_ads	drop_t5						168109	
@@ -9862,8 +9860,8 @@ amt-183838			Shopping_ads,Display_ads	drop_marzha						183838
 amt-184220			Shopping_ads,Display_ads	drop_t8						184220	
 amt-184221			Shopping_ads,Display_ads	drop_t8						184221	
 amt-184455			Shopping_ads,Display_ads	drop_t8				276		184455	
-amt-184456			Shopping_ads,Display_ads	drop_t8				276		184456	
-amt-184457			Shopping_ads,Display_ads	drop_t8				276		184457	
+amt-184456			Shopping_ads,Display_ads	drop_marzha				276		184456	
+amt-184457			Shopping_ads,Display_ads	drop_marzha				276		184457	
 amt-184575			Shopping_ads,Display_ads	drop_t5						184575	
 amt-184576			Shopping_ads,Display_ads	drop_t5						184576	
 amt-184681			Shopping_ads,Display_ads	drop_marzha						184681	
@@ -10120,8 +10118,8 @@ amt-191549			Shopping_ads,Display_ads	drop_marzha						191549
 amt-191550			Shopping_ads,Display_ads	drop_marzha						191550	
 amt-191761			Shopping_ads,Display_ads	drop_t8						191761	
 amt-191762	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				6789		191762	
-amt-192584			Shopping_ads,Display_ads	drop_t8						192584	
-amt-192585			Shopping_ads,Display_ads	drop_t8						192585	
+amt-192584			Shopping_ads,Display_ads	drop_marzha						192584	
+amt-192585			Shopping_ads,Display_ads	drop_marzha						192585	
 amt-192926			Shopping_ads,Display_ads	drop_marzha						192926	
 amt-192927			Shopping_ads,Display_ads	drop_marzha						192927	
 amt-192937			Shopping_ads,Display_ads	drop_marzha							
@@ -10153,11 +10151,11 @@ amt-193945			Shopping_ads,Display_ads	drop_marzha						193945
 amt-193946			Shopping_ads,Display_ads	drop_marzha						193946	
 amt-193947			Shopping_ads,Display_ads	drop_marzha						193947	
 amt-194409	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				1223		194409	
-amt-194837	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3120		194837	
-amt-194839	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						194839	
+amt-194837	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				3120		194837	
+amt-194839	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha						194839	
 amt-194840	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						194840	
 amt-194841	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						194841	
-amt-194842	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				694		194842	
+amt-194842	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				694		194842	
 amt-194843			Shopping_ads,Display_ads	drop_t8				1967		194843	
 amt-195155	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				1223			
 amt-195699			Shopping_ads,Display_ads	drop_t5						195699	
@@ -10326,7 +10324,7 @@ amt-233905			Shopping_ads,Display_ads	drop_marzha
 amt-235286	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						235286	
 amt-235287	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						235287	
 amt-235288	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha						235288	
-amt-235289	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						235289	
+amt-235289	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha						235289	
 amt-235290	dup:Гарбуз		Shopping_ads,Display_ads	drop_t3				3610		235290	
 amt-235291	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				3610		235291	
 amt-235297	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						235297	
@@ -10339,7 +10337,7 @@ amt-235353			Shopping_ads,Display_ads	drop_marzha				276		235353
 amt-235354			Shopping_ads,Display_ads	drop_marzha				276		235354	
 amt-235355			Shopping_ads,Display_ads	drop_t8				276		235355	
 amt-235356			Shopping_ads,Display_ads	drop_t8				276		235356	
-amt-235357			Shopping_ads,Display_ads	drop_t8				276		235357	
+amt-235357			Shopping_ads,Display_ads	drop_marzha				276		235357	
 amt-235893			Shopping_ads,Display_ads	drop_t8						235893	
 amt-235894			Shopping_ads,Display_ads	drop_t8						235894	
 amt-235899	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3340		235899	
@@ -10352,7 +10350,7 @@ amt-236996			Shopping_ads,Display_ads	drop_t8				276		236996
 amt-237011	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3610		237011	
 amt-237149			Shopping_ads,Display_ads	drop_marzha							
 amt-237444	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3610			
-amt-237592			Shopping_ads,Display_ads	drop_t8						237592	
+amt-237592			Shopping_ads,Display_ads	drop_marzha						237592	
 amt-237651	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3610		237651	
 amt-237652	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3610		237652	
 amt-237653	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3610		237653	
@@ -10376,7 +10374,7 @@ amt-240472	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3340		240472
 amt-240473	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3340		240473	
 amt-240874			Shopping_ads,Display_ads	drop_marzha				5866			2026-11-17T09:00+0300
 amt-240876			Shopping_ads,Display_ads	drop_marzha				5866			2026-11-17T09:00+0300
-amt-241129	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3610		241129	
+amt-241129	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				3610		241129	
 amt-241130	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3610		241130	
 amt-241170			Shopping_ads,Display_ads	drop_marzha				5866			2026-11-17T09:00+0300
 amt-241172			Shopping_ads,Display_ads	drop_marzha				5866			2026-11-17T09:00+0300
@@ -10398,19 +10396,19 @@ amt-241690			Shopping_ads,Display_ads	drop_marzha				694		241690
 amt-241691	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				694		241691	
 amt-241692	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				694		241692	
 amt-241693	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				694		241693	
-amt-241886			Shopping_ads,Display_ads	drop_t8						241886	
+amt-241886			Shopping_ads,Display_ads	drop_marzha						241886	
 amt-241887			Shopping_ads,Display_ads	drop_t8						241887	
 amt-241893	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				2204			
 amt-241930	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3340		241930	
 amt-241931	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				6789		241931	
 amt-241945	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				5866			
 amt-241947	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				5866			
-amt-242175	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3610		242175	
+amt-242175	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				3610		242175	
 amt-242553			Shopping_ads,Display_ads	drop_t8				1967		242553	
 amt-242978			Shopping_ads,Display_ads	drop_marzha				5866			2026-11-17T09:00+0300
 amt-242980	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				5866			
 amt-243061	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						243061	
-amt-243062	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				694		243062	
+amt-243062	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				694		243062	
 amt-243063	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				694		243063	
 amt-243064	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				694		243064	
 amt-243065	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				694		243065	
@@ -10430,9 +10428,9 @@ amt-243521			Shopping_ads,Display_ads	drop_t8				4928		243521
 amt-243541	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3610		243541	
 amt-243545	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				1223		243545	
 amt-243548	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				1223		243548	
-amt-243550	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				1223		243550	
-amt-243551	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				1223		243551	
-amt-243552	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				1223		243552	
+amt-243550	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				1223		243550	
+amt-243551	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				1223		243551	
+amt-243552	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				1223		243552	
 amt-243553	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				1223		243553	
 amt-243554	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				1223		243554	
 amt-243555	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				1223		243555	
@@ -10447,10 +10445,10 @@ amt-243633			Shopping_ads,Display_ads	drop_marzha
 amt-243905	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				694		243905	
 amt-243906	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				694		243906	
 amt-243907	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				694		243907	
-amt-243908	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				694		243908	
+amt-243908	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				694		243908	
 amt-243909	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				694		243909	
-amt-243910	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				694		243910	
-amt-244052	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						244052	
+amt-243910	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				694		243910	
+amt-244052	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha						244052	
 amt-244053	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						244053	
 amt-244054	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						244054	
 amt-244055	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						244055	
@@ -10465,21 +10463,21 @@ amt-244802	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3120		244802
 amt-244803	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				5866			
 amt-244805			Shopping_ads,Display_ads	drop_marzha				5866			2026-11-17T09:00+0300
 amt-244815			Shopping_ads,Display_ads	drop_t8				1218		244815	
-amt-244817			Shopping_ads,Display_ads	drop_t8				1218		244817	
-amt-244818			Shopping_ads,Display_ads	drop_t8				1218		244818	
+amt-244817			Shopping_ads,Display_ads	drop_marzha				1218		244817	
+amt-244818			Shopping_ads,Display_ads	drop_marzha				1218		244818	
 amt-244884	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3798		244884	
 amt-244885	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3798		244885	
 amt-244886	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3798		244886	
 amt-244897			Shopping_ads,Display_ads	drop_marzha				276		244897	
 amt-244898			Shopping_ads,Display_ads	drop_t8				276		244898	
-amt-244899			Shopping_ads,Display_ads	drop_t8				276		244899	
+amt-244899			Shopping_ads,Display_ads	drop_marzha				276		244899	
 amt-244900			Shopping_ads,Display_ads	drop_marzha				276		244900	
 amt-244901			Shopping_ads,Display_ads	drop_marzha				276		244901	
 amt-244903			Shopping_ads,Display_ads	drop_t8				276		244903	
-amt-244904			Shopping_ads,Display_ads	drop_t8				276		244904	
-amt-244922	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						244922	
+amt-244904			Shopping_ads,Display_ads	drop_marzha				276		244904	
+amt-244922	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha						244922	
 amt-244923	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				694		244923	
-amt-244924	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						244924	
+amt-244924	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha						244924	
 amt-245083			Shopping_ads,Display_ads	drop_marzha						245083	
 amt-245084			Shopping_ads,Display_ads	drop_marzha						245084	
 amt-245140	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				5866			
@@ -10495,7 +10493,7 @@ amt-246296	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3120		246296
 amt-246599			Shopping_ads,Display_ads	drop_marzha				1348		246599	
 amt-246600			Shopping_ads,Display_ads	drop_t8				1348		246600	
 amt-246601			Shopping_ads,Display_ads	drop_t8				1348		246601	
-amt-246602			Shopping_ads,Display_ads	drop_t8				1348		246602	
+amt-246602			Shopping_ads,Display_ads	drop_marzha				1348		246602	
 amt-246603			Shopping_ads,Display_ads	drop_t8				1348		246603	
 amt-246604			Shopping_ads,Display_ads	drop_marzha				1348		246604	
 amt-246625			Shopping_ads,Display_ads	drop_marzha						246625	
@@ -10513,7 +10511,7 @@ amt-246650			Shopping_ads,Display_ads	drop_marzha						246650
 amt-247218	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						247218	
 amt-247219	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						247219	
 amt-247220	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						247220	
-amt-247940	dup:Гарбуз		Shopping_ads,Display_ads	drop_t5						247940	
+amt-247940	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha						247940	
 amt-247941	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						247941	
 amt-247942			Shopping_ads,Display_ads	drop_t5						247942	
 amt-247943			Shopping_ads,Display_ads	drop_t5						247943	
@@ -10523,7 +10521,7 @@ amt-248455	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				4564		248455
 amt-248456	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				4564		248456	
 amt-248457	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				4564		248457	
 amt-249719			Shopping_ads,Display_ads	drop_marzha				5866			2026-11-17T09:00+0300
-amt-250586			Shopping_ads,Display_ads	drop_t8				1218		250586	
+amt-250586			Shopping_ads,Display_ads	drop_marzha				1218		250586	
 amt-251246			Shopping_ads,Display_ads	drop_marzha						251246	
 amt-251247			Shopping_ads,Display_ads	drop_t8						251247	
 amt-251375			Shopping_ads,Display_ads	drop_marzha				1218		251375	
@@ -10645,7 +10643,7 @@ amt-88738			Shopping_ads,Display_ads	drop_t8				1967		88738
 amt-88739			Shopping_ads,Display_ads	drop_t8				1967		88739	
 amt-88888N			Shopping_ads,Display_ads	drop_marzha						88888N	
 amt-90218N			Shopping_ads,Display_ads	drop_t8				276			
-amt-90219N			Shopping_ads,Display_ads	drop_t8				276			
+amt-90219N			Shopping_ads,Display_ads	drop_marzha				276			
 dk-0005			Shopping_ads	khvist							
 dk-0006			Shopping_ads	khvist							2026-11-17T09:00+0300
 dk-0007			Shopping_ads	khvist							2026-11-17T09:00+0300
@@ -10683,7 +10681,7 @@ hc-494ADN	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						494ADN
 hc-G02FHN	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8						G02FHN	
 hc-HECHT0000324			Shopping_ads,Display_ads	drop_marzha				6328		HECHT0000324	
 hc-HECHT000318			Shopping_ads,Display_ads	drop_marzha				6328			
-hc-HECHT000650	dup:Гарбуз		Shopping_ads,Display_ads	drop_t5				4564		HECHT000650	
+hc-HECHT000650	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				4564		HECHT000650	
 hc-HECHT000651	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				4564		HECHT000651	
 hc-HECHT000670	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				4564		HECHT000670	
 hc-HECHT000671	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				4564		HECHT000671	
@@ -10715,7 +10713,7 @@ hc-HECHT19482IN1	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				500034		H
 hc-HECHT19992in1	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				500034		HECHT19992in1	
 hc-HECHT2039			Shopping_ads,Display_ads	drop_marzha				3610		HECHT2039	
 hc-HECHT2098			Shopping_ads,Display_ads	drop_marzha				4564		HECHT2098	
-hc-HECHT2250	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				3610		HECHT2250	
+hc-HECHT2250	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3610		HECHT2250	
 hc-HECHT2416QT	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3610		HECHT2416QT	
 hc-HECHT2439	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3610		HECHT2439	
 hc-HECHT3011			Shopping_ads,Display_ads	drop_marzha				500102		HECHT3011	
@@ -10827,7 +10825,7 @@ hc-HECHT655			Shopping_ads,Display_ads	drop_marzha				3120		HECHT655
 hc-HECHT6645	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3798		HECHT6645	
 hc-HECHT670	dup:Тиква		Shopping_ads,Display_ads	drop_marzha				7030		HECHT670	
 hc-HECHT675	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3120		HECHT675	
-hc-HECHT676	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				7030		HECHT676	
+hc-HECHT676	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				7030		HECHT676	
 hc-HECHT6810			Shopping_ads,Display_ads	drop_marzha				7030		HECHT6810	
 hc-HECHT6903IN1	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				7245		HECHT6903IN1	
 hc-HECHT6910			Shopping_ads,Display_ads	drop_marzha				7030		HECHT6910	
@@ -10888,7 +10886,7 @@ hc-HECHT901550			Shopping_ads,Display_ads	drop_t8						HECHT901550
 hc-HECHT902	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8		stop		4564		HECHT902	
 hc-HECHT902000			Shopping_ads,Display_ads	drop_t8						HECHT902000	
 hc-HECHT9025	dup:Гарбуз		Shopping_ads,Display_ads	drop_t8				3610		HECHT9025	
-hc-HECHT902550			Shopping_ads,Display_ads	drop_marzha						HECHT902550	
+hc-HECHT902550			Shopping_ads,Display_ads	drop_t8						HECHT902550	
 hc-HECHT903600			Shopping_ads,Display_ads	drop_t8						HECHT903600	
 hc-HECHT9040			Shopping_ads,Display_ads	drop_marzha				1541		HECHT9040	
 hc-HECHT908500			Shopping_ads,Display_ads	drop_t8						HECHT908500	
@@ -10934,7 +10932,7 @@ hc-HECHTGG10000			Shopping_ads,Display_ads	drop_t8				1218		HECHTGG10000
 hc-HECHTGG11000			Shopping_ads,Display_ads	drop_marzha				1218		HECHTGG11000	
 hc-HECHTGG6500			Shopping_ads,Display_ads	drop_marzha				1218		HECHTGG6500	
 hc-HECHTGG6501			Shopping_ads,Display_ads	drop_marzha				1218			
-hc-HECHTGG8000			Shopping_ads,Display_ads	drop_t8				1218		HECHTGG8000	
+hc-HECHTGG8000			Shopping_ads,Display_ads	drop_marzha				1218		HECHTGG8000	
 hc-HECHTGG950		ads_zero	Shopping_ads,Display_ads	drop_marzha		stop		1218		HECHTGG950	
 hc-HECHTHL601-110			Shopping_ads,Display_ads	drop_marzha				1226			
 hc-HECHTIG1101			Shopping_ads,Display_ads	drop_t8				1218		HECHTIG1101	
@@ -11054,6 +11052,7 @@ hx-47159			Shopping_ads	khvist
 hx-47160			Shopping_ads	khvist							
 hx-47161			Shopping_ads	khvist							
 hx-47165			Shopping_ads	khvist							
+hx-47166					chempion	prybutok					
 hx-47168			Shopping_ads	khvist							
 hx-47169			Shopping_ads	khvist							
 hx-47171			Shopping_ads	khvist							
@@ -11068,6 +11067,7 @@ hx-47180			Shopping_ads	khvist
 hx-47181			Shopping_ads	khvist							
 hx-47182			Shopping_ads	khvist							
 hx-47183			Shopping_ads	khvist							
+hx-47184					chempion	prybutok					
 hx-47185			Shopping_ads	khvist							
 hx-47186			Shopping_ads	khvist							
 hx-47187			Shopping_ads	khvist							
@@ -11152,6 +11152,7 @@ hx-47857			Shopping_ads	khvist
 hx-47858			Shopping_ads	khvist							
 hx-47885			Shopping_ads	khvist							
 hx-47886			Shopping_ads	khvist							
+hx-47937			Shopping_ads	khvist							
 hx-47993			Shopping_ads	khvist							
 hx-47994			Shopping_ads	khvist							
 hx-48018			Shopping_ads	khvist							
@@ -11208,7 +11209,7 @@ kk-0013	dup:Гарбуз		Shopping_ads	khvist
 kk-0014	dup:Гарбуз		Shopping_ads	khvist							
 kk-0015	dup:Гарбуз		Shopping_ads	khvist							
 kk-0016	dup:Гарбуз		Shopping_ads	khvist							
-kk-0017	dup:Гарбуз										
+kk-0017	dup:Гарбуз		Shopping_ads	khvist							
 kk-0018	dup:Гарбуз		Shopping_ads	khvist							
 kk-0019	dup:Гарбуз		Shopping_ads	khvist							
 kk-0020	dup:Гарбуз		Shopping_ads	khvist							
@@ -11220,7 +11221,7 @@ kk-0025	dup:Гарбуз		Shopping_ads	khvist
 kk-0026	dup:Гарбуз	ads_zero			chempion	prybutok					
 kk-0027	dup:Гарбуз		Shopping_ads	khvist							
 kk-0028	dup:Гарбуз				chempion	prybutok					
-kk-0029	dup:Гарбуз	ads_zero	Shopping_ads	khvist							
+kk-0029	dup:Гарбуз	ads_zero	Shopping_ads	khvist		stop					
 kk-0033	dup:Гарбуз		Shopping_ads	khvist							
 kk-0034	dup:Гарбуз		Shopping_ads	khvist							
 kk-0035			Shopping_ads,Display_ads	ne_v_nayavnosti							
@@ -11865,16 +11866,16 @@ lp-LP15068			Shopping_ads,Display_ads	drop_t8				7166		LP15068
 lp-LP15611			Shopping_ads,Display_ads	drop_marzha				505295			
 lp-LP15881			Shopping_ads,Display_ads	drop_marzha				1480			
 lp-LP15882			Shopping_ads,Display_ads	drop_marzha				1480			
-lp-LP15883			Shopping_ads,Display_ads	drop_t8				1480			
+lp-LP15883			Shopping_ads,Display_ads	drop_marzha				1480			
 lp-LP15884			Shopping_ads,Display_ads	drop_t8				1480			
 lp-LP15885			Shopping_ads,Display_ads	drop_t8				1480			
 lp-LP16152			Shopping_ads,Display_ads	drop_marzha				276		LP16152	
 lp-LP16190			Shopping_ads,Display_ads	drop_marzha				1480			
-lp-LP16191			Shopping_ads,Display_ads	drop_marzha				1480			
+lp-LP16191			Shopping_ads,Display_ads	drop_t8				1480			
 lp-LP16192			Shopping_ads,Display_ads	drop_marzha				1480			
 lp-LP16349			Shopping_ads,Display_ads	drop_t8				7166		LP16349	
 lp-LP16351			Shopping_ads,Display_ads	drop_marzha				7166		LP16351	
-lp-LP16353			Shopping_ads,Display_ads	drop_marzha				7166		LP16353	
+lp-LP16353			Shopping_ads,Display_ads	drop_t8				7166		LP16353	
 lp-LP16356			Shopping_ads,Display_ads	drop_t8				7166		LP16356	
 lp-LP16396			Shopping_ads,Display_ads	drop_marzha				2353			
 lp-LP16397			Shopping_ads,Display_ads	drop_marzha				2353			
@@ -11947,7 +11948,7 @@ lp-LP16712			Shopping_ads,Display_ads	drop_marzha				2353
 lp-LP16713			Shopping_ads,Display_ads	drop_marzha				2353			
 lp-LP16714			Shopping_ads,Display_ads	drop_marzha				2353			
 lp-LP16716			Shopping_ads,Display_ads	drop_marzha				264			
-lp-LP16811			Shopping_ads,Display_ads	drop_marzha				1480			
+lp-LP16811			Shopping_ads,Display_ads	drop_t8				1480			
 lp-LP17013			Shopping_ads,Display_ads	drop_marzha				4928			
 lp-LP17028			Shopping_ads,Display_ads	drop_marzha				4928			
 lp-LP17032			Shopping_ads,Display_ads	drop_marzha				4928			
@@ -11967,7 +11968,7 @@ lp-LP19197			Shopping_ads,Display_ads	drop_t8				7166		LP19197
 lp-LP19198			Shopping_ads,Display_ads	drop_t8				7166		LP19198	
 lp-LP19239			Shopping_ads,Display_ads	drop_marzha				364			
 lp-LP19241			Shopping_ads,Display_ads	drop_t5				364			
-lp-LP19246			Shopping_ads,Display_ads	drop_marzha				1480			
+lp-LP19246			Shopping_ads,Display_ads	drop_t8				1480			
 lp-LP19260			Shopping_ads,Display_ads	drop_marzha				1480			
 lp-LP19297			Shopping_ads,Display_ads	drop_marzha				7167		LP19297	
 lp-LP19339			Shopping_ads,Display_ads	drop_marzha				4714		LP19339	
@@ -11992,8 +11993,8 @@ lp-LP19753			Shopping_ads,Display_ads	drop_t5				362
 lp-LP19761			Shopping_ads,Display_ads	drop_t8				360			
 lp-LP19762			Shopping_ads,Display_ads	drop_t8				360			
 lp-LP19896			Shopping_ads,Display_ads	drop_marzha				127		LP19896	
-lp-LP19899			Shopping_ads,Display_ads	drop_t5				127		LP19899	
-lp-LP19900			Shopping_ads,Display_ads	drop_t5				127		LP19900	
+lp-LP19899			Shopping_ads,Display_ads	drop_marzha				127		LP19899	
+lp-LP19900			Shopping_ads,Display_ads	drop_marzha				127		LP19900	
 lp-LP19904			Shopping_ads,Display_ads	drop_marzha				127		LP19904	
 lp-LP19910			Shopping_ads,Display_ads	drop_marzha				7166		LP19910	
 lp-LP19917			Shopping_ads,Display_ads	drop_marzha				7166		LP19917	
@@ -12022,7 +12023,7 @@ lp-LP20140			Shopping_ads,Display_ads	drop_t5				1870
 lp-LP20141			Shopping_ads,Display_ads	drop_t5				1870			
 lp-LP20150			Shopping_ads,Display_ads	drop_t5				364			
 lp-LP20151			Shopping_ads,Display_ads	drop_t5				362			
-lp-LP20152			Shopping_ads,Display_ads	drop_marzha				362			
+lp-LP20152			Shopping_ads,Display_ads	drop_t5				362			
 lp-LP20153			Shopping_ads,Display_ads	drop_t5				362			
 lp-LP20166			Shopping_ads,Display_ads	drop_marzha				1348			
 lp-LP20267			Shopping_ads,Display_ads	drop_t8				1480			
@@ -12164,7 +12165,7 @@ lp-LP23967			Shopping_ads,Display_ads	drop_marzha				1348		LP23967
 lp-LP24066			Shopping_ads,Display_ads	drop_t8				362			
 lp-LP24131			Shopping_ads,Display_ads	drop_t8				1480			
 lp-LP2436			Shopping_ads,Display_ads	drop_t8				1348		LP2436	
-lp-LP24377			Shopping_ads,Display_ads	drop_t8				276		LP24377	
+lp-LP24377			Shopping_ads,Display_ads	drop_marzha				276		LP24377	
 lp-LP24378			Shopping_ads,Display_ads	drop_marzha				276		LP24378	
 lp-LP2444			Shopping_ads,Display_ads	drop_marzha				2353			
 lp-LP2446			Shopping_ads,Display_ads	drop_marzha				2353			
@@ -12215,7 +12216,7 @@ lp-LP30339			Shopping_ads,Display_ads	drop_marzha				4928		LP30339
 lp-LP30381			Shopping_ads,Display_ads	drop_t8				5142			
 lp-LP30461			Shopping_ads,Display_ads	drop_t5				2455			
 lp-LP30514			Shopping_ads,Display_ads	drop_marzha				4928		LP30514	
-lp-LP30581			Shopping_ads,Display_ads	drop_marzha				1870			
+lp-LP30581			Shopping_ads,Display_ads	drop_t8				1870			
 lp-LP30582			Shopping_ads,Display_ads	drop_t5				1870			
 lp-LP30640			Shopping_ads,Display_ads	drop_marzha				1480			
 lp-LP30641			Shopping_ads,Display_ads	drop_marzha				1480			
@@ -12237,7 +12238,7 @@ lp-LP3447			Shopping_ads,Display_ads	drop_marzha				505295
 lp-LP3448			Shopping_ads,Display_ads	drop_marzha				505295			
 lp-LP3450			Shopping_ads,Display_ads	drop_marzha				505295			
 lp-LP3451			Shopping_ads,Display_ads	drop_t8				505295			
-lp-LP3536			Shopping_ads,Display_ads	drop_marzha				276		LP3536	
+lp-LP3536			Shopping_ads,Display_ads	drop_t8				276		LP3536	
 lp-LP36020			Shopping_ads,Display_ads	drop_t5				127		LP36020	
 lp-LP36138			Shopping_ads,Display_ads	drop_t5				362			
 lp-LP3643			Shopping_ads,Display_ads	drop_t8				1870			
@@ -12246,38 +12247,38 @@ lp-LP36723			Shopping_ads,Display_ads	drop_marzha				4928
 lp-LP36975			Shopping_ads,Display_ads	drop_t8				1348			
 lp-LP3718			Shopping_ads,Display_ads	drop_marzha				505295			
 lp-LP37540			Shopping_ads,Display_ads	drop_marzha				276		LP37540	
-lp-LP37541			Shopping_ads,Display_ads	drop_t8				276		LP37541	
-lp-LP37542			Shopping_ads,Display_ads	drop_t8				276		LP37542	
+lp-LP37541			Shopping_ads,Display_ads	drop_marzha				276		LP37541	
+lp-LP37542			Shopping_ads,Display_ads	drop_marzha				276		LP37542	
 lp-LP37720			Shopping_ads,Display_ads	drop_marzha				1348		LP37720	
-lp-LP37727			Shopping_ads,Display_ads	drop_t8				276		LP37727	
+lp-LP37727			Shopping_ads,Display_ads	drop_marzha				276		LP37727	
 lp-LP37729			Shopping_ads,Display_ads	drop_marzha				276		LP37729	
 lp-LP37730			Shopping_ads,Display_ads	drop_marzha				276		LP37730	
-lp-LP37733			Shopping_ads,Display_ads	drop_t8				276		LP37733	
-lp-LP37736			Shopping_ads,Display_ads	drop_t8				276		LP37736	
+lp-LP37733			Shopping_ads,Display_ads	drop_marzha				276		LP37733	
+lp-LP37736			Shopping_ads,Display_ads	drop_marzha				276		LP37736	
 lp-LP37760			Shopping_ads,Display_ads	drop_t8				5142		LP37760	
 lp-LP37950			Shopping_ads,Display_ads	drop_marzha				276		LP37950	
 lp-LP38057			Shopping_ads,Display_ads	drop_marzha				276		LP38057	
 lp-LP38128			Shopping_ads,Display_ads	drop_marzha				276		LP38128	
-lp-LP38129			Shopping_ads,Display_ads	drop_t8				276		LP38129	
-lp-LP38130			Shopping_ads,Display_ads	drop_t8				276		LP38130	
+lp-LP38129			Shopping_ads,Display_ads	drop_marzha				276		LP38129	
+lp-LP38130			Shopping_ads,Display_ads	drop_marzha				276		LP38130	
 lp-LP38132			Shopping_ads,Display_ads	drop_marzha				276		LP38132	
-lp-LP38135			Shopping_ads,Display_ads	drop_t8				276		LP38135	
-lp-LP38179			Shopping_ads,Display_ads	drop_t8				276		LP38179	
-lp-LP38180			Shopping_ads,Display_ads	drop_t8				276		LP38180	
-lp-LP38184			Shopping_ads,Display_ads	drop_t8				276		LP38184	
-lp-LP38185			Shopping_ads,Display_ads	drop_t8				276		LP38185	
-lp-LP38243			Shopping_ads,Display_ads	drop_t8				276		LP38243	
-lp-LP38244			Shopping_ads,Display_ads	drop_t8				276		LP38244	
-lp-LP38259			Shopping_ads,Display_ads	drop_t8				276		LP38259	
-lp-LP38260			Shopping_ads,Display_ads	drop_t8				276		LP38260	
-lp-LP38261			Shopping_ads,Display_ads	drop_t8				276		LP38261	
-lp-LP38262			Shopping_ads,Display_ads	drop_t8				276		LP38262	
-lp-LP38263			Shopping_ads,Display_ads	drop_t8				276		LP38263	
+lp-LP38135			Shopping_ads,Display_ads	drop_marzha				276		LP38135	
+lp-LP38179			Shopping_ads,Display_ads	drop_marzha				276		LP38179	
+lp-LP38180			Shopping_ads,Display_ads	drop_marzha				276		LP38180	
+lp-LP38184			Shopping_ads,Display_ads	drop_marzha				276		LP38184	
+lp-LP38185			Shopping_ads,Display_ads	drop_marzha				276		LP38185	
+lp-LP38243			Shopping_ads,Display_ads	drop_marzha				276		LP38243	
+lp-LP38244			Shopping_ads,Display_ads	drop_marzha				276		LP38244	
+lp-LP38259			Shopping_ads,Display_ads	drop_marzha				276		LP38259	
+lp-LP38260			Shopping_ads,Display_ads	drop_marzha				276		LP38260	
+lp-LP38261			Shopping_ads,Display_ads	drop_marzha				276		LP38261	
+lp-LP38262			Shopping_ads,Display_ads	drop_marzha				276		LP38262	
+lp-LP38263			Shopping_ads,Display_ads	drop_marzha				276		LP38263	
 lp-LP38264			Shopping_ads,Display_ads	drop_marzha				276		LP38264	
 lp-LP38266			Shopping_ads,Display_ads	drop_marzha				276		LP38266	
 lp-LP38268			Shopping_ads,Display_ads	drop_marzha				276		LP38268	
-lp-LP38271			Shopping_ads,Display_ads	drop_t8				276		LP38271	
-lp-LP38272			Shopping_ads,Display_ads	drop_t8				276		LP38272	
+lp-LP38271			Shopping_ads,Display_ads	drop_marzha				276		LP38271	
+lp-LP38272			Shopping_ads,Display_ads	drop_marzha				276		LP38272	
 lp-LP38304			Shopping_ads,Display_ads	drop_t8				276		LP38304	
 lp-LP38306			Shopping_ads,Display_ads	drop_t8				276		LP38306	
 lp-LP38416			Shopping_ads,Display_ads	drop_t8				1480			
@@ -12285,7 +12286,7 @@ lp-LP38417			Shopping_ads,Display_ads	drop_marzha				1480
 lp-LP38426			Shopping_ads,Display_ads	drop_t8				505295			
 lp-LP38437			Shopping_ads,Display_ads	drop_t8				276		LP38437	
 lp-LP38463			Shopping_ads,Display_ads	drop_t8				276		LP38463	
-lp-LP38575			Shopping_ads,Display_ads	drop_t8				276		LP38575	
+lp-LP38575			Shopping_ads,Display_ads	drop_marzha				276		LP38575	
 lp-LP3859			Shopping_ads,Display_ads	drop_marzha				276		LP3859	
 lp-LP3860			Shopping_ads,Display_ads	drop_marzha				276		LP3860	
 lp-LP3861			Shopping_ads,Display_ads	drop_marzha				276		LP3861	
@@ -12302,7 +12303,7 @@ lp-LP3872			Shopping_ads,Display_ads	drop_marzha				276		LP3872
 lp-LP3873			Shopping_ads,Display_ads	drop_t8				276		LP3873	
 lp-LP3874			Shopping_ads,Display_ads	drop_marzha				276		LP3874	
 lp-LP3877			Shopping_ads,Display_ads	drop_marzha				276		LP3877	
-lp-LP38939			Shopping_ads,Display_ads	drop_t8				4714		LP38939	
+lp-LP38939			Shopping_ads,Display_ads	drop_marzha				4714		LP38939	
 lp-LP38994			Shopping_ads,Display_ads	drop_marzha		prybutok		4714		LP38994	
 lp-LP38995			Shopping_ads,Display_ads	drop_marzha				4714		LP38995	
 lp-LP39001			Shopping_ads,Display_ads	drop_marzha				7167		LP39001	
@@ -12310,50 +12311,50 @@ lp-LP39047			Shopping_ads,Display_ads	drop_t5				362
 lp-LP39050			Shopping_ads,Display_ads	drop_t5				362			
 lp-LP39051			Shopping_ads,Display_ads	drop_t8				362			
 lp-LP39052			Shopping_ads,Display_ads	drop_t5				362			
-lp-LP39171			Shopping_ads,Display_ads	drop_t8				276		LP39171	
+lp-LP39171			Shopping_ads,Display_ads	drop_marzha				276		LP39171	
 lp-LP39427			Shopping_ads,Display_ads	drop_t5				5142		LP39427	
 lp-LP39431			Shopping_ads,Display_ads	drop_t8				5142		LP39431	
 lp-LP39432			Shopping_ads,Display_ads	drop_t8				362			
 lp-LP39433			Shopping_ads,Display_ads	drop_t8				362			
 lp-LP39434			Shopping_ads,Display_ads	drop_t8				362			
 lp-LP39435			Shopping_ads,Display_ads	drop_t5				362			
-lp-LP39486			Shopping_ads,Display_ads	drop_t8				276		LP39486	
-lp-LP39539			Shopping_ads,Display_ads	drop_t8				276		LP39539	
-lp-LP39541			Shopping_ads,Display_ads	drop_t8				276		LP39541	
-lp-LP39709			Shopping_ads,Display_ads	drop_t8				276		LP39709	
+lp-LP39486			Shopping_ads,Display_ads	drop_marzha				276		LP39486	
+lp-LP39539			Shopping_ads,Display_ads	drop_marzha				276		LP39539	
+lp-LP39541			Shopping_ads,Display_ads	drop_marzha				276		LP39541	
+lp-LP39709			Shopping_ads,Display_ads	drop_marzha				276		LP39709	
 lp-LP39710			Shopping_ads,Display_ads	drop_marzha				276		LP39710	
 lp-LP39712			Shopping_ads,Display_ads	drop_marzha				276		LP39712	
-lp-LP39713			Shopping_ads,Display_ads	drop_t8				276		LP39713	
-lp-LP39715			Shopping_ads,Display_ads	drop_t8				276		LP39715	
-lp-LP39743			Shopping_ads,Display_ads	drop_t8				276		LP39743	
-lp-LP39744			Shopping_ads,Display_ads	drop_t8				276		LP39744	
-lp-LP39745			Shopping_ads,Display_ads	drop_t8				276		LP39745	
-lp-LP39746			Shopping_ads,Display_ads	drop_t8				276		LP39746	
-lp-LP39747			Shopping_ads,Display_ads	drop_t8				276		LP39747	
-lp-LP39748			Shopping_ads,Display_ads	drop_t8				276		LP39748	
+lp-LP39713			Shopping_ads,Display_ads	drop_marzha				276		LP39713	
+lp-LP39715			Shopping_ads,Display_ads	drop_marzha				276		LP39715	
+lp-LP39743			Shopping_ads,Display_ads	drop_marzha				276		LP39743	
+lp-LP39744			Shopping_ads,Display_ads	drop_marzha				276		LP39744	
+lp-LP39745			Shopping_ads,Display_ads	drop_marzha				276		LP39745	
+lp-LP39746			Shopping_ads,Display_ads	drop_marzha				276		LP39746	
+lp-LP39747			Shopping_ads,Display_ads	drop_marzha				276		LP39747	
+lp-LP39748			Shopping_ads,Display_ads	drop_marzha				276		LP39748	
 lp-LP39749			Shopping_ads,Display_ads	drop_marzha				276		LP39749	
 lp-LP39750			Shopping_ads,Display_ads	drop_marzha				276		LP39750	
-lp-LP39871			Shopping_ads,Display_ads	drop_t8				1348			
+lp-LP39871			Shopping_ads,Display_ads	drop_marzha				1348			
 lp-LP39929			Shopping_ads,Display_ads	drop_marzha				5142			
 lp-LP40177			Shopping_ads,Display_ads	drop_marzha				1348			
 lp-LP40339			Shopping_ads,Display_ads	drop_marzha				276			
-lp-LP40401			Shopping_ads,Display_ads	drop_t8				276		LP40401	
+lp-LP40401			Shopping_ads,Display_ads	drop_marzha				276		LP40401	
 lp-LP40436			Shopping_ads,Display_ads	drop_marzha				276		LP40436	
-lp-LP40458			Shopping_ads,Display_ads	drop_t8				276		LP40458	
+lp-LP40458			Shopping_ads,Display_ads	drop_marzha				276		LP40458	
 lp-LP40462			Shopping_ads,Display_ads	drop_marzha				276			
-lp-LP40518			Shopping_ads,Display_ads	drop_t8				276		LP40518	
+lp-LP40518			Shopping_ads,Display_ads	drop_marzha				276		LP40518	
 lp-LP40583			Shopping_ads,Display_ads	drop_t8				276		LP40583	
 lp-LP40589			Shopping_ads,Display_ads	drop_t8				276		LP40589	
-lp-LP40590			Shopping_ads,Display_ads	drop_t8				276		LP40590	
+lp-LP40590			Shopping_ads,Display_ads	drop_marzha				276		LP40590	
 lp-LP40591			Shopping_ads,Display_ads	drop_t8				276		LP40591	
-lp-LP40592			Shopping_ads,Display_ads	drop_t8				276		LP40592	
-lp-LP40593			Shopping_ads,Display_ads	drop_t8				276		LP40593	
-lp-LP40594			Shopping_ads,Display_ads	drop_t8				276		LP40594	
+lp-LP40592			Shopping_ads,Display_ads	drop_marzha				276		LP40592	
+lp-LP40593			Shopping_ads,Display_ads	drop_marzha				276		LP40593	
+lp-LP40594			Shopping_ads,Display_ads	drop_marzha				276		LP40594	
 lp-LP40595			Shopping_ads,Display_ads	drop_t8				276		LP40595	
-lp-LP40596			Shopping_ads,Display_ads	drop_t8				276		LP40596	
+lp-LP40596			Shopping_ads,Display_ads	drop_marzha				276		LP40596	
 lp-LP40597			Shopping_ads,Display_ads	drop_t8				276		LP40597	
-lp-LP40598			Shopping_ads,Display_ads	drop_t8				276		LP40598	
-lp-LP40599			Shopping_ads,Display_ads	drop_t8				276		LP40599	
+lp-LP40598			Shopping_ads,Display_ads	drop_marzha				276		LP40598	
+lp-LP40599			Shopping_ads,Display_ads	drop_marzha				276		LP40599	
 lp-LP40600			Shopping_ads,Display_ads	drop_t8				276		LP40600	
 lp-LP40601			Shopping_ads,Display_ads	drop_t8				276		LP40601	
 lp-LP40613			Shopping_ads,Display_ads	drop_t8				276		LP40613	
@@ -12361,13 +12362,13 @@ lp-LP40616			Shopping_ads,Display_ads	drop_t8				276		LP40616
 lp-LP40617			Shopping_ads,Display_ads	drop_t8				276		LP40617	
 lp-LP40652			Shopping_ads,Display_ads	drop_marzha				276		LP40652	
 lp-LP40653			Shopping_ads,Display_ads	drop_marzha				276		LP40653	
-lp-LP40686			Shopping_ads,Display_ads	drop_t8				276		LP40686	
+lp-LP40686			Shopping_ads,Display_ads	drop_marzha				276		LP40686	
 lp-LP40687			Shopping_ads,Display_ads	drop_t8				276		LP40687	
 lp-LP40765			Shopping_ads,Display_ads	drop_marzha				5142		LP40765	
 lp-LP40766			Shopping_ads,Display_ads	drop_t8				5142			
 lp-LP40783			Shopping_ads,Display_ads	drop_marzha				5142			
-lp-LP40944			Shopping_ads,Display_ads	drop_t8				276		LP40944	
-lp-LP41016			Shopping_ads,Display_ads	drop_t8				276		LP41016	
+lp-LP40944			Shopping_ads,Display_ads	drop_marzha				276		LP40944	
+lp-LP41016			Shopping_ads,Display_ads	drop_marzha				276		LP41016	
 lp-LP41021			Shopping_ads,Display_ads	drop_marzha				276		LP41021	
 lp-LP41260			Shopping_ads,Display_ads	drop_marzha				276		LP41260	
 lp-LP4131			Shopping_ads,Display_ads	drop_marzha				276		LP4131	
@@ -12404,8 +12405,8 @@ lp-LP41950			Shopping_ads,Display_ads	drop_marzha				276		LP41950
 lp-LP41951			Shopping_ads,Display_ads	drop_marzha				276		LP41951	
 lp-LP41953			Shopping_ads,Display_ads	drop_marzha				276		LP41953	
 lp-LP41954			Shopping_ads,Display_ads	drop_marzha				276		LP41954	
-lp-LP42191			Shopping_ads,Display_ads	drop_t8				276		LP42191	
-lp-LP42250			Shopping_ads,Display_ads	drop_t8				127		LP42250	
+lp-LP42191			Shopping_ads,Display_ads	drop_marzha				276		LP42191	
+lp-LP42250			Shopping_ads,Display_ads	drop_marzha				127		LP42250	
 lp-LP42381			Shopping_ads,Display_ads	drop_t8				276		LP42381	
 lp-LP42382			Shopping_ads,Display_ads	drop_t8				276		LP42382	
 lp-LP42383			Shopping_ads,Display_ads	drop_t8				276		LP42383	
@@ -12435,8 +12436,8 @@ lp-LP42958			Shopping_ads,Display_ads	drop_t8				276		LP42958
 lp-LP43006			Shopping_ads,Display_ads	drop_t8				276		LP43006	
 lp-LP43136			Shopping_ads,Display_ads	drop_marzha				276		LP43136	
 lp-LP43137			Shopping_ads,Display_ads	drop_marzha				276		LP43137	
-lp-LP43138			Shopping_ads,Display_ads	drop_t8				276		LP43138	2026-11-17T09:00+0300
-lp-LP43139			Shopping_ads,Display_ads	drop_t8				276		LP43139	2026-11-17T09:00+0300
+lp-LP43138			Shopping_ads,Display_ads	drop_marzha				276		LP43138	2026-11-17T09:00+0300
+lp-LP43139			Shopping_ads,Display_ads	drop_marzha				276		LP43139	2026-11-17T09:00+0300
 lp-LP43140			Shopping_ads,Display_ads	drop_marzha				276		LP43140	
 lp-LP43141			Shopping_ads,Display_ads	drop_marzha				276		LP43141	
 lp-LP43142			Shopping_ads,Display_ads	drop_marzha				276		LP43142	
@@ -12460,7 +12461,7 @@ lp-LP4980			Shopping_ads,Display_ads	drop_marzha				1348		LP4980
 lp-LP4981			Shopping_ads,Display_ads	drop_marzha				1348		LP4981	
 lp-LP4989			Shopping_ads,Display_ads	drop_marzha				1348		LP4989	
 lp-LP5214			Shopping_ads,Display_ads	drop_marzha				276		LP5214	
-lp-LP5438			Shopping_ads,Display_ads	drop_marzha				276		LP5438	
+lp-LP5438			Shopping_ads,Display_ads	drop_t8				276		LP5438	
 lp-LP5516			Shopping_ads,Display_ads	drop_marzha				127		LP5516	
 lp-LP5650			Shopping_ads,Display_ads	drop_marzha				2455			
 lp-LP6550			Shopping_ads,Display_ads	drop_t8				276		LP6550	
@@ -12478,7 +12479,7 @@ lp-LP6562			Shopping_ads,Display_ads	drop_marzha				276		LP6562
 lp-LP6615			Shopping_ads,Display_ads	drop_marzha				1348		LP6615	
 lp-LP8648			Shopping_ads,Display_ads	drop_t8				1348		LP8648	
 lp-LP9323			Shopping_ads,Display_ads	drop_t8				1348		LP9323	
-lp-LP9489			Shopping_ads,Display_ads	drop_marzha				7166		LP9489	
+lp-LP9489			Shopping_ads,Display_ads	drop_t8				7166		LP9489	
 lp-LP9495			Shopping_ads,Display_ads	drop_marzha				505295		LP9495	
 lp-LP9505			Shopping_ads,Display_ads	drop_marzha				7166		LP9505	
 lp-LP9652			Shopping_ads,Display_ads	drop_marzha				6508			
@@ -12991,7 +12992,7 @@ vt-00-1756			Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-00-1757			Shopping_ads,Display_ads	ne_v_nayavnosti				6049			2026-11-17T09:00+0300
 vt-00-1765			Shopping_ads	khvist							
 vt-00-1786			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
-vt-00-1787	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							
+vt-00-1787	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-00-1788			Shopping_ads,Display_ads	ne_v_nayavnosti				3802			
 vt-00-1789	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-00-1799			Shopping_ads	khvist				3802			2026-11-17T09:00+0300
@@ -13077,7 +13078,7 @@ vt-100004			Shopping_ads	khvist
 vt-100007			Shopping_ads	khvist					5903148929507		
 vt-10006			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-1002			Shopping_ads	khvist							
-vt-100200	dup:Гарбуз		Shopping_ads	khvist				666			
+vt-100200	dup:Гарбуз				chempion	prybutok		666			
 vt-100201			Shopping_ads	khvist							
 vt-100203			Shopping_ads	khvist							
 vt-100204			Shopping_ads	khvist							2026-11-17T09:00+0300
@@ -13093,7 +13094,7 @@ vt-100301BL			Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-100301WH			Shopping_ads	khvist							
 vt-100302			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-100303			Shopping_ads	khvist							
-vt-100304					chempion						
+vt-100304			Shopping_ads	khvist							
 vt-100305BL			Shopping_ads	khvist							
 vt-100305WH			Shopping_ads	khvist							
 vt-100306			Shopping_ads	khvist							
@@ -13160,7 +13161,7 @@ vt-100707			Shopping_ads	khvist
 vt-100708			Shopping_ads	khvist							
 vt-100709			Shopping_ads	khvist							
 vt-100801			Shopping_ads,Display_ads	ne_v_nayavnosti							
-vt-100802	dup:Гарбуз		Shopping_ads	khvist				666			
+vt-100802	dup:Гарбуз							666			
 vt-100803	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi				3337			
 vt-100804			Shopping_ads	khvist				3337			2026-11-17T09:00+0300
 vt-10089			Shopping_ads	khvist					5903148929514		
@@ -13861,7 +13862,7 @@ vt-26-242-049			Shopping_ads	khvist
 vt-26-242-050			Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-26-242-051	dup:Гарбуз		Shopping_ads	cina_vid_4000				666			
 vt-26-242-053			Shopping_ads	khvist							
-vt-26-242-056					chempion	prybutok					
+vt-26-242-056			Shopping_ads	khvist							
 vt-26-242-057			Shopping_ads	khvist					4005527175336		
 vt-26-247-013			Shopping_ads	khvist							
 vt-26-247-014			Shopping_ads	khvist							
@@ -13906,8 +13907,9 @@ vt-29-178-011			Shopping_ads,Display_ads	ne_v_prajsi
 vt-29-178-030			Shopping_ads,Display_ads	ne_v_prajsi							
 vt-29-199-001	dup:Гарбуз		Shopping_ads	khvist				666			
 vt-29-199-002			Shopping_ads	khvist							
-vt-29-199-024			Shopping_ads	khvist							
-vt-29-199-025			Shopping_ads	khvist							
+vt-29-199-023					chempion	prybutok					
+vt-29-199-024					chempion	prybutok					
+vt-29-199-025					chempion	prybutok					
 vt-29-199-026			Shopping_ads	khvist							
 vt-29-243-024	dup:Гарбуз		Shopping_ads	khvist				3196			
 vt-29-250-010	dup:Гарбуз		Shopping_ads	khvist				665			
@@ -14030,7 +14032,7 @@ vt-29-305-207	dup:Гарбуз		Shopping_ads	khvist				665
 vt-29-305-208	dup:Гарбуз		Shopping_ads	khvist				665			
 vt-29-305-209	dup:Гарбуз		Shopping_ads	khvist				665			
 vt-29-305-213			Shopping_ads	khvist							
-vt-29-305-215			Shopping_ads	khvist							
+vt-29-305-215					chempion						
 vt-29-305-218			Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-29-305-219	dup:Гарбуз		Shopping_ads	khvist				666			
 vt-29-305-231			Shopping_ads,Display_ads	ne_v_nayavnosti							
@@ -14297,7 +14299,7 @@ vt-440356	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi					8693357469495
 vt-440376	dup:Гарбуз				chempion	prybutok			8693357465633		
 vt-4404 270			Shopping_ads	khvist							
 vt-440410			Shopping_ads	khvist							2026-11-17T09:00+0300
-vt-440414	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							
+vt-440414	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-440436	dup:Тиква	ads_zero	Shopping_ads,Display_ads	ne_v_prajsi		stop					
 vt-440436-GOLD	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi		prybutok					
 vt-440456	dup:Гарбуз		Shopping_ads	khvist					8693357591851		
@@ -14382,7 +14384,7 @@ vt-50127			Shopping_ads	cina_vid_4000
 vt-501306	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti					6953440501306		2026-11-17T09:00+0300
 vt-50132			Shopping_ads	khvist					5907706501327		
 vt-501351			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
-vt-50138			Shopping_ads,Display_ads	ne_v_nayavnosti					5907706501389		
+vt-50138			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-5014			Shopping_ads	khvist							
 vt-5015			Shopping_ads	khvist							
 vt-50155			Shopping_ads	khvist							
@@ -14654,6 +14656,7 @@ vt-530038			Shopping_ads	khvist
 vt-530039			Shopping_ads	khvist							
 vt-530040			Shopping_ads	khvist							
 vt-530042			Shopping_ads	khvist							
+vt-530044					chempion	prybutok					
 vt-530068	dup:Гарбуз		Shopping_ads	khvist				637			
 vt-530106			Shopping_ads	khvist							
 vt-530122			Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok					
@@ -14715,6 +14718,7 @@ vt-55472	dup:Гарбуз		Shopping_ads	khvist
 vt-55531			Shopping_ads	khvist							
 vt-55723			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-557412			Shopping_ads	khvist							
+vt-557412-А			Shopping_ads	khvist							
 vt-557611-А			Shopping_ads	khvist					6920190610237	557611-А	
 vt-55861-2	dup:Гарбуз		Shopping_ads	khvist					4606065043776		
 vt-567-2,1			Shopping_ads	khvist							2026-11-17T09:00+0300
@@ -14723,11 +14727,11 @@ vt-567-4,0			Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-567-5,1			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-59001g			Shopping_ads	khvist							
 vt-59004			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
-vt-590046	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357600430		
+vt-590046	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-59006g			Shopping_ads	khvist							
 vt-59007	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok			8693357003521		
 vt-590076	dup:Гарбуз		Shopping_ads	khvist					8693357609495		
-vt-59010			Shopping_ads,Display_ads	ne_v_nayavnosti					8693357002876		
+vt-59010			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-59013			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-59014			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-59019	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357192447		2026-11-17T09:00+0300
@@ -14821,7 +14825,7 @@ vt-701-13			Shopping_ads	khvist					4823082533091
 vt-701-14			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-701-5			Shopping_ads	khvist							
 vt-701-7					chempion	prybutok					
-vt-702-10			Shopping_ads,Display_ads	ne_v_nayavnosti					4823082531530		
+vt-702-10			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-702-7			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-7027-04			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-7027-05	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
@@ -14862,8 +14866,8 @@ vt-767-16			Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-767-18			Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-768-18 ГРАФІТ			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-768-18 ПЕРЛ			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
-vt-77030	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti					6902959913155		
-vt-77031	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti					6902959913162		
+vt-77030	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti					6902959913155		
+vt-77031	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti					6902959913162		
 vt-77032	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti					6902959913179		2026-11-17T09:00+0300
 vt-77075			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-77086	dup:Гарбуз		Shopping_ads	khvist					6904610220152		
@@ -14875,7 +14879,7 @@ vt-77093	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti					6902950022
 vt-77094			Shopping_ads	khvist					6904610533078		
 vt-77095			Shopping_ads	khvist					6904610533085		
 vt-77327			Shopping_ads	khvist					8200013689212		
-vt-77328			Shopping_ads,Display_ads	ne_v_nayavnosti					8200013689236		
+vt-77328			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-77330			Shopping_ads,Display_ads	ne_v_prajsi							
 vt-77331			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-77360			Shopping_ads	khvist					8200113599763		
@@ -14890,9 +14894,9 @@ vt-77501			Shopping_ads	khvist					6902910121360
 vt-77502	dup:Гарбуз		Shopping_ads	khvist					6902910121377		
 vt-77503	dup:Гарбуз		Shopping_ads	khvist					6902910121384		
 vt-77504	dup:Гарбуз				chempion	prybutok			6902910121391		
-vt-78501			Shopping_ads,Display_ads	ne_v_nayavnosti					6974582150238		
-vt-78502			Shopping_ads,Display_ads	ne_v_nayavnosti					6974582150221		
-vt-78503			Shopping_ads,Display_ads	ne_v_nayavnosti					6974582150214		
+vt-78501			Shopping_ads,Display_ads	ne_v_nayavnosti							
+vt-78502			Shopping_ads,Display_ads	ne_v_nayavnosti							
+vt-78503			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-78504			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-78677			Shopping_ads	khvist							
 vt-79346			Shopping_ads	khvist							
@@ -15150,7 +15154,7 @@ vt-AR0226FG			Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-AR0231FG			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-AR0315FDG			Shopping_ads	khvist							
 vt-AR0319FDG			Shopping_ads	khvist							
-vt-AR0320FDG	dup:Гарбуз		Shopping_ads	khvist							
+vt-AR0320FDG	dup:Гарбуз										
 vt-AR0326FDG	dup:Гарбуз		Shopping_ads	khvist							
 vt-AR0331FDG			Shopping_ads	khvist							
 vt-AR0414CWB			Shopping_ads	khvist							
@@ -15210,6 +15214,7 @@ vt-AR0747KS			Shopping_ads	khvist
 vt-AR0748KS	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-AR0806AG			Shopping_ads	khvist							
 vt-AR0809AGS			Shopping_ads	khvist							
+vt-AR0809AI					chempion	prybutok					
 vt-AR0809SS	dup:Гарбуз		Shopping_ads	khvist							
 vt-AR0812G			Shopping_ads	khvist					0767637185257	AR0812G	
 vt-AR0814S			Shopping_ads	khvist							
@@ -15412,14 +15417,14 @@ vt-AR1909BGM			Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok
 vt-AR1910CA			Shopping_ads	khvist							
 vt-AR1910FFP			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-AR1910FP	dup:Гарбуз		Shopping_ads	khvist							
-vt-AR1910GPS			Shopping_ads,Display_ads	ne_v_prajsi					0684079968753		
+vt-AR1910GPS			Shopping_ads,Display_ads	ne_v_prajsi							
 vt-AR1910GSS	dup:Гарбуз		Shopping_ads	khvist							
 vt-AR1910PS	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi							
 vt-AR1912BS			Shopping_ads	khvist							
 vt-AR1912CA			Shopping_ads	khvist							
 vt-AR1912CGS	dup:Гарбуз		Shopping_ads	cina_vid_4000							
 vt-AR1912CS			Shopping_ads	khvist							
-vt-AR1912SS									0680576164780	AR1912SS	
+vt-AR1912SS					chempion	prybutok			0680576164780	AR1912SS	
 vt-AR1913SA			Shopping_ads	khvist					0767637189781	AR1913SA	
 vt-AR1914GSS	dup:Гарбуз		Shopping_ads	khvist					0674012402857	AR1914GSS	
 vt-AR1914MS			Shopping_ads	khvist					0684079970114	AR1914MS	
@@ -15457,7 +15462,7 @@ vt-AR1926BML			Shopping_ads	khvist
 vt-AR1926BMR			Shopping_ads	khvist							
 vt-AR1926CK			Shopping_ads	khvist							
 vt-AR1926FGG	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
-vt-AR1926GBP	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti					0684079971210		
+vt-AR1926GBP	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-AR1926GDL	dup:Гарбуз		Shopping_ads	khvist							
 vt-AR1926GDP	dup:Гарбуз		Shopping_ads	khvist							
 vt-AR1926GMG			Shopping_ads,Display_ads	ne_v_nayavnosti							
@@ -15567,6 +15572,7 @@ vt-AR2128G			Shopping_ads	khvist
 vt-AR2128PG			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-AR2130C			Shopping_ads	khvist					0767637189484	AR2130C	
 vt-AR2131SB			Shopping_ads,Display_ads	ne_v_nayavnosti							
+vt-AR2131SS			Shopping_ads	khvist							
 vt-AR2132SP	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-AR2132SS			Shopping_ads	khvist							
 vt-AR2133C			Shopping_ads	khvist					0767637189491	AR2133C	
@@ -15744,10 +15750,11 @@ vt-AR2645STR	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-AR2645YT			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-AR2648GREY			Shopping_ads	khvist							
 vt-AR2648GW	dup:Гарбуз		Shopping_ads	khvist							
+vt-AR2650BGR					chempion	prybutok					
 vt-AR2650BL			Shopping_ads	khvist					0674012405414	AR2650BL	
 vt-AR2650G			Shopping_ads	khvist							
 vt-AR2650KMA	dup:Гарбуз		Shopping_ads	khvist							
-vt-AR2650TMB			Shopping_ads	khvist		stop					2026-11-17T09:00+0300
+vt-AR2650TMB			Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-AR2670WGS	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi							
 vt-AR2690GBL			Shopping_ads	khvist							
 vt-AR2690GGR			Shopping_ads,Display_ads	ne_v_nayavnosti							
@@ -15873,7 +15880,7 @@ vt-AR2950SBG			Shopping_ads	khvist
 vt-AR2950SW			Shopping_ads	khvist							
 vt-AR2950SWG			Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-AR3006GBM			Shopping_ads	khvist							2026-11-17T09:00+0300
-vt-AR3008GBM					chempion	stop					
+vt-AR3008GBM					konv_google	stop					
 vt-AR3010BBG			Shopping_ads	khvist							
 vt-AR3010BBH	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-AR3010BGA			Shopping_ads	khvist							
@@ -16155,6 +16162,7 @@ vt-ARHB3187G			Shopping_ads	khvist
 vt-ARHB3301OB			Shopping_ads	khvist							
 vt-ARHB3301RB	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-ARHB3301RG	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
+vt-ARHB3503BB					chempion	prybutok					
 vt-ARHB3503DB			Shopping_ads	khvist							
 vt-ARHB3503EB			Shopping_ads	khvist							
 vt-ARHB3503GB			Shopping_ads,Display_ads	ne_v_prajsi							
@@ -16177,6 +16185,7 @@ vt-ARHC2507RG			Shopping_ads	khvist
 vt-ARHC2508RG			Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-ARHC2511PG			Shopping_ads	khvist							
 vt-ARHC2512BG	dup:Гарбуз		Shopping_ads	khvist							
+vt-ARHC2512GG					chempion	prybutok					
 vt-ARHC2512PG			Shopping_ads	khvist							
 vt-ARHC2513B	dup:Гарбуз		Shopping_ads	khvist							
 vt-ARHC2513G			Shopping_ads	khvist							2026-11-17T09:00+0300
@@ -16203,7 +16212,7 @@ vt-ARHC2810G			Shopping_ads,Display_ads	ne_v_prajsi
 vt-ARHC2810R			Shopping_ads	khvist					0767637178877	ARHC2810R	
 vt-ARHC2810W			Shopping_ads,Display_ads	ne_v_prajsi							
 vt-ARHC2835B			Shopping_ads,Display_ads	ne_v_prajsi							
-vt-ARHC2853G			Shopping_ads,Display_ads	ne_v_prajsi					0614537767994		
+vt-ARHC2853G			Shopping_ads,Display_ads	ne_v_prajsi							
 vt-ARHE1101SB			Shopping_ads	khvist							
 vt-ARHE1111SB			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-ARHE1121SB			Shopping_ads,Display_ads	ne_v_nayavnosti							
@@ -16282,6 +16291,7 @@ vt-ART0723PB			Shopping_ads	khvist
 vt-ART0724PB					chempion	prybutok					
 vt-ART0725PB			Shopping_ads	khvist							
 vt-ART0726PB			Shopping_ads	khvist							
+vt-ART0727PB					chempion	prybutok					
 vt-ART0728PB			Shopping_ads	khvist							
 vt-ART0729PB			Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-ART0730PB			Shopping_ads	khvist							
@@ -16632,7 +16642,7 @@ vt-H4997			Shopping_ads	khvist
 vt-H5604			Shopping_ads	khvist							
 vt-H6142	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-H6345	dup:Гарбуз		Shopping_ads	khvist							
-vt-H6346	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							
+vt-H6346	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-H7795			Shopping_ads	khvist							
 vt-HD-3			Shopping_ads,Display_ads	ne_v_nayavnosti	bez_foto						2026-11-17T09:00+0300
 vt-HG07319А	dup:Гарбуз		Shopping_ads	khvist							
@@ -16782,7 +16792,7 @@ vt-KM-0840	dup:Гарбуз		Shopping_ads	khvist				4660
 vt-KM-0852			Shopping_ads	khvist							
 vt-KM-0854			Shopping_ads	khvist				638			
 vt-KM-0856			Shopping_ads	khvist							
-vt-KM-0857					chempion	prybutok					
+vt-KM-0857			Shopping_ads	khvist							
 vt-KM-0858			Shopping_ads	khvist							
 vt-KM-0859			Shopping_ads	khvist							
 vt-KM-0860			Shopping_ads	khvist							
@@ -16903,7 +16913,7 @@ vt-KM-2067			Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-KM-2068	dup:Гарбуз		Shopping_ads	khvist				3800			
 vt-KM-2069			Shopping_ads	khvist							
 vt-KM-2069А			Shopping_ads	khvist							
-vt-KM-2070	dup:Гарбуз				chempion			3435			
+vt-KM-2070	dup:Гарбуз		Shopping_ads	khvist				3435			
 vt-KM-2071			Shopping_ads	khvist				3435			
 vt-KM-2080	dup:Гарбуз		Shopping_ads	khvist				3435			
 vt-KM-2081	dup:Гарбуз		Shopping_ads	khvist				3435			
@@ -16962,7 +16972,7 @@ vt-KM-2163			Shopping_ads	khvist
 vt-KM-2164	dup:Гарбуз		Shopping_ads	khvist				3800			
 vt-KM-2165			Shopping_ads	khvist							
 vt-KM-2170	dup:Гарбуз				chempion			669			
-vt-KM-2171	dup:Гарбуз				konv_google			669			
+vt-KM-2171	dup:Гарбуз				chempion			669			
 vt-KM-2172			Shopping_ads	khvist							
 vt-KM-2173	dup:Гарбуз		Shopping_ads	khvist				3800			
 vt-KM-2177	dup:Гарбуз		Shopping_ads	khvist				3800			
@@ -16987,7 +16997,7 @@ vt-KM-2512MR			Shopping_ads,Display_ads	ne_v_nayavnosti				1647
 vt-KM-2513MR	dup:Гарбуз		Shopping_ads	khvist				1647			
 vt-KM-2514MR	dup:Гарбуз		Shopping_ads	khvist				1647			
 vt-KM-2601	dup:Гарбуз		Shopping_ads	khvist				666			
-vt-KM-2603	dup:Гарбуз		Shopping_ads	khvist				1647			
+vt-KM-2603	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi				1647			
 vt-KM-3002			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-KM-3005	dup:Гарбуз				chempion	prybutok		666			
 vt-KM-3009					chempion	prybutok					
@@ -17122,7 +17132,7 @@ vt-KM-4440	dup:Гарбуз		Shopping_ads	cina_vid_4000				666
 vt-KM-4441			Shopping_ads	khvist					5904734066040	KM-4441	
 vt-KM-4442			Shopping_ads	khvist					5904734066057	KM-4442	
 vt-KM-4445			Shopping_ads	khvist					5904734066019	KM-4445	
-vt-KM-4446			Shopping_ads,Display_ads	ne_v_nayavnosti					5904734066026		
+vt-KM-4446			Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-KM-4447			Shopping_ads	khvist					5904734066033	KM-4447	
 vt-KM-4456			Shopping_ads	khvist							
 vt-KM-4470			Shopping_ads	khvist							
@@ -17161,7 +17171,7 @@ vt-KM-4806MR	dup:Гарбуз		Shopping_ads	khvist				657
 vt-KM-4807MR	dup:Гарбуз		Shopping_ads	khvist				664			
 vt-KM-4808V	dup:Гарбуз		Shopping_ads	cina_vid_4000				657			
 vt-KM-4830	dup:Гарбуз		Shopping_ads	khvist				659			
-vt-KM-4831								659			
+vt-KM-4831					chempion	prybutok		659			
 vt-KM-4832			Shopping_ads	khvist				659			
 vt-KM-4833			Shopping_ads,Display_ads	ne_v_nayavnosti				659			
 vt-KM-4900			Shopping_ads	khvist							
@@ -17320,7 +17330,7 @@ vt-KM-5397MR			Shopping_ads	khvist				4423
 vt-KM-5401			Shopping_ads	khvist							
 vt-KM-5403			Shopping_ads	khvist							
 vt-KM-5404			Shopping_ads	khvist							
-vt-KM-5405					chempion	prybutok					
+vt-KM-5405					chempion						
 vt-KM-5406			Shopping_ads	khvist							
 vt-KM-5410			Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-KM-5411			Shopping_ads	khvist							
@@ -17400,8 +17410,8 @@ vt-KM-6060			Shopping_ads	khvist				643
 vt-KM-6061			Shopping_ads	khvist				643			
 vt-KM-6062			Shopping_ads	khvist				3382			
 vt-KM-6063			Shopping_ads	khvist				3382			
-vt-KM-6064			Shopping_ads	khvist					5904734065135	KM-6064	
-vt-KM-6065			Shopping_ads	khvist					5904734065142	KM-6065	
+vt-KM-6064					chempion				5904734065135	KM-6064	
+vt-KM-6065									5904734065142	KM-6065	
 vt-KM-6109			Shopping_ads	khvist							
 vt-KM-6110			Shopping_ads	khvist							
 vt-KM-6111			Shopping_ads	khvist							
@@ -17573,6 +17583,7 @@ vt-KM-8832			Shopping_ads	khvist				3385
 vt-KM-8833			Shopping_ads	khvist							
 vt-KM-8834			Shopping_ads	khvist				3294			
 vt-KM-8836			Shopping_ads	khvist							
+vt-KM-8837					chempion	prybutok					
 vt-KM-8838			Shopping_ads	khvist				668			
 vt-KM-8839			Shopping_ads	khvist							
 vt-KM-8840			Shopping_ads	khvist							
@@ -17667,7 +17678,7 @@ vt-KM-9204					chempion	prybutok		650
 vt-KM-9205			Shopping_ads	khvist							
 vt-KM-9206			Shopping_ads	khvist				650			
 vt-KM-9207			Shopping_ads	khvist							
-vt-KM-9208					chempion	prybutok			5904734065487		
+vt-KM-9208					chempion	prybutok					
 vt-KM-9209			Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok					
 vt-KM-9210					chempion	prybutok					2026-11-17T09:00+0300
 vt-KM-9211					chempion	prybutok					
@@ -17690,7 +17701,7 @@ vt-L5406			Shopping_ads	khvist					0026102895146	L5406
 vt-L761-12			Shopping_ads	khvist							
 vt-L761-9			Shopping_ads	khvist							
 vt-LD75190			Shopping_ads	khvist							
-vt-LK240506	dup:Гарбуз		Shopping_ads	ne_v_nayavnosti							
+vt-LK240506	dup:Тиква		Shopping_ads	ne_v_nayavnosti							
 vt-LNP85			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-LNP95			Shopping_ads	khvist							
 vt-LTBS-L0160	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi							
@@ -17911,7 +17922,7 @@ vt-TO-31 N			Shopping_ads	khvist
 vt-TP1500H ДЕКОР			Shopping_ads	khvist							
 vt-TP1800H ДЕКОР			Shopping_ads	khvist							
 vt-TR-Y5	dup:Гарбуз		Shopping_ads	khvist							
-vt-TS2303B			Shopping_ads	khvist							
+vt-TS2303B					chempion						
 vt-TS2304A	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-TS2304B	dup:Гарбуз		Shopping_ads	khvist							
 vt-TS2304C	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							
@@ -18072,7 +18083,7 @@ vt-ZFC038 LV	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti		prybuto
 vt-ZFC045 CR 89863	dup:Гарбуз		Shopping_ads	khvist							2026-11-17T09:00+0300
 vt-ZFC465 CR	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-ZFC465 OP	dup:Гарбуз		Shopping_ads	khvist							
-vt-ZFC465 PF	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti							
+vt-ZFC465 PF	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							
 vt-ZS 17 R			Shopping_ads	khvist					6906136370236		
 vt-a52736			Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-17T09:00+0300
 vt-a53922			Shopping_ads	khvist							2026-11-17T09:00+0300
