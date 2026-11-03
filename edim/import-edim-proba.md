@@ -5,6 +5,6 @@
 
 | артикул Едіму | назва | сторінка | зараз (ціна / наявність) | очікувано після імпорту | Гарбуз |
 |---|---|---|---|---|---|
-| 00001400 | Дискова пила Basic Series по дереву 125*22.23*40T  | https://edimik.com.ua/dyskova-pyla-basic-series-po-derevu-12522.2340t-saw-blade/ | 219 / є | 399 / немає | PLX-НФ-00001400 399.0 |
-| 01-013 | Ящик для інструментів 16" 415х210х190 (мет/защ) | https://edimik.com.ua/yashchyk-dlia-instrumentiv-16-415kh210kh190-met-zashch/ | 959 / немає | 899 / є | PLX-01-013 899.0 |
-| 01-0144 | Ящик для інструментів 19" 480х250х230" (мет/защ) | https://edimik.com.ua/yashchyk-dlia-instrumentiv-19-480kh250kh230-met-zashch/ | 1079 / немає | 1359 / є | PLX-01-0144 1359.0 |
+| 01-45-003 | Ручка для металопластикових вікон CGZS036-CD | https://edimik.com.ua/ruchka-dlia-metaloplastykovykh-vikon-cgzs036-cd/ | 199 / є | 229 / немає | 2639817174 229.0 |
+| 00001396 | Сікатор для щеплення, RapidE R9004 | https://edimik.com.ua/sikator-dlia-shcheplennia-rapide-r9004/ | 789 / немає | 919 / є | PLX-НФ-00001396 919.0 |
+| 00001399 | Дискова пила Basic Series по дереву, 125*22.23*24T | https://edimik.com.ua/dyskova-pyla-basic-series-po-derevu-12522.2324t-saw-blade/ | 189 / немає | 269 / є | PLX-НФ-00001399 269.0 |
