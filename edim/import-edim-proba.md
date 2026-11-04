@@ -6,5 +6,5 @@
 | артикул Едіму | назва | сторінка | зараз (ціна / наявність) | очікувано після імпорту | Гарбуз |
 |---|---|---|---|---|---|
 | 01-45-003 | Ручка для металопластикових вікон CGZS036-CD | https://edimik.com.ua/ruchka-dlia-metaloplastykovykh-vikon-cgzs036-cd/ | 199 / є | 229 / немає | 2639817174 229.0 |
-| 00001396 | Сікатор для щеплення, RapidE R9004 | https://edimik.com.ua/sikator-dlia-shcheplennia-rapide-r9004/ | 789 / немає | 919 / є | PLX-НФ-00001396 919.0 |
-| 00001399 | Дискова пила Basic Series по дереву, 125*22.23*24T | https://edimik.com.ua/dyskova-pyla-basic-series-po-derevu-12522.2324t-saw-blade/ | 189 / немає | 269 / є | PLX-НФ-00001399 269.0 |
+| 002-h | Аерозольний балон, DOMEX WHITE LINE, високотемпера | https://edimik.com.ua/aerozolnyi-balon-domex-white-line-vysokotemperaturna-sribna-121-400-ml/ | 339 / немає | 279 / є | PLX-WL121 279.0 |
+| 003-h | Аерозольний балон, DOMEX WHITE LINE, високотемпера | https://edimik.com.ua/aerozolnyi-balon-domex-white-line-vysokotemperaturna-chervona-124-400-ml/ | 339 / немає | 279 / є | PLX-WL124 279.0 |
