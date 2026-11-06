@@ -61,7 +61,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0046	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 0047	m4_new			season_off								
 0048	m4_new			season_off								
-0049	m5_hit		Shopping_ads	vytraty_stelya	chempion	prybutok						
+0049	m5_hit				chempion	prybutok						
 0050	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 0051	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 0052	m1_hit				dovedeni	stop						
@@ -3308,7 +3308,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482026723	m4_norm				rozvidka							
 482027303	m0_norm			khvist								
 482027304	m5_hit				chempion	prybutok						
-482027305	m5_hit		Shopping_ads	vytraty_stelya	chempion	prybutok						
+482027305	m5_hit				chempion	prybutok						
 482027306	m5_norm				chempion	prybutok						
 482027307	m5_new			season_off								
 482027308	m5_norm	ads_zero	Shopping_ads	vytraty_stelya	chempion							
@@ -3317,10 +3317,10 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482027311	m0_norm		Shopping_ads	vytraty_stelya	rozvidka							
 482027312	m5_hit				chempion	prybutok						
 482027313	m5_hit				chempion	prybutok						
-482027314	m5_hit		Shopping_ads	vytraty_stelya	chempion	prybutok						
+482027314	m5_hit				chempion	prybutok						
 482027315	m5_new			khvist								
 482027316	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
-482027317	m5_hit		Shopping_ads	vytraty_stelya	chempion	prybutok						
+482027317	m5_hit				chempion	prybutok						
 482027318	m5_hit		Shopping_ads	vytraty_stelya	chempion	prybutok						
 482027319	m0_new				rozvidka							
 482027320	m5_norm			khvist								
@@ -11102,7 +11102,7 @@ hx-47212	m0_new_p			khvist
 hx-47213	m0_new_p			khvist								
 hx-47214	m0_new_p			khvist								
 hx-47215	m0_new_p			khvist								
-hx-47216	m2_hit		Shopping_ads	vytraty_stelya	chempion	prybutok						
+hx-47216	m2_hit				chempion	prybutok						
 hx-47218	m0_new_p			khvist								
 hx-47219	m0_new_p			khvist								
 hx-47220	m0_new_p			khvist								
@@ -13174,7 +13174,7 @@ vt-100708	m2_new_p			khvist
 vt-100709	m3_norm			khvist								
 vt-100801	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-100802	m3_norm				chempion	prybutok		666				
-vt-100803	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi				3337				
+vt-100803	m2_norm			khvist				3337				
 vt-100804	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya				3337			2026-11-20T09:00+0300	
 vt-10089	m3_new_p			khvist					5903148929514			
 vt-100900	m2_new_p			khvist				3061				
@@ -16334,7 +16334,7 @@ vt-ART3863HT	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-ART3863HTB	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ART4060SHP	m3_norm				chempion	prybutok		2700				
 vt-ART6040CLP	m4_new			khvist				2700				
-vt-ART6040COP	m3_norm			khvist				2700				
+vt-ART6040COP	m3_norm				konv_google			2700				
 vt-ARTEMISS1	m5_new_p			khvist								
 vt-AS-11  MIX	m5_new_p			khvist								
 vt-AS-9  MIX	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -17761,7 +17761,7 @@ vt-N3273	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:0
 vt-N3600	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-N3646	m3_new_p			khvist								
 vt-N3913	m2_norm			khvist								
-vt-N3941	m3_hit	ads_zero	Shopping_ads	vytraty_stelya	chempion	prybutok						
+vt-N3941	m3_hit	ads_zero			chempion	prybutok						
 vt-N6416	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-N7784	m5_new_p			khvist				2169				
 vt-N8005	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -17821,7 +17821,7 @@ vt-P0789	m4_new_p			khvist
 vt-P2610	m4_new_p			khvist								
 vt-P2616	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-P3380	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-P3404	m3_norm				rozvidka	stop						
+vt-P3404	m3_norm		Shopping_ads	vytraty_stelya	rozvidka	stop						
 vt-P3548	m0_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti		stop					2026-11-20T09:00+0300	
 vt-P3549	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-P3552	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
