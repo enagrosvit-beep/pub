@@ -15,7 +15,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 000004681	m0_new_p				rozvidka							
 00000969	m0_new_p				rozvidka							
 000023774	m0_new			season_off								
-0001	m4_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		cina		689				
+0001	m4_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok		689				
 0002	m3_norm				chempion	prybutok		2988				
 0003	m1_hit	ads_low	Shopping_ads	vytraty_stelya	chempion	stop		2988				
 0004	m4_norm		Shopping_ads	vytraty_stelya	chempion	stop		2988				
@@ -38,7 +38,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0023	m0_new_p				rozvidka							
 0024	m1_norm_p				chempion	prybutok						
 0025	m0_norm			khvist								
-0026	m4_norm_p				chempion						2026-11-20T09:00+0300	
+0026	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 0027	m0_norm			khvist								
 0028	m3_norm_p				chempion	prybutok						
 0029	m0_new_p			khvist								
@@ -46,7 +46,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0031	m0_new_p			khvist								
 0032	m3_norm				chempion							
 0033	m4_norm				chempion	stop						
-0034	m3_hit				chempion	prybutok						
+0034	m4_hit				chempion	prybutok						
 0035	m5_new			season_off								
 0036	m5_new			season_off								
 0037	m1_new			season_off								
@@ -121,12 +121,12 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0104175	m5_new			season_off								
 0104182	m0_new			season_off								
 0104192	m4_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Syngenta					Насіння > Капуста > Гібрид F1
-0104203	m4_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Hem Zaden					Насіння > Рукола > Сорт
+0104203	m3_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Hem Zaden					Насіння > Рукола > Сорт
 0104225	m5_new	prof-no-ads	Shopping_ads,Display_ads	season_off			United Genetics					Насіння > Буряк > Сорт
-0104238	m5_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Wing Seed					Насіння > Цибуля > Сорт
+0104238	m3_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Wing Seed					Насіння > Цибуля > Сорт
 0104286	m5_new	prof-no-ads	Shopping_ads,Display_ads	season_off			NongWoo Bio					Насіння > Капуста > Гібрид F1
 0104342	m4_new	prof-no-ads	Shopping_ads,Display_ads	season_off			NongWoo Bio					Насіння > Огірок > Гібрид F1
-0104353	m4_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Nunhems Zaden					Насіння > Огірок > Гібрид F1
+0104353	m3_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Nunhems Zaden					Насіння > Огірок > Гібрид F1
 0104354	m4_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Hem Zaden					Насіння > Щавель > Сорт
 0104356	m0_new			season_off								
 0104378	m5_new			season_off								
@@ -144,7 +144,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0104848	m5_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Bejo Zaden					Насіння > Огірок > Гібрид F1
 0104860	m5_new			season_off								
 0104921	m0_new			season_off								
-0104964	m5_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Rijk Zwaan					Насіння > Огірок > Гібрид F1
+0104964	m3_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Rijk Zwaan					Насіння > Огірок > Гібрид F1
 0105	m4_new			season_off								
 0105005	m4_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Syngenta					Насіння > Огірок > Гібрид F1
 0105023	m0_new			season_off								
@@ -157,19 +157,19 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0105331	m0_new			season_off								
 0105338	m5_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Rijk Zwaan					Насіння > Салат > Сорт
 0105389	m5_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Wing Seed					Насіння > Салат > Сорт
-0105394	m4_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Kitano Seeds					Насіння > Томат > Гібрид F1
+0105394	m3_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Kitano Seeds					Насіння > Томат > Гібрид F1
 0105424	m0_new			season_off								
 0105431	m5_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Syngenta					Насіння > Томат > Гібрид F1
 0105480	m5_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Lark Seeds					Насіння > Томат > Гібрид F1
 0105485	m1_new			season_off								
-0105582	m4_new	prof-no-ads	Shopping_ads,Display_ads	season_off			NongWoo Bio					Насіння > Томат > Гібрид F1
+0105582	m3_new	prof-no-ads	Shopping_ads,Display_ads	season_off			NongWoo Bio					Насіння > Томат > Гібрид F1
 0105630	m5_new			season_off								
-0105633	m5_norm				chempion							
+0105633	m5_norm			khvist								
 0106	m4_norm			season_off								
 0106477	m0_new			season_off								
 0107397	m5_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Hem Zaden					Насіння > Салат > Сорт
 0107471	m0_new			season_off								
-0107562	m4_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Enza Zaden					Насіння > Перець > Гібрид F1
+0107562	m3_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Enza Zaden					Насіння > Перець > Гібрид F1
 0107844	m3_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Yuksel Seed					Насіння > Огірок > Професійний пакет
 0107894	m5_new			season_off								
 0108	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -222,7 +222,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0154	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 0157	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 0158	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-0159	m4_norm			season_off	chempion						2026-11-20T09:00+0300	
+0159	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 0160	m0_new			season_off								
 0161	m0_norm			season_off								
 0162	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -248,7 +248,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0191	m3_new			season_off								
 0192	m4_new			season_off								
 0193	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-0194	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
+0194	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 0195	m4_norm			season_off	chempion							
 0196	m5_new			season_off								
 0197	m3_new			season_off								
@@ -269,7 +269,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0209	m5_new_p			khvist								
 0210	m4_new_p				rozvidka							
 0211	m5_new_p			khvist								
-0212	m3_new_p			khvist								
+0212	m3_hit_p				chempion							
 0213	m4_norm		Shopping_ads	vytraty_stelya	chempion							
 0220	m0_norm				rozvidka							
 0221	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -283,7 +283,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0229	m5_new_p			khvist								
 0230	m0_new_p			khvist								
 0231	m0_norm			khvist								
-0232	m0_norm			khvist								
+0232	m0_norm											
 0233	m3_hit				chempion	prybutok						
 0235	m0_new_p				rozvidka							
 0236	m0_new_p			khvist								
@@ -507,7 +507,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0472	m5_new_p				rozvidka							
 0473	m0_new_p			khvist								
 0474	m3_norm				chempion	prybutok						
-0475	m2_norm			khvist								
+0475	m2_norm				chempion							
 0476	m4_new			season_off								
 0477	m3_new			season_off								
 0478	m0_new			season_off								
@@ -601,7 +601,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0569	m0_new_p				rozvidka							
 0570	m4_norm			khvist								
 0571	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-0572	m5_norm_p				chempion	prybutok						
+0572	m5_hit_p				chempion	prybutok						
 0573	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 0574	m5_new_p			khvist								
 0575	m4_new_p			khvist								
@@ -725,7 +725,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0703	m5_new_p			khvist								
 0704	m4_new_p			khvist								
 0705	m0_new_p			khvist								
-0706	m4_norm_p				chempion							
+0706	m0_new_p			khvist								
 0707	m0_new_p			khvist								
 0708	m0_norm			khvist								
 0709	m3_new_p			cina_vid_4000								
@@ -747,7 +747,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0725	m0_new			season_off								
 0726	m3_new			season_off								
 0727	m0_new			season_off								
-0728	m5_norm			season_off	chempion							
+0728	m0_new			season_off								
 0729	m4_new			season_off								
 0732	m0_new			season_off								
 0733	m5_new			season_off								
@@ -790,7 +790,6 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0774	m0_new			season_off								
 0775	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 0776	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-0778	m0_new			season_off								
 0779	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 0780	m4_new			season_off								
 0781	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -1085,7 +1084,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1031	m5_new			season_off								
 1032	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр				2026-11-20T09:00+0300	
 1032379638	m0_norm			khvist				2988				
-1032395676	m4_hit				chempion	prybutok						
+1032395676	m3_hit				chempion	prybutok						
 1032531069	m0_new_p				rozvidka							
 1033	m0_new			season_off								
 1033466498	m0_norm				rozvidka							
@@ -1264,7 +1263,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 119032	m0_new_p			khvist								
 119093	m5_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 119094	m0_norm				rozvidka							
-119098	m5_norm				chempion	prybutok						
+119098	m5_norm			khvist								
 1191	m0_new			season_off								
 1192	m0_new			season_off			Садиба Центр					
 1193	m0_new			season_off								
@@ -1718,7 +1717,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1628	m5_new			season_off			Садиба Центр					
 1629	m5_new			season_off			Садиба Центр					
 1630	m5_new			season_off			Садиба Центр					
-1630623883	m4_hit		Shopping_ads	vytraty_stelya	konv_google	cina						
+1630623883	m3_hit		Shopping_ads	vytraty_stelya	konv_google	stop						
 1631	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр				2026-11-20T09:00+0300	
 1632	m0_new			season_off								
 1633	m5_new			season_off								
@@ -1959,7 +1958,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1862	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
 1863	m0_new			season_off								
 1864	m0_new			season_off								
-1865	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
+1865	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
 1866	m5_new			season_off								
 1867	m5_new			season_off								
 1868	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
@@ -1967,7 +1966,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1870	m0_new			season_off			Садиба Центр					
 1871	m0_new			season_off								
 1872	m0_new			season_off								
-1873	m4_norm			season_off	chempion		Садиба Центр					
+1873	m0_new			season_off			Садиба Центр					
 1874	m0_new			season_off			Садиба Центр					
 1875	m0_new			season_off								
 1876	m0_new			season_off			Садиба Центр					
@@ -2057,7 +2056,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1952	m5_new			season_off								
 1953	m0_new			season_off								
 1954	m0_new			season_off								
-1955	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
+1955	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
 1956	m5_new			season_off								
 1957	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр					
 1958	m5_new			season_off			Садиба Центр					
@@ -2082,7 +2081,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1976	m0_new			season_off			Садиба Центр					
 1977	m5_new			season_off			Садиба Центр					
 1978	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-1979	m2_norm			season_off								
+1979	m3_norm			season_off								
 1980	m5_hit			season_off	chempion						2026-11-20T09:00+0300	
 1981	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр				2026-11-20T09:00+0300	
 1982	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр				2026-11-20T09:00+0300	
@@ -2154,7 +2153,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2047	m4_hit				chempion	prybutok						
 2048	m0_new_p				rozvidka							
 2049	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-2050	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
+2050	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 2051	m0_new_p			khvist								
 2052	m0_new_p			khvist								
 2053	m0_new_p			khvist								
@@ -2219,7 +2218,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2120	m0_new_p			khvist								
 2151	m0_new_p			khvist								
 2152	m0_new_p			khvist								
-2153857223	m1_norm				rozvidka							
+2153857223	m5_hit				chempion	prybutok						
 2155	m0_new_p				rozvidka							
 2156	m0_new_p				rozvidka							
 2171	m0_new_p			khvist								
@@ -2234,7 +2233,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2180618827	m1_new_p			khvist								
 2190	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2194933741	m5_new			season_off								
-2195816812	m3_norm			season_off	chempion	prybutok						
+2195816812	m3_new			season_off								
 2198561606	m5_new			season_off								
 2198901549	m0_new_p			khvist								
 2199670358	m0_new			season_off								
@@ -2256,14 +2255,14 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2220	m0_new_p			khvist								
 2221	m0_new_p			khvist								
 2222	m0_new_p			khvist								
-2227233205	m5_norm				chempion	prybutok						
+2227233205	m5_hit				chempion	prybutok						
 2229911329	m0_norm			khvist								
 2230	m0_new_p			khvist								
 2231	m0_new_p			khvist								
 2232	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
 2233	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2234	m0_new_p			khvist								
-2235	m1_norm_p				chempion							
+2235	m0_norm_p			khvist								
 2241953441	m0_new_p			khvist								
 2242629032	m4_new_p			khvist								
 2248216421	m3_new			season_off								
@@ -2340,7 +2339,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2368	m3_new_p			khvist								
 2369	m5_norm			khvist								
 2370	m0_new_p			khvist								
-2370-19 S&T	m4_norm_p				chempion	prybutok					2026-11-20T09:00+0300	
+2370-19 S&T	m3_norm_p				chempion	prybutok					2026-11-20T09:00+0300	
 2371	m0_new_p			khvist								
 2372	m0_new_p			khvist								
 2373	m0_norm		Shopping_ads,Display_ads	drop_bez_reklamy				2277				
@@ -2413,7 +2412,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2427	m1_new_p			khvist								
 2428	m4_new_p			khvist								
 2429	m0_new_p			khvist								
-2430	m3_norm_p				chempion	stop						
+2430	m0_new_p			khvist								
 2431306594	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2431306999	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2431308466	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -2455,7 +2454,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2431612186	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2431615352	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2431618109	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-2431623324	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
+2431623324	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2431626499	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2431628099	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2431631975	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -2486,7 +2485,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2445	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2446	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 2447	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-2448	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
+2448	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 2449	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2450	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2451	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -2533,7 +2532,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2507	m0_new_p			khvist								
 2508	m5_norm				konv_google							
 2509	m0_new_p			khvist								
-2510	m4_norm				chempion							
+2510	m0_norm			khvist								
 2511	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2511654018	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2511798202	m5_norm				chempion	prybutok						
@@ -2666,7 +2665,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2609063024	m5_new_p				rozvidka							
 2609078839	m0_new_p			khvist								
 2609081676	m0_new_p				rozvidka							
-2609082896	m5_norm				chempion	prybutok						
+2609082896	m0_norm			khvist								
 2609083726	m0_new_p				rozvidka							
 2609084423	m0_new_p			khvist								
 2609085228	m5_norm			khvist								
@@ -2707,7 +2706,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2616	m5_new_p				rozvidka							
 2617	m0_new_p			khvist								
 2618	m5_new_p				rozvidka							
-2618066604	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
+2618066604	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2619	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2620	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 2621	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -2819,7 +2818,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2754	m0_new			season_off								
 2755	m2_new_p			khvist								
 2756	m0_new_p				rozvidka							
-2757	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
+2757	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 2758	m5_new_p			khvist								
 2759	m5_new_p			khvist								
 2760	m5_new_p			khvist								
@@ -2971,7 +2970,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2929588164	m5_new			season_off								
 2929597197	m3_new			season_off								
 2929599785	m5_new			season_off								
-2929603261	m4_norm			season_off	chempion	prybutok						
+2929603261	m4_norm			season_off	chempion							
 2929632721	m5_new			season_off								
 2930	m0_new			season_off								
 2930644750	m0_norm				rozvidka							
@@ -3034,7 +3033,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 3-020-002	dup:Едім		Shopping_ads,Display_ads			prybutok						
 3-022-001	m0_new_p			khvist								
 3-022-002	m0_new_p				rozvidka							
-3-070-003	m0_new_p			khvist								
+3-070-003	m0_new		Shopping_ads,Display_ads	ne_v_prajsi								
 3-071-002	m0_new_p			khvist								
 3-072-004	m0_new		Shopping_ads,Display_ads	ne_v_prajsi								
 30-010	m0_new_p			khvist								
@@ -3053,7 +3052,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 3021	m0_new			season_off								
 3022	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 3023	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-3024	m1_hit				chempion	prybutok						
+3024	m1_norm				chempion	prybutok						
 3026	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 3027	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 3028	m0_new_p			khvist								
@@ -3075,7 +3074,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 3123	m0_new_p				rozvidka							
 32-027	m0_new_p				rozvidka							
 32-029	m0_new_p			khvist								
-32-037	m0_new_p			khvist								
+32-037	m0_new		Shopping_ads,Display_ads	ne_v_prajsi								
 32-042	m0_norm			khvist								
 3397-19 S&T	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 35-018	m5_norm_p				chempion	prybutok						
@@ -3092,10 +3091,10 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 421-АНТРАЦИТ	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 440276	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 440376	m3_hit_p				chempion	prybutok					2026-11-20T09:00+0300	
-45-004	m3_norm			khvist		stop		574				
+45-004	m3_norm			khvist		cina		574				
 45-633	m0_new_p			khvist								
 45-642	m4_new_p				rozvidka							
-47-013	m0_new_p			khvist								
+47-013	m0_new		Shopping_ads,Display_ads	ne_v_prajsi								
 471	m0_new_p			khvist								
 471-2	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 472	m0_new_p			khvist								
@@ -3104,8 +3103,8 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 475	m0_new_p			khvist								
 475-1	m0_new_p			khvist								
 4820119619	m5_new_p			khvist								
-482018221	m3_norm				chempion							
-482018224	m3_norm				chempion							
+482018221	m0_norm			khvist								
+482018224	m0_norm			khvist								
 482018300	m5_new_p			khvist				4928				
 482018301	m0_norm			khvist				4928				
 482018302	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti				4928				
@@ -3138,7 +3137,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482018762	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 482018779	m4_new_p			khvist								
 482018791	m0_new_p			khvist								
-482018809	m4_norm_p				chempion							
+482018809	m0_new_p			khvist								
 482018815	m5_norm				chempion	prybutok						
 482018816	m1_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 482018818	m4_new_p			cina_vid_4000								
@@ -3157,7 +3156,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482018865	m0_norm			khvist								
 482018871	m5_norm				rozvidka							
 482018872	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-482018873	m5_new_p				rozvidka							
+482018873	m5_norm_p				chempion	prybutok						
 482018878	m5_new_p				rozvidka							
 482018882	m5_new_p			khvist								
 482018886	m0_new_p			cina_vid_4000								
@@ -3249,7 +3248,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482020323	m3_new			season_off								
 482020328	m4_new			season_off								
 482025271	m5_norm_p				chempion	prybutok						
-482025393	m2_new			season_off								
+482025393	m3_new			season_off								
 482025394	m3_new			season_off								
 482025416	m3_norm			season_off	chempion							
 482025435	m4_new			season_off								
@@ -3259,7 +3258,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482025631	m4_new_p				rozvidka							
 482025636	m4_norm				rozvidka		UniSept					
 482025637	m4_new_p				rozvidka		UniSept					
-482025638	m4_hit				chempion	prybutok	UniSept					
+482025638	m4_norm			khvist			UniSept					
 482025639	m4_hit				chempion	prybutok	UniSept					
 482025651	m4_new_p			khvist								
 482025675	m0_new			season_off								
@@ -3289,7 +3288,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482026564	m0_norm			season_off								
 482026569	m3_norm				rozvidka							
 482026593	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-482026594	m3_hit				chempion	prybutok						
+482026594	m0_norm			khvist								
 482026599	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 482026602	m4_norm			khvist								
 482026603	m4_norm			khvist								
@@ -3311,7 +3310,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482027305	m5_hit				chempion	prybutok						
 482027306	m5_norm				chempion	prybutok						
 482027307	m5_new			season_off								
-482027308	m5_norm	ads_zero	Shopping_ads	vytraty_stelya	chempion							
+482027308	m5_norm	ads_zero	Shopping_ads	vytraty_stelya	chempion	prybutok						
 482027309	m5_norm			khvist								
 482027310	m5_hit			season_off	chempion	prybutok						
 482027311	m0_norm		Shopping_ads	vytraty_stelya	rozvidka							
@@ -3365,7 +3364,7 @@ ARHB3112BT	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09
 ARHC2510SB	m0_norm			khvist								
 ART0215SB	m0_norm		Shopping_ads	vytraty_stelya								
 ART0729PB	m0_norm			khvist								
-AV18BSR	m2_hit				konv_google	cina						
+AV18BSR	m2_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		cina						
 BB-20405	m0_norm	ads_zero	Shopping_ads	vytraty_stelya	rozvidka	stop		4714				
 BB-25512	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 BB-261710	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -3398,8 +3397,8 @@ IT-25151	m5_new_p			khvist
 IT-30183	m3_new_p			khvist								
 IT-30184	m0_new_p				rozvidka							
 IT-30186	m4_new_p			khvist								
-IT-50301	m0_new_p				rozvidka							
-IT-50302	m0_new_p			khvist								
+IT-50301	m0_new		Shopping_ads,Display_ads	ne_v_prajsi								
+IT-50302	m0_new		Shopping_ads,Display_ads	ne_v_prajsi								
 IT-50303	m5_hit_p				chempion	prybutok						
 IT-50304	m5_norm_p				chempion							
 IT-50305	m5_new_p			khvist								
@@ -3414,8 +3413,12 @@ OZER-B-013	m4_norm_p				chempion	prybutok
 OZER-CZ-019-1	m0_norm			khvist								
 OZER-D-026 129	m0_new_p				rozvidka							
 OZER-N-008	m0_norm				rozvidka							
+PB50-05-100	m0_new_p			khvist								
+PB50-05-20	m0_new_p			khvist								
+PB50-10-100	m0_new_p			khvist								
+PB50-10-20	m0_new_p			khvist								
 PLX-01-009	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-01-01-002	m4_norm				rozvidka							
+PLX-01-01-002	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-01-01-004	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-01-010	m2_new_p			khvist								
 PLX-01-011	m2_new_p			khvist								
@@ -3463,7 +3466,7 @@ PLX-01-35-001	m4_norm_p			khvist
 PLX-01-35-002	m4_new_p			khvist								
 PLX-01-36-002	m4_new_p				rozvidka							
 PLX-01-36-004	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-PLX-01-36-005	m4_norm			khvist								
+PLX-01-36-005	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-01-39-001	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-01-39-002	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-01-43-002	m4_norm_p				chempion	prybutok		499773				
@@ -3517,13 +3520,13 @@ PLX-02-002	m4_new_p			khvist
 PLX-02-003	m3_new_p			khvist								
 PLX-02-013	m4_new_p			khvist								
 PLX-02-015	m3_new_p			khvist								
-PLX-02-016	m4_new_p			khvist								
+PLX-02-016	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-02-018	m5_norm_p				chempion							
 PLX-02-019	m4_new_p			khvist								
 PLX-02-022	m4_new_p			khvist								
 PLX-02-025	m3_new_p			khvist								
-PLX-02.51-KMA	m3_new_p			khvist								
-PLX-02.61-KMA	m3_new_p			khvist								
+PLX-02.51-KMA	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-02.61-KMA	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-0252PL	m4_new_p			khvist								
 PLX-0254PL	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-03-001	m4_new_p			khvist								
@@ -3547,7 +3550,7 @@ PLX-03-04-006	m4_new_p			khvist
 PLX-03-06-001	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-03-06-003	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-03-06-004	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-03-06-008	m4_new_p			khvist								
+PLX-03-06-008	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-03-06-009	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-03-06-010	m5_new_p			khvist								
 PLX-03-08-001	m5_new_p			khvist								
@@ -3566,7 +3569,7 @@ PLX-03-11-003	m2_new_p			khvist
 PLX-03-11-006	m2_norm			khvist								
 PLX-03-12-001	m4_new_p			khvist								
 PLX-03-12-003	m4_norm			khvist								
-PLX-03-12-004	m4_norm_p				chempion	prybutok						
+PLX-03-12-004	m4_new_p			khvist								
 PLX-03-12-006	m4_new_p			khvist								
 PLX-03-13-004	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-03-13-006	m5_new_p			khvist								
@@ -3618,10 +3621,10 @@ PLX-04-36	dup:Едім				chempion	prybutok
 PLX-04-696	m4_new_p			khvist								
 PLX-04.03	m4_norm			khvist								
 PLX-04.06-S	m4_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-04.27	m3_new_p			khvist								
+PLX-04.27	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-04.27-S	m3_norm			khvist								
-PLX-04.47	m3_norm			khvist								
-PLX-04.51	m3_new_p			khvist								
+PLX-04.47	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-04.51	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-04.51-KMA	m3_norm			khvist								
 PLX-04.51-S-3	m3_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-0400-0001	m4_new_p			khvist								
@@ -3629,7 +3632,7 @@ PLX-0400-0002	m4_new_p			khvist
 PLX-0400-Б	m4_norm			khvist								
 PLX-0493PL	m4_new_p			khvist								
 PLX-0498PL	m4_new_p			khvist								
-PLX-05-001	m5_hit_p				chempion	prybutok						
+PLX-05-001	m5_new_p			khvist								
 PLX-05-002	m3_new_p			khvist								
 PLX-05-004	m5_new_p			khvist								
 PLX-05-005	m3_new_p			khvist								
@@ -3639,7 +3642,7 @@ PLX-05-373	m5_norm			khvist
 PLX-05-381	m4_new_p			khvist								
 PLX-05-988	m5_new_p			khvist								
 PLX-05.41	m3_new_p			khvist								
-PLX-0500-0001	m4_norm_p				chempion	prybutok						
+PLX-0500-0001	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
 PLX-0550-0001	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-06-094	m5_new_p				rozvidka							
 PLX-06-095	m4_new_p			khvist								
@@ -3651,9 +3654,9 @@ PLX-06-130	m4_new_p			khvist
 PLX-06-434	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-06-439	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-06-533	m4_new_p			khvist								
-PLX-06.01	m3_norm			khvist								
-PLX-06.02	m3_new_p			khvist								
-PLX-06.41	m3_new_p			khvist								
+PLX-06.01	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-06.02	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-06.41	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-06.43	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-06.51-K65	m2_norm			khvist								
 PLX-06.61-K65	m2_norm			khvist								
@@ -3724,8 +3727,8 @@ PLX-09-783	m4_new_p			khvist				1753
 PLX-09-784	m5_new_p			khvist				1753				
 PLX-09-788	m4_norm_p				chempion							
 PLX-09-789	m3_norm_p				chempion	prybutok						
-PLX-0900-0002	m4_new_p			khvist								
-PLX-1-001-002	m5_new_p			khvist								
+PLX-0900-0002	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-1-001-002	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-1-001-004	m5_new_p			khvist								
 PLX-1-002-014	m5_new_p				rozvidka							
 PLX-1-004-005	m5_new_p			khvist								
@@ -3736,20 +3739,20 @@ PLX-1-007-004	m4_new_p			khvist
 PLX-1-008-002	m4_norm			khvist								
 PLX-1-008-003	m4_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-1-008-005	m5_norm				rozvidka							
-PLX-1-009-005	m5_new_p			khvist								
+PLX-1-009-005	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-1-009-PC	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-1-01	m5_new_p			khvist								
-PLX-1-010A-003	m5_new_p			khvist								
+PLX-1-010A-003	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-1-010A-005	m3_new_p			khvist								
 PLX-1-010A-006	m5_new_p			khvist								
 PLX-1-015-001	m5_norm			khvist								
 PLX-1-015-002	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-1-015-009	m5_new_p			khvist								
 PLX-1-02	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-1-025b-001	m4_new_p			khvist								
-PLX-1-026-003	m4_new_p			khvist								
+PLX-1-025b-001	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-1-026-003	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-1-03	m5_norm			khvist								
-PLX-1-038-005	m5_new_p			khvist								
+PLX-1-038-005	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-1-038-006	m5_new_p			khvist								
 PLX-1-038-007	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-1-038-008	m5_new_p			khvist								
@@ -3777,7 +3780,7 @@ PLX-10-001	m5_new_p			khvist
 PLX-10-003	m5_new_p			khvist								
 PLX-10-005	m5_new_p			khvist								
 PLX-10-01	m4_new_p			khvist								
-PLX-10-02-001	m4_new_p			khvist								
+PLX-10-02-001	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-10-03-001	m4_new_p			khvist								
 PLX-10-05-001	m4_new_p			khvist								
 PLX-10-05-003	m4_norm				rozvidka							
@@ -3801,7 +3804,7 @@ PLX-10-111	dup:Едім				chempion	prybutok
 PLX-10-112	m4_norm			khvist								
 PLX-10-113	m4_hit				chempion	prybutok						
 PLX-10-114	m4_norm		Shopping_ads	vytraty_stelya	konv_google							
-PLX-10-115	m5_hit				chempion	prybutok						
+PLX-10-115	m5_norm			khvist								
 PLX-10-116	m2_norm			khvist								
 PLX-10-117	m2_norm				chempion							
 PLX-10-118	m2_new_p			khvist								
@@ -3822,9 +3825,9 @@ PLX-10-21-004	m4_new_p			khvist
 PLX-10-24-001	m4_new_p			khvist								
 PLX-10-24-002	m4_new_p			khvist								
 PLX-10-25	m4_new_p			khvist								
-PLX-10-26	m4_new_p			khvist								
+PLX-10-26	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-10-27	m4_norm			khvist								
-PLX-10-289	m4_new_p			khvist								
+PLX-10-289	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-10-29-002	m4_new_p			khvist								
 PLX-10-29-004	m4_new_p			khvist								
 PLX-10-290	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -3845,7 +3848,7 @@ PLX-10-33-012	m4_norm			khvist
 PLX-10-34-001	m4_norm			khvist								
 PLX-10-34-003	m4_new_p			khvist								
 PLX-10-34-004	m4_new_p			khvist								
-PLX-10-356	m5_norm			khvist		stop						
+PLX-10-356	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti		stop						
 PLX-10-358	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-10-362	m5_new_p			khvist								
 PLX-10-363	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -3871,15 +3874,15 @@ PLX-10-45-001	m4_new_p			khvist
 PLX-10-46	m5_new_p			khvist								
 PLX-10-50	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-10-51	m4_new_p			khvist								
-PLX-10-52	m3_new_p			khvist								
+PLX-10-52	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-10-54-001-PB	m5_new_p			khvist								
 PLX-10-54-002-PC	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-PLX-10-54-004-АВ	m5_new_p			khvist								
+PLX-10-54-004-АВ	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-10-54-005-ORB	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-10-565	m2_new_p			khvist								
-PLX-10-579	m3_new_p			khvist								
+PLX-10-579	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-10-599	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-PLX-10-60-002	m4_new_p			khvist								
+PLX-10-60-002	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-10-600	m4_hit				chempion	prybutok						
 PLX-10-65-001	m4_new_p			khvist								
 PLX-10-65-002	m4_new_p			khvist								
@@ -3950,7 +3953,7 @@ PLX-100-065	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-100-067	m5_new_p			khvist								
 PLX-100-070	m2_new_p			khvist								
 PLX-100-072	m2_new_p			khvist								
-PLX-100-073	m5_new_p			khvist								
+PLX-100-073	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-100-074	dup:Едім				chempion	prybutok						
 PLX-100-075	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-100-077	m5_norm_p				chempion							
@@ -4009,7 +4012,7 @@ PLX-100-398	m2_new_p			khvist
 PLX-100-428	m3_new_p			khvist								
 PLX-100-429	m4_new_p			khvist								
 PLX-100-430	m5_norm_p				chempion							
-PLX-100-431	m4_new_p			khvist								
+PLX-100-431	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-100-433	m4_norm_p				chempion							
 PLX-100-434	m5_new_p			khvist								
 PLX-100-435	dup:Едім				chempion	prybutok						
@@ -4036,7 +4039,7 @@ PLX-1000-046	m4_norm_p				chempion	prybutok
 PLX-1000-104	m3_new_p			khvist								
 PLX-1000-227	m4_new_p			khvist								
 PLX-1000-229	m3_new_p			khvist								
-PLX-1000-230	m4_norm_p			khvist								
+PLX-1000-230	m5_norm_p			khvist								
 PLX-1000-333	m4_new_p			khvist								
 PLX-1000-335	m5_new_p				rozvidka							
 PLX-1000-336	m5_new_p			khvist								
@@ -4051,7 +4054,7 @@ PLX-101-006	m4_new_p			khvist
 PLX-101-010	m4_norm				chempion	prybutok						
 PLX-101-011	m5_norm				chempion							
 PLX-101-012	m4_hit				chempion	prybutok						
-PLX-101-013	m5_new_p			khvist								
+PLX-101-013	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-101-016	m5_new_p			khvist								
 PLX-101-017	m4_new_p			khvist								
 PLX-101-019	m3_new_p			khvist								
@@ -4077,7 +4080,7 @@ PLX-101-041	m4_norm_p				chempion
 PLX-101-042	m4_new_p			khvist								
 PLX-101-043	m5_new_p			khvist								
 PLX-101-044	m3_norm_p				chempion							
-PLX-101-045	m5_norm_p				chempion	prybutok						
+PLX-101-045	m5_new_p			khvist								
 PLX-101-046	m5_norm_p				chempion	prybutok						
 PLX-101-047	m3_new_p			khvist								
 PLX-101-050	m3_new_p			khvist								
@@ -4093,7 +4096,7 @@ PLX-101-074	m4_new_p			khvist
 PLX-101-075	m4_new_p			khvist								
 PLX-101-077	m4_new_p			khvist								
 PLX-101-078	m5_new_p			khvist								
-PLX-101-079	m4_norm			khvist								
+PLX-101-079	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-101-080	m3_new_p			khvist								
 PLX-101-081	m5_hit_p				chempion	prybutok						
 PLX-101-082	m3_new_p			khvist								
@@ -4145,7 +4148,7 @@ PLX-101-178	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-101-188	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-101-189	m5_new_p			khvist								
 PLX-101-195	m4_new_p			khvist								
-PLX-101-196	m4_new_p			khvist								
+PLX-101-196	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-101-198	m3_norm			khvist								
 PLX-101-199	m3_new_p			khvist								
 PLX-101-201	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -4205,7 +4208,7 @@ PLX-101388б	m4_new_p			khvist
 PLX-101389б	m4_new_p			khvist								
 PLX-101391	m5_new_p			khvist								
 PLX-101396	m5_new_p			khvist								
-PLX-101424	m4_new			season_off				1967				
+PLX-101424	m4_new		Shopping_ads,Display_ads	ne_v_prajsi				1967				
 PLX-101425	m4_new			season_off				1967				
 PLX-101426	m4_new			season_off				1967				
 PLX-101427	m4_new			season_off				1967				
@@ -4221,7 +4224,7 @@ PLX-101446	m4_new_p			khvist
 PLX-101448	m4_new_p			khvist								
 PLX-101449	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-101450	m4_new_p			khvist								
-PLX-101452	m4_new_p			khvist								
+PLX-101452	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-101517	m4_norm			khvist								
 PLX-101518	m4_norm			khvist								
 PLX-101519	m4_norm				konv_google							
@@ -4294,17 +4297,17 @@ PLX-108729	m4_norm			khvist
 PLX-108801	m3_new_p			khvist								
 PLX-108827	m3_new_p			khvist								
 PLX-10895	m2_new_p			khvist								
-PLX-11-001	m5_new_p			khvist								
+PLX-11-001	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-11-003	m5_new_p			khvist								
-PLX-11-005	m5_new_p			khvist								
+PLX-11-005	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-11-044	m5_new_p			khvist								
 PLX-11-057	m4_new_p			khvist								
 PLX-11-058	m4_new_p			khvist								
 PLX-11-113	m4_new_p			khvist								
 PLX-11-144	m4_new_p			khvist								
 PLX-11-145	m4_new_p			khvist								
-PLX-11-146	m5_new_p			khvist								
-PLX-11-147	m4_new_p			khvist								
+PLX-11-146	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-11-147	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-11-195	m5_new_p			khvist								
 PLX-11-196	m5_new_p			khvist								
 PLX-11-197	m5_new_p			khvist								
@@ -4331,7 +4334,7 @@ PLX-11-330	m4_new			season_off
 PLX-11-331	m5_new			season_off								
 PLX-11-332	m4_new_p			khvist								
 PLX-11-333	m4_new_p			khvist								
-PLX-11-335	m3_new			season_off								
+PLX-11-335	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-11-337	m4_new			season_off								
 PLX-11-338	m4_norm			season_off								
 PLX-11-339	m4_new			season_off								
@@ -4406,8 +4409,8 @@ PLX-11008	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:0
 PLX-11009	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-1101-115P	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-1102000	m4_new_p			khvist								
-PLX-1102400	m4_new_p			khvist								
-PLX-1102500	m4_new_p			khvist								
+PLX-1102400	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-1102500	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-110300	m4_new_p			khvist								
 PLX-1104-115P	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-1106721	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -4468,7 +4471,7 @@ PLX-12-949	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-12-950	m5_new_p				rozvidka							
 PLX-12-951	m5_new_p			khvist								
 PLX-12-952	m4_new_p			khvist								
-PLX-120	m5_new_p			khvist								
+PLX-120	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-120-020	m5_new_p			khvist								
 PLX-120-025	m5_new_p			khvist								
 PLX-120-028	m5_new_p			khvist								
@@ -4510,7 +4513,7 @@ PLX-13-002	m3_new_p			khvist
 PLX-13-003	m4_new_p			khvist								
 PLX-13-004	m4_new_p			khvist								
 PLX-13-07-002	m4_new_p			khvist								
-PLX-13-07-004	m4_new_p			khvist								
+PLX-13-07-004	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-13-07-010	m4_new_p			khvist								
 PLX-13-07-014	m4_new_p			khvist								
 PLX-13-08-003	m4_new_p			khvist								
@@ -4538,8 +4541,8 @@ PLX-14-003	m4_new_p			khvist
 PLX-14-004	m5_new_p			khvist								
 PLX-14-005	m4_norm_p				chempion							
 PLX-14-006	m4_new_p			khvist								
-PLX-14-16	m4_norm			khvist								
-PLX-14-17	m4_norm_p			khvist								
+PLX-14-16	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-14-17	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-14-18	m4_norm				chempion							
 PLX-14-30	m3_new_p			khvist								
 PLX-14-35	dup:Едім		Shopping_ads,Display_ads			stop					2026-11-20T09:00+0300	
@@ -4547,7 +4550,7 @@ PLX-14-36	m4_norm				chempion
 PLX-14-37	m3_new_p				rozvidka							
 PLX-14-40	m3_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-14-47	m4_norm			khvist								
-PLX-14-48	m4_new_p			khvist								
+PLX-14-48	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-14-49	m4_new_p			khvist								
 PLX-14-50	m4_norm_p				chempion							
 PLX-140-120	m5_new_p			khvist								
@@ -4596,11 +4599,11 @@ PLX-15-103-001	m4_new		Shopping_ads,Display_ads	ne_v_prajsi
 PLX-15-103-003	m3_new_p			khvist								
 PLX-15-104-001	m4_new_p			khvist								
 PLX-15-104-002	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-15-104-003	m4_new_p			khvist								
+PLX-15-104-003	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-105-001	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-15-105-002	m4_new_p			khvist								
+PLX-15-105-002	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-112-02	m3_new_p			khvist								
-PLX-15-116	m3_norm			khvist								
+PLX-15-116	m3_norm											
 PLX-15-124-004	m3_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-15-124-005	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-15-13-001	m4_norm			khvist								
@@ -4613,17 +4616,17 @@ PLX-15-136-AB	m4_new_p			khvist
 PLX-15-137-002	m4_norm			khvist								
 PLX-15-137-003	m4_new_p			khvist								
 PLX-15-141-01	m4_new_p			khvist								
-PLX-15-141-02	m4_norm			khvist								
+PLX-15-141-02	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-142-02	m4_new_p			khvist								
 PLX-15-144-01	m4_norm			khvist								
 PLX-15-145	m4_norm			khvist								
-PLX-15-147-01	m3_new_p			khvist								
+PLX-15-147-01	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-147-02	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-15-148-AB-L	m4_new_p			khvist								
 PLX-15-148-AB-R	m4_new_p			khvist								
 PLX-15-148-SN-L	m4_new_p			khvist								
 PLX-15-148-SN-R	m4_norm			khvist								
-PLX-15-15-003	m4_new_p			khvist								
+PLX-15-15-003	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-15-004	m4_new_p			khvist								
 PLX-15-15-008	m4_new_p			khvist								
 PLX-15-150-001	m4_norm			khvist								
@@ -4662,10 +4665,10 @@ PLX-15-180-004	m4_new_p			khvist
 PLX-15-180-006	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-181-001	m4_new_p			khvist								
 PLX-15-181-002	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-15-181-003	m4_new_p				rozvidka							
-PLX-15-181-004	m4_new_p			khvist								
+PLX-15-181-003	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-15-181-004	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-181-006	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-15-182-002	m4_norm			khvist								
+PLX-15-182-002	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-182-003	m4_norm			khvist								
 PLX-15-182-004	m4_new_p			khvist								
 PLX-15-182-006	m4_new_p				rozvidka							
@@ -4673,7 +4676,7 @@ PLX-15-182-SN/PB	m4_new_p			khvist
 PLX-15-183-001	m4_new_p			khvist								
 PLX-15-183-002	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-15-183-003	m4_norm			khvist								
-PLX-15-183-004	m4_new_p			khvist								
+PLX-15-183-004	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-183-005	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-15-184-001	m4_new_p				rozvidka							
 PLX-15-184-002	m4_norm				rozvidka							
@@ -4687,21 +4690,21 @@ PLX-15-186-001	m4_new		Shopping_ads,Display_ads	ne_v_prajsi
 PLX-15-186-002	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-187-001	m4_new_p				rozvidka							
 PLX-15-187-002	m4_norm				chempion	prybutok						
-PLX-15-187-003	m4_new_p				rozvidka							
+PLX-15-187-003	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-187-004	m4_norm				chempion	prybutok						
 PLX-15-187-006	m3_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-15-188-001	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-15-188-002	m3_new_p			khvist								
+PLX-15-188-002	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-188-003	m3_new_p			khvist								
-PLX-15-188-004	m3_norm			khvist								
-PLX-15-188-005	m3_new_p			khvist								
+PLX-15-188-004	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-15-188-005	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-191-001	m3_new_p			khvist								
 PLX-15-191-002	m3_norm			khvist								
 PLX-15-191-004	m3_new_p			khvist								
 PLX-15-191-005	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
 PLX-15-225-001	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-226-001	m4_new_p			khvist								
-PLX-15-226-002	m4_new_p			khvist								
+PLX-15-226-002	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-227-001	m4_new_p			khvist								
 PLX-15-228-001	m4_new_p			khvist								
 PLX-15-229-001	m4_new_p			khvist								
@@ -4730,8 +4733,8 @@ PLX-15-32-001	m5_new		Shopping_ads,Display_ads	ne_v_prajsi
 PLX-15-32-007	m4_new_p			khvist								
 PLX-15-33-006	m4_new_p			khvist								
 PLX-15-33-010	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-15-33-012	m4_new_p			khvist								
-PLX-15-33-014	m4_new_p			khvist								
+PLX-15-33-012	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-15-33-014	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-39-003	m4_new_p			khvist								
 PLX-15-39-004	m4_norm_p				chempion							
 PLX-15-44-001	m4_new_p			khvist								
@@ -4742,7 +4745,7 @@ PLX-15-47-008	m4_new_p			khvist
 PLX-15-48-001	m4_new_p			khvist								
 PLX-15-48-003	m4_new_p			khvist								
 PLX-15-55a-001	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-15-55a-004	m4_new_p			khvist								
+PLX-15-55a-004	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-56-001	m3_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-15-57-002	m4_new_p			khvist								
 PLX-15-57-004	m4_new_p				rozvidka							
@@ -4752,14 +4755,14 @@ PLX-15-59-001	m4_new_p			khvist
 PLX-15-60-001	m4_new_p			khvist								
 PLX-15-63-012	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-15-65-001	m4_new_p			khvist								
-PLX-15-65-004	m4_new_p			khvist								
+PLX-15-65-004	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-68-002	m4_norm_p				chempion							
 PLX-15-68-003	m4_new_p				rozvidka							
 PLX-15-68-004	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-15-68-006	m4_norm				chempion	prybutok						
 PLX-15-68-007	m4_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-15-70-001	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-15-70-002	m4_new_p			khvist								
+PLX-15-70-002	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-71-001	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-15-71-002	m4_new_p			khvist								
 PLX-15-71-003	m4_new_p			khvist								
@@ -4771,7 +4774,7 @@ PLX-15-81-001	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T
 PLX-15-81-003	m4_new_p			khvist								
 PLX-15-81-004	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-15-84-001	m4_norm				rozvidka							
-PLX-15-84-006	m4_norm			khvist								
+PLX-15-84-006	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-84-008	m4_norm				chempion	prybutok						
 PLX-150/10	m4_new_p			khvist								
 PLX-150/6	m5_new_p			khvist								
@@ -4898,11 +4901,11 @@ PLX-19-008	m5_new_p			khvist
 PLX-19-009	m4_new_p			khvist								
 PLX-19-017	m5_new_p			khvist								
 PLX-19-04-001	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-19-04-002	m4_norm			khvist								
+PLX-19-04-002	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-19-04-004	m4_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-19-04-005	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-19-04-007	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-19-04-008	m4_new_p			khvist								
+PLX-19-04-008	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-19-04-009	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-19-04-011	m4_hit_p				chempion	prybutok					2026-11-20T09:00+0300	
 PLX-19-04-012	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -4911,7 +4914,7 @@ PLX-19-05-010	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T
 PLX-19-09-003	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-190	m4_new_p			khvist								
 PLX-191	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-192	m4_norm				chempion	prybutok						
+PLX-192	m4_norm				chempion							
 PLX-1925-Б	m4_new_p			khvist								
 PLX-193	m4_norm				chempion							
 PLX-194-45R-3R-AB	m4_new_p			khvist								
@@ -4974,7 +4977,7 @@ PLX-20160	m3_new_p			khvist
 PLX-20161	m2_new_p			khvist								
 PLX-20162	m2_new_p			khvist								
 PLX-20163	m2_norm			khvist								
-PLX-20164	m3_new_p			khvist								
+PLX-20164	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-20165	m2_new_p			khvist								
 PLX-20166	m4_new_p			khvist								
 PLX-20167	m3_new_p			khvist								
@@ -4998,7 +5001,7 @@ PLX-20244	m3_new_p			khvist
 PLX-20245	m5_new_p			khvist								
 PLX-20246	m3_new_p			khvist								
 PLX-20247	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-PLX-20250	m4_norm_p				chempion							
+PLX-20250	m4_new_p			khvist								
 PLX-20251	m4_new_p			khvist								
 PLX-20252	m4_new_p			khvist								
 PLX-20253	m4_new_p			khvist								
@@ -5015,7 +5018,7 @@ PLX-20279	m4_hit				chempion	prybutok
 PLX-20280	m5_hit_p				chempion							
 PLX-20288	m3_new_p			khvist								
 PLX-20293	m4_new_p			khvist								
-PLX-204-160	m4_new_p			khvist								
+PLX-204-160	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-20437	m2_new_p			khvist				1027				
 PLX-20445	m2_new_p			khvist								
 PLX-20447	m2_norm			khvist								
@@ -5034,12 +5037,12 @@ PLX-20523	m3_new_p			khvist
 PLX-20524	m2_new_p			khvist								
 PLX-20526	m2_new_p			khvist								
 PLX-20563	m3_new_p			khvist								
-PLX-206-310	m5_new_p			khvist								
+PLX-206-310	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-207	m4_new_p			khvist								
 PLX-208-110	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-208-310	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-208-460	m4_new_p			khvist								
-PLX-208-600	m4_new_p			khvist								
+PLX-208-600	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-21-001	m3_new_p			khvist								
 PLX-21-002	m5_new_p			khvist								
 PLX-21-003	m3_new_p			khvist								
@@ -5048,7 +5051,7 @@ PLX-21-005	m3_new_p			khvist
 PLX-21-006	m3_new_p			khvist								
 PLX-21-007	m3_new_p			khvist								
 PLX-21-008	m3_norm			khvist								
-PLX-21-011	m3_new_p			khvist								
+PLX-21-011	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-21-013	m2_new_p			khvist								
 PLX-21-018	m2_new_p			khvist								
 PLX-21-019	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -5089,7 +5092,7 @@ PLX-216-260	m4_new_p			khvist
 PLX-216-310	m4_new_p			khvist								
 PLX-216-400	m4_new_p			khvist								
 PLX-21646	m3_new_p			khvist								
-PLX-2174	m5_new_p			khvist								
+PLX-2174	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-2175	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-218	m4_new_p			khvist								
 PLX-218-260	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -5118,7 +5121,7 @@ PLX-22-018	m4_new_p			khvist
 PLX-220	m4_new_p			khvist								
 PLX-220-310	m4_new_p			khvist								
 PLX-220-400	m4_new_p			khvist								
-PLX-220-600	m3_new_p			khvist								
+PLX-220-600	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-2200	m4_new_p			khvist								
 PLX-2202	m5_new_p			khvist								
 PLX-2203	m5_new_p			khvist								
@@ -5151,10 +5154,10 @@ PLX-230	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-23000	m2_new_p			khvist								
 PLX-23001	m2_new_p			khvist								
 PLX-231	m5_new_p			khvist								
-PLX-2316	m3_norm			khvist		stop						
+PLX-2316	m3_hit				chempion	prybutok						
 PLX-232	m5_new_p			khvist								
 PLX-235	m5_new_p			khvist								
-PLX-23522	m2_norm			khvist								
+PLX-23522	m2_norm				chempion							
 PLX-236	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-236110	m3_new_p			khvist								
 PLX-23680	m2_new_p			khvist								
@@ -5175,26 +5178,26 @@ PLX-24270	m2_new_p			khvist
 PLX-24271	m2_new_p			khvist								
 PLX-24272	m2_new_p			khvist								
 PLX-243	m4_new_p			khvist								
-PLX-2436	m5_new_p				rozvidka							
+PLX-2436	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-24512	m3_norm			khvist				6343				
 PLX-24513	m4_new_p			khvist				6343				
 PLX-24879	m4_new_p			khvist								
 PLX-249	m4_new_p			khvist								
 PLX-25	m4_norm				rozvidka							
-PLX-25-002	m2_new_p			khvist								
+PLX-25-002	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-25-003	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-25-004	m5_new_p			khvist								
 PLX-25-005	m3_new_p			khvist								
 PLX-25-006	m3_new_p			khvist								
 PLX-25-007	m3_norm			khvist								
-PLX-25-008	m4_new_p			khvist								
+PLX-25-008	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-25-009	m3_new_p			khvist								
 PLX-25-010	m3_norm			khvist								
 PLX-25-011	m4_norm_p				chempion	prybutok						
 PLX-25-013	m2_new_p			khvist								
 PLX-25-017	m3_new_p			khvist								
 PLX-25-018	m3_new_p			khvist								
-PLX-25-020	m2_new_p			khvist								
+PLX-25-020	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-25-067	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-25-076	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-25-079	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -5214,7 +5217,7 @@ PLX-250	m4_new_p			khvist
 PLX-250/10	m4_new_p			khvist								
 PLX-250/6	m4_new_p			khvist								
 PLX-250/8	m4_new_p			khvist								
-PLX-2500-0002	m4_new_p			khvist								
+PLX-2500-0002	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-251	m4_norm			khvist								
 PLX-252511	m4_new_p			khvist								
 PLX-252513	m4_new_p			khvist								
@@ -5224,10 +5227,10 @@ PLX-252519	m4_new_p			khvist
 PLX-252520	m4_new_p			khvist								
 PLX-252522	m5_new_p			khvist								
 PLX-252523	m4_new_p			khvist								
-PLX-2550-0002	m3_new_p			khvist								
+PLX-2550-0002	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-25681	m4_new_p			khvist								
-PLX-257	m4_norm			khvist								
-PLX-257-RL	m3_new_p			khvist								
+PLX-257	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-257-RL	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-257001	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-257107	m4_new_p			khvist								
 PLX-257108	m4_new_p			khvist								
@@ -5235,7 +5238,7 @@ PLX-26	m4_new_p			khvist
 PLX-26-001	m3_new_p			khvist								
 PLX-26-002	m4_new_p			khvist								
 PLX-26-003	m3_new_p			khvist								
-PLX-26-004	m4_new_p			khvist								
+PLX-26-004	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-26-005	m4_new_p			khvist								
 PLX-26-006	m4_new_p			khvist								
 PLX-26-007	m3_new_p			khvist								
@@ -5320,7 +5323,7 @@ PLX-3-008-001	m5_norm			khvist
 PLX-3-008-002	m5_norm				chempion	stop						
 PLX-3-008-003	m5_norm				chempion	prybutok						
 PLX-3-010-003	m4_new_p			khvist								
-PLX-3-011	m4_new_p				rozvidka							
+PLX-3-011	m4_norm_p											
 PLX-3-011-001	m4_norm				rozvidka							
 PLX-3-011-003	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-3-012	m4_new_p			khvist								
@@ -5343,8 +5346,8 @@ PLX-3-071-001	m4_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20
 PLX-3-071-003	m3_new_p			khvist								
 PLX-3-072-001	m4_new_p			khvist								
 PLX-3-072-002	m4_new_p			khvist								
-PLX-3-072-003	m3_new_p			khvist								
-PLX-3-073-001	m5_new_p			khvist								
+PLX-3-072-003	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-3-073-001	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-3-073-004	m4_new_p			khvist								
 PLX-3-074-001	m4_new_p			khvist								
 PLX-3-074-002	m4_new_p			khvist								
@@ -5354,10 +5357,10 @@ PLX-30-001	m5_new_p			khvist
 PLX-30-002	m3_new_p			khvist								
 PLX-30-003	m4_new_p			khvist								
 PLX-30-004	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-30-005	m3_new_p			khvist								
+PLX-30-005	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-30-006	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-30-007	m4_new_p			khvist								
-PLX-30-008	m4_new_p			khvist								
+PLX-30-008	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-30-009	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-30-011	m4_new_p			khvist								
 PLX-30-013	m4_new_p			khvist								
@@ -5366,8 +5369,8 @@ PLX-30-015	m5_new_p			khvist
 PLX-30-30187	m4_new_p			khvist								
 PLX-30.01	m3_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-30.11	m3_new_p			khvist								
-PLX-30.11-S	m3_norm			khvist								
-PLX-300	m4_norm_p											
+PLX-30.11-S	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-300	m4_norm_p				chempion	prybutok						
 PLX-300-042	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-300-420	m5_new_p			khvist								
 PLX-300-730	m4_new_p			khvist								
@@ -5397,7 +5400,7 @@ PLX-3041	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00
 PLX-3042	m5_new_p				rozvidka							
 PLX-3043	m3_new_p			khvist								
 PLX-3044	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-3049	m4_norm			khvist								
+PLX-3049	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-30492	m3_norm			khvist								
 PLX-30494	m4_new_p			khvist								
 PLX-30495	m4_new_p			khvist								
@@ -5414,8 +5417,8 @@ PLX-3058	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00
 PLX-3059	m4_new_p			khvist								
 PLX-306	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-3061	m5_norm				rozvidka							
-PLX-3062	m3_new_p			khvist								
-PLX-3064	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
+PLX-3062	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-3064	m5_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 PLX-3065	m5_new_p			khvist								
 PLX-307	m4_norm			khvist								
 PLX-3070	m5_norm			khvist								
@@ -5434,12 +5437,12 @@ PLX-3085	m5_new_p			khvist
 PLX-3086	m5_new_p			khvist								
 PLX-3092	m4_new_p			khvist								
 PLX-3098	m4_norm				rozvidka							
-PLX-31-001	m4_new_p			khvist								
+PLX-31-001	m5_new_p			khvist								
 PLX-31-002	m4_new_p			khvist								
 PLX-31-003	m4_new_p			khvist								
-PLX-31-004	m4_new_p			khvist								
+PLX-31-004	m5_new_p			khvist								
 PLX-31-005	m4_new_p			khvist								
-PLX-31-007	m4_new_p			khvist								
+PLX-31-007	m5_new_p			khvist								
 PLX-31-008	m4_new_p			khvist								
 PLX-31-009	m5_new_p			khvist								
 PLX-31-010	m5_new_p			khvist								
@@ -5495,10 +5498,10 @@ PLX-3130	m4_new_p			khvist
 PLX-3131	m4_new_p			khvist								
 PLX-3134	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-3135	m5_norm				rozvidka							
-PLX-3136	m3_new_p			khvist								
+PLX-3136	m4_new_p			khvist								
 PLX-3139	m4_new_p			khvist								
 PLX-3150	m5_norm				rozvidka							
-PLX-3154	m4_new_p			khvist								
+PLX-3154	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-3155	m5_new_p			khvist								
 PLX-3156	m5_new_p			khvist								
 PLX-3157	m5_new_p			khvist								
@@ -5519,26 +5522,26 @@ PLX-3180	m4_new_p			khvist
 PLX-3183	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-31838	m4_norm			khvist								
 PLX-31839	m2_norm			khvist								
-PLX-3191	m4_new_p			khvist								
+PLX-3191	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-3192	m4_new_p			khvist								
 PLX-3193	m5_new_p			khvist								
 PLX-3194	m5_new_p			khvist								
 PLX-3195	m4_new_p			khvist								
-PLX-32-001	m4_new_p			khvist								
+PLX-32-001	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-32-002	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-32-003	m4_new_p				rozvidka							
 PLX-32-005	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-32-006	m3_new_p			khvist								
 PLX-32-007	m4_new_p			khvist								
-PLX-32-008	m4_new_p			khvist								
+PLX-32-008	m4_norm_p											
 PLX-32-009	m2_norm			khvist								
-PLX-32-010	m2_norm_p			khvist								
+PLX-32-010	m2_new_p			khvist								
 PLX-32-011	m2_norm			khvist								
 PLX-32-012	m2_norm			khvist								
 PLX-32-019	m2_new_p			khvist								
 PLX-32-020	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-32-023	m4_new_p			khvist				1753				
-PLX-32-024	m3_new_p			khvist								
+PLX-32-024	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-32-025	m4_norm			khvist								
 PLX-32-026	m5_new_p			khvist				1753				
 PLX-32-028	m3_new_p			khvist								
@@ -5547,7 +5550,7 @@ PLX-32-031	m2_new_p			khvist
 PLX-32-034	m3_new_p			khvist								
 PLX-32-035	m2_new_p			khvist								
 PLX-32-036	m2_new_p			khvist								
-PLX-32-038	m3_new_p			khvist								
+PLX-32-038	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-32-039	m2_new_p			khvist								
 PLX-32-040	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-32-041	m3_new_p			khvist								
@@ -5571,7 +5574,7 @@ PLX-320141	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-320142	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-320143	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-3202	m4_new_p			khvist								
-PLX-3203	m5_norm_p				chempion							
+PLX-3203	m5_new_p			khvist								
 PLX-3204	m5_norm			khvist								
 PLX-3205	m4_norm				rozvidka							
 PLX-320518	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
@@ -5584,7 +5587,7 @@ PLX-3214	m4_norm_p				chempion	prybutok
 PLX-3219	m4_new_p			khvist								
 PLX-3220	m4_new_p			khvist								
 PLX-3221	m4_norm_p				chempion							
-PLX-3222	m4_new_p			khvist								
+PLX-3222	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-323	m3_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-3238	m4_new_p			khvist								
 PLX-3239	m5_new_p			khvist								
@@ -5595,7 +5598,7 @@ PLX-3245	m4_hit				chempion	prybutok
 PLX-3246	m2_norm			khvist								
 PLX-3251	m4_new_p			khvist								
 PLX-3253	m4_norm_p			khvist								
-PLX-3259	m3_norm				chempion							
+PLX-3259	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-3260	dup:Едім		Shopping_ads,Display_ads			prybutok						
 PLX-3262	m4_norm			khvist								
 PLX-3263	m5_new_p			khvist								
@@ -5651,10 +5654,10 @@ PLX-33280	m4_norm				chempion	prybutok
 PLX-33282	m5_new_p				rozvidka							
 PLX-33284	m2_new_p			khvist								
 PLX-33285	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-PLX-33286	m2_new_p			khvist								
+PLX-33286	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-33287	m4_new			khvist								
 PLX-33288	m5_norm			khvist								
-PLX-33289	m4_new_p			khvist								
+PLX-33289	m4_norm_p				chempion							
 PLX-3329	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-33298	m5_new_p			khvist								
 PLX-33299	m3_norm		Shopping_ads	vytraty_stelya		stop						
@@ -5705,10 +5708,10 @@ PLX-3337	m5_new_p			khvist
 PLX-33371	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti				6343				
 PLX-33392	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-33397	m3_norm			khvist								
-PLX-33398	m2_new_p			khvist								
+PLX-33398	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-33399	m4_new_p			khvist								
 PLX-33400	m2_norm			khvist								
-PLX-33415	m4_norm			khvist								
+PLX-33415	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-33416	m4_new_p			khvist								
 PLX-33419	m3_new_p			khvist								
 PLX-33430	m4_norm			khvist								
@@ -5724,7 +5727,7 @@ PLX-33820	m3_norm_p				chempion	prybutok
 PLX-34	m5_new_p				rozvidka							
 PLX-34-001	m3_new_p			khvist								
 PLX-34-002	m3_norm				chempion	prybutok						
-PLX-34-003	m3_norm			khvist								
+PLX-34-003	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-340	m4_new_p			khvist								
 PLX-341	m4_new_p			khvist								
 PLX-341002	m5_new_p			khvist								
@@ -5762,7 +5765,7 @@ PLX-35-006	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:
 PLX-35-007	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-35-009	m3_new_p			khvist								
 PLX-35-010	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-35-011	m4_new_p			khvist								
+PLX-35-011	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-35-016	m3_new_p			khvist								
 PLX-35-017	m5_hit_p				chempion							
 PLX-35-019	m3_norm			khvist								
@@ -5771,7 +5774,7 @@ PLX-35-022	m3_new_p			khvist
 PLX-35-023	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-35-024	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-35-025	m3_norm_p				chempion							
-PLX-35-026	m3_norm_p				chempion	prybutok						
+PLX-35-026	m3_new_p			khvist								
 PLX-35-027	m3_norm			khvist								
 PLX-35-030	m3_new_p			khvist								
 PLX-35-031	m1_new_p			khvist								
@@ -5792,7 +5795,7 @@ PLX-35027	m3_new_p			khvist
 PLX-35028	m1_new_p			khvist								
 PLX-35029	m2_new_p			khvist								
 PLX-35030	m3_norm			khvist								
-PLX-35031	m3_norm											
+PLX-35031	m3_norm				chempion	prybutok						
 PLX-351	m5_new_p			khvist								
 PLX-351000	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-351022	m5_norm			khvist								
@@ -5836,13 +5839,13 @@ PLX-36-010	m3_new_p				rozvidka
 PLX-36-011	m3_new_p			khvist								
 PLX-36-012	m3_new_p			khvist								
 PLX-36-015	m3_new_p			khvist								
-PLX-36-016	m3_new_p			khvist								
+PLX-36-016	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-36-017	m4_norm_p				chempion	prybutok						
 PLX-36-018	m3_new_p			khvist								
 PLX-36-019	m2_new_p			khvist								
 PLX-36-020	m2_new_p			khvist								
 PLX-36-022	m2_norm_p				chempion							
-PLX-36-024	m5_new_p				rozvidka							
+PLX-36-024	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-36-025	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-36-026	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-36-027	m3_new_p			khvist								
@@ -5890,7 +5893,7 @@ PLX-37-016	m2_new_p			khvist
 PLX-37-017	m4_new_p			khvist								
 PLX-37-018	m4_new_p			khvist								
 PLX-37-019	m4_new_p			khvist								
-PLX-37-020	m2_new_p			khvist								
+PLX-37-020	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-37-021	m2_new_p			khvist								
 PLX-37-022	m5_new_p			khvist								
 PLX-37-023	m5_new_p			khvist								
@@ -5943,7 +5946,7 @@ PLX-37-078	m4_new_p			khvist
 PLX-37-079	m4_new_p			khvist								
 PLX-37-080	m4_new_p			khvist								
 PLX-37-081	m4_norm			khvist								
-PLX-37-082	m3_new_p			khvist								
+PLX-37-082	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-37-083	m4_new_p			khvist								
 PLX-37-084	m3_new_p			khvist								
 PLX-37-085	m5_new_p				rozvidka							
@@ -5955,7 +5958,7 @@ PLX-37-091	m2_norm_p				chempion
 PLX-37-092	m4_new_p			khvist								
 PLX-37-093	m1_new_p			khvist								
 PLX-37-094	m5_new_p				rozvidka							
-PLX-37-095	m4_new_p			khvist								
+PLX-37-095	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-37-096	m4_new_p			khvist								
 PLX-37-097	m4_new_p			khvist								
 PLX-37-098	m5_new_p			khvist								
@@ -5993,13 +5996,13 @@ PLX-37-132	m5_new_p			khvist
 PLX-37-133	m4_new_p			khvist								
 PLX-37-134	m2_new_p			khvist								
 PLX-37-135	m4_new_p			khvist								
-PLX-37-137	m4_norm_p				chempion							
+PLX-37-137	m4_norm_p				chempion	prybutok						
 PLX-37-138	m4_new_p			khvist								
 PLX-37-139	m4_norm_p				chempion	prybutok						
 PLX-37-140	m5_new_p			khvist								
 PLX-37-141	m5_new_p			khvist								
 PLX-37-142	m4_new_p			khvist								
-PLX-37-143	m5_norm				rozvidka							
+PLX-37-143	m5_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-37-144	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-37-145	m5_new_p			khvist								
 PLX-37-146	m5_new_p			khvist								
@@ -6043,7 +6046,7 @@ PLX-373047	m4_new_p			khvist
 PLX-3736-Б	m4_norm			khvist								
 PLX-379	m4_new_p			khvist								
 PLX-38	m5_new_p			khvist								
-PLX-38-001	m2_new_p			khvist								
+PLX-38-001	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-38-002	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-38-003	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-38-004	m5_new_p			khvist								
@@ -6052,7 +6055,7 @@ PLX-38-009	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:
 PLX-38-010	m4_norm_p											
 PLX-38-011	m3_new_p			khvist								
 PLX-38-012	m3_norm			khvist								
-PLX-38-013	m5_new_p			khvist								
+PLX-38-013	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-38-014	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-38-022	m4_new_p			khvist								
 PLX-38-040	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -6087,11 +6090,11 @@ PLX-39-004	m4_norm				rozvidka
 PLX-39-005	m3_new_p			khvist								
 PLX-39-006	m4_new_p			khvist								
 PLX-39-007	m3_new_p			khvist								
-PLX-39-008	m3_new_p			khvist								
+PLX-39-008	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-39-009	m3_new_p			khvist								
 PLX-391	m4_new_p			khvist								
 PLX-394	m5_new_p			khvist								
-PLX-3H1CP	m3_new_p			khvist								
+PLX-3H1CP	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-4-010-001	m4_new_p			khvist								
 PLX-4-012	m3_norm			khvist								
 PLX-4-015	m5_new_p			khvist								
@@ -6101,7 +6104,7 @@ PLX-4-026-001	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T
 PLX-4-034-001	m4_new_p			khvist								
 PLX-4-070-001	m4_norm			khvist								
 PLX-40	m5_new_p				rozvidka							
-PLX-40-002	m4_new_p			khvist								
+PLX-40-002	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-40-003	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-400-060	m2_new_p			khvist								
 PLX-400-080	m4_new_p			khvist								
@@ -6185,7 +6188,7 @@ PLX-41-005	m4_new_p			khvist
 PLX-41-006	m3_new_p			khvist								
 PLX-41-007	m3_new_p			khvist								
 PLX-41-008	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-41-009	m3_new_p			khvist								
+PLX-41-009	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-41-010	m3_new_p			khvist								
 PLX-41-011	m3_new_p			khvist								
 PLX-41-012	m3_new_p			khvist								
@@ -6228,7 +6231,7 @@ PLX-44-004	m2_new_p			khvist
 PLX-44-005	m2_new_p			khvist								
 PLX-44-006	m2_new_p			khvist								
 PLX-44-007	m2_norm_p				chempion	prybutok						
-PLX-44-008	m2_new_p			khvist								
+PLX-44-008	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-44-009	m2_new_p			khvist								
 PLX-44-012	m2_new_p			khvist								
 PLX-44-013	m2_new_p			khvist								
@@ -6270,27 +6273,27 @@ PLX-47-004	m3_new_p			khvist
 PLX-47-005	m4_new_p			khvist								
 PLX-47-006	m3_new_p			khvist								
 PLX-47-007	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-47-008	m2_new_p			khvist								
+PLX-47-008	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-47-009	m2_new_p			khvist								
 PLX-47-010	m2_new_p			khvist								
 PLX-47-011	m3_new_p			khvist								
 PLX-47-012	m3_new_p			khvist								
-PLX-47-014	m3_norm			khvist								
+PLX-47-014	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-47-015	m3_new_p			khvist								
 PLX-47-017	m2_new_p			khvist								
 PLX-47-018	m2_new_p			khvist								
-PLX-479	m4_new_p			khvist								
+PLX-479	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-48	m4_new_p			khvist								
 PLX-48-001	m3_new_p			khvist								
 PLX-48-003	m4_norm			khvist								
 PLX-480	m4_new_p			khvist								
 PLX-4810DTG	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-4810АТ	m5_new_p			khvist								
-PLX-4825DTG	m4_new_p				rozvidka							
+PLX-4825DTG	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-4825АТ	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-4850АТ	m4_new_p			khvist								
 PLX-49	m4_new_p			khvist								
-PLX-49-003	m3_new_p			khvist								
+PLX-49-003	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-49-004	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-49-005	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-49-006	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -6315,14 +6318,14 @@ PLX-500-100	m5_norm			khvist
 PLX-500-120	m5_norm			khvist								
 PLX-500200	m5_new_p			khvist								
 PLX-5006	m5_new_p			khvist								
-PLX-5007	m5_new_p			khvist								
+PLX-5007	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-5008	m5_new_p			khvist								
 PLX-501	m4_new_p			khvist								
 PLX-502	m3_new_p			khvist								
 PLX-503	m4_new_p			khvist								
 PLX-504	m4_norm_p				chempion							
 PLX-506	m4_norm			khvist								
-PLX-5074	m5_new_p			khvist								
+PLX-5074	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-508	m4_new_p			khvist								
 PLX-509	m4_new_p			khvist								
 PLX-51	m4_new_p			khvist								
@@ -6337,7 +6340,7 @@ PLX-51-009	m5_new_p			khvist
 PLX-51-010	m3_new_p			khvist								
 PLX-51-012	m4_new_p			khvist								
 PLX-51-021	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-51-022	m2_new_p			khvist								
+PLX-51-022	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-51-023	m4_new_p			khvist								
 PLX-51-026	m5_new_p				rozvidka							
 PLX-51-027	m3_new_p			khvist								
@@ -6348,24 +6351,24 @@ PLX-51-031	m4_new_p			khvist
 PLX-51-032	m5_new_p			khvist								
 PLX-51-033	m5_new_p			khvist								
 PLX-51-034	m5_new_p			khvist								
-PLX-51-035	m5_new_p			khvist								
+PLX-51-035	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-51-036	m3_new_p			khvist								
-PLX-51-037	m2_norm			khvist								
-PLX-51-038	m3_new_p			khvist								
-PLX-51-039	m2_new_p			khvist								
+PLX-51-037	m2_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-51-038	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-51-039	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-51-042	m3_new_p			khvist								
-PLX-51-043	m2_new_p			khvist								
+PLX-51-043	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-51-044	m2_new_p			khvist								
 PLX-51-045	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-51-046	m2_new_p			khvist								
 PLX-51-047	m2_new_p			khvist								
 PLX-51-048	m3_new_p			khvist								
 PLX-51-049	m2_new_p			khvist								
-PLX-51-050	m2_new_p			khvist								
-PLX-51-051	m2_new_p			khvist								
+PLX-51-050	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-51-051	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-51-052	m3_new_p			khvist								
 PLX-51-053	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-51-054	m3_norm_p				chempion	prybutok						
+PLX-51-054	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
 PLX-51-055	m4_new_p			khvist								
 PLX-51-056	m3_new_p			khvist								
 PLX-51-057	m3_new_p			khvist								
@@ -6403,7 +6406,7 @@ PLX-51-090	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:
 PLX-51-091	m5_new_p				rozvidka							
 PLX-51-092	m4_new_p			khvist								
 PLX-51-093	m5_new_p			khvist								
-PLX-51-094	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
+PLX-51-094	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-51-112	m3_new_p			khvist								
 PLX-510	m4_new_p			khvist								
 PLX-510003	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -6457,7 +6460,7 @@ PLX-5301-650	m5_new_p			khvist
 PLX-5301-690	m5_new_p			khvist								
 PLX-5301-8160	m4_new_p			khvist								
 PLX-5301-8230	m2_new_p			khvist								
-PLX-531	m4_norm			khvist								
+PLX-531	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-532	m4_new_p			khvist								
 PLX-533	m4_norm			khvist								
 PLX-5335	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -6488,7 +6491,7 @@ PLX-54-020	m5_new_p			khvist
 PLX-54-022	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-54-023	m3_new_p			khvist								
 PLX-54-024	m3_new_p			khvist								
-PLX-54-025	m2_new_p			khvist								
+PLX-54-025	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-54-026	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-54-027	m2_new_p			khvist								
 PLX-54-028	m2_new_p			khvist								
@@ -6532,7 +6535,7 @@ PLX-54-100	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi
 PLX-54-101	m3_new_p			khvist								
 PLX-54-102	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-54-103	m5_new_p			khvist								
-PLX-54-104	m4_new_p			khvist								
+PLX-54-104	m4_hit_p				chempion							
 PLX-54-105	m4_new_p			khvist								
 PLX-54-106	m3_new_p			khvist								
 PLX-54-107	m3_new_p			khvist								
@@ -6558,24 +6561,24 @@ PLX-54-134	m3_new		Shopping_ads,Display_ads	ne_v_prajsi
 PLX-54-135	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-54-136	m3_new_p			khvist								
 PLX-54-137	m3_norm			khvist								
-PLX-54-138	m3_new_p			khvist								
+PLX-54-138	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-54-139	m3_new_p			khvist								
 PLX-54-140	m2_norm_p				chempion	prybutok						
 PLX-54-141	m2_new_p				rozvidka							
-PLX-54-142	m4_new_p			khvist								
+PLX-54-142	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-54-143	m2_new_p			khvist								
-PLX-54-144	m2_new_p			khvist								
+PLX-54-144	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-54-145	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-54-146	m2_new_p			khvist								
-PLX-54-147	m2_new_p			khvist								
+PLX-54-147	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-54-148	m2_new_p			khvist								
-PLX-54-149	m2_new_p			khvist								
+PLX-54-149	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-54-150	m2_norm		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-54-151	m3_norm_p			khvist								
-PLX-54-152	m2_new_p			khvist								
+PLX-54-151	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-54-152	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-54-153	m2_new_p			khvist								
 PLX-54-154	m3_norm_p				chempion	prybutok						
-PLX-54-155	m4_norm			khvist								
+PLX-54-155	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-54-156	m4_new_p			khvist				499860				
 PLX-54-157	m4_new_p			khvist				499860				
 PLX-54-159	m5_new_p			khvist				499860				
@@ -6654,7 +6657,7 @@ PLX-5443	m5_new_p			khvist
 PLX-5444	m5_new_p			khvist								
 PLX-5445	m5_new_p			khvist								
 PLX-545	m4_norm				rozvidka							
-PLX-5468	m5_new_p			khvist								
+PLX-5468	m5_norm_p											
 PLX-547	m4_new_p			khvist								
 PLX-548	m4_new_p			khvist								
 PLX-55-001	m4_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -6702,7 +6705,7 @@ PLX-62722	m4_new_p			khvist
 PLX-62723	m3_new_p			khvist								
 PLX-62724	m3_new_p			khvist								
 PLX-62768	m4_new_p			khvist								
-PLX-62798	m3_norm			khvist								
+PLX-62798	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-63	m4_new_p			khvist								
 PLX-63-213-АВ	m3_new_p			khvist								
 PLX-641R	m3_new_p			khvist								
@@ -6712,7 +6715,7 @@ PLX-666	m4_norm			khvist
 PLX-68	m4_new_p			khvist								
 PLX-69303	m4_new_p			khvist								
 PLX-69609	m4_new_p			khvist								
-PLX-69616	m4_new_p			khvist								
+PLX-69616	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-69624	m4_new_p			khvist								
 PLX-7-001	m5_norm				chempion	stop		1027				
 PLX-7-002-001	m4_hit_p				chempion	prybutok		1027				
@@ -6739,7 +6742,7 @@ PLX-70-018	m2_new_p			khvist
 PLX-70-019	m3_new_p			khvist								
 PLX-70-020	m3_new_p			khvist								
 PLX-70-021	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-70-022	m2_new_p			khvist								
+PLX-70-022	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-70-023	m4_new_p			khvist								
 PLX-70-024	m2_new_p			khvist								
 PLX-70-025	m3_new_p			khvist								
@@ -6755,7 +6758,7 @@ PLX-70-034	m3_norm_p				chempion	prybutok
 PLX-70-040	m3_new_p			khvist								
 PLX-70-041	m2_new_p			khvist								
 PLX-70-042	m4_new_p			khvist								
-PLX-70-043	m2_new_p			khvist								
+PLX-70-043	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-70-044	m4_norm			khvist								
 PLX-70-055	m4_new_p			khvist								
 PLX-70-056	m2_new_p			khvist								
@@ -6790,7 +6793,7 @@ PLX-70-085	m3_new_p			khvist
 PLX-70-086	m5_new_p			khvist								
 PLX-70-087	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-70-088	m3_new_p			khvist								
-PLX-70-090	m3_norm				chempion	prybutok						
+PLX-70-090	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
 PLX-70-091	m3_new_p			khvist								
 PLX-70-092	m3_new_p			khvist								
 PLX-70-093	m3_new_p			khvist								
@@ -6910,7 +6913,7 @@ PLX-851	m4_norm				rozvidka
 PLX-86	m4_norm			khvist								
 PLX-864	m4_new_p			khvist								
 PLX-871	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-872	m4_new_p			khvist								
+PLX-872	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-878	m5_norm			khvist								
 PLX-879	m4_new_p			khvist								
 PLX-880	m4_new_p			khvist								
@@ -6940,13 +6943,13 @@ PLX-90016283	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T0
 PLX-90016285	m2_norm			khvist								
 PLX-90016293	m2_norm				chempion	prybutok						
 PLX-90016294	m2_hit				chempion	prybutok						
-PLX-90016295	m2_new_p			khvist								
+PLX-90016295	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-90016296	m2_new_p			khvist								
 PLX-90016297	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-90016298	m2_hit_p				chempion	prybutok						
 PLX-90016300	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-90016301	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-PLX-90016302	m3_norm			khvist								
+PLX-90016302	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-90016303	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-90016304	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-90016552	m4_new_p			khvist								
@@ -6962,10 +6965,10 @@ PLX-90016566	m4_norm			khvist
 PLX-90016567	m4_norm			khvist								
 PLX-90016568	m4_norm			khvist								
 PLX-90016578	m4_new_p			khvist								
-PLX-90016581	m3_hit				chempion	prybutok						
+PLX-90016581	m3_norm				chempion	prybutok						
 PLX-90016582	m4_new_p			khvist								
 PLX-90016583	m4_new_p			khvist								
-PLX-90016584	m4_new_p			khvist								
+PLX-90016584	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-90016585	m4_new_p			khvist								
 PLX-90016586	m4_new_p			khvist								
 PLX-90016587	m4_new_p			khvist								
@@ -6988,8 +6991,8 @@ PLX-90025801	m2_new_p			khvist
 PLX-90025802	m4_new_p			khvist								
 PLX-90025803	m2_new_p			khvist								
 PLX-90025929	m4_new_p			khvist								
-PLX-90025931	m4_norm			khvist								
-PLX-90025932	m4_norm			khvist								
+PLX-90025931	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-90025932	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-90025934	m4_norm				rozvidka							
 PLX-90025949	m4_new_p			khvist								
 PLX-90025950	m3_new_p			khvist								
@@ -7029,7 +7032,7 @@ PLX-90026718	m2_norm			khvist
 PLX-90026719	m2_new_p			khvist								
 PLX-90026720	m2_new_p			khvist								
 PLX-90026721	m2_norm			khvist								
-PLX-90026722	m2_hit				chempion	prybutok						
+PLX-90026722	m2_norm			khvist								
 PLX-90026723	m2_new_p			khvist								
 PLX-90026724	m4_new_p			khvist								
 PLX-90026725	m2_new_p			khvist								
@@ -7091,7 +7094,7 @@ PLX-940002	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:
 PLX-940004	m5_norm			khvist								
 PLX-940006	m3_norm			khvist								
 PLX-940008	m4_norm			khvist								
-PLX-940022	m4_norm			khvist								
+PLX-940022	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-940026	m5_norm			khvist								
 PLX-940027	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-940028	m5_new_p			khvist								
@@ -7104,7 +7107,7 @@ PLX-940038	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:
 PLX-940039	m5_new			khvist								
 PLX-940040	m4_new_p			khvist								
 PLX-941	m3_norm			khvist								
-PLX-950	m4_new_p			khvist								
+PLX-950	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-951345	m3_new_p			khvist								
 PLX-951346	m1_new_p			khvist								
 PLX-951347	m4_new_p			khvist								
@@ -7131,7 +7134,7 @@ PLX-951456	m4_new_p			khvist
 PLX-951457	m4_norm			khvist								
 PLX-951458	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-951459	m4_norm			khvist								
-PLX-951483	m4_new_p			khvist								
+PLX-951483	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-951484	m3_norm			khvist				1753				
 PLX-951485	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti				1753			2026-11-20T09:00+0300	
 PLX-951486	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti				1753				
@@ -7163,7 +7166,7 @@ PLX-A-0423	m5_new_p			khvist
 PLX-AB-1272	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-AW-170141000	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-AW-170141500	m3_new_p			khvist								
-PLX-AW-17014800	m5_new_p			khvist								
+PLX-AW-17014800	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-AW-170600	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-B2W, RAL8019	m3_new_p			khvist								
 PLX-B2W, RAL9005	m3_new_p			khvist								
@@ -7188,8 +7191,8 @@ PLX-BC2950	m4_new_p			khvist
 PLX-BC2960	m4_new_p			khvist								
 PLX-BC2970	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-BK 28Z АВ	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-BK16A BN/GP	m4_new_p			khvist								
-PLX-BK16Z АВ	m4_new_p			khvist								
+PLX-BK16A BN/GP	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-BK16Z АВ	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-BMX-611	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-BMX-613	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-C-0416	m5_norm				chempion	prybutok						
@@ -7200,9 +7203,9 @@ PLX-D-0030	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09
 PLX-D-0031	m4_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-D-0032	m3_norm			khvist								
 PLX-D-03-101	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-PLX-D-03-102	m5_new_p			khvist								
+PLX-D-03-102	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-D-03-103	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-D-03-104	m3_norm			khvist								
+PLX-D-03-104	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-DM 005-001	m5_new_p			khvist								
 PLX-DM-101	m4_new_p				rozvidka							
 PLX-DM-102	m4_new_p			khvist								
@@ -7210,7 +7213,7 @@ PLX-DM-103	m5_new_p			khvist
 PLX-DM-104	m5_new_p			khvist								
 PLX-DM-105	m4_new_p			khvist								
 PLX-DM-106	m4_new_p			khvist								
-PLX-DM-151	m4_new_p			khvist								
+PLX-DM-151	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-DM-152	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-DM-154	m4_new_p			khvist								
 PLX-E-02-101	m5_new_p			khvist								
@@ -7222,7 +7225,7 @@ PLX-FL1550	m4_new_p			khvist
 PLX-FL1565	m4_new_p			khvist								
 PLX-FL1565L	m3_new_p			khvist								
 PLX-FP-0022	m2_new_p			khvist								
-PLX-FP-0417	m4_norm				chempion	prybutok						
+PLX-FP-0417	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
 PLX-FP-0568	m4_norm			khvist								
 PLX-FP-0569	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-FRS-0472	dup:Едім				chempion	prybutok						
@@ -7316,7 +7319,7 @@ PLX-HT-17-903	m2_new_p			khvist
 PLX-HT-17-904	m4_new_p			khvist								
 PLX-HT-17-905	m4_new_p			khvist								
 PLX-HT-17-906	m4_new_p			khvist								
-PLX-HT-19-003	m3_norm			khvist								
+PLX-HT-19-003	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-HT-21-030	m4_new_p			khvist								
 PLX-HT-21-040	m3_new_p			khvist								
 PLX-HT-21-100	m4_new_p			khvist								
@@ -7331,11 +7334,11 @@ PLX-HT-21-113	m5_new_p			khvist
 PLX-HT-21-114	m4_new_p			khvist								
 PLX-HT-21-116	m5_new_p			khvist								
 PLX-HT-21-117	m5_new_p			khvist								
-PLX-HT-21-118	m5_norm											
+PLX-HT-21-118	m5_norm				chempion	prybutok						
 PLX-HT-21-119	m5_new_p			khvist								
 PLX-HT-21-120	m5_new_p			khvist								
 PLX-HT-21-121	m5_new_p			khvist								
-PLX-HT-21-129	m5_new_p			khvist								
+PLX-HT-21-129	m5_norm_p				chempion							
 PLX-HT-21-130	m4_new_p			khvist								
 PLX-HT-21-131	m4_new_p			khvist								
 PLX-HT-21-203	m5_new_p			khvist								
@@ -7377,9 +7380,9 @@ PLX-HT-31-027	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T
 PLX-HT-31-028	m4_new_p			khvist								
 PLX-HT-33-001	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-HT-33-008	m4_new_p			khvist								
-PLX-HT-36-007	m4_new_p			khvist								
+PLX-HT-36-007	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-HT-36-012	m4_new_p			khvist								
-PLX-HT-37-006	m4_norm			khvist								
+PLX-HT-37-006	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-HT-37-007	m4_norm			khvist								
 PLX-HT-37-008	m3_norm			khvist								
 PLX-HT-37-009	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -7450,7 +7453,7 @@ PLX-HT-46-004	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T
 PLX-HT-80201	m5_new_p			khvist								
 PLX-HT-80204	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-HT-80206	m5_new_p			khvist								
-PLX-HT-80226	m5_norm_p											
+PLX-HT-80226	m5_norm_p				chempion	prybutok						
 PLX-IT-10062	m5_new_p			khvist								
 PLX-IT-10063	m5_new_p				rozvidka							
 PLX-IT-10064	m5_new_p			khvist								
@@ -7480,7 +7483,7 @@ PLX-LN-0428	m5_norm			khvist
 PLX-LN-0429	m5_norm			khvist								
 PLX-LN-0581	m5_norm_p				chempion	prybutok						
 PLX-LN-0582	m5_norm			khvist								
-PLX-LN-0583	m4_norm			khvist								
+PLX-LN-0583	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-LN-0586	m3_norm			khvist								
 PLX-LXCP40	m4_new_p			khvist								
 PLX-LXCP50	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -7504,7 +7507,7 @@ PLX-M45M2	m3_new			season_off
 PLX-M60M	m3_new			season_off								
 PLX-M60M2	m2_new			season_off								
 PLX-M60k3	m4_new_p			khvist								
-PLX-M60М k5	m4_new_p			khvist								
+PLX-M60М k5	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-M706	m4_new_p			khvist								
 PLX-M70k3	m4_new_p			khvist								
 PLX-M75M	m3_new			season_off								
@@ -7530,7 +7533,7 @@ PLX-PL 32-H14 SN/СР	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							202
 PLX-PVC 55	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-PVC 70	m4_norm			khvist								
 PLX-Q-07-103	m4_new_p			khvist								
-PLX-Q-80-120	m5_new_p			khvist								
+PLX-Q-80-120	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-R-0023	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-R-0024	m4_norm			khvist								
 PLX-R-0025	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -7548,7 +7551,7 @@ PLX-R-0087	m4_new_p			khvist
 PLX-R-0088	m4_new_p			khvist								
 PLX-R-0089	m4_new_p			khvist								
 PLX-R-01-201	m5_new_p			khvist								
-PLX-R-01-203	m5_new_p			khvist								
+PLX-R-01-203	m5_norm_p				chempion							
 PLX-R-01-401	m4_new_p			khvist				499860				
 PLX-R-01-403	m5_new_p			khvist				499860				
 PLX-R-0127	m4_new_p			khvist								
@@ -7657,7 +7660,7 @@ PLX-T40	m4_new_p			khvist
 PLX-T50	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-TW-0006	m4_new_p			khvist								
 PLX-TW-0008	m4_new_p			khvist								
-PLX-TW-0010	m4_new_p			khvist								
+PLX-TW-0010	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-TW-0012	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-TW-2008	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-TW-2106	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -7735,7 +7738,7 @@ PLX-А0024158	m4_new_p			khvist
 PLX-А0024160	m4_new_p			khvist								
 PLX-А0024161	m4_new_p			khvist								
 PLX-А0024162	m4_new_p			khvist								
-PLX-А0024163	m4_new_p			khvist								
+PLX-А0024163	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-А0024164	m4_new_p			khvist								
 PLX-А0024167	m4_new_p			khvist								
 PLX-А0024168	m4_new_p			khvist								
@@ -7790,8 +7793,8 @@ PLX-А0025361	m3_new_p			khvist
 PLX-А0025437	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-А0025438	m3_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-А0025455	m4_norm			khvist								
-PLX-А0025456	m4_norm			khvist								
-PLX-А0025457	m4_norm			khvist								
+PLX-А0025456	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-А0025457	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-А0025458	m4_new_p			khvist								
 PLX-А0025459	m4_new_p			khvist								
 PLX-А0025460	m4_new_p			khvist								
@@ -7803,7 +7806,7 @@ PLX-А0025465	m4_new_p			khvist
 PLX-А0025466	m4_new_p			khvist								
 PLX-А0025467	m4_new_p			khvist								
 PLX-А0025468	m4_new_p			khvist								
-PLX-А0025469	m4_new_p			khvist								
+PLX-А0025469	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-А0025470	m4_norm			khvist								
 PLX-А0025471	m4_new_p			khvist								
 PLX-А0025482	m4_new_p			khvist								
@@ -7819,11 +7822,11 @@ PLX-А0025512	m4_new_p			khvist
 PLX-А0025549	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-А0025562	m4_norm			khvist								
 PLX-А0025563	m4_norm			khvist								
-PLX-А0025580	m4_new_p			khvist								
+PLX-А0025580	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-А0025581	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-А0025582	m4_new_p			khvist								
 PLX-А0025583	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-А0025584	m4_new_p			khvist								
+PLX-А0025584	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-А0025588	m4_norm				rozvidka							
 PLX-А0025596	m4_new_p			khvist								
 PLX-А0025597	m4_new_p			khvist								
@@ -7835,9 +7838,9 @@ PLX-А0025665	m4_new_p			khvist
 PLX-А0025676	m4_new_p			khvist								
 PLX-А0025678	m4_new_p			khvist								
 PLX-А0025679	m4_new_p			khvist								
-PLX-А0025680	m4_new_p			khvist								
+PLX-А0025680	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-А0025681	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-А0025682	m4_new_p			khvist								
+PLX-А0025682	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-А0025687	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-А0025697	m4_norm			khvist								
 PLX-А0025761	m5_new_p			khvist								
@@ -7892,7 +7895,7 @@ PLX-НТ-21-401	m4_new_p			khvist
 PLX-НТ-22-201	m4_new_p			khvist								
 PLX-НТ-22-202	m4_new_p			khvist								
 PLX-НТ-22-203	m5_new_p			khvist								
-PLX-НТ-45-606	m4_new_p			khvist								
+PLX-НТ-45-606	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00000011	m5_new_p			khvist								
 PLX-НФ-00000184	m4_new_p			khvist								
 PLX-НФ-00000198	m5_new_p			khvist								
@@ -7944,10 +7947,10 @@ PLX-НФ-00000422	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-НФ-00000430	m3_new_p			khvist								
 PLX-НФ-00000435	m5_new_p			khvist								
 PLX-НФ-00000436	m4_new_p			khvist								
-PLX-НФ-00000437	m5_norm			khvist								
-PLX-НФ-00000438	m4_norm_p			khvist								
+PLX-НФ-00000437	m5_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00000438	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00000439	m5_new_p			khvist								
-PLX-НФ-00000440	m4_new_p			khvist								
+PLX-НФ-00000440	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00000441	m4_new_p			khvist								
 PLX-НФ-00000442	m5_new_p			khvist								
 PLX-НФ-00000443	m2_new_p			khvist								
@@ -8089,17 +8092,17 @@ PLX-НФ-00000628	m3_new_p			khvist
 PLX-НФ-00000629	m3_new_p			khvist								
 PLX-НФ-00000630	m3_new_p			khvist								
 PLX-НФ-00000631	m3_new_p			khvist								
-PLX-НФ-00000648	m4_new_p			khvist								
-PLX-НФ-00000649	m4_new_p			khvist								
+PLX-НФ-00000648	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00000649	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00000650	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-НФ-00000651	m4_new_p			khvist								
-PLX-НФ-00000652	m4_new_p			khvist								
-PLX-НФ-00000653	m3_new_p			khvist								
-PLX-НФ-00000654	m3_new_p			khvist								
-PLX-НФ-00000656	m3_new_p			khvist								
+PLX-НФ-00000651	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00000652	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00000653	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00000654	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00000656	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00000657	m3_new_p			khvist								
 PLX-НФ-00000658	m3_new_p			khvist								
-PLX-НФ-00000659	m3_new_p			khvist								
+PLX-НФ-00000659	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00000660	m5_new_p			khvist								
 PLX-НФ-00000661	m1_new_p			khvist								
 PLX-НФ-00000662	m4_new_p			khvist								
@@ -8145,7 +8148,7 @@ PLX-НФ-00000715	m4_new_p			khvist
 PLX-НФ-00000716	m4_new_p			khvist								
 PLX-НФ-00000717	m4_new_p			khvist								
 PLX-НФ-00000718	m4_new_p			khvist								
-PLX-НФ-00000719	m4_new_p			khvist								
+PLX-НФ-00000719	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00000720	m4_new_p			khvist								
 PLX-НФ-00000788	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-НФ-00000789	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -8239,7 +8242,7 @@ PLX-НФ-00000979	m3_new_p			khvist
 PLX-НФ-00000980	m4_norm			khvist								
 PLX-НФ-00000981	m3_new_p			khvist								
 PLX-НФ-00000982	m3_new_p			khvist								
-PLX-НФ-00000983	m4_new_p			khvist								
+PLX-НФ-00000983	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00000984	m4_new_p			khvist								
 PLX-НФ-00000985	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00000990	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
@@ -8345,7 +8348,7 @@ PLX-НФ-00001133	m4_new_p			khvist
 PLX-НФ-00001134	m4_new_p			khvist								
 PLX-НФ-00001135	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-НФ-00001137	m3_new_p			khvist								
-PLX-НФ-00001138	m3_new_p			khvist								
+PLX-НФ-00001138	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001139	m3_new_p			khvist								
 PLX-НФ-00001141	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00001142	m5_new_p			khvist								
@@ -8429,16 +8432,16 @@ PLX-НФ-00001299	m4_new_p			khvist
 PLX-НФ-00001300	m4_new_p			khvist								
 PLX-НФ-00001301	m4_new_p			khvist								
 PLX-НФ-00001302	m4_new_p			khvist								
-PLX-НФ-00001303	m4_new_p			khvist								
-PLX-НФ-00001304	m4_new_p			khvist								
-PLX-НФ-00001305	m4_new_p			khvist								
-PLX-НФ-00001306	m4_new_p			khvist								
-PLX-НФ-00001307	m4_new_p			khvist								
-PLX-НФ-00001308	m4_new_p			khvist								
+PLX-НФ-00001303	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001304	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001305	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001306	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001307	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001308	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001309	m4_new_p			khvist								
-PLX-НФ-00001310	m4_new_p			khvist								
-PLX-НФ-00001311	m4_new_p			khvist								
-PLX-НФ-00001312	m4_new_p			khvist								
+PLX-НФ-00001310	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001311	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001312	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001313	m4_new_p			khvist								
 PLX-НФ-00001314	m3_new_p			khvist								
 PLX-НФ-00001320	m3_new_p			khvist								
@@ -8457,8 +8460,8 @@ PLX-НФ-00001396	m3_new_p			khvist
 PLX-НФ-00001399	m4_new_p			khvist								
 PLX-НФ-00001400	m5_new_p			khvist								
 PLX-НФ-00001401	m4_new_p			khvist								
-PLX-НФ-00001403	m4_new_p			khvist								
-PLX-НФ-00001404	m4_new_p			khvist								
+PLX-НФ-00001403	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001404	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001405	m4_new_p			khvist								
 PLX-НФ-00001410	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00001411	m4_new_p			khvist								
@@ -8468,13 +8471,13 @@ PLX-НФ-00001416	m4_new_p			khvist
 PLX-НФ-00001417	m4_new_p			khvist								
 PLX-НФ-00001418	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00001420	m3_new_p			khvist								
-PLX-НФ-00001421	m3_new_p			khvist								
+PLX-НФ-00001421	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001422	m3_new_p			khvist								
-PLX-НФ-00001423	m3_new_p			khvist								
-PLX-НФ-00001424	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-НФ-00001426	m3_new_p			khvist								
-PLX-НФ-00001427	m3_new_p			khvist								
-PLX-НФ-00001428	m3_new_p			khvist								
+PLX-НФ-00001423	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001424	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
+PLX-НФ-00001426	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001427	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001428	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001429	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001430	m3_new_p			khvist								
 PLX-НФ-00001431	m4_new_p			khvist								
@@ -8586,7 +8589,7 @@ PLX-НФ-00001588	m4_new_p			khvist
 PLX-НФ-00001589	m4_new_p			khvist								
 PLX-НФ-00001590	m4_new_p			khvist								
 PLX-НФ-00001592	m4_new_p			khvist								
-PLX-НФ-00001593	m4_new_p			khvist								
+PLX-НФ-00001593	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001595	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 PLX-НФ-00001596	m3_new_p			khvist								
 PLX-НФ-00001597	m3_norm				chempion	prybutok						
@@ -8651,10 +8654,10 @@ PLX-НФ-00001754	m4_new_p			khvist
 PLX-НФ-00001755	m5_new_p			khvist								
 PLX-НФ-00001756	m3_new_p			khvist								
 PLX-НФ-00001757	m3_new_p			khvist								
-PLX-НФ-00001758	m3_norm			khvist								
-PLX-НФ-00001759	m3_norm			khvist								
-PLX-НФ-00001760	m3_norm			khvist								
-PLX-НФ-00001761	m3_new_p			khvist								
+PLX-НФ-00001758	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001759	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001760	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001761	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001762	m4_new_p			khvist								
 PLX-НФ-00001763	m4_new_p			khvist								
 PLX-НФ-00001764	m4_new_p			khvist								
@@ -8685,13 +8688,13 @@ PLX-НФ-00001819	m3_new_p			khvist
 PLX-НФ-00001829	m3_new_p			khvist								
 PLX-НФ-00001830	m4_new_p			khvist								
 PLX-НФ-00001831	m4_new_p			khvist								
-PLX-НФ-00001832	m4_new_p			khvist								
+PLX-НФ-00001832	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001833	m4_new_p			khvist								
-PLX-НФ-00001834	m4_new_p			khvist								
-PLX-НФ-00001835	m4_new_p			khvist								
-PLX-НФ-00001836	m4_new_p			khvist								
-PLX-НФ-00001837	m4_new_p			khvist								
-PLX-НФ-00001838	m3_new_p			khvist								
+PLX-НФ-00001834	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001835	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001836	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001837	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001838	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001839	m4_new_p			khvist								
 PLX-НФ-00001843	m4_new_p			khvist								
 PLX-НФ-00001846	m4_new_p			khvist								
@@ -8726,9 +8729,9 @@ PLX-НФ-00001887	m3_new_p			khvist
 PLX-НФ-00001890	m3_new_p			khvist								
 PLX-НФ-00001894	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-НФ-00001896	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-НФ-00001897	m3_new_p			khvist								
+PLX-НФ-00001897	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001899	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-НФ-00001900	m3_new_p			khvist								
+PLX-НФ-00001900	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001901	m3_new_p			khvist								
 PLX-НФ-00001903	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001904	m4_new_p			khvist								
@@ -8739,10 +8742,10 @@ PLX-НФ-00001910	m5_new_p			khvist
 PLX-НФ-00001911	m4_new_p			khvist								
 PLX-НФ-00001912	m5_new_p			khvist								
 PLX-НФ-00001913	m5_new_p			khvist								
-PLX-НФ-00001914	m3_new_p			khvist								
-PLX-НФ-00001915	m3_new_p			khvist								
-PLX-НФ-00001917	m4_norm			khvist								
-PLX-НФ-00001919	m4_new_p			khvist								
+PLX-НФ-00001914	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001915	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001917	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001919	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001920	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-НФ-00001921	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-НФ-00001922	m4_new_p			khvist								
@@ -8760,18 +8763,18 @@ PLX-НФ-00001935	m4_new_p			khvist
 PLX-НФ-00001936	m4_new_p			khvist								
 PLX-НФ-00001937	m4_new_p			khvist								
 PLX-НФ-00001946	m3_new_p			khvist								
-PLX-НФ-00001947	m4_new_p			khvist								
-PLX-НФ-00001948	m4_norm			khvist								
-PLX-НФ-00001949	m4_new_p			khvist								
-PLX-НФ-00001950	m4_new_p			khvist								
+PLX-НФ-00001947	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001948	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001949	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001950	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001951	m4_new_p			khvist								
 PLX-НФ-00001953	m4_new_p			khvist								
 PLX-НФ-00001954	m4_new_p			khvist								
-PLX-НФ-00001955	m4_new_p			khvist								
-PLX-НФ-00001956	m4_new_p			khvist								
-PLX-НФ-00001957	m3_new_p			khvist								
-PLX-НФ-00001958	m3_new_p			khvist								
-PLX-НФ-00001959	m3_new_p			khvist								
+PLX-НФ-00001955	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001956	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001957	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001958	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00001959	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00002053	m4_new_p			khvist								
 PLX-НФ-00002054	m4_new_p			khvist								
 PLX-НФ-00002055	m5_new_p			khvist								
@@ -8914,7 +8917,7 @@ PLX-НФ-00002521	m4_new_p			khvist
 PLX-НФ-00002522	m4_new_p			khvist								
 PLX-НФ-00002523	m4_new_p			khvist								
 PLX-НФ-00002526	m4_new_p			khvist								
-PLX-НФ-00002527	m4_new_p			khvist								
+PLX-НФ-00002527	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00002528	m4_new_p			khvist								
 PLX-НФ-00002529	m3_new_p			khvist								
 PLX-НФ-00002530	m3_new_p			khvist								
@@ -9035,8 +9038,8 @@ PLX-НФ-00002750	m5_new_p			khvist
 PLX-НФ-00002753	m4_new_p			khvist								
 PLX-НФ-00002756	m4_new_p			khvist								
 PLX-НФ-00002757	m4_new_p			khvist								
-PLX-НФ-00002758	m4_new_p			khvist								
-PLX-НФ-00002759	m4_new_p			khvist								
+PLX-НФ-00002758	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00002759	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00002760	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00002761	m3_new_p			khvist								
 PLX-НФ-00002762	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -9098,7 +9101,7 @@ PLX-НФ-00002924	m4_new_p			khvist
 PLX-НФ-00002925	m4_new_p			khvist								
 PLX-НФ-00002927	m3_new_p			khvist								
 PLX-НФ-00002928	m4_new_p			khvist								
-PLX-НФ-00002929	m4_new_p			khvist								
+PLX-НФ-00002929	m4_norm_p											
 PLX-НФ-00002931	m4_new_p			khvist								
 PLX-НФ-00002932	m4_new_p			khvist								
 PLX-НФ-00002933	m4_new_p			khvist								
@@ -9108,7 +9111,7 @@ PLX-НФ-00002980	m4_new_p			khvist
 PLX-НФ-00002983	m3_new_p			khvist								
 PLX-НФ-00002984	m3_new_p			khvist								
 PLX-НФ-00002986	m3_new_p			khvist								
-PLX-НФ-00002987	m3_new_p			khvist								
+PLX-НФ-00002987	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00003002	m3_new_p			khvist								
 PLX-НФ-00003003	m3_new_p			khvist								
 PLX-НФ-00003007	m4_new_p			khvist								
@@ -9130,12 +9133,12 @@ PLX-НФ-00003168	m4_new_p			khvist
 PLX-НФ-00003201	m4_new_p			khvist								
 PLX-НФ-00003203	m4_new_p			khvist								
 PLX-НФ-00003204	m4_new_p			khvist								
-PLX-НФ-00003205	m3_new_p			khvist								
+PLX-НФ-00003205	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00003206	m4_norm				chempion	prybutok						
 PLX-НФ-00003209	m4_new_p			khvist								
 PLX-НФ-00003210	m4_new_p			khvist								
-PLX-НФ-00003211	m4_new_p			khvist								
-PLX-НФ-00003212	m4_new_p			khvist								
+PLX-НФ-00003211	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00003212	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00003213	m4_new_p			khvist								
 PLX-НФ-00003214	m4_new_p			khvist								
 PLX-НФ-00003216	m3_new_p			khvist								
@@ -9181,12 +9184,12 @@ PLX-НФ-00003481	m5_new_p			khvist
 PLX-НФ-00003482	m4_new_p			khvist								
 PLX-НФ-00003483	m4_new_p			khvist								
 PLX-НФ-00003484	m4_new_p			khvist								
-PLX-НФ-00003591	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-НФ-00003592	m3_new_p			khvist								
-PLX-НФ-00003593	m3_new_p			khvist								
-PLX-НФ-00003594	m3_new_p			khvist								
-PLX-НФ-00003595	m3_new_p			khvist								
-PLX-НФ-00003596	m3_new_p			khvist								
+PLX-НФ-00003591	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
+PLX-НФ-00003592	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00003593	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00003594	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00003595	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00003596	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00003610	m4_new_p			khvist								
 PLX-НФ-00003611	m4_new_p			khvist								
 PLX-НФ-00003612	m4_new_p			khvist								
@@ -9205,22 +9208,22 @@ PLX-НФ-00003866	m3_new_p			khvist
 PLX-НФ-00003867	m3_norm			khvist								
 PLX-НФ-00003872	m3_new_p			khvist								
 PLX-НФ-00003874	m3_new_p			khvist								
-PLX-НФ-00003934	m3_new_p			khvist								
-PLX-НФ-00003935	m3_new_p			khvist								
-PLX-НФ-00003936	m4_new_p			khvist								
+PLX-НФ-00003934	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00003935	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00003936	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00003937	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00003938	m4_new_p			khvist								
 PLX-НФ-00003939	m4_new_p			khvist								
 PLX-НФ-00003940	m4_new_p			khvist								
-PLX-НФ-00003941	m3_new_p			khvist								
-PLX-НФ-00003942	m3_new_p			khvist								
+PLX-НФ-00003941	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00003942	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00003943	m4_new_p			khvist								
 PLX-НФ-00003944	m3_new_p			khvist								
-PLX-НФ-00003945	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-НФ-00003947	m3_new_p			khvist								
-PLX-НФ-00003948	m3_new_p			khvist								
-PLX-НФ-00003954	m3_new_p			khvist								
-PLX-НФ-00003955	m3_new_p			khvist								
+PLX-НФ-00003945	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
+PLX-НФ-00003947	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00003948	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00003954	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00003955	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00003957	m4_norm			khvist								
 PLX-НФ-00003958	m4_new_p			khvist								
 PLX-НФ-00003959	m4_new_p			khvist								
@@ -9270,7 +9273,7 @@ PLX-СК-03-06	m4_hit				chempion	prybutok
 PLX-СК-03-07	m4_new_p			khvist								
 PLX-СК-03-08	m4_new_p			khvist								
 PLX-СК-03-09	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-СК-03-10	m4_new_p			khvist								
+PLX-СК-03-10	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-СК-03-11	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-СК-03-12	m4_new_p			khvist								
 PLX-СК-03-13	m4_new_p			khvist								
@@ -9287,7 +9290,7 @@ PLX-СК-03-П-04	m4_norm			khvist
 PLX-СК-03-П-05	m4_norm				rozvidka							
 PLX-СК-03-П-06	m4_norm			khvist								
 PLX-СК-03-П-07	m4_new_p			khvist								
-PLX-СК-03-Ш-01	m4_new_p			khvist								
+PLX-СК-03-Ш-01	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-СК-03-Ш-02	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-СК-03-Ш-03	m4_new_p			khvist								
 PLX-СК-03-Ш-04	m4_new_p			khvist								
@@ -9305,7 +9308,7 @@ PLX-СК-03-Ш-16	m5_norm			khvist
 PLX-СК-03-Ш-17	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-СК-03-Ш-18	m4_new_p			khvist								
 PLX-СК-03-Ш-19	m4_new_p			khvist								
-PLX-СК-03-Ш-20	m4_new_p			khvist								
+PLX-СК-03-Ш-20	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-СК-03-Ш-21	m4_new_p			khvist								
 PLX-СК-03-Ш-22	m4_norm			khvist								
 PLX-СК-03-Ш-23	m4_norm			khvist								
@@ -9357,7 +9360,7 @@ PLX-СК-05-03	m4_new_p			khvist
 PLX-СК-05-04	m4_new_p			khvist								
 PLX-СК-05-05	m4_norm			khvist								
 PLX-СК-05-06	m4_norm			khvist								
-PLX-СК-05-07	m4_new_p			khvist								
+PLX-СК-05-07	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-СК-05-08	m4_norm			khvist								
 PLX-СК-05-09	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-СК-05-10	m5_new_p			khvist								
@@ -9367,7 +9370,7 @@ PLX-СК-05-13	m4_norm			khvist
 PLX-СК-05-14	m4_norm				rozvidka							
 PLX-СК-05-15	m4_new_p			khvist								
 PLX-СК-05-16	m4_norm			khvist								
-PLX-СК-05-17	m4_hit				chempion	prybutok						
+PLX-СК-05-17	m4_norm				chempion	prybutok						
 PLX-СК-05-18	m4_new_p			khvist								
 PLX-СК-05-19	m4_norm			khvist								
 PLX-СК-05-25	m4_new_p			khvist								
@@ -9380,7 +9383,7 @@ PLX-СК-05-32	m4_norm			khvist
 PLX-СК-05-33	m4_new_p			khvist								
 PLX-СК-05-34	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 PLX-СК-05-36	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-PLX-СК-05-37	m4_norm				chempion	stop						
+PLX-СК-05-37	m4_norm			khvist								
 PLX-СК-05-38	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 PLX-СК-05-39	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-СК-05-40	m4_norm			khvist								
@@ -9856,7 +9859,7 @@ amt-181817	m0_new		Shopping_ads,Display_ads	drop_marzha						181817
 amt-181818	m0_new		Shopping_ads,Display_ads	drop_marzha						181818		
 amt-181819	m0_new		Shopping_ads,Display_ads	drop_marzha						181819		
 amt-181821	m0_new		Shopping_ads,Display_ads	drop_marzha						181821		
-amt-183817	m0_norm		Shopping_ads,Display_ads	drop_t8						183817		
+amt-183817	m0_norm		Shopping_ads,Display_ads	drop_marzha						183817		
 amt-183818	m0_new		Shopping_ads,Display_ads	drop_t8						183818		
 amt-183820	m0_new		Shopping_ads,Display_ads	drop_t8						183820		
 amt-183838	m0_new		Shopping_ads,Display_ads	drop_marzha						183838		
@@ -10154,14 +10157,14 @@ amt-193945	m0_new		Shopping_ads,Display_ads	drop_marzha						193945
 amt-193946	m0_new		Shopping_ads,Display_ads	drop_marzha						193946		
 amt-193947	m0_new		Shopping_ads,Display_ads	drop_marzha						193947		
 amt-194409	m0_new		Shopping_ads,Display_ads	drop_t8				1223		194409		
-amt-194837	m0_new		Shopping_ads,Display_ads	drop_marzha				3120		194837		
-amt-194839	m0_new		Shopping_ads,Display_ads	drop_marzha						194839		
+amt-194837	m0_new		Shopping_ads,Display_ads	drop_t8				3120		194837		
+amt-194839	m0_new		Shopping_ads,Display_ads	drop_t8						194839		
 amt-194840	m0_norm		Shopping_ads,Display_ads	drop_t8						194840		
 amt-194841	m0_new		Shopping_ads,Display_ads	drop_t8						194841		
-amt-194842	m0_new		Shopping_ads,Display_ads	drop_marzha				694		194842		
+amt-194842	m0_new		Shopping_ads,Display_ads	drop_t8				694		194842		
 amt-194843	m0_new		Shopping_ads,Display_ads	drop_t8				1967		194843		
 amt-195155	m0_new		Shopping_ads,Display_ads	drop_t8				1223				
-amt-195699	m0_new		Shopping_ads,Display_ads	drop_t5						195699		
+amt-195699	m0_new_p			drop_t5						195699		
 amt-195700	m0_new		Shopping_ads,Display_ads	drop_marzha						195700		
 amt-195707	m0_new		Shopping_ads,Display_ads	drop_marzha						195707		
 amt-195708	m0_new		Shopping_ads,Display_ads	drop_marzha						195708		
@@ -10241,7 +10244,7 @@ amt-218204	m0_new		Shopping_ads,Display_ads	drop_marzha				5866			2026-11-20T09:
 amt-218609	m0_new		Shopping_ads,Display_ads	drop_t8				1967		218609		
 amt-218643	m0_new		Shopping_ads,Display_ads	drop_marzha								
 amt-218717	m0_norm		Shopping_ads,Display_ads	drop_marzha				5866				
-amt-219454	m0_new		Shopping_ads,Display_ads	drop_t8				1218		219454		
+amt-219454	m0_new		Shopping_ads,Display_ads	drop_marzha				1218		219454		
 amt-219872	m0_new		Shopping_ads,Display_ads	drop_marzha				5866			2026-11-20T09:00+0300	
 amt-220092	m0_new		Shopping_ads,Display_ads	drop_marzha				5866			2026-11-20T09:00+0300	
 amt-220094	m0_new		Shopping_ads,Display_ads	drop_marzha				5866				
@@ -10328,7 +10331,7 @@ amt-235286	m0_new		Shopping_ads,Display_ads	drop_t8						235286
 amt-235287	m0_new		Shopping_ads,Display_ads	drop_t8						235287		
 amt-235288	m0_new		Shopping_ads,Display_ads	drop_marzha						235288		
 amt-235289	m0_new		Shopping_ads,Display_ads	drop_marzha						235289		
-amt-235290	m0_new_p			drop_t3				3610		235290		
+amt-235290	m0_new		Shopping_ads,Display_ads	drop_marzha				3610		235290		
 amt-235291	m0_new		Shopping_ads,Display_ads	drop_marzha				3610		235291		
 amt-235297	dup:Тиква		Shopping_ads,Display_ads	drop_marzha						235297		
 amt-235311	m0_new		Shopping_ads,Display_ads	drop_marzha				276		235311		
@@ -10431,7 +10434,7 @@ amt-243521	m0_new		Shopping_ads,Display_ads	drop_t8				4928		243521
 amt-243541	m0_new		Shopping_ads,Display_ads	drop_t8				3610		243541		
 amt-243545	m0_new		Shopping_ads,Display_ads	drop_t8				1223		243545		
 amt-243548	m0_norm		Shopping_ads,Display_ads	drop_t8				1223		243548		
-amt-243550	m0_new		Shopping_ads,Display_ads	drop_marzha				1223		243550		
+amt-243550	m0_new		Shopping_ads,Display_ads	drop_t8				1223		243550		
 amt-243551	m0_new		Shopping_ads,Display_ads	drop_marzha				1223		243551		
 amt-243552	m0_new		Shopping_ads,Display_ads	drop_marzha				1223		243552		
 amt-243553	m0_new		Shopping_ads,Display_ads	drop_t8				1223		243553		
@@ -10465,7 +10468,7 @@ amt-244168	m0_norm		Shopping_ads,Display_ads	drop_t8				3610		244168
 amt-244802	m0_norm		Shopping_ads,Display_ads	drop_t8				3120		244802		
 amt-244803	m0_norm		Shopping_ads,Display_ads	drop_marzha				5866				
 amt-244805	m0_new		Shopping_ads,Display_ads	drop_marzha				5866			2026-11-20T09:00+0300	
-amt-244815	m0_new		Shopping_ads,Display_ads	drop_t8				1218		244815		
+amt-244815	m0_new		Shopping_ads,Display_ads	drop_marzha				1218		244815		
 amt-244817	m0_norm		Shopping_ads,Display_ads	drop_marzha				1218		244817		
 amt-244818	m0_norm		Shopping_ads,Display_ads	drop_marzha				1218		244818		
 amt-244884	m0_new		Shopping_ads,Display_ads	drop_t8				3798		244884		
@@ -10478,7 +10481,7 @@ amt-244900	m0_new		Shopping_ads,Display_ads	drop_marzha				276		244900
 amt-244901	m0_new		Shopping_ads,Display_ads	drop_marzha				276		244901		
 amt-244903	m0_new		Shopping_ads,Display_ads	drop_t8				276		244903		
 amt-244904	m0_norm		Shopping_ads,Display_ads	drop_marzha				276		244904		
-amt-244922	m0_norm		Shopping_ads,Display_ads	drop_marzha						244922		
+amt-244922	m0_norm		Shopping_ads,Display_ads	drop_t8						244922		
 amt-244923	m0_new		Shopping_ads,Display_ads	drop_t8				694		244923		
 amt-244924	m0_new		Shopping_ads,Display_ads	drop_marzha						244924		
 amt-245083	m0_new		Shopping_ads,Display_ads	drop_marzha						245083		
@@ -10514,7 +10517,7 @@ amt-246650	m0_new		Shopping_ads,Display_ads	drop_marzha						246650
 amt-247218	m0_new		Shopping_ads,Display_ads	drop_t8						247218		
 amt-247219	m0_new		Shopping_ads,Display_ads	drop_t8						247219		
 amt-247220	m0_new		Shopping_ads,Display_ads	drop_t8						247220		
-amt-247940	m0_new		Shopping_ads,Display_ads	drop_marzha						247940		
+amt-247940	m0_new_p			drop_t5						247940		
 amt-247941	m0_new		Shopping_ads,Display_ads	drop_t8						247941		
 amt-247942	m0_new_p			drop_t5						247942		
 amt-247943	m0_new_p			drop_t5						247943		
@@ -10524,7 +10527,7 @@ amt-248455	m0_new		Shopping_ads,Display_ads	drop_t8				4564		248455
 amt-248456	m0_new		Shopping_ads,Display_ads	drop_t8				4564		248456		
 amt-248457	m0_new		Shopping_ads,Display_ads	drop_t8				4564		248457		
 amt-249719	m0_new		Shopping_ads,Display_ads	drop_marzha				5866			2026-11-20T09:00+0300	
-amt-250586	m0_norm		Shopping_ads,Display_ads	drop_t8				1218		250586		
+amt-250586	m0_norm		Shopping_ads,Display_ads	drop_marzha				1218		250586		
 amt-251246	m0_new		Shopping_ads,Display_ads	drop_marzha						251246		
 amt-251247	m0_new		Shopping_ads,Display_ads	drop_t8						251247		
 amt-251375	m0_new		Shopping_ads,Display_ads	drop_marzha				1218		251375		
@@ -10545,7 +10548,7 @@ amt-257041	m0_new		Shopping_ads,Display_ads	drop_marzha				5866			2026-11-20T09:
 amt-257246	m0_new		Shopping_ads,Display_ads	drop_marzha						257246		
 amt-257247	m0_new		Shopping_ads,Display_ads	drop_marzha						257247		
 amt-257248	m0_new		Shopping_ads,Display_ads	drop_marzha						257248		
-amt-257420	m0_new		Shopping_ads,Display_ads	drop_t8				4928		257420		
+amt-257420	m0_new		Shopping_ads,Display_ads	drop_marzha				4928		257420		
 amt-258195	m0_new		Shopping_ads,Display_ads	drop_t8								
 amt-260355	m0_new		Shopping_ads,Display_ads	drop_t8						260355		
 amt-260356	m0_new		Shopping_ads,Display_ads	drop_t8						260356		
@@ -10684,7 +10687,7 @@ hc-494ADN	m0_new		Shopping_ads,Display_ads	drop_t8						494ADN
 hc-G02FHN	m0_new		Shopping_ads,Display_ads	drop_t8						G02FHN		
 hc-HECHT0000324	m0_norm		Shopping_ads,Display_ads	drop_marzha				6328		HECHT0000324		
 hc-HECHT000318	m0_new		Shopping_ads,Display_ads	drop_marzha				6328				
-hc-HECHT000650	m0_new		Shopping_ads,Display_ads	drop_marzha				4564		HECHT000650		
+hc-HECHT000650	m0_new		Shopping_ads,Display_ads	drop_t5				4564		HECHT000650		
 hc-HECHT000651	m0_new		Shopping_ads,Display_ads	drop_marzha				4564		HECHT000651		
 hc-HECHT000670	m0_norm		Shopping_ads,Display_ads	drop_t8				4564		HECHT000670		
 hc-HECHT000671	m0_new		Shopping_ads,Display_ads	drop_t8				4564		HECHT000671		
@@ -10769,7 +10772,7 @@ hc-HECHT5198	m0_new		Shopping_ads,Display_ads	drop_marzha				5866		HECHT5198
 hc-HECHT5202TWIN	m0_new		Shopping_ads,Display_ads	drop_marzha				5866		HECHT5202TWIN		
 hc-HECHT5286	m0_new		Shopping_ads,Display_ads	drop_marzha				5866		HECHT5286		
 hc-HECHT5292	m0_new		Shopping_ads,Display_ads	drop_marzha				5866				
-hc-HECHT530	m0_new		Shopping_ads,Display_ads	drop_t8				1223		HECHT530		
+hc-HECHT530	m0_new		Shopping_ads,Display_ads	drop_marzha				1223		HECHT530		
 hc-HECHT5386	m0_new		Shopping_ads,Display_ads	drop_marzha				5866		HECHT5386		
 hc-HECHT540	m0_new		Shopping_ads,Display_ads	drop_t8				694		HECHT540		
 hc-HECHT5408	m0_new		Shopping_ads,Display_ads	drop_marzha				694				
@@ -10800,7 +10803,7 @@ hc-HECHT600636	m0_norm		Shopping_ads,Display_ads	drop_t8						HECHT600636
 hc-HECHT600904	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT600905	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT600906	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT6060	m0_new		Shopping_ads,Display_ads	drop_t8				7030		HECHT6060		
+hc-HECHT6060	m0_new		Shopping_ads,Display_ads	drop_marzha				7030		HECHT6060		
 hc-HECHT6070	m0_new		Shopping_ads,Display_ads	drop_marzha				7030		HECHT6070		
 hc-HECHT610	m0_new		Shopping_ads,Display_ads	drop_t8				3120		HECHT610		
 hc-HECHT611	m0_new		Shopping_ads,Display_ads	drop_t8				3120		HECHT611		
@@ -10821,7 +10824,7 @@ hc-HECHT630	m0_new		Shopping_ads,Display_ads	drop_marzha				1223		HECHT630
 hc-HECHT6300XLSilent	m0_new		Shopping_ads,Display_ads	drop_t8				3798		HECHT6300XLSilent		
 hc-HECHT630BOX	m0_new		Shopping_ads,Display_ads	drop_marzha				3798		HECHT630BOX		
 hc-HECHT6421	m0_new		Shopping_ads,Display_ads	drop_t8				3798		HECHT6421		
-hc-HECHT6422	m0_new		Shopping_ads,Display_ads	drop_t8				7030		HECHT6422		
+hc-HECHT6422	m0_new		Shopping_ads,Display_ads	drop_marzha				7030		HECHT6422		
 hc-HECHT6500	m0_new		Shopping_ads,Display_ads	drop_marzha				7030		HECHT6500		
 hc-HECHT6504	m0_new		Shopping_ads,Display_ads	drop_t8				3120		HECHT6504		
 hc-HECHT655	m0_new		Shopping_ads,Display_ads	drop_marzha				3120		HECHT655		
@@ -10889,7 +10892,7 @@ hc-HECHT901550	m0_new		Shopping_ads,Display_ads	drop_t8						HECHT901550
 hc-HECHT902	m0_norm		Shopping_ads,Display_ads	drop_t8		stop		4564		HECHT902		
 hc-HECHT902000	m0_new		Shopping_ads,Display_ads	drop_t8						HECHT902000		
 hc-HECHT9025	m0_norm		Shopping_ads,Display_ads	drop_t8				3610		HECHT9025		
-hc-HECHT902550	m0_new		Shopping_ads,Display_ads	drop_t8						HECHT902550		
+hc-HECHT902550	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT902550		
 hc-HECHT903600	m4_norm		Shopping_ads,Display_ads	drop_t8						HECHT903600		
 hc-HECHT9040	m0_norm		Shopping_ads,Display_ads	drop_marzha				1541		HECHT9040		
 hc-HECHT908500	m0_new		Shopping_ads,Display_ads	drop_t8						HECHT908500		
@@ -11175,7 +11178,7 @@ hx-48054	m0_new_p			khvist
 hx-48076	m0_new_p			khvist								
 hx-48077	m0_new_p			khvist								
 hx-48078	m0_new_p			khvist								
-hx-48147	m2_norm_p				chempion							
+hx-48147	m0_new_p			khvist								
 hx-48323	m0_new_p			khvist								
 hx-8905	m0_new_p			khvist								
 hx-8906	m0_new_p			khvist								
@@ -11200,7 +11203,7 @@ kk-0001	m0_norm			khvist
 kk-0002	m0_norm			khvist								
 kk-0003	m0_norm			khvist								
 kk-0004	m3_norm				chempion	prybutok						
-kk-0005	m0_norm			khvist		stop						
+kk-0005	m0_norm			khvist								
 kk-0006	m0_norm			khvist								
 kk-0007	m0_norm				konv_google							
 kk-0008	m4_norm				chempion	prybutok						
@@ -11415,7 +11418,7 @@ km-47841	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00
 km-47842	m3_norm				chempion	prybutok						
 km-47895	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 km-47896	m3_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-km-47897	m3_hit				chempion	prybutok						
+km-47897	m3_norm				chempion	prybutok						
 km-47898	m3_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 km-47899	m3_norm				chempion	prybutok						
 km-47900	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -11566,7 +11569,7 @@ lg-2000L200MGY	m0_new_p			drop_t5				2608		2000L200MGY
 lg-2000L200MWBL	m0_new_p			drop_t5				2608		2000L200MWBL		
 lg-2000L200MWML	m0_new_p			drop_t5				2608		2000L200MWML		
 lg-2000L200MWW	m0_new_p			drop_t5				2608		2000L200MWW		
-lg-2000L200MWY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		2000L200MWY		
+lg-2000L200MWY	m0_new_p			drop_t5				2608		2000L200MWY		
 lg-2026-CR-3-1	m0_new		Shopping_ads,Display_ads	drop_t5				596				
 lg-2026-CR-3-2	m0_norm		Shopping_ads,Display_ads	drop_marzha				596				
 lg-2026-CR-3-3	m0_new_p			drop_t5				596				
@@ -11826,7 +11829,7 @@ lg-ZWM1564LEDW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		ZWM1564LEDW
 lg-ZWM1564LEDY	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		ZWM1564LEDY		
 lg-ZWM2280LEDW	m0_new_p			drop_t5				2608		ZWM2280LEDW		
 lg-ZWM2280LEDY	m0_new_p			drop_t5				2608		ZWM2280LEDY		
-lg-ZWM2320LEDBL	m0_new_p			drop_t5				2608		ZWM2320LEDBL		
+lg-ZWM2320LEDBL	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		ZWM2320LEDBL		
 lg-ZWM2320LEDML	m0_norm			drop_t5				2608		ZWM2320LEDML		
 lg-ZWM32144LEDY	m0_new_p			drop_t5				2608		ZWM32144LEDY		
 lg-ZWM33192LEDW	m0_new_p			drop_t5				2608		ZWM33192LEDW		
@@ -11835,7 +11838,7 @@ lp-LP10003	m0_new		Shopping_ads,Display_ads	drop_t8				1348		LP10003
 lp-LP10011	m0_new		Shopping_ads,Display_ads	drop_marzha				7166		LP10011		
 lp-LP10063	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP10063		
 lp-LP10358	m0_new		Shopping_ads,Display_ads	drop_marzha				1348		LP10358		
-lp-LP10397	m0_new		Shopping_ads,Display_ads	drop_t8				1348		LP10397		
+lp-LP10397	m0_new		Shopping_ads,Display_ads	drop_marzha				1348		LP10397		
 lp-LP10584	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP10584		
 lp-LP10585	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP10585		
 lp-LP10586	m0_new		Shopping_ads,Display_ads	drop_marzha				7166		LP10586		
@@ -11864,21 +11867,21 @@ lp-LP14628	m0_new		Shopping_ads,Display_ads	drop_marzha				127		LP14628
 lp-LP14630	m0_new		Shopping_ads,Display_ads	drop_marzha				127		LP14630		
 lp-LP14631	m0_new		Shopping_ads,Display_ads	drop_marzha				127		LP14631		
 lp-LP14695	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP14695		
-lp-LP15009	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP15009		
+lp-LP15009	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP15009		
 lp-LP15068	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP15068		
 lp-LP15611	m0_new		Shopping_ads,Display_ads	drop_marzha				505295				
 lp-LP15881	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP15882	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
-lp-LP15883	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
+lp-LP15883	m0_new		Shopping_ads,Display_ads	drop_t8				1480				
 lp-LP15884	m0_new		Shopping_ads,Display_ads	drop_t8				1480				
 lp-LP15885	m0_new		Shopping_ads,Display_ads	drop_t8				1480				
 lp-LP16152	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP16152		
-lp-LP16190	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
+lp-LP16190	m0_new		Shopping_ads,Display_ads	drop_t8				1480				
 lp-LP16191	m0_new		Shopping_ads,Display_ads	drop_t8				1480				
 lp-LP16192	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP16349	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP16349		
-lp-LP16351	m0_new		Shopping_ads,Display_ads	drop_marzha				7166		LP16351		
-lp-LP16353	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP16353		
+lp-LP16351	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP16351		
+lp-LP16353	m0_new		Shopping_ads,Display_ads	drop_marzha				7166		LP16353		
 lp-LP16356	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP16356		
 lp-LP16396	m0_new		Shopping_ads,Display_ads	drop_marzha				2353				
 lp-LP16397	m0_new		Shopping_ads,Display_ads	drop_marzha				2353				
@@ -11909,7 +11912,7 @@ lp-LP16431	m0_new		Shopping_ads,Display_ads	drop_marzha				2353
 lp-LP16432	m0_new		Shopping_ads,Display_ads	drop_marzha				2353				
 lp-LP16435	m0_new		Shopping_ads,Display_ads	drop_marzha				264				
 lp-LP16436	m0_new		Shopping_ads,Display_ads	drop_marzha				264				
-lp-LP16445	m0_new		Shopping_ads,Display_ads	drop_marzha				4928				
+lp-LP16445	m0_new		Shopping_ads,Display_ads	drop_t8				4928				
 lp-LP16456	m0_new		Shopping_ads,Display_ads	drop_marzha				2353				
 lp-LP16458	m0_new		Shopping_ads,Display_ads	drop_marzha				2353				
 lp-LP16459	m0_new		Shopping_ads,Display_ads	drop_marzha				2353				
@@ -11971,13 +11974,13 @@ lp-LP19197	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP19197
 lp-LP19198	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP19198		
 lp-LP19239	m0_new		Shopping_ads,Display_ads	drop_marzha				364				
 lp-LP19241	m0_new		Shopping_ads,Display_ads	drop_t5				364				
-lp-LP19246	m0_new		Shopping_ads,Display_ads	drop_t8				1480				
+lp-LP19246	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP19260	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP19297	m0_new		Shopping_ads,Display_ads	drop_marzha				7167		LP19297		
 lp-LP19339	m0_norm		Shopping_ads,Display_ads	drop_marzha				4714		LP19339		
 lp-LP19410	m0_new		Shopping_ads,Display_ads	drop_marzha				1348		LP19410		
 lp-LP19474	m0_new		Shopping_ads,Display_ads	drop_t8				362				
-lp-LP19483	m0_new		Shopping_ads,Display_ads	drop_t8				1480				
+lp-LP19483	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP19523	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP19523		
 lp-LP19577	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP19578	m0_new		Shopping_ads,Display_ads	drop_t8				362				
@@ -11988,7 +11991,7 @@ lp-LP19745	m0_new		Shopping_ads,Display_ads	drop_t5				362
 lp-LP19746	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP19747	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP19748	m0_new		Shopping_ads,Display_ads	drop_t5				362				
-lp-LP19749	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP19749	m0_new		Shopping_ads,Display_ads	drop_marzha				362				
 lp-LP19750	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP19751	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP19752	m0_new		Shopping_ads,Display_ads	drop_t5				362				
@@ -12042,7 +12045,7 @@ lp-LP20373	m0_new		Shopping_ads,Display_ads	drop_t5				1350
 lp-LP20374	m0_new		Shopping_ads,Display_ads	drop_t8				1348				
 lp-LP20375	m0_new		Shopping_ads,Display_ads	drop_t8				1348				
 lp-LP20401	m0_new		Shopping_ads,Display_ads	drop_marzha				4928				
-lp-LP20421	m0_new		Shopping_ads,Display_ads	drop_marzha				4928				
+lp-LP20421	m0_new		Shopping_ads,Display_ads	drop_t8				4928				
 lp-LP20424	m0_new		Shopping_ads,Display_ads	drop_marzha				264				
 lp-LP20425	m0_new		Shopping_ads,Display_ads	drop_marzha				264				
 lp-LP20426	m0_new		Shopping_ads,Display_ads	drop_marzha				4928				
@@ -12160,7 +12163,7 @@ lp-LP23698	m0_norm		Shopping_ads,Display_ads	drop_t8				6508
 lp-LP23699	m0_new		Shopping_ads,Display_ads	drop_t5				6508				
 lp-LP23700	m0_new		Shopping_ads,Display_ads	drop_t8				6508				
 lp-LP23702	m0_new		Shopping_ads,Display_ads	drop_t8				6508				
-lp-LP23813	m0_new_p			drop_t5				362				
+lp-LP23813	m0_new		Shopping_ads,Display_ads	drop_marzha				362				
 lp-LP23867	m0_new		Shopping_ads,Display_ads	drop_t8				362				
 lp-LP23869	m0_new		Shopping_ads,Display_ads	drop_t8				362				
 lp-LP23870	m0_new		Shopping_ads,Display_ads	drop_t8				362				
@@ -12220,7 +12223,7 @@ lp-LP30335	m0_new		Shopping_ads,Display_ads	drop_marzha				4928		LP30335
 lp-LP30336	m0_new		Shopping_ads,Display_ads	drop_marzha				4928		LP30336		
 lp-LP30337	m3_norm		Shopping_ads,Display_ads	drop_marzha				4928		LP30337		
 lp-LP30339	m4_norm		Shopping_ads,Display_ads	drop_marzha				4928		LP30339		
-lp-LP30381	m0_new		Shopping_ads,Display_ads	drop_t8				5142				
+lp-LP30381	m0_new		Shopping_ads,Display_ads	drop_marzha				5142				
 lp-LP30461	m0_new		Shopping_ads,Display_ads	drop_t5				2455				
 lp-LP30514	m0_new		Shopping_ads,Display_ads	drop_marzha				4928		LP30514		
 lp-LP30581	m0_new		Shopping_ads,Display_ads	drop_t8				1870				
@@ -12249,7 +12252,7 @@ lp-LP3536	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP3536
 lp-LP36020	m0_new_p			drop_t5				127		LP36020		
 lp-LP36138	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP3643	m0_new		Shopping_ads,Display_ads	drop_t8				1870				
-lp-LP36722	m0_new		Shopping_ads,Display_ads	drop_marzha				4928				
+lp-LP36722	m0_new_p			drop_t5				4928				
 lp-LP36723	m0_new		Shopping_ads,Display_ads	drop_marzha				4928				
 lp-LP36975	m0_new		Shopping_ads,Display_ads	drop_t8				1348				
 lp-LP3718	m0_new		Shopping_ads,Display_ads	drop_marzha				505295				
@@ -12348,7 +12351,7 @@ lp-LP40177	m0_norm		Shopping_ads,Display_ads	drop_marzha				1348
 lp-LP40339	m0_new		Shopping_ads,Display_ads	drop_marzha				276				
 lp-LP40401	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40401		
 lp-LP40436	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40436		
-lp-LP40458	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40458		
+lp-LP40458	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP40458		
 lp-LP40462	m0_new		Shopping_ads,Display_ads	drop_marzha				276				
 lp-LP40518	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40518		
 lp-LP40583	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP40583		
@@ -12365,13 +12368,13 @@ lp-LP40598	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40598
 lp-LP40599	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40599		
 lp-LP40600	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP40600		
 lp-LP40601	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP40601		
-lp-LP40605	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40605		
+lp-LP40605	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP40605		
 lp-LP40613	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP40613		
 lp-LP40616	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP40616		
 lp-LP40617	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP40617		
 lp-LP40652	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40652		
-lp-LP40653	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40653		
-lp-LP40686	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40686		
+lp-LP40653	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP40653		
+lp-LP40686	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP40686		
 lp-LP40687	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP40687		
 lp-LP40765	m0_new		Shopping_ads,Display_ads	drop_marzha				5142		LP40765		
 lp-LP40766	m0_new		Shopping_ads,Display_ads	drop_t8				5142				
@@ -12431,7 +12434,7 @@ lp-LP42930	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42930
 lp-LP42931	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42931		
 lp-LP42932	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42932		
 lp-LP42934	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42934		
-lp-LP42935	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42935		
+lp-LP42935	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP42935		
 lp-LP42936	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42936		
 lp-LP42937	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42937		
 lp-LP42938	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42938		
@@ -12439,8 +12442,8 @@ lp-LP42939	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42939
 lp-LP42940	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42940		
 lp-LP42941	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42941		
 lp-LP42942	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42942		
-lp-LP42946	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP42946		
-lp-LP42949	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP42949		
+lp-LP42946	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42946		
+lp-LP42949	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42949		
 lp-LP42954	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42954		
 lp-LP42957	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42957		
 lp-LP42958	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP42958		
@@ -12490,7 +12493,7 @@ lp-LP6562	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP6562
 lp-LP6615	m0_new		Shopping_ads,Display_ads	drop_marzha				1348		LP6615		
 lp-LP8648	m0_new		Shopping_ads,Display_ads	drop_t8				1348		LP8648		
 lp-LP9323	m0_new		Shopping_ads,Display_ads	drop_t8				1348		LP9323		
-lp-LP9489	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP9489		
+lp-LP9489	m0_new		Shopping_ads,Display_ads	drop_marzha				7166		LP9489		
 lp-LP9495	m0_new		Shopping_ads,Display_ads	drop_marzha				505295		LP9495		
 lp-LP9505	m0_new		Shopping_ads,Display_ads	drop_marzha				7166		LP9505		
 lp-LP9652	m0_new		Shopping_ads,Display_ads	drop_marzha				6508				
@@ -12911,7 +12914,9 @@ set-2680041384	m0_new_p			khvist
 set-482026594	m0_norm			khvist								
 set-482027319	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 set10-482019277	m0_new_p			khvist								
+set10-482027303	m0_new_p			khvist								
 set45-482019277	m0_new_p			khvist								
+set5-482027303	m0_new_p			khvist								
 tk-808	m3_new_p			khvist								
 tk-moto	m4_norm			khvist								
 tk-s600	m3_norm			cina_vid_4000								
@@ -13022,7 +13027,7 @@ vt-00-409	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-00-410	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-00-52	m5_norm			khvist								
 vt-00-56	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-00-57	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok		7113				
+vt-00-57	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				7113				
 vt-00-58	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-00-59	m5_new_p			khvist								
 vt-0013	m5_new_p			khvist								
@@ -13104,9 +13109,9 @@ vt-100214	m2_new_p			khvist
 vt-100300	m2_norm			khvist								
 vt-100301BL	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-100301WH	m4_new_p			khvist								
-vt-100302	m3_new_p			khvist								
+vt-100302	m2_new_p			khvist								
 vt-100303	m2_norm			khvist								
-vt-100304	m2_new			khvist								
+vt-100304	m2_new				chempion							
 vt-100305BL	m4_new_p			khvist								
 vt-100305WH	m2_norm			khvist								
 vt-100306	m2_new_p			khvist								
@@ -13165,7 +13170,7 @@ vt-100615M	m2_norm			khvist				652
 vt-100700	m2_new_p			khvist								
 vt-100701	m3_new_p			khvist				643				
 vt-100702	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-vt-100703	m5_norm			khvist								
+vt-100703	m4_norm			khvist								
 vt-100704	m3_new_p			khvist								
 vt-100705	m3_new_p			khvist								
 vt-100706	m5_norm			khvist								
@@ -13436,7 +13441,7 @@ vt-1737	m5_new_p			khvist
 vt-1745	m5_new_p			khvist								
 vt-1746	m5_new_p			khvist								
 vt-1753-16	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-1753-4	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti					4823082528158			
+vt-1753-4	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-1762	m5_new_p			khvist								
 vt-1766	m5_new_p			khvist								
 vt-1769	m5_new_p			khvist								
@@ -13563,7 +13568,7 @@ vt-20593	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00
 vt-20620	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-2079-10	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-20881	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti					7895730213270		2026-11-20T09:00+0300	
-vt-20900	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti					7895730212266			
+vt-20900	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-2091-16	m5_norm			khvist								
 vt-20953	m5_new_p			khvist					7895730212242			
 vt-21-04-244	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti				666				
@@ -13574,7 +13579,7 @@ vt-21-279-121	m5_new_p			khvist
 vt-21-279-123	m3_norm			khvist				2169				
 vt-21-279-124	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				2169			2026-11-20T09:00+0300	
 vt-21-279-125	m5_new_p			khvist				2169				
-vt-21-279-126	m3_norm			khvist				2169				
+vt-21-279-126	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi				2169				
 vt-21-316-001	m2_norm			khvist				666				
 vt-21-316-010	m2_norm			khvist				3498				
 vt-21-316-015	m3_norm			khvist				3498				
@@ -13659,10 +13664,10 @@ vt-24-237-015	m5_norm			khvist
 vt-24-237-018 KR	m5_new_p			khvist								
 vt-2401	m5_new_p			khvist								
 vt-2402	m5_new_p			khvist								
-vt-24020062	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti					6900070222620			
-vt-24020063	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok			6900070222637			
+vt-24020062	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-24020063	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 vt-24020064	m4_new_p				rozvidka				6900070222644			
-vt-24020065	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok			6900070222651			
+vt-24020065	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 vt-2403	m5_new_p			khvist								
 vt-2404	m5_new_p				rozvidka							
 vt-2405	m5_new_p			khvist								
@@ -13807,7 +13812,7 @@ vt-26-203-003	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				1647
 vt-26-203-030	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-26-203-071	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				1647				
 vt-26-203-072	m2_new_p			khvist								
-vt-26-203-085	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-26-203-085	m4_norm				rozvidka							
 vt-26-203-110	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti				643				
 vt-26-203-114	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				3156			2026-11-20T09:00+0300	
 vt-26-238-008	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -13874,7 +13879,7 @@ vt-26-242-049	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-26-242-050	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-26-242-051	m3_new_p			cina_vid_4000				666				
 vt-26-242-053	m2_norm_p			khvist								
-vt-26-242-056	m4_norm			khvist								
+vt-26-242-056	m4_norm		Shopping_ads,Display_ads	khvist								
 vt-26-242-057	m4_new_p			khvist					4005527175336			
 vt-26-247-013	m2_new_p			khvist								
 vt-26-247-014	m2_new_p			khvist								
@@ -13932,7 +13937,7 @@ vt-29-250-031	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti				752
 vt-29-250-044	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti				5251				
 vt-29-256-001	m2_norm		Shopping_ads	vytraty_stelya				4762				
 vt-29-260-001	m3_new_p			khvist				3521				
-vt-29-260-002	m2_new_p			khvist								
+vt-29-260-002	m3_new_p			khvist								
 vt-29-260-006	m2_new_p			khvist				3248				
 vt-29-274-002	m3_new			season_off				666				
 vt-29-274-006	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti				3382				
@@ -13984,7 +13989,7 @@ vt-29-298-076	m3_new_p			khvist				667
 vt-29-298-077	m3_new_p			khvist				667				
 vt-29-301-002	m3_new_p			khvist								
 vt-29-301-012	m3_new_p			khvist								
-vt-29-301-018	m2_new_p			khvist				3156				
+vt-29-301-018	m3_new_p			khvist				3156				
 vt-29-305-001	m2_new_p			khvist								
 vt-29-305-007	m2_new_p			khvist								
 vt-29-305-035	m2_norm			khvist								
@@ -14078,7 +14083,7 @@ vt-30098-05	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-30098-06	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-30133-00	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-30134-00	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-vt-30135-00	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
+vt-30135-00	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-30168-00	m3_new_p			khvist								
 vt-30169-00	m5_new_p			khvist								
 vt-30170-00	m5_new_p			khvist								
@@ -14277,7 +14282,7 @@ vt-43544G	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-43634	m4_new_p			khvist					8693357076082			
 vt-43674G	m3_new_p			khvist					8693357116221	43674G		
 vt-43713	m5_new_p			khvist								
-vt-43763	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357490017			
+vt-43763	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-43767	m4_norm		Shopping_ads,Display_ads	pid_zamovlennya				602			2026-11-20T09:00+0300	
 vt-43794g	m3_new_p			khvist								
 vt-43813	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357484696			
@@ -14292,7 +14297,7 @@ vt-440099	m2_new_p			khvist					8693357249172
 vt-440111	m0_new_p			khvist								
 vt-440111-SL	m4_norm			khvist								
 vt-440176	m2_norm			khvist					8693357418288			
-vt-440186	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
+vt-440186	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-440211	m3_new_p			khvist								
 vt-440236	m3_norm			khvist					8693357586154			
 vt-440237	m5_new		Shopping_ads,Display_ads	pid_zamovlennya					8693357394186		2026-11-20T09:00+0300	
@@ -14371,7 +14376,7 @@ vt-4S415 450	m2_new_p			khvist
 vt-4S415 460	m2_new_p			khvist								
 vt-4S415 580	m4_new_p			khvist								
 vt-5	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-vt-5 LA-НАБІР	m4_norm				rozvidka							
+vt-5 LA-НАБІР	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 vt-5-21	m5_new_p			khvist								
 vt-5-79	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya				3802			2026-11-20T09:00+0300	
 vt-500217	m5_new_p			khvist					6953440500217			
@@ -14460,10 +14465,10 @@ vt-50276	m2_new_p			khvist				665
 vt-50278	m2_new_p			khvist								
 vt-50289	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-50290	m2_new_p			khvist				752				
-vt-50293	m3_new_p			khvist				665				
+vt-50293	m2_new_p			khvist				665				
 vt-50295	m2_new_p			khvist								
 vt-50296	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-50299	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti					5907706502997			
+vt-50299	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-50300	m4_new_p			khvist					5907706503000			
 vt-50301	m2_new_p			khvist				665				
 vt-50303	m2_new_p			khvist				665				
@@ -14492,7 +14497,7 @@ vt-5036	m5_new_p			khvist
 vt-503600	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-50367	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				652			2026-11-20T09:00+0300	
 vt-50372	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti				652				
-vt-50393	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-50393	m4_norm			khvist								
 vt-50399	m4_norm			khvist					5907706503994			
 vt-50409	m4_new		Shopping_ads,Display_ads	pid_zamovlennya				6838			2026-11-20T09:00+0300	
 vt-50410	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				6838				
@@ -14554,7 +14559,7 @@ vt-5063	m5_new_p			khvist
 vt-50660	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti				6388				
 vt-50661	m3_new_p			khvist				668				
 vt-50663	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti				3196				
-vt-50664	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti					5907706506643			
+vt-50664	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-50669	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti				668				
 vt-50670	m3_new_p			khvist				3196				
 vt-506710	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
@@ -14579,7 +14584,7 @@ vt-50693	m3_norm			khvist				668
 vt-50693-420	m5_norm			khvist								
 vt-50730	m3_new_p			khvist					5907706507305			
 vt-50732	m3_new_p			khvist								
-vt-50733	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti					5907706507336			
+vt-50733	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-50734	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-50735	m3_norm			khvist					5907706507350			
 vt-50736	m2_new_p			khvist					5907706507367			
@@ -14706,7 +14711,7 @@ vt-54036	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-54188	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-54209	m3_norm			khvist				750				
 vt-54783	m3_norm			khvist								
-vt-54883	m5_new_p			khvist								
+vt-54883	m3_new_p			khvist								
 vt-54903	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-54942	m3_new_p			khvist								
 vt-54942 bk Tokio Black	m5_new_p			khvist								
@@ -14723,7 +14728,7 @@ vt-55229	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-55249	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-55299	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-553	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-vt-553 А-НАБІР	m4_norm			khvist								
+vt-553 А-НАБІР	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 vt-55332	m3_new_p			khvist					8693357467750			
 vt-55442	m2_norm			khvist					8693357595026			
 vt-55452	m5_norm			khvist					8693357593558			
@@ -14732,7 +14737,7 @@ vt-55531	m3_new_p			khvist
 vt-55723	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-557412	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-557412-А	m5_new_p			khvist								
-vt-557611-А	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti					6920190610237			
+vt-557611-А	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-55861-2	m3_norm			khvist					4606065043776			
 vt-567-2,1	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-567-3,1	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -14763,7 +14768,7 @@ vt-5913805	m5_new_p			khvist
 vt-59204	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-59314	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-59394	m2_norm			khvist								
-vt-59514	m5_norm_p				chempion							
+vt-59514	m5_norm_p				chempion	prybutok						
 vt-59534#	m5_norm			khvist								
 vt-59544	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-59614	m5_norm_p				chempion				8693357349384			
@@ -14775,7 +14780,7 @@ vt-59914	m3_norm			khvist
 vt-59974	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-6024-19	m5_norm				chempion	prybutok			4823082529254			
 vt-6024-21	m3_norm			khvist								
-vt-6026-19	m3_norm				chempion	prybutok			4823082529292			
+vt-6026-19	m3_hit				chempion	prybutok			4823082529292			
 vt-6026-21	m3_norm_p			khvist								
 vt-6027-19	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-6027-21	m4_new_p			khvist								
@@ -14818,7 +14823,7 @@ vt-68236	m3_new_p			khvist
 vt-6828-5	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 vt-68289	m3_new_p			khvist				602				
 vt-68338	m5_new_p			khvist								
-vt-6835 280	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-6835 280	m3_norm			khvist								
 vt-6835 580	m2_norm			khvist								
 vt-68474	m5_norm			khvist								
 vt-68475	m4_new_p			khvist								
@@ -14925,7 +14930,7 @@ vt-80028	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00
 vt-80030	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-80030 S&T	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-80032	m5_norm			khvist								
-vt-80034	m5_norm				konv_google				4823082543076			
+vt-80034	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi					4823082543076			
 vt-80056	m5_new_p			khvist								
 vt-80113-1 ТЕХ	m5_new_p			khvist								
 vt-80229	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
@@ -15211,7 +15216,7 @@ vt-AR0720EBG	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T0
 vt-AR0720GB	m2_norm			khvist								
 vt-AR0722G	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-AR0723S	m2_new_p			khvist								
-vt-AR0724BES	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		stop						
+vt-AR0724BES	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR0724BS	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 vt-AR0724G	m2_new_p			khvist								
 vt-AR0724SL	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
@@ -15237,7 +15242,7 @@ vt-AR0826EBR	m4_new_p			khvist
 vt-AR0835S	m2_norm			khvist								
 vt-AR0864S	m3_norm			khvist								
 vt-AR0901W	m2_norm			khvist								
-vt-AR0902B	m3_hit				chempion	prybutok						
+vt-AR0902B	m3_hit		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
 vt-AR0904W	m3_new_p			khvist								
 vt-AR0905B	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR0906B	m3_new_p			khvist								
@@ -15250,7 +15255,7 @@ vt-AR0911BB	m0_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti		stop					
 vt-AR0912BB	m2_norm			khvist								
 vt-AR0912WB	m2_new_p			khvist								
 vt-AR0913BB	m3_new_p			khvist								
-vt-AR0913SS	m3_norm_p				chempion	prybutok						
+vt-AR0913SS	m3_norm_p											
 vt-AR0913WB	m3_new_p			khvist				3061				
 vt-AR0914GB	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR0914S	m3_new_p			khvist								
@@ -15275,7 +15280,7 @@ vt-AR0934	m3_norm		Shopping_ads	vytraty_stelya
 vt-AR0936	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR0937	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-AR0939S	m3_new_p			khvist								
-vt-AR0940	m4_new		Shopping_ads,Display_ads	ne_v_prajsi					0767637186087			
+vt-AR0940	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 vt-AR0944	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-AR0945	m3_norm				chempion	prybutok						
 vt-AR0948	m3_norm			khvist								
@@ -15283,7 +15288,7 @@ vt-AR0949	m2_norm			khvist
 vt-AR0957	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 vt-AR0958	m5_norm			khvist								
 vt-AR0959	m2_new_p			khvist				6086				
-vt-AR0960	m5_norm			khvist								
+vt-AR0960	m5_norm											
 vt-AR0961	m3_new_p			khvist				3802				
 vt-AR0962	m5_new_p			khvist				3802				
 vt-AR0963	m3_new_p			khvist				4026				
@@ -15426,7 +15431,7 @@ vt-AR1906VT	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-AR1908AFP	m2_new_p			khvist								
 vt-AR1908CS	m2_norm			khvist								
 vt-AR1908PS	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-AR1909BGM	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
+vt-AR1909BGM	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR1910CA	m4_norm			khvist								
 vt-AR1910FFP	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-AR1910FP	m2_new_p			khvist								
@@ -15446,7 +15451,7 @@ vt-AR1916AS	m3_norm			khvist
 vt-AR1916GSS	m3_new_p			khvist					0674012402864	AR1916GSS		
 vt-AR1916MG	m2_norm			khvist					0684079971470	AR1916MG		
 vt-AR1916SS	m2_new_p			khvist								
-vt-AR1917CA	m4_new_p			khvist								
+vt-AR1917CA	m5_new_p			khvist								
 vt-AR1918GP	m2_norm			khvist					0684079968029	AR1918GP		
 vt-AR1918SS	m2_new_p			khvist					0680576164773	AR1918SS		
 vt-AR1919SA	m4_new_p			khvist					0767637189798	AR1919SA		
@@ -15724,7 +15729,7 @@ vt-AR2635BBS	m2_norm			khvist					0767637186452	AR2635BBS
 vt-AR2635BGG	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-AR2635BH	m3_new			khvist								
 vt-AR2635BHN	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-AR2635BN	m3_norm		Shopping_ads	vytraty_stelya	konv_google							
+vt-AR2635BN	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi								
 vt-AR2635BS	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2635BV	m3_norm		Shopping_ads	vytraty_stelya								
 vt-AR2635BWH	m3_new_p			khvist								
@@ -15787,7 +15792,7 @@ vt-AR2916AW	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-AR2916BB	m3_new_p			khvist								
 vt-AR2916BM	m5_new_p			khvist								
 vt-AR2916GRC	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
-vt-AR2916MRB	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti					0767637165860			
+vt-AR2916MRB	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2916MRW	m3_new_p			khvist					0767637165907	AR2916MRW		
 vt-AR2916PC	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-AR2916TB	m3_new_p			khvist					0674012408361	AR2916TB		
@@ -15872,7 +15877,7 @@ vt-AR2927SWB	m3_norm			khvist
 vt-AR2927UB	m3_new_p			khvist								
 vt-AR2936BGC	m3_norm			khvist								
 vt-AR2936GGC	m3_new_p			khvist					0684079972415	AR2936GGC		
-vt-AR2936GREY	m3_hit				chempion	prybutok						
+vt-AR2936GREY	m3_norm			khvist								
 vt-AR2936SBG	m3_new_p			khvist								
 vt-AR2936SWB	m3_new_p			khvist								
 vt-AR2936WGC	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -16149,7 +16154,7 @@ vt-ARHB3109W	m2_new_p			khvist
 vt-ARHB3110GB	m2_norm_p				chempion	prybutok						
 vt-ARHB3110WB	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ARHB3112CB	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-ARHB3113GW	m3_norm_p				chempion							
+vt-ARHB3113GW	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi								
 vt-ARHB3113WB	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ARHB3123BB	m2_norm_p				chempion							
 vt-ARHB3123WB	m2_new_p			khvist								
@@ -16237,15 +16242,15 @@ vt-ARHE1302B	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T0
 vt-ARHE1303B	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ARHE1304B	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ARHE1305B	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-ARHE1306B	m3_norm				chempion	prybutok						
+vt-ARHE1306B	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi								
 vt-ARHE1307B	m3_new_p			khvist								
 vt-ARHE1308B	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-vt-ARHE1311G	m5_new_p			khvist								
+vt-ARHE1311G	m3_new_p			khvist								
 vt-ARHH5101FG	m4_new_p			khvist								
 vt-ARHH5401WB	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-ARHH5402BB	m2_new_p			khvist								
 vt-ARHH5403BB	m3_norm			khvist								
-vt-ARHK4101SG	m3_norm				chempion	prybutok						
+vt-ARHK4101SG	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
 vt-ARHK4102DR	m3_norm			khvist								
 vt-ARHK4201B	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ARHK4202B	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
@@ -16265,7 +16270,7 @@ vt-ARHK4507B	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok
 vt-ARHK4507W	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ARHK4511B	m5_norm			khvist					0614537767956	ARHK4511B		
 vt-ART0106PB	m4_norm			khvist								
-vt-ART0108PB	m2_norm			khvist								
+vt-ART0108PB	m2_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 vt-ART0109PB	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 vt-ART0110PB	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-ART0111PB	m3_norm			khvist					0674012410685	ART0111PB		
@@ -16273,7 +16278,7 @@ vt-ART0112PB	m2_norm			khvist
 vt-ART0116PB	m2_new_p			khvist					0767637173261	ART0116PB		
 vt-ART0117PB	m3_norm			khvist					0767637173278	ART0117PB		
 vt-ART0118PB	m2_norm			khvist					0767637173285	ART0118PB		
-vt-ART0120PB	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi					0767637173308			
+vt-ART0120PB	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 vt-ART0121PB	m2_new_p			khvist					0767637178976	ART0121PB		
 vt-ART0122PB	m4_norm			khvist					0767637178983	ART0122PB		
 vt-ART0123PB	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -16301,7 +16306,7 @@ vt-ART0714PB	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-ART0717PB	m2_norm			khvist								
 vt-ART0718PB	m2_new			khvist								
 vt-ART0723PB	m5_new_p			khvist								
-vt-ART0724PB	m5_norm				chempion	prybutok						
+vt-ART0724PB	m5_norm			khvist								
 vt-ART0725PB	m5_norm			khvist								
 vt-ART0726PB	m5_new			khvist								
 vt-ART0727PB	m3_norm					cina						
@@ -16420,7 +16425,7 @@ vt-CLW-19-330	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T
 vt-CLW-6	m5_new_p			khvist				3498				
 vt-CLW-9-20	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-CLW-9-24	m5_norm			khvist								
-vt-CON-0255-PYR-S	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
+vt-CON-0255-PYR-S	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-CT1008А-DF3	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-CT1008А-DS3	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-CT1008А-ТS3	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -16618,7 +16623,7 @@ vt-EM-9840	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:
 vt-EM-9850	m5_new_p			khvist								
 vt-EM-9851	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-EM-9852	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-EM-9854	m3_norm		Shopping_ads	vytraty_stelya	chempion							
+vt-EM-9854	m3_norm		Shopping_ads	vytraty_stelya								
 vt-EM-9861	m5_norm			khvist								
 vt-EM-9906	m5_norm			khvist								
 vt-EM-9936	m4_new_p			khvist								
@@ -16694,7 +16699,7 @@ vt-JH-SS2026IH	m4_new_p			khvist					6905620360111
 vt-JH6009-4	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-JH6009-5	m3_new_p			khvist								
 vt-JH6196-4	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
-vt-JH6196-5	m5_new_p			khvist								
+vt-JH6196-5	m3_new_p			khvist								
 vt-JH6197-4	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-JM 1004DB	m5_norm			khvist								
 vt-JR1006	m4_new_p			khvist					6942178908600	JR1006		
@@ -16878,7 +16883,7 @@ vt-KM-1129	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti				666
 vt-KM-1131	m2_norm			khvist				3337				
 vt-KM-1134	m2_norm			khvist				666				
 vt-KM-1134B	m4_norm			khvist				666				
-vt-KM-1601	m3_norm		Shopping_ads,Display_ads	pid_zamovlennya		stop					2026-11-20T09:00+0300	
+vt-KM-1601	m3_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-KM-1701A	m4_new		Shopping_ads,Display_ads	pid_zamovlennya				638			2026-11-20T09:00+0300	
 vt-KM-1701B	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				638			2026-11-20T09:00+0300	
 vt-KM-1710	m4_new_p			khvist				638				
@@ -16889,7 +16894,7 @@ vt-KM-1715A	m2_new			khvist				638
 vt-KM-1715R	m2_new_p			khvist				638				
 vt-KM-1719A	m4_norm			khvist				638				
 vt-KM-1720B	m2_new_p			khvist				638				
-vt-KM-1721	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti					5903148923178			
+vt-KM-1721	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-KM-1722	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-KM-1723	m2_new_p			khvist				638				
 vt-KM-1724	m2_norm			khvist				638				
@@ -16902,12 +16907,12 @@ vt-KM-20002	m2_new_p			khvist
 vt-KM-20003	m3_new_p			khvist								
 vt-KM-2010BL	m2_norm			khvist				3435				
 vt-KM-2010WH	m2_norm			khvist				3435				
-vt-KM-2011BL	m2_norm			khvist				3435				
+vt-KM-2011BL	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi				3435				
 vt-KM-2011WH	m2_norm				chempion	prybutok		3435				
 vt-KM-2021	m2_new_p			khvist								
 vt-KM-2024	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya				3435			2026-11-20T09:00+0300	
 vt-KM-2030	m2_norm			khvist				3435				
-vt-KM-2031	m5_norm				chempion	prybutok		3435				
+vt-KM-2031	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi		prybutok		3435				
 vt-KM-2032	m2_norm			khvist				3435				
 vt-KM-2034	m4_new			khvist								
 vt-KM-2037	m2_norm			khvist								
@@ -17001,7 +17006,7 @@ vt-KM-2221	m2_new_p			khvist
 vt-KM-2222	m2_norm			khvist								
 vt-KM-2300	m3_new_p			khvist								
 vt-KM-2301	m4_new_p			khvist				3809				
-vt-KM-2302	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti					5903148920955			
+vt-KM-2302	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-KM-2303	m3_new_p			khvist				3809				
 vt-KM-2304	m3_new_p			khvist				3809				
 vt-KM-2305	m4_new_p			khvist								
@@ -17082,7 +17087,7 @@ vt-KM-4319	m3_norm			khvist
 vt-KM-4320	m3_new_p			khvist								
 vt-KM-4328	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-KM-4330	m3_new_p			khvist								
-vt-KM-4343	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti					5902539655186			
+vt-KM-4343	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-KM-4346	m3_new_p			khvist								
 vt-KM-4347	m3_new_p			khvist								
 vt-KM-4348	m3_new_p			khvist								
@@ -17098,7 +17103,7 @@ vt-KM-4360	m3_norm			khvist
 vt-KM-4361	m3_new_p			khvist								
 vt-KM-4362	m2_norm_p				chempion							
 vt-KM-4363	m3_norm				chempion	prybutok		659				
-vt-KM-4364	m2_norm			khvist				659				
+vt-KM-4364	m2_norm							659				
 vt-KM-4366	m5_new_p			khvist								
 vt-KM-4367	m3_new_p			khvist								
 vt-KM-4370	m3_norm			khvist								
@@ -17110,7 +17115,7 @@ vt-KM-4379	m4_new_p			khvist
 vt-KM-4381	m2_new_p			khvist					5903148929644	KM-4381		
 vt-KM-4382	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				3373				
 vt-KM-4383	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-KM-4384	m4_norm				chempion	prybutok		3498				
+vt-KM-4384	m4_norm			khvist				3498				
 vt-KM-4385	m2_new_p			khvist								
 vt-KM-4387	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-KM-4391	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -17265,7 +17270,7 @@ vt-KM-5119	m2_norm				chempion	prybutok
 vt-KM-5120	m2_norm			khvist								
 vt-KM-5121	m3_new_p			khvist								
 vt-KM-5122	m2_new_p			khvist				666				
-vt-KM-5123	m2_norm			khvist				666				
+vt-KM-5123	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi				666				
 vt-KM-5125	m2_new_p			khvist								
 vt-KM-5130	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-KM-5133	m2_new_p			khvist								
@@ -17427,7 +17432,7 @@ vt-KM-6063	m3_new_p			khvist				3382
 vt-KM-6064	m5_norm				chempion	prybutok			5904734065135	KM-6064		
 vt-KM-6065	m5_norm				chempion	prybutok			5904734065142	KM-6065		
 vt-KM-6109	m2_new_p			khvist								
-vt-KM-6110	m1_new_p			khvist								
+vt-KM-6110	m2_new_p			khvist								
 vt-KM-6111	m2_norm			khvist								
 vt-KM-6300	m2_new_p			khvist								
 vt-KM-6303	m2_new_p			khvist				643				
@@ -17437,7 +17442,7 @@ vt-KM-6420	m2_norm			khvist				5103
 vt-KM-6425	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				5103				
 vt-KM-6511	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok		3156				
 vt-KM-6514	m2_norm			khvist				6749				
-vt-KM-6520	m3_new_p			khvist				643				
+vt-KM-6520	m4_new_p			khvist				643				
 vt-KM-6530	m4_norm			cina_vid_4000				6749				
 vt-KM-6535	m3_norm			khvist				6749				
 vt-KM-6602	m2_norm			khvist				5705				
@@ -17461,7 +17466,7 @@ vt-KM-6733	m2_new_p			khvist				734
 vt-KM-6734	m2_new_p			khvist				734				
 vt-KM-6735	m4_new_p			khvist				750				
 vt-KM-6736	m3_norm			khvist				750				
-vt-KM-6737	m4_norm			khvist				750				
+vt-KM-6737	m5_norm			khvist				750				
 vt-KM-6738	m4_new_p			khvist				730				
 vt-KM-6739	m2_new_p			khvist				750				
 vt-KM-6740	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti				505666				
@@ -17571,7 +17576,7 @@ vt-KM-7759	m2_new_p			khvist
 vt-KM-7760	m3_new_p			khvist								
 vt-KM-7761	m3_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok		666				
 vt-KM-7762	m2_new_p			khvist				666				
-vt-KM-7763	m2_norm			khvist				666				
+vt-KM-7763	m2_norm		Shopping_ads,Display_ads	ne_v_prajsi				666				
 vt-KM-7766	m2_new_p			khvist								
 vt-KM-7767	m2_norm			khvist								
 vt-KM-7770	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -17648,8 +17653,8 @@ vt-KM-9033	m2_new_p			khvist
 vt-KM-9035	m5_new_p			khvist								
 vt-KM-9036	m3_new_p			khvist								
 vt-KM-9050	m2_norm			khvist				5135				
-vt-KM-9051	m2_hit				chempion	prybutok		5135				
-vt-KM-9052	m3_norm_p				chempion			4372				
+vt-KM-9051	m2_norm				chempion	prybutok		5135				
+vt-KM-9052	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi				4372				
 vt-KM-9053	m3_new_p			khvist				4372				
 vt-KM-9054	m4_norm			khvist				4372				
 vt-KM-9055	m3_new_p			khvist				4372				
@@ -17761,7 +17766,7 @@ vt-N3273	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:0
 vt-N3600	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-N3646	m3_new_p			khvist								
 vt-N3913	m2_norm			khvist								
-vt-N3941	m3_hit	ads_zero			chempion	prybutok						
+vt-N3941	m3_norm	ads_zero	Shopping_ads	vytraty_stelya	chempion	prybutok						
 vt-N6416	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-N7784	m5_new_p			khvist				2169				
 vt-N8005	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -17791,7 +17796,7 @@ vt-OMS 2070-28-9,2л	m4_new_p			cina_vid_4000				661
 vt-OMS 2070-L-28-6,8л	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti				661				
 vt-OMS 3005-IND-Grey IND	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-OMS 3023 IND-Gold	m4_new_p			cina_vid_4000				666				
-vt-OMS 3024-IND-Ivory	m4_norm			cina_vid_4000		stop		666				
+vt-OMS 3024-IND-Ivory	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi		stop		666				
 vt-OMS 3031-Gold	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-OMS 3116-24-4,2л-San	m4_new_p			khvist				661				
 vt-OMS 3116-28-Black	m4_new_p			khvist								
@@ -17900,7 +17905,7 @@ vt-S507009-А	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-S508610-А	m5_norm			khvist								
 vt-S701	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-SC10	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-SG-7750 АКЦІЯ	m4_new_p			khvist								
+vt-SG-7750 АКЦІЯ	m5_new_p			khvist								
 vt-SH2-2	m5_new_p			khvist								
 vt-SL-50Z-B-BLUE	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
 vt-SL-50Z-B-RED	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-20T09:00+0300	
@@ -18022,7 +18027,7 @@ vt-V9410	m5_norm			khvist
 vt-V9416	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-20T09:00+0300	
 vt-V9422	m4_new_p			khvist								
 vt-V9734	m5_norm_p				chempion				0883314028263	V9734		
-vt-VS0402	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				2713			2026-11-20T09:00+0300	
+vt-VS0402	m0_new		Shopping_ads,Display_ads	ne_v_prajsi				2713			2026-11-20T09:00+0300	
 vt-VT-8107	m5_norm			khvist								
 vt-VT-8111	m4_new_p			khvist								
 vt-W004 KЛ	m5_norm			khvist								
@@ -18226,7 +18231,7 @@ vt-ФП-10	m5_norm			khvist
 vt-ФП-15	m0_new_p			khvist								
 vt-ФПК-1	m5_norm			khvist								
 vt-ФПЛА-1	m5_norm			khvist								
-vt-ФПО-12	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-ФПО-12	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ФПП-1П	m5_new_p			khvist								
 vt-ФПТ- М	m5_new_p			khvist								
 vt-ФПТ- С	m5_new_p			khvist								
@@ -18471,7 +18476,7 @@ xt-3245397955	m0_new		Shopping_ads,Display_ads	drop_bez_reklamy				596
 Л-0	m0_new_p				rozvidka							
 ЛБ-0	m0_norm			khvist								
 ЛБ-1	m5_hit				chempion	prybutok						
-ЛБ-2	m0_norm				rozvidka							
+ЛБ-2	m0_norm											
 ПГ-8007/14	m0_norm			khvist								
 ТР 337	m0_new_p			khvist								
 ТР 7019	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
