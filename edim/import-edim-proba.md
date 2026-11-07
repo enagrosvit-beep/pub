@@ -5,6 +5,6 @@
 
 | артикул Едіму | назва | сторінка | зараз (ціна / наявність) | очікувано після імпорту | Гарбуз |
 |---|---|---|---|---|---|
-| 01-45-003 | Ручка для металопластикових вікон CGZS036-CD | https://edimik.com.ua/ruchka-dlia-metaloplastykovykh-vikon-cgzs036-cd/ | 199 / є | 229 / немає | 2639817174 229.0 |
+| 01-33-003 | Шпінгалет врізний, 3053, 140 мм, SN | https://edimik.com.ua/shpinhalet-vriznyi-3053-140-mm-sn/ | 109 / є | 109 / немає | PLX-01-33-003 109.0 |
 | 002-h | Аерозольний балон, DOMEX WHITE LINE, високотемпера | https://edimik.com.ua/aerozolnyi-balon-domex-white-line-vysokotemperaturna-sribna-121-400-ml/ | 339 / немає | 279 / є | PLX-WL121 279.0 |
 | 003-h | Аерозольний балон, DOMEX WHITE LINE, високотемпера | https://edimik.com.ua/aerozolnyi-balon-domex-white-line-vysokotemperaturna-chervona-124-400-ml/ | 339 / немає | 279 / є | PLX-WL124 279.0 |
