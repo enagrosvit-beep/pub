@@ -2629,7 +2629,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2598120755	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				1967			2026-11-21T09:00+0300	
 2598123545	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				1967			2026-11-21T09:00+0300	
 26-008	m0_new		Shopping_ads,Display_ads	ne_v_prajsi								
-2601	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-21T09:00+0300	
+2601	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-21T09:00+0300	
 2601855784	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-21T09:00+0300	
 2602	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-21T09:00+0300	
 2603	m0_norm			khvist								
@@ -12996,7 +12996,7 @@ tk-s600	m3_norm			cina_vid_4000
 tk-sk603	m0_new_p			khvist								
 vt-00-09	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-00-1012	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-21T09:00+0300	
-vt-00-1014	m5_norm			khvist				648				
+vt-00-1014	m5_norm		Shopping_ads,Display_ads	ne_v_prajsi				648				
 vt-00-1015	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-00-1025	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-00-1028	m4_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-21T09:00+0300	
@@ -16697,7 +16697,7 @@ vt-EM-9850	m5_new_p			khvist
 vt-EM-9851	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-EM-9852	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-EM-9854	m3_norm		Shopping_ads	vytraty_stelya								
-vt-EM-9861	m5_norm			khvist								
+vt-EM-9861	m5_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 vt-EM-9906	m5_norm			khvist								
 vt-EM-9936	m4_new_p			khvist								
 vt-EM-9938	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-21T09:00+0300	
@@ -16866,7 +16866,7 @@ vt-KM-0814	m3_new_p			khvist
 vt-KM-0815	m3_new_p			khvist								
 vt-KM-0816	m5_new_p			khvist								
 vt-KM-0817	m2_new_p			khvist								
-vt-KM-0818	m2_norm			khvist				4660				
+vt-KM-0818	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi				4660				
 vt-KM-0822GR	m4_new_p			khvist								
 vt-KM-0827GR	m3_new_p			khvist								
 vt-KM-0830	m4_norm				chempion	prybutok		4660				
@@ -17577,7 +17577,7 @@ vt-KM-6902	m2_norm			cina_vid_4000				619
 vt-KM-6903	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti				619				
 vt-KM-6904	m2_new_p			khvist					5904734064152	KM-6904		
 vt-KM-6905	m2_new_p			cina_vid_4000					5904734064169	KM-6905		
-vt-KM-6906	m2_norm			khvist				619				
+vt-KM-6906	m2_norm		Shopping_ads,Display_ads	ne_v_prajsi				619				
 vt-KM-6907	m2_new_p			khvist					5904734064183	KM-6907		
 vt-KM-7002	m2_new			khvist								
 vt-KM-7003	m2_new			khvist								
