@@ -190,7 +190,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0111	m0_norm			khvist				2277				
 0112	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya				2277			2026-11-23T09:00+0300	
 0115	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				5646			2026-11-23T09:00+0300	
-0116	m1_norm	ads_zero			chempion	prybutok						
+0116	m1_norm	ads_zero	Shopping_ads			prybutok						
 0117	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-23T09:00+0300	
 0118	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 0119	m0_norm			cina_vid_4000								
@@ -3233,7 +3233,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482019761	m4_new_p			khvist								
 482019762	m4_norm_p				chempion	prybutok						
 482019783	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-482019784	m5_hit	ads_zero			chempion							
+482019784	m5_hit	ads_zero	Shopping_ads									
 482019785	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 482019789	m4_new_p			khvist								
 482019793	m3_new			season_off								
@@ -3274,7 +3274,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482026079	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 482026235	m0_norm_p				rozvidka							
 482026274	m0_new			season_off								
-482026453	m3_norm	ads_zero	Shopping_ads	vytraty_stelya	chempion							
+482026453	m3_norm	ads_zero	Shopping_ads									
 482026469	dup:Тиква		Shopping_ads,Display_ads			stop						
 482026503	m3_new			season_off								
 482026504	m2_new			season_off								
@@ -3311,7 +3311,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482027305	m5_hit				chempion	prybutok						
 482027306	m0_norm		Shopping_ads	vytraty_stelya								
 482027307	m5_new			season_off								
-482027308	m5_norm	ads_zero	Shopping_ads	vytraty_stelya	chempion	prybutok						
+482027308	m5_norm	ads_zero	Shopping_ads			prybutok						
 482027309	m5_norm			khvist								
 482027310	m5_hit			season_off	chempion	prybutok						
 482027311	m0_norm		Shopping_ads	vytraty_stelya	rozvidka							
@@ -3366,7 +3366,7 @@ ARHC2510SB	m0_norm			khvist
 ART0215SB	m0_norm		Shopping_ads	vytraty_stelya								
 ART0729PB	m0_norm			khvist								
 AV18BSR	m2_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		cina						
-BB-20405	m0_norm	ads_zero	Shopping_ads	vytraty_stelya	rozvidka	stop		4714				
+BB-20405	m0_norm	ads_zero	Shopping_ads			stop		4714				
 BB-25512	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-23T09:00+0300	
 BB-261710	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-23T09:00+0300	
 BB-31083	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-23T09:00+0300	
@@ -11106,7 +11106,7 @@ hx-47212	m0_new_p			khvist
 hx-47213	m0_new_p			khvist								
 hx-47214	m0_new_p			khvist								
 hx-47215	m0_new_p			khvist								
-hx-47216	m2_hit	ads_zero			chempion	prybutok						
+hx-47216	m2_hit	ads_zero	Shopping_ads			prybutok						
 hx-47218	m0_new_p			khvist								
 hx-47219	m0_new_p			khvist								
 hx-47220	m0_new_p			khvist								
@@ -11228,7 +11228,7 @@ kk-0025	m0_norm			khvist
 kk-0026	m3_norm				chempion	prybutok						
 kk-0027	m0_norm			khvist								
 kk-0028	m4_norm				chempion	prybutok						
-kk-0029	m0_norm	ads_zero	Shopping_ads	vytraty_stelya		stop						
+kk-0029	m0_norm	ads_zero	Shopping_ads			stop						
 kk-0033	m0_norm		Shopping_ads	vytraty_stelya								
 kk-0034	m0_norm			khvist								
 kk-0035	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -13275,7 +13275,7 @@ vt-100312	m3_norm			khvist
 vt-100314	m2_norm				chempion	prybutok		638				
 vt-100321	m2_new_p			khvist					5904734063384			
 vt-100324	m3_norm			khvist								
-vt-100325	m4_norm	ads_zero	Shopping_ads	vytraty_stelya		stop						
+vt-100325	m4_norm	ads_zero	Shopping_ads			stop						
 vt-100400	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				638			2026-11-23T09:00+0300	
 vt-100402	m4_new_p			khvist				638				
 vt-100500	m4_new_p			khvist				661				
@@ -17142,7 +17142,7 @@ vt-KM-2163	m3_new_p			khvist
 vt-KM-2164	m2_norm			khvist				3800				
 vt-KM-2165	m3_norm_p			khvist								
 vt-KM-2170	m1_norm				chempion	prybutok		669				
-vt-KM-2171	m2_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok		669				
+vt-KM-2171	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok		669				
 vt-KM-2172	m2_norm			khvist								
 vt-KM-2173	m4_norm			khvist				3800				
 vt-KM-2177	m4_norm			khvist				3800				
@@ -17844,7 +17844,7 @@ vt-KM-9184	m5_new			khvist				3498
 vt-KM-9185	m3_norm			khvist				3498				
 vt-KM-9200	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti				3330				
 vt-KM-9201	m4_new_p			khvist				3330				
-vt-KM-9203	m2_norm	ads_zero	Shopping_ads	vytraty_stelya	chempion	prybutok		650				
+vt-KM-9203	m2_norm	ads_zero	Shopping_ads			prybutok		650				
 vt-KM-9204	m2_norm				chempion	prybutok		650				
 vt-KM-9205	m3_norm			khvist								
 vt-KM-9206	m3_norm			khvist				650				
@@ -17918,7 +17918,7 @@ vt-N3273	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-23T09:0
 vt-N3600	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-23T09:00+0300	
 vt-N3646	m3_new_p			khvist								
 vt-N3913	m2_norm			khvist								
-vt-N3941	m3_norm	ads_zero	Shopping_ads	vytraty_stelya	chempion	prybutok						
+vt-N3941	m3_norm	ads_zero	Shopping_ads			prybutok						
 vt-N6416	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-23T09:00+0300	
 vt-N7784	m5_new_p			khvist				2169				
 vt-N8005	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
