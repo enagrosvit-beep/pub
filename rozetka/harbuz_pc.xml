@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-11 11:23">
+<yml_catalog date="2026-11-11 12:29">
 <shop>
 <name>Гарбуз</name>
 <company>Гарбуз</company>
@@ -368,6 +368,7 @@
 <category id="123239217" parentId="115868135">Сантехника</category>
 <category id="123239543" parentId="115868135">Весовое оборудование</category>
 <category id="123239618" parentId="115868135">Электротранспорт</category>
+<category id="123239622" parentId="115868135">Большая бытовая техника</category>
 <category id="123239782" parentId="115868135">Спецодежда и обувь</category>
 <category id="123239889" parentId="115868135">Реставрационные материалы</category>
 <category id="123239898" parentId="115868135">Шпагаты и швейные нитки</category>
@@ -378,8 +379,11 @@
 <category id="124651348" parentId="115868135">Домашний текстиль</category>
 <category id="130750695" parentId="52632102">Кристаллические и гранулированные удобрения Yara</category>
 <category id="130911309" parentId="52265624">Биодеструкторы и биопрепараты</category>
+<category id="132648069" parentId="52265624">Прилипатели и адъюванты</category>
 <category id="136569094" parentId="115868135">Газовые горелки и баллоны</category>
 <category id="136630688" parentId="136630686">Точильные камни</category>
+<category id="136661035" parentId="136630686">Диски для шлифовальных кругов</category>
+<category id="136661470" parentId="136630686">Шлифовальные круги на липучке</category>
 <category id="136662358" parentId="136630686">Шлифовальная шкурка</category>
 <category id="136663573" parentId="136630686">Шлифовальные ленты</category>
 <category id="136673919" parentId="119648570">Строительная химия</category>
@@ -388,6 +392,7 @@
 <category id="136822294" parentId="136819853">Бордюрные ленты</category>
 <category id="136889463" parentId="136819853">Ленты клейкие двухсторонние</category>
 <category id="136891693" parentId="136819853">Ленты специального предназначения</category>
+<category id="136891847" parentId="136819853">Изоляционные ленты</category>
 <category id="136903225" parentId="136819853">Ленты малярные</category>
 <category id="136934402" parentId="136819853">Защитные пленки</category>
 <category id="136935564" parentId="136819853">Ленты сигнальные</category>
@@ -403,13 +408,27 @@
 <category id="137119129" parentId="119648570">Плоскогубцы, бокорезы, длинногубцы</category>
 <category id="137130886" parentId="119648570">Строительные ножи и сменные лезвия</category>
 <category id="137130896" parentId="137041919">Другие ножовки</category>
+<category id="137131381" parentId="119648570">Молотки</category>
+<category id="137131517" parentId="119648570">Ломы, гвоздодер</category>
+<category id="137135017" parentId="137333815">Стяжки</category>
+<category id="137153592" parentId="136630686">Сетки абразивные</category>
+<category id="137161849" parentId="119648570">Верёвочные изделия</category>
+<category id="137162730" parentId="137161849">Фал</category>
 <category id="137162731" parentId="137161849">Шнур полипропиленовый</category>
 <category id="137162732" parentId="137161849">Шпагат джутовый</category>
+<category id="137162766" parentId="137161849">Шпагат полипропиленовый</category>
+<category id="137186838" parentId="119648570">Киянки</category>
 <category id="137199642" parentId="137417207">Малярный инструмент</category>
+<category id="137199644" parentId="137199642">Валики</category>
 <category id="137229788" parentId="137199642">Валики прижимные</category>
 <category id="137229933" parentId="137199642">Ручки для валиков</category>
 <category id="137265270" parentId="137199642">Валики для самовыравнивающихся поверхностей</category>
 <category id="137266758" parentId="137199642">Валики структурные</category>
+<category id="137272181" parentId="137199642">Валики для поклейки обоев</category>
+<category id="137274948" parentId="137161849">Нить капроновая</category>
+<category id="137278306" parentId="136630686">Круги отрезные и шлифовальные</category>
+<category id="137278313" parentId="137278306">Круги отрезные</category>
+<category id="137287428" parentId="136630686">Круги зачистные нетканые</category>
 <category id="137325625" parentId="136630686">Диски пильные</category>
 <category id="137331677" parentId="136630686">Диски алмазные</category>
 <category id="137333815" parentId="119648570">Крепежный инструмент</category>
@@ -418,17 +437,31 @@
 <category id="137341185" parentId="137333815">Клипсы для проводов</category>
 <category id="137368207" parentId="137333815">Клипсы для гофротруб</category>
 <category id="137368892" parentId="137333815">Обойма для труб и кабелей</category>
+<category id="137370373" parentId="137333815">Крепёж - ремешковый</category>
 <category id="137374617" parentId="119648570">Измерительный инструмент</category>
 <category id="137374619" parentId="137374617">Рулетки</category>
 <category id="137375015" parentId="137374617">Уровни</category>
 <category id="137388206" parentId="137374617">Гидроуровни</category>
 <category id="137395653" parentId="137374617">Угольники</category>
+<category id="137395749" parentId="137374617">Линейки</category>
+<category id="137417207" parentId="119648570">Инструмент для отделочных работ</category>
+<category id="137417215" parentId="137417207">Строительные миксеры</category>
+<category id="137530029" parentId="137417207">Правила</category>
 <category id="137532715" parentId="119648570">Разметочный инструмент</category>
 <category id="137532724" parentId="137532715">Шнуры и лески</category>
 <category id="137538587" parentId="119648570">Тиски слесарные</category>
 <category id="137538908" parentId="119648570">Паяльники, припой</category>
 <category id="137539024" parentId="137199642">Кисти</category>
 <category id="137545933" parentId="137333815">Пистолеты для пены</category>
+<category id="137546037" parentId="137333815">Заклепочники и заклепки</category>
+<category id="137546038" parentId="137546037">Заклепочники</category>
+<category id="137546901" parentId="137546037">Заклепки алюминиевые</category>
+<category id="137576057" parentId="137333815">Клеевые пистолеты и стержни</category>
+<category id="137579536" parentId="137333815">Степлеры и скобы</category>
+<category id="137579900" parentId="137333815">Хомуты</category>
+<category id="137591152" parentId="137417207">Шпатели</category>
+<category id="137629125" parentId="137417207">Система для укладки плитки</category>
+<category id="137630051" parentId="137417207">Кельмы и ковши штукатурные</category>
 <category id="137643909" parentId="119648570">Стамески</category>
 <category id="137645451" parentId="119648570">Отвертки</category>
 <category id="137663806" parentId="119648570">Зубила</category>
@@ -439,6 +472,8 @@
 <category id="137692425" parentId="119648570">Струбцины</category>
 <category id="137699525" parentId="119648570">Стусло</category>
 <category id="137703684" parentId="137417207">Терки и затирки для штукатурки</category>
+<category id="137720730" parentId="119648570">Труборезы</category>
+<category id="137721937" parentId="119648570">Фрезы по дереву и гипсокартону</category>
 <category id="137722310" parentId="137417207">Рубанки по гипсокартону</category>
 <category id="137722443" parentId="136630686">Щетки к болгарке, дрели</category>
 <category id="137733648" parentId="119648570">Ключи, удлинители, переходники</category>
@@ -452,219 +487,6 @@
 <category id="137818850" parentId="59749377">Баклажан</category>
 <category id="137818854" parentId="59749377">Свекла столовая</category>
 <category id="137824884" parentId="59749377">Тыква</category>
-<category id="142703972" parentId="119648570">Буры по бетону</category>
-<category id="142893903" parentId="136673919">Герметики</category>
-<category id="142940724" parentId="136673919">Монтажная пена</category>
-<category id="142940726" parentId="136673919">Клеи</category>
-<category id="143213920" parentId="119653643">Замки накладные</category>
-<category id="143237716" parentId="119653643">Корпус замка</category>
-<category id="143313838" parentId="119653643">Замки почтовые</category>
-<category id="143324967" parentId="119653643">Корпус защелки</category>
-<category id="143574823" parentId="119653643">Мебельный замок</category>
-<category id="143575104" parentId="119653643">Цилиндровый механизм</category>
-<category id="143590077" parentId="119653643">Шпингалет</category>
-<category id="143601207" parentId="119653643">Петли дверные</category>
-<category id="143699560" parentId="119653643">Упоры и стопоры дверные</category>
-<category id="143828892" parentId="115868135">Мебельная фурнитура</category>
-<category id="143828897" parentId="143828892">Направляющие для ящиков</category>
-<category id="143829780" parentId="143828892">Колесо для мебели</category>
-<category id="143901930" parentId="143828892">Опора колесная</category>
-<category id="143987431" parentId="143828892">Мебельные петли</category>
-<category id="143987573" parentId="143828892">Полкодержатели, стеклодержатели</category>
-<category id="143991793" parentId="143828892">Мебельные ручки</category>
-<category id="144028833" parentId="143828892">Мебельные ножки</category>
-<category id="144030314" parentId="119653643">Номерки</category>
-<category id="144030590" parentId="143828892">Подкладки для мебели</category>
-<category id="144032529" parentId="143828892">Мебельные крючки и подвесы</category>
-<category id="148568708" parentId="115868135">Вазоны для рассады, дренажные системы.</category>
-<category id="150379629" parentId="115868135">Горшки для цветов</category>
-<category id="150814394" parentId="119649252">Кухонные доски</category>
-<category id="150814424" parentId="119649252">Дуршлаги</category>
-<category id="151133276" parentId="115868135">Сушки для белья</category>
-<category id="151375391" parentId="115868135">Контейнеры и лотки хозяйственные</category>
-<category id="151375571" parentId="115868135">Биотуалеты</category>
-<category id="151378119" parentId="115868135">Дозаторы для жидкого мыла и геля</category>
-<category id="151380285" parentId="115868135">Карнизы и шторки для ванной комнаты</category>
-<category id="151382871" parentId="115868135">Коврики под дверь</category>
-<category id="151401555" parentId="115868135">Коврики универсальные</category>
-<category id="151461145" parentId="115868135">Контейнеры и корзины для хранения</category>
-<category id="151791710" parentId="115868135">Корзины для белья</category>
-<category id="151803306" parentId="115868135">Мыльницы</category>
-<category id="151828948" parentId="115868135">Аксессуары для ванной комнаты</category>
-<category id="151850867" parentId="115868135">Полочки для ванной комнаты</category>
-<category id="151853004" parentId="115868135">Стаканы и футляры для зубных щеток</category>
-<category id="151856256" parentId="115868135">Держатели для туалетной бумаги</category>
-<category id="151856547" parentId="115868135">Этажерки, комоды и стеллажи</category>
-<category id="152351744" parentId="115868135">Ведра хозяйственные</category>
-<category id="152398107" parentId="115868135">Вазы</category>
-<category id="152625057" parentId="115868135">Лимонницы</category>
-<category id="152625062" parentId="115868135">Емкости для специй</category>
-<category id="153456817" parentId="115868135">Серветки для обслуживания</category>
-<category id="153620948" parentId="115868135">Ковши кухонные</category>
-<category id="153722908" parentId="115868135">Бутылки для воды</category>
-<category id="153773744" parentId="115868135">Бульонницы, супницы</category>
-<category id="153843212" parentId="115868135">Салатницы</category>
-<category id="152666789" parentId="115868135">Миски, кружки</category>
-<category id="155763915">Аксессуары для ванной комнаты</category>
-<category id="155763916">Масленки</category>
-<category id="155763917">Бутылки для воды</category>
-<category id="155763918">Сковороды, сотейники</category>
-<category id="155763919">Контейнеры пищевые</category>
-<category id="155763920">Емкости для специй</category>
-<category id="155763921">Заварники</category>
-<category id="155763922">Кастрюли</category>
-<category id="155763923">Домашний текстиль</category>
-<category id="155763924">Чайники и термосы</category>
-<category id="155763925">Бульонницы, супницы</category>
-<category id="155763926">Мелкая бытовая техника</category>
-<category id="155763927">Вешалки</category>
-<category id="155763928">Ведра хозяйственные</category>
-<category id="155763929">Коврики универсальные</category>
-<category id="155763930">Лимонницы</category>
-<category id="155763931">Дуршлаги</category>
-<category id="155763935">Контейнер для сыпучих продуктов</category>
-<category id="155763936">Кухонные принадлежности</category>
-<category id="155763937">Семена газонных трав</category>
-<category id="155763938">Канцелярские и упаковочные материалы</category>
-<category id="155763939">Подставка для ложки</category>
-<category id="155763940">Семена зерновых культур</category>
-<category id="155763941">Медовницы</category>
-<category id="155763942">Корма, комбикорма для животных</category>
-<category id="155763943">Растительное масло</category>
-<category id="155763944">Инвентарь для уборки</category>
-<category id="155763945">Товары для барбекю</category>
-<category id="155763947">Тазы</category>
-<category id="155763948">Скотч и ленты</category>
-<category id="155763949">Малярный инструмент</category>
-<category id="155763954">Минеральные удобрения</category>
-<category id="155763955">Гладильные доски</category>
-<category id="155763957">Держатели для туалетной бумаги</category>
-<category id="155763958">Стаканы и футляры для зубных щеток</category>
-<category id="155763959">Полочки для ванной комнаты</category>
-<category id="155763991">Средства борьбы с насекомыми</category>
-<category id="155763992">Средства борьбы с грызунами</category>
-<category id="155763993">Инсектициды</category>
-<category id="155763994">Кокосовые изделия</category>
-<category id="155763995">Коврики и органайзеры для ванной комнаты</category>
-<category id="155763996">Фунгициды</category>
-<category id="155763997">Серветки для обслуживания</category>
-<category id="155763998">Дозаторы для жидкого мыла и геля</category>
-<category id="155763564">Салатницы</category>
-<category id="155764080">Корзины для белья</category>
-<category id="155764081">Семена масличных культур</category>
-<category id="155764082">Коврики под дверь</category>
-<category id="155764083">Карнизы и шторки для ванной комнаты</category>
-<category id="155764084">Садовая мебель</category>
-<category id="155764085">Ручные и электронные опрыскиватели</category>
-<category id="155764086">Биотуалеты</category>
-<category id="155764087">Регуляторы роста</category>
-<category id="155764088">Биодеструкторы и биопрепараты</category>
-<category id="155764089">Сопутствующие товары</category>
-<category id="155764090">Прилипатели и адъюванты</category>
-<category id="155764091">Удобрения</category>
-<category id="155764092">Лотки для яиц</category>
-<category id="155431790" parentId="115868135">Блюда</category>
-<category id="155431793" parentId="115868135">Стаканы</category>
-<category id="158487848">Сальвія</category>
-<category id="158237056">Добрива для газону та хвої</category>
-<category id="158237057">Добрива для кімнатних рослин і квітів</category>
-<category id="158237058">Добрива для саду та городу</category>
-<category id="158237059">Регулятори та стимулятори росту</category>
-<category id="158237060">Інсектициди (від шкідників)</category>
-<category id="158237061">Гербіциди (від бур'янів)</category>
-<category id="158237062">Побілка та замазка</category>
-<category id="158237073">Гайлардія</category>
-<category id="158237074">Годеція</category>
-<category id="158237075">Жоржина</category>
-<category id="158237076">Наперстянка</category>
-<category id="158237077">Петунія</category>
-<category id="158237078">Флокс</category>
-<category id="158237079">Фіалка</category>
-<category id="158237080">Цинія</category>
-<category id="158237081">Чорнобривці</category>
-<category id="158237082">Насіння овочів</category>
-<category id="158237083">Інша капуста</category>
-<category id="158237084">Баклажан</category>
-<category id="158237085">Буряк кормовий</category>
-<category id="158237086">Буряк столовий</category>
-<category id="158237087">Гарбуз</category>
-<category id="158237088">Горох</category>
-<category id="158237089">Диня</category>
-<category id="158237090">Кабачок</category>
-<category id="158237091">Кавун</category>
-<category id="158237092">Капуста броколі</category>
-<category id="158237093">Капуста білокачанна</category>
-<category id="158237094">Капуста цвітна</category>
-<category id="158237095">Кукурудза цукрова</category>
-<category id="158237096">Морква</category>
-<category id="158237097">Огірок</category>
-<category id="158237098">Патісон</category>
-<category id="158237099">Перець солодкий</category>
-<category id="158237100">Редиска</category>
-<category id="158237101">Редька</category>
-<category id="158237102">Ріпа</category>
-<category id="158237103">Томат</category>
-<category id="158237104">Цибуля ріпчаста</category>
-<category id="158237120">Віброплити та віброрейки</category>
-<category id="158237121">Газонокосарки та тримери</category>
-<category id="158237122">Двигуни для техніки</category>
-<category id="158237123">Дровоколи та дроворізи</category>
-<category id="158237124">Компресори</category>
-<category id="158237125">Культиватори та мінітрактори</category>
-<category id="158237126">Кущорізи</category>
-<category id="158237127">Мийки високого тиску</category>
-<category id="158237128">Мотоблоки</category>
-<category id="158237129">Мотобури</category>
-<category id="158237130">Мотопомпи</category>
-<category id="158237131">Навісне обладнання</category>
-<category id="158237132">Насоси</category>
-<category id="158237133">Пили та висоторізи</category>
-<category id="158237134">Подрібнювачі, повітродувки та садові пилососи</category>
-<category id="158237135">Підмітальні машини</category>
-<category id="158237136">Кокосові вироби</category>
-<category id="158237137">Субстрати</category>
-<category id="158237138">Новорічні світлодіодні гірлянди</category>
-<category id="158237139">Скандинавські гноми та новорічний декор</category>
-<category id="158237140">Хвойні гірлянди, гілки та віночки</category>
-<category id="158237141">Штучні ялинки та сосни</category>
-<category id="158237142">Ялинкові іграшки</category>
-<category id="158237143">Посуд та кухня</category>
-<category id="115893746">Сода, техническая и таблетированная соль</category>
-<category id="123239622" parentId="115868135">Большая бытовая техника</category>
-<category id="132648069" parentId="52265624">Прилипатели и адъюванты</category>
-<category id="136661035" parentId="136630686">Диски для шлифовальных кругов</category>
-<category id="136661470" parentId="136630686">Шлифовальные круги на липучке</category>
-<category id="136891847" parentId="136819853">Изоляционные ленты</category>
-<category id="137131381" parentId="119648570">Молотки</category>
-<category id="137131517" parentId="119648570">Ломы, гвоздодер</category>
-<category id="137135017" parentId="137333815">Стяжки</category>
-<category id="137153592" parentId="136630686">Сетки абразивные</category>
-<category id="137161849" parentId="119648570">Верёвочные изделия</category>
-<category id="137162730" parentId="137161849">Фал</category>
-<category id="137162766" parentId="137161849">Шпагат полипропиленовый</category>
-<category id="137186838" parentId="119648570">Киянки</category>
-<category id="137199644" parentId="137199642">Валики</category>
-<category id="137272181" parentId="137199642">Валики для поклейки обоев</category>
-<category id="137274948" parentId="137161849">Нить капроновая</category>
-<category id="137278306" parentId="136630686">Круги отрезные и шлифовальные</category>
-<category id="137278313" parentId="137278306">Круги отрезные</category>
-<category id="137287428" parentId="136630686">Круги зачистные нетканые</category>
-<category id="137370373" parentId="137333815">Крепёж - ремешковый</category>
-<category id="137395749" parentId="137374617">Линейки</category>
-<category id="137417207" parentId="119648570">Инструмент для отделочных работ</category>
-<category id="137417215" parentId="137417207">Строительные миксеры</category>
-<category id="137530029" parentId="137417207">Правила</category>
-<category id="137546037" parentId="137333815">Заклепочники и заклепки</category>
-<category id="137546038" parentId="137546037">Заклепочники</category>
-<category id="137546901" parentId="137546037">Заклепки алюминиевые</category>
-<category id="137576057" parentId="137333815">Клеевые пистолеты и стержни</category>
-<category id="137579536" parentId="137333815">Степлеры и скобы</category>
-<category id="137579900" parentId="137333815">Хомуты</category>
-<category id="137591152" parentId="137417207">Шпатели</category>
-<category id="137629125" parentId="137417207">Система для укладки плитки</category>
-<category id="137630051" parentId="137417207">Кельмы и ковши штукатурные</category>
-<category id="137720730" parentId="119648570">Труборезы</category>
-<category id="137721937" parentId="119648570">Фрезы по дереву и гипсокартону</category>
 <category id="137827936" parentId="59749377">Горох</category>
 <category id="137844112" parentId="59749377">Дыня</category>
 <category id="137844510" parentId="59749377">Кабачок</category>
@@ -753,25 +575,78 @@
 <category id="142529381" parentId="115868135">Лопаты</category>
 <category id="142542151" parentId="115868135">Ведра и тазы строительные</category>
 <category id="142702756" parentId="137041919">Полотно для электролобзика</category>
+<category id="142703972" parentId="119648570">Буры по бетону</category>
 <category id="142751818" parentId="119648570">Фиксаторы для сварки</category>
 <category id="142798794" parentId="136673919">Аэрозольные краски</category>
+<category id="142893903" parentId="136673919">Герметики</category>
+<category id="142940724" parentId="136673919">Монтажная пена</category>
+<category id="142940726" parentId="136673919">Клеи</category>
+<category id="143213920" parentId="119653643">Замки накладные</category>
+<category id="143237716" parentId="119653643">Корпус замка</category>
+<category id="143313838" parentId="119653643">Замки почтовые</category>
+<category id="143324967" parentId="119653643">Корпус защелки</category>
 <category id="143479339" parentId="119653643">Защелки</category>
 <category id="143521131" parentId="119653643">Накладки для ручек</category>
 <category id="143538418" parentId="119653643">Ручки на розете</category>
+<category id="143574823" parentId="119653643">Мебельный замок</category>
+<category id="143575104" parentId="119653643">Цилиндровый механизм</category>
+<category id="143590077" parentId="119653643">Шпингалет</category>
+<category id="143601207" parentId="119653643">Петли дверные</category>
+<category id="143699560" parentId="119653643">Упоры и стопоры дверные</category>
+<category id="143828892" parentId="115868135">Мебельная фурнитура</category>
+<category id="143828897" parentId="143828892">Направляющие для ящиков</category>
+<category id="143829780" parentId="143828892">Колесо для мебели</category>
+<category id="143901930" parentId="143828892">Опора колесная</category>
+<category id="143987431" parentId="143828892">Мебельные петли</category>
+<category id="143987573" parentId="143828892">Полкодержатели, стеклодержатели</category>
+<category id="143991793" parentId="143828892">Мебельные ручки</category>
+<category id="144028833" parentId="143828892">Мебельные ножки</category>
+<category id="144030314" parentId="119653643">Номерки</category>
+<category id="144030590" parentId="143828892">Подкладки для мебели</category>
+<category id="144032529" parentId="143828892">Мебельные крючки и подвесы</category>
+<category id="148568708" parentId="115868135">Вазоны для рассады, дренажные системы.</category>
+<category id="150379629" parentId="115868135">Горшки для цветов</category>
+<category id="150814394" parentId="119649252">Кухонные доски</category>
+<category id="150814424" parentId="119649252">Дуршлаги</category>
 <category id="150814436" parentId="119649252">Колпаки для СВЧ-печей</category>
 <category id="150827444" parentId="119649252">Контейнер для сыпучих продуктов</category>
 <category id="150860719" parentId="119649252">Контейнеры пищевые</category>
 <category id="151114145" parentId="119649252">Лотки для яиц</category>
 <category id="151114159" parentId="115868135">Товары для барбекю</category>
+<category id="151133276" parentId="115868135">Сушки для белья</category>
+<category id="151375391" parentId="115868135">Контейнеры и лотки хозяйственные</category>
+<category id="151375571" parentId="115868135">Биотуалеты</category>
+<category id="151378119" parentId="115868135">Дозаторы для жидкого мыла и геля</category>
+<category id="151380285" parentId="115868135">Карнизы и шторки для ванной комнаты</category>
+<category id="151382871" parentId="115868135">Коврики под дверь</category>
+<category id="151401555" parentId="115868135">Коврики универсальные</category>
+<category id="151461145" parentId="115868135">Контейнеры и корзины для хранения</category>
+<category id="151791710" parentId="115868135">Корзины для белья</category>
+<category id="151803306" parentId="115868135">Мыльницы</category>
+<category id="151828948" parentId="115868135">Аксессуары для ванной комнаты</category>
+<category id="151850867" parentId="115868135">Полочки для ванной комнаты</category>
+<category id="151853004" parentId="115868135">Стаканы и футляры для зубных щеток</category>
+<category id="151856256" parentId="115868135">Держатели для туалетной бумаги</category>
+<category id="151856547" parentId="115868135">Этажерки, комоды и стеллажи</category>
 <category id="152092936" parentId="115868135">Гладильные доски</category>
 <category id="152093558" parentId="115868135">Ведра и корзины для мусора</category>
 <category id="152351703" parentId="115868135">Тазы</category>
+<category id="152351744" parentId="115868135">Ведра хозяйственные</category>
+<category id="152398107" parentId="115868135">Вазы</category>
 <category id="152623780" parentId="115868135">Масленки</category>
 <category id="152623786" parentId="115868135">Медовницы</category>
 <category id="152624730" parentId="115868135">Сахарницы</category>
+<category id="152625057" parentId="115868135">Лимонницы</category>
+<category id="152625062" parentId="115868135">Емкости для специй</category>
 <category id="152666521" parentId="115868135">Подставка для ложки</category>
+<category id="153456817" parentId="115868135">Серветки для обслуживания</category>
+<category id="153620948" parentId="115868135">Ковши кухонные</category>
 <category id="153624098" parentId="115868135">Сковороды, сотейники</category>
 <category id="153718696" parentId="115868135">Заварники</category>
+<category id="153722908" parentId="115868135">Бутылки для воды</category>
+<category id="153773744" parentId="115868135">Бульонницы, супницы</category>
+<category id="153843212" parentId="115868135">Салатницы</category>
+<category id="152666789" parentId="115868135">Миски, кружки</category>
 <category id="153476864" parentId="115868135">Кастрюли</category>
 <category id="153934155" parentId="115868135">Формы для выпечки, противни</category>
 <category id="155763902">Солнечные панели</category>
@@ -787,20 +662,88 @@
 <category id="155763912">Блюда</category>
 <category id="155763913">Бокалы</category>
 <category id="155763914">Сахарницы</category>
+<category id="155763915">Аксессуары для ванной комнаты</category>
+<category id="155763916">Масленки</category>
+<category id="155763917">Бутылки для воды</category>
+<category id="155763918">Сковороды, сотейники</category>
+<category id="155763919">Контейнеры пищевые</category>
+<category id="155763920">Емкости для специй</category>
+<category id="155763921">Заварники</category>
+<category id="155763922">Кастрюли</category>
+<category id="155763923">Домашний текстиль</category>
+<category id="155763924">Чайники и термосы</category>
+<category id="155763925">Бульонницы, супницы</category>
+<category id="155763926">Мелкая бытовая техника</category>
+<category id="155763927">Вешалки</category>
+<category id="155763928">Ведра хозяйственные</category>
+<category id="155763929">Коврики универсальные</category>
+<category id="155763930">Лимонницы</category>
+<category id="155763931">Дуршлаги</category>
+<category id="155763935">Контейнер для сыпучих продуктов</category>
+<category id="155763936">Кухонные принадлежности</category>
+<category id="155763937">Семена газонных трав</category>
+<category id="155763938">Канцелярские и упаковочные материалы</category>
+<category id="155763939">Подставка для ложки</category>
+<category id="155763940">Семена зерновых культур</category>
+<category id="155763941">Медовницы</category>
+<category id="155763942">Корма, комбикорма для животных</category>
+<category id="155763943">Растительное масло</category>
+<category id="155763944">Инвентарь для уборки</category>
+<category id="155763945">Товары для барбекю</category>
 <category id="155763946">Контейнеры и лотки хозяйственные</category>
+<category id="155763947">Тазы</category>
+<category id="155763948">Скотч и ленты</category>
+<category id="155763949">Малярный инструмент</category>
 <category id="155763950">Товары для дома и сада</category>
 <category id="155763951">Мебельные крючки и подвесы</category>
 <category id="155763952">Сушки для белья</category>
 <category id="155763953">Ведра и корзины для мусора</category>
+<category id="155763954">Минеральные удобрения</category>
+<category id="155763955">Гладильные доски</category>
 <category id="155763956">Этажерки, комоды и стеллажи</category>
+<category id="155763957">Держатели для туалетной бумаги</category>
+<category id="155763958">Стаканы и футляры для зубных щеток</category>
+<category id="155763959">Полочки для ванной комнаты</category>
 <category id="155763960">Мыльницы</category>
 <category id="155763988">Ковши кухонные</category>
 <category id="155763989">Корневая группа</category>
 <category id="155763990">Детские игрушки и товары для детей</category>
+<category id="155763991">Средства борьбы с насекомыми</category>
+<category id="155763992">Средства борьбы с грызунами</category>
+<category id="155763993">Инсектициды</category>
+<category id="155763994">Кокосовые изделия</category>
+<category id="155763995">Коврики и органайзеры для ванной комнаты</category>
+<category id="155763996">Фунгициды</category>
+<category id="155763997">Серветки для обслуживания</category>
+<category id="155763998">Дозаторы для жидкого мыла и геля</category>
+<category id="155763564">Салатницы</category>
+<category id="155764080">Корзины для белья</category>
+<category id="155764081">Семена масличных культур</category>
+<category id="155764082">Коврики под дверь</category>
+<category id="155764083">Карнизы и шторки для ванной комнаты</category>
+<category id="155764084">Садовая мебель</category>
+<category id="155764085">Ручные и электронные опрыскиватели</category>
+<category id="155764086">Биотуалеты</category>
+<category id="155764087">Регуляторы роста</category>
+<category id="155764088">Биодеструкторы и биопрепараты</category>
+<category id="155764089">Сопутствующие товары</category>
+<category id="155764090">Прилипатели и адъюванты</category>
+<category id="155764091">Удобрения</category>
+<category id="155764092">Лотки для яиц</category>
 <category id="155431611" parentId="115868135">Тарелки</category>
+<category id="155431790" parentId="115868135">Блюда</category>
+<category id="155431793" parentId="115868135">Стаканы</category>
 <category id="155431794" parentId="115868135">Бокалы</category>
 <category id="155431795" parentId="115868135">Столовые приборы</category>
+<category id="158487848">Сальвія</category>
 <category id="155713772">Солнечные панели</category>
+<category id="158237056">Добрива для газону та хвої</category>
+<category id="158237057">Добрива для кімнатних рослин і квітів</category>
+<category id="158237058">Добрива для саду та городу</category>
+<category id="158237059">Регулятори та стимулятори росту</category>
+<category id="158237060">Інсектициди (від шкідників)</category>
+<category id="158237061">Гербіциди (від бур'янів)</category>
+<category id="158237062">Побілка та замазка</category>
 <category id="158237063">Прилипачі та ад'юванти</category>
 <category id="158237064">Протруйники</category>
 <category id="158237065">Родентициди (від гризунів)</category>
@@ -811,6 +754,38 @@
 <category id="158237070">Кукурудза</category>
 <category id="158237071">Насіння квітів</category>
 <category id="158237072">Іпомея</category>
+<category id="158237073">Гайлардія</category>
+<category id="158237074">Годеція</category>
+<category id="158237075">Жоржина</category>
+<category id="158237076">Наперстянка</category>
+<category id="158237077">Петунія</category>
+<category id="158237078">Флокс</category>
+<category id="158237079">Фіалка</category>
+<category id="158237080">Цинія</category>
+<category id="158237081">Чорнобривці</category>
+<category id="158237082">Насіння овочів</category>
+<category id="158237083">Інша капуста</category>
+<category id="158237084">Баклажан</category>
+<category id="158237085">Буряк кормовий</category>
+<category id="158237086">Буряк столовий</category>
+<category id="158237087">Гарбуз</category>
+<category id="158237088">Горох</category>
+<category id="158237089">Диня</category>
+<category id="158237090">Кабачок</category>
+<category id="158237091">Кавун</category>
+<category id="158237092">Капуста броколі</category>
+<category id="158237093">Капуста білокачанна</category>
+<category id="158237094">Капуста цвітна</category>
+<category id="158237095">Кукурудза цукрова</category>
+<category id="158237096">Морква</category>
+<category id="158237097">Огірок</category>
+<category id="158237098">Патісон</category>
+<category id="158237099">Перець солодкий</category>
+<category id="158237100">Редиска</category>
+<category id="158237101">Редька</category>
+<category id="158237102">Ріпа</category>
+<category id="158237103">Томат</category>
+<category id="158237104">Цибуля ріпчаста</category>
 <category id="158237105">Цибуля та часник</category>
 <category id="158237106">Насіння сидератів, трав та кормових культур</category>
 <category id="158237107">Агроволокно та шпалерна сітка</category>
@@ -826,7 +801,32 @@
 <category id="158237117">Техніка для дачі, саду та городу</category>
 <category id="158237118">Аератори та скарифікатори</category>
 <category id="158237119">Бетонозмішувачі</category>
+<category id="158237120">Віброплити та віброрейки</category>
+<category id="158237121">Газонокосарки та тримери</category>
+<category id="158237122">Двигуни для техніки</category>
+<category id="158237123">Дровоколи та дроворізи</category>
+<category id="158237124">Компресори</category>
+<category id="158237125">Культиватори та мінітрактори</category>
+<category id="158237126">Кущорізи</category>
+<category id="158237127">Мийки високого тиску</category>
+<category id="158237128">Мотоблоки</category>
+<category id="158237129">Мотобури</category>
+<category id="158237130">Мотопомпи</category>
+<category id="158237131">Навісне обладнання</category>
+<category id="158237132">Насоси</category>
+<category id="158237133">Пили та висоторізи</category>
+<category id="158237134">Подрібнювачі, повітродувки та садові пилососи</category>
+<category id="158237135">Підмітальні машини</category>
+<category id="158237136">Кокосові вироби</category>
+<category id="158237137">Субстрати</category>
+<category id="158237138">Новорічні світлодіодні гірлянди</category>
+<category id="158237139">Скандинавські гноми та новорічний декор</category>
+<category id="158237140">Хвойні гірлянди, гілки та віночки</category>
+<category id="158237141">Штучні ялинки та сосни</category>
+<category id="158237142">Ялинкові іграшки</category>
+<category id="158237143">Посуд та кухня</category>
 <category id="156253214">LED-сумки и рюкзаки</category>
+<category id="115893746">Сода, техническая и таблетированная соль</category>
 <category id="hb00cd8673">Засоби захисту</category>
 <category id="hb01467754">Степлери та скоби</category>
 <category id="hb02089e20">Захисні плівки</category>
@@ -71705,7 +71705,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2393537175" available="true">
     <article>32-059</article>
     <url>https://tukva.in.ua/p2393537175-klej-universalnyj-polax.html</url>
-    <price>59</price>
+    <price>44</price>
     <currencyId>UAH</currencyId>
     <categoryId>142940726</categoryId>
     <picture>https://images.prom.ua/C06kCpHFqQmj4hiEFCM1Qys46WHYcEG8rXEB8eh1qrU=/6335912098_klej-universalnyj-polax.jpg</picture>
@@ -73572,7 +73572,8 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2398462478" available="true">
     <article>101-004</article>
     <url>https://tukva.in.ua/p2398462478-skotch-dvuhstoronnij-polax.html</url>
-    <price>69</price>
+    <price_old>99</price_old>
+    <price>73</price>
     <currencyId>UAH</currencyId>
     <categoryId>136889463</categoryId>
     <picture>https://images.prom.ua/LBFIowRldrVWT7aVZfjBkk1ohoDgEzR3ynuFP2_05t0=/6344632242_skotch-dvuhstoronnij-polax.jpg</picture>
@@ -74812,7 +74813,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2399526856" available="true">
     <article>101-019</article>
     <url>https://tukva.in.ua/p2399526856-malyarnaya-klejkaya-lenta.html</url>
-    <price>39</price>
+    <price>29</price>
     <currencyId>UAH</currencyId>
     <categoryId>136903225</categoryId>
     <picture>https://images.prom.ua/Kopvu5I4d9Ta45N6tmRJ4zPZjMxR4CgyxThUjcCsLKY=/6345766242_malyarnaya-klejkaya-lenta.jpg</picture>
@@ -76200,7 +76201,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2403338371" available="true">
     <article>101-117</article>
     <url>https://tukva.in.ua/p2403338371-skotch-upakovochnyj-zelyonyj.html</url>
-    <price>229</price>
+    <price>173</price>
     <currencyId>UAH</currencyId>
     <categoryId>137014371</categoryId>
     <picture>https://harbuz.in.ua/content/images/38/39876822679414_+7ec855748a.jpg</picture><vendor>Polax</vendor>
@@ -77772,7 +77773,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2411771798" available="true">
     <article>36-004</article>
     <url>https://tukva.in.ua/p2411771798-lom-300h21h11mm.html</url>
-    <price>289</price>
+    <price>389</price>
     <currencyId>UAH</currencyId>
     <categoryId>137131517</categoryId>
     <picture>https://images.prom.ua/-TEQsjou6YtJgBsignaMQEL0IVIjNxttr8Hwlhc48qo=/6362986516_lom-300h21h11mm.jpg</picture>
@@ -81409,7 +81410,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2414286529" available="true">
     <article>15-001</article>
     <url>https://tukva.in.ua/p2414286529-valik-girpejnt-180.html</url>
-    <price>69</price>
+    <price>51</price>
     <currencyId>UAH</currencyId>
     <categoryId>137199644</categoryId>
     <picture>https://images.prom.ua/i8ia7Uhi3AzkQbhr0PQ2u_5sMYuQIyP2Ts2mFCje8Jg=/6366694514_valik-girpejnt-8.jpg</picture>
@@ -81749,7 +81750,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2414524017" available="true">
     <article>20-001</article>
     <url>https://tukva.in.ua/p2414524017-valik-elitakolor-8h48h180.html</url>
-    <price>79</price>
+    <price>59</price>
     <currencyId>UAH</currencyId>
     <categoryId>137199644</categoryId>
     <picture>https://images.prom.ua/Fb9S4NclHHiGvCk5cgBkhW-N3298nBAjSb_3Q3IM3fs=/6366851900_valik-elitakolor-8h48h180.jpg</picture>
@@ -82713,7 +82714,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2415890753" available="true">
     <article>18-002</article>
     <url>https://tukva.in.ua/p2415890753-valik-premium-250.html</url>
-    <price>99</price>
+    <price>75</price>
     <currencyId>UAH</currencyId>
     <categoryId>137199644</categoryId>
     <picture>https://images.prom.ua/bItPzyaxgJ7eRn4JkuIs51BArITiisEQC-FVKzreyk0=/6369443695_valik-premium-8.jpg</picture>
@@ -83149,8 +83150,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2416296966" available="true">
     <article>07-004</article>
     <url>https://tukva.in.ua/p2416296966-ruchka-dlya-valikov.html</url>
-    <price_old>129</price_old>
-    <price>89</price>
+    <price>65</price>
     <currencyId>UAH</currencyId>
     <categoryId>137229933</categoryId>
     <picture>https://images.prom.ua/OpjMxgCRzPCOGH-4lVuP1tVppjkRTbwO7n-Kco00aLg=/6370219204_ruchka-dlya-valikov.jpg</picture>
@@ -84156,7 +84156,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2418059495" available="true">
     <article>54-097</article>
     <url>https://tukva.in.ua/p2418059495-krug-otreznoj-metallu.html</url>
-    <price>29</price>
+    <price>40</price>
     <currencyId>UAH</currencyId>
     <categoryId>137278313</categoryId>
     <picture>https://images.prom.ua/5IDCspvz8vPl5nVHfo8BOJaTQbYl7fiUmggwKEkkf-c=/6372772114_krug-otreznoj-po.jpg</picture>
@@ -88758,7 +88758,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2426900797" available="true">
     <article>30-003</article>
     <url>https://tukva.in.ua/p2426900797-shnur-dlya-stroitelnyh.html</url>
-    <price>129</price>
+    <price>97</price>
     <currencyId>UAH</currencyId>
     <categoryId>137532724</categoryId>
     <picture>https://images.prom.ua/G8RD4cCutQz9ve-EM3JJYhXena3EBeVhwrE4WGOqOpA=/6385008458_shnur-dlya-stroitelnyh.jpg</picture>
@@ -89431,7 +89431,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2427183987" available="true">
     <article>26-003</article>
     <url>https://tukva.in.ua/p2427183987-pistolet-dlya-silikona.html</url>
-    <price>169</price>
+    <price>129</price>
     <currencyId>UAH</currencyId>
     <categoryId>137544169</categoryId>
     <picture>https://images.prom.ua/asvLdPwq6DP48g5au_2NKwvOW_BzvG5BSUkXmE2tEec=/6385309523_pistolet-dlya-silikona.jpg</picture>
@@ -90896,7 +90896,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2427948304" available="true">
     <article>14-003</article>
     <url>https://tukva.in.ua/p2427948304-kist-flejts-evro.html</url>
-    <price>69</price>
+    <price>79</price>
     <currencyId>UAH</currencyId>
     <categoryId>137539024</categoryId>
     <picture>https://images.prom.ua/XukamUP2mo-2wv_BANNGJcNnAB9XyY9l7K2WthZr7Jc=/6386219052_kist-flejts-evro.jpg</picture>
@@ -95170,7 +95170,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2431292959" available="true">
     <article>41-011</article>
     <url>https://tukva.in.ua/p2431292959-stameska-udarnaya-dvuhkomp.html</url>
-    <price>199</price>
+    <price>149</price>
     <currencyId>UAH</currencyId>
     <categoryId>137643909</categoryId>
     <picture>https://images.prom.ua/Mve63RKd1wOIKCsxnuyycNIN0-yKnoYuGkkwVRLE3Zo=/6391896783_stameska-udarnaya-dvuhkomp.jpg</picture>
@@ -95441,7 +95441,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2431309456" available="true">
     <article>51-010</article>
     <url>https://tukva.in.ua/p2431309456-otvertka-krest-ph1150.html</url>
-    <price>69</price>
+    <price>52</price>
     <currencyId>UAH</currencyId>
     <categoryId>137645451</categoryId>
     <picture>https://images.prom.ua/Qv99h0q7Un5zaBwaVd_oHlAe4dAqsQGpJllgAwxvoC0=/6391931775_otvertka-krest-ph1150.jpg</picture>
@@ -95711,7 +95711,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2431324770" available="true">
     <article>51-004</article>
     <url>https://tukva.in.ua/p2431324770-otvertka-shlits-6100.html</url>
-    <price>119</price>
+    <price>89</price>
     <currencyId>UAH</currencyId>
     <categoryId>137645451</categoryId>
     <picture>https://images.prom.ua/n4QZyTgVvgzo18X2ifB8-WBOtsPqjCzXCofjYOHs1H0=/6391954128_otvertka-shlits-6100.jpg</picture>
@@ -97451,7 +97451,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2432705338" available="true">
     <article>22-003</article>
     <url>https://tukva.in.ua/p2432705338-nabor-strubtsin-tip.html</url>
-    <price>239</price>
+    <price>309</price>
     <currencyId>UAH</currencyId>
     <categoryId>137692425</categoryId>
     <picture>https://images.prom.ua/W_AD-oc-5c4YaQ6V3bL93bXF2QgIl7Snelzx-OIubFU=/6394316579_nabor-strubtsin-tip.jpg</picture>
@@ -99054,7 +99054,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2434039875" available="true">
     <article>25-020</article>
     <url>https://tukva.in.ua/p2434039875-razvodnoj-klyuch-300.html</url>
-    <price>469</price>
+    <price>639</price>
     <currencyId>UAH</currencyId>
     <categoryId>137733648</categoryId>
     <picture>https://images.prom.ua/tkCljJvnQ74KKOWkI1VG--wLhmH0qruVocCigk3GbgU=/6396002932_razvodnoj-klyuch-300.jpg</picture>
@@ -99171,7 +99171,7 @@ Polax - це відомий бренд, відомий своїми високо
 <offer id="2434083225" available="true">
     <article>44-008</article>
     <url>https://tukva.in.ua/p2434083225-klyuch-trubnyj-obrezinennaya.html</url>
-    <price>779</price>
+    <price>969</price>
     <currencyId>UAH</currencyId>
     <categoryId>137733648</categoryId>
     <picture>https://images.prom.ua/QPOMwTBsSELA_xT2DHEro2u9yTj-wcrjbfwfNIcRfoY=/6396052451_klyuch-trubnyj-90.jpg</picture>
@@ -143441,28 +143441,6 @@ Polax - це відомий бренд, відомий своїми високо
     <param name="Країна реєстрації бренду" unit="">Україна</param>
   </offer>
   
-<offer id="2479443121" available="true">
-    <article>239</article>
-    <url>https://tukva.in.ua/p2479443121-zapaska-dlya-valika.html</url>
-    <price>79</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>137199644</categoryId>
-    <picture>https://images.prom.ua/EXuaVGUWsydUKt0ZbIlITqX1ZRKeTPb5DD5F-mE-EqA=/6463618505_zapaska-dlya-valika.jpg</picture>
-    <vendor>MAGtools</vendor>
-    <name>Запаска для валика Синтекс, 8 мм, d-48х180 мм</name>
-    <name_ua>Запаска для валика Сінтекс, 8 мм, d-48х180 мм</name_ua>
-    <description>&lt;div&gt;&lt;p&gt;Запаска для валика Синтекс 8 мм, d-48 мм является инструментом из специального веревочного меха, состоящего из синтетических полиакриловых волокон. Подходит для водорастворимых ЛКМ (эмульсионные, латексные, силиконовые, акриловые и др.). Применяется в основном для выполнения фасадных и внутренних работ.&lt;/p&gt;
-
-&lt;p&gt;Валики Синтекс выбирают для нанесения красок на грубые поверхности, что позволяет добиться равномерного окрашивания.&lt;/p&gt;
-&lt;/div&gt;</description>
-    <description_ua>&lt;div&gt;&lt;p&gt;Запаска для валика Синтекс 8 мм, d-48 мм є інструментом із спеціального мотузкового хутра, що складається з синтетичних поліакрилових волокон. Підходить для водорозчинних ЛКМ (емульсійні, латексні, силіконові, акрилові та ін.). Застосовується в основному для виконання фасадних робіт та внутрішніх робіт.&lt;/p&gt;
-
-&lt;p&gt;Валики Синтекс вибирають для нанесення фарб на грубі поверхні, що дозволяє досягти рівномірного фарбування.&lt;/p&gt;
-&lt;/div&gt;</description_ua>
-    <param name="Материал валика">полиакрил</param>
-    <param name="Країна реєстрації бренду" unit="">Україна</param>
-  </offer>
-  
 <offer id="2479447925" available="true">
     <article>1347</article>
     <url>https://tukva.in.ua/p2479447925-zapaska-elitakolor-30h100.html</url>
@@ -157142,7 +157120,7 @@ Cu - 5 г/л&lt;br&gt;
     <param name="Химический состав">Неорганические</param>
     <param name="Вага набору" unit="">0.5 кг</param>
   </offer>
-
+  
 <offer id="2576606952" available="true">
     <url>https://tukva.in.ua/p2576606952-gerbitsid-obereg-grand.html</url>
     <price>5059</price>
@@ -157264,7 +157242,7 @@ Cu - 5 г/л&lt;br&gt;
     <param name="Упаковка">Канистра</param>
     <param name="Химический состав">Неорганические</param>
   </offer>
-  
+
 <offer id="2576611907" available="true">
     <url>https://tukva.in.ua/p2576611907-fungitsid-fantasti.html</url>
     <price>49</price>
@@ -173806,7 +173784,8 @@ Pseudomonas fluorescens активний синтетик метаболітів
     <name>Перчатки рабочие с латексным покрытием 35% ладони, зеленые, с бумажной биркой, размер 9</name>
     <name_ua>Рукавиці робочі з 35% латексним покриттям долоні, зелені, з паперовою біркою, розмір 9</name_ua>
     <description>&lt;p&gt;&lt;strong&gt;Рабочие перчатки, зеленые, размер 9 - с латексным покрытием ладони (35%).&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Крепкие и удобные перчатки для защиты рук при строительных, садовых и других хозяйственных работах.&lt;/p&gt; &lt;p&gt;Ладонь покрыта 35% латексом для лучшего сцепления и износостойкости.&lt;/p&gt; &lt;p&gt;Размер: 9&lt;/p&gt; &lt;p&gt;Цвет: зеленый&lt;/p&gt;</description>
-    <description_ua>&lt;p&gt;&lt;strong&gt;Робочі рукавички, зелені, розмір 9 — з латексним покриттям долоні (35%)&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Міцні та зручні рукавички для захисту рук під час будівельних, садових та інших господарських робіт.&lt;/p&gt; &lt;p&gt;Долоня вкрита 35% латексом для кращого зчеплення та зносостійкості.&lt;/p&gt; &lt;p&gt;Розмір: 9&lt;/p&gt; &lt;p&gt;Колір: зелений&lt;/p&gt;</description_ua>
+    <description_ua>&lt;p&gt;&lt;strong&gt;Робочі рукавички, зелені, розмір 9 — з латексним покриттям долоні (35%)&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Міцні та зручні рукавички для захисту рук під час будівельних, садових та інших господарських робіт.&lt;/p&gt; &lt;p&gt;Долоня вкрита 35% латексом для кращого зчеплення та зносостійкості.&lt;/p&gt; &lt;p&gt;Розмір: 9&lt;/p&gt; &lt;p&gt;Колір: зелений&lt;/p&gt;
+&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Розмір&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Колір&lt;/td&gt;&lt;td&gt;Зелений&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Матеріал покриття&lt;/td&gt;&lt;td&gt;Латекс (35% покриття долоні)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description_ua>
     <param name="Вид изделия">Перчатки защитные</param>
     <param name="Цвет">Зелёный</param>
     <param name="Материал">Латекс</param>
@@ -175238,7 +175217,7 @@ Pseudomonas fluorescens активний синтетик метаболітів
     <param name="Назначение">Шлифовальный</param>
     <param name="Состояние">Новое</param>
   </offer>
-
+  
 <offer id="2602034690" available="true">
     <article>140-600</article>
     <url>https://tukva.in.ua/p2602034690-krug-abrazivnyj-vorsovoj.html</url>
@@ -175255,7 +175234,7 @@ Pseudomonas fluorescens активний синтетик метаболітів
     <param name="Назначение">Шлифовальный</param>
     <param name="Состояние">Новое</param>
   </offer>
-  
+
 <offer id="2602035680" available="true">
     <article>140-80</article>
     <url>https://tukva.in.ua/p2602035680-krug-abrazivnyj-vorsovoj.html</url>
@@ -182214,7 +182193,8 @@ Pseudomonas fluorescens активний синтетик метаболітів
     <name>Комплект ручок з засувкою FZB BK 50mm SN/PB</name>
     <name_ua>Комплект ручок з засувкою FZB BK 50mm SN/PB</name_ua>
     <description>&lt;p&gt;&lt;strong&gt;Комплект ручок з засувкою FZB BK 50mm &amp; \ SN/PB ( 24шт.)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Комплект ручок з засувкою FZB BK 50mm &amp; \ SN/PB ( 24шт.) — проверенное решение для дома, мастерской и стройки. Товар из категории «Комплекты ручек с замком». Готовый комплект ручек с замком/защелкой для быстрой установки на дверь.&lt;/p&gt;&lt;p&gt;Быстрая отправка по Украине. Возможна оплата при получении.&lt;/p&gt;</description>
-    <description_ua>&lt;p&gt;&lt;strong&gt;Комплект ручок з засувкою FZB BK 50mm &amp; \ SN/PB ( 24шт.)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Надійний та зручний у монтажі врізний замок ідеально підходить для дерев'яних міжкімнатних дверей. Основні характеристики: Тип: Врізний замок для міжкімнатних дверей Сумісність: Дерев'яні двері Міжосьова відстань: 50 мм (відстань між центром квадрата ручки та центром язичка) Комплектація: замок, відповідна планка, саморізи, квадрат довжиною 100 мм.&lt;/p&gt;&lt;p&gt;Розміри замка: Корпус замка: - Висота: 77 мм - Ширина: 64 мм - Товщина: 13 мм Торцева планка: - Висота: 110 мм - Ширина: 21 мм Монтажна планка: - Висота: 150 мм - Ширина: 40 мм — Відстань між отворами для стяжних болтів: 130 мм Цей замок стане надійним рішенням для міжкімнатних дверей, забезпечуючи легке відчинення та зачинення, а також естетичний вигляд після встановлення.&lt;/p&gt;</description_ua>
+    <description_ua>&lt;p&gt;&lt;strong&gt;Комплект ручок з засувкою FZB BK 50mm &amp; \ SN/PB ( 24шт.)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Надійний та зручний у монтажі врізний замок ідеально підходить для дерев'яних міжкімнатних дверей. Основні характеристики: Тип: Врізний замок для міжкімнатних дверей Сумісність: Дерев'яні двері Міжосьова відстань: 50 мм (відстань між центром квадрата ручки та центром язичка) Комплектація: замок, відповідна планка, саморізи, квадрат довжиною 100 мм.&lt;/p&gt;&lt;p&gt;Розміри замка: Корпус замка: - Висота: 77 мм - Ширина: 64 мм - Товщина: 13 мм Торцева планка: - Висота: 110 мм - Ширина: 21 мм Монтажна планка: - Висота: 150 мм - Ширина: 40 мм — Відстань між отворами для стяжних болтів: 130 мм Цей замок стане надійним рішенням для міжкімнатних дверей, забезпечуючи легке відчинення та зачинення, а також естетичний вигляд після встановлення.&lt;/p&gt;
+&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Колір/покриття&lt;/td&gt;&lt;td&gt;SN/PB&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Тип товару&lt;/td&gt;&lt;td&gt;Комплект ручок з засувкою&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Розмір/міжосьова відстань&lt;/td&gt;&lt;td&gt;50 мм&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description_ua>
     <param name="Цвет">Золотистый</param>
     <param name="Назначение ручки">Дверная</param>
     <param name="Країна реєстрації бренду" unit="">Україна</param>
@@ -182824,7 +182804,7 @@ Pseudomonas fluorescens активний синтетик метаболітів
     <param name="Форма">Квадратная</param>
     <param name="Країна реєстрації бренду" unit="">Україна</param>
   </offer>
-
+  
 <offer id="2625676223" available="true">
     <article>15-33-014</article>
     <url>https://tukva.in.ua/p2625676223-nakladki-sofia-pod.html</url>
@@ -182847,7 +182827,7 @@ Pseudomonas fluorescens активний синтетик метаболітів
     <param name="Форма">Круглая</param>
     <param name="Країна реєстрації бренду" unit="">Україна</param>
   </offer>
-  
+
 <offer id="2625676896" available="true">
     <article>15-33-012</article>
     <url>https://tukva.in.ua/p2625676896-nakladki-sofia-pod.html</url>
@@ -190062,7 +190042,7 @@ Pseudomonas fluorescens активний синтетик метаболітів
     <param name="Основной цвет">Хром</param>
     <param name="Країна реєстрації бренду" unit="">Україна</param>
   </offer>
-
+  
 <offer id="2647103593" available="true">
     <article>01-22-001</article>
     <url>https://tukva.in.ua/p2647103593-nomera-plastikovye-5030.html</url>
@@ -190089,7 +190069,7 @@ Pseudomonas fluorescens активний синтетик метаболітів
     <param name="Длина" unit="мм">50</param>
     <param name="Цвет">Золотистый</param>
   </offer>
-  
+
 <offer id="2647113095" available="true">
     <article>01-22-005</article>
     <url>https://tukva.in.ua/p2647113095-nomera-plastikovye-5030.html</url>
@@ -198497,7 +198477,7 @@ Bacillus subtilis – живые клетки и споры агрономиче
     <param name="Солонка" unit="шт">1</param>
     <param name="Країна реєстрації бренду" unit="">Україна</param>
   </offer>
-
+  
 <offer id="3026156438" available="true">
     <article>AR0933</article>
     <url>https://tukva.in.ua/p3026156438-nabor-dlya-soli.html</url>
@@ -198529,7 +198509,7 @@ Bacillus subtilis – живые клетки и споры агрономиче
     <param name="Тип">Набор для специй</param>
     <param name="Країна реєстрації бренду" unit="">Україна</param>
   </offer>
-  
+
 <offer id="3026325447" available="true">
     <article>AR0907W</article>
     <url>https://tukva.in.ua/p3026325447-saharnitsa-ardesto-midori.html</url>
@@ -204759,7 +204739,7 @@ Bacillus subtilis – живые клетки и споры агрономиче
     <description>&lt;span&gt;Набор бокалов Pasabahce Diamond 238 мл, для мартини, 6 шт Характеристики: объем - 238 мл. Бренд: Pasabahce. Качественный товар для дома и кухни. Страна производства: Китай.&lt;/span&gt;</description>
     <description_ua>&lt;span&gt;Набір келихів Pasabahce Diamond 238 мл, для мартiнi, 6 шт. Характеристики: об'єм — 238 мл. Бренд: Pasabahce. Якісний товар для дому та кухні. Країна виробництва: Китай.&lt;/span&gt;</description_ua>
   </offer>
-
+  
 <offer id="3131969069" available="true">
     <article>440340</article>
     <url>https://tukva.in.ua/p3131969069-nabor-bokalov-pasabahce.html</url>
@@ -204774,7 +204754,7 @@ Bacillus subtilis – живые клетки и споры агрономиче
     <description>&lt;span&gt;Набор бокалов Pasabahce Joy для вина 490 мл, h-21,2 см 4 шт Характеристики: объем - 490 мл. Бренд: Pasabahce. Качественный товар для дома и кухни. Страна производства: Китай.&lt;/span&gt;</description>
     <description_ua>&lt;span&gt;Набір келихів Pasabahce Joy для вина 490 мл, h-21,2 см 4 шт. Характеристики: об'єм — 490 мл. Бренд: Pasabahce. Якісний товар для дому та кухні. Країна виробництва: Китай.&lt;/span&gt;</description_ua>
   </offer>
-  
+
 <offer id="3131969071" available="true">
     <article>320-60</article>
     <url>https://tukva.in.ua/p3131969071-zharovnya-chavunna-maysternya.html</url>
@@ -208481,7 +208461,7 @@ Bacillus subtilis – живые клетки и споры агрономиче
     <param name="Материал">Фарфор</param>
     <param name="Цвет">Белый</param>
   </offer>
-
+  
 <offer id="3131969602" available="true">
     <article>520345</article>
     <url>https://tukva.in.ua/p3131969602-nabor-stakanov-pasabahce.html</url>
@@ -208496,7 +208476,7 @@ Bacillus subtilis – живые клетки и споры агрономиче
     <description_ua>&lt;span&gt;Набір склянок Pasabahce Rain високих v-350 мл (под.уп.) 6 шт. Характеристики: матеріал — скло, об'єм — 350 мл. Бренд: Pasabahce. Якісний товар для дому та кухні. Країна виробництва: Китай.&lt;/span&gt;</description_ua>
     <param name="Материал">Стекло</param>
   </offer>
-  
+
 <offer id="3131969605" available="true">
     <article>4123</article>
     <url>https://tukva.in.ua/p3131969605-fartuk-kvarta-girl.html</url>
@@ -213197,7 +213177,7 @@ Ca - 4%&lt;/p&gt;
     <param name="Род растения">Петуния</param>
     <param name="Тип посадочного материала">Семена</param>
   </offer>
-
+  
 <offer id="3254508372" available="true">
     <article>sdm-0329</article>
     <url>https://tukva.in.ua/p3254508372-petuniya-karlik-chervona.html</url>
@@ -213211,7 +213191,7 @@ Ca - 4%&lt;/p&gt;
     <description_ua>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Петунія Карлик червона F1, 10 гран., СЦ&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Петунія Карлик червона F1 – однорічна рослина формує гіллястий і компактний кущик висотою 20 см. Зацвітає рано й рясно вкривається «міні» квітками яскравого червоного кольору діаметром 4-5 см. Цвітіння відбувається з червня й до заморозків. Петунії особливо придатні для посадок в ящики й горщики, а також можуть з успіхом вирощуватися в квітниках.&lt;/p&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;Категорія&lt;/td&gt;&lt;td&gt;Петунія&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Гібрид&lt;/td&gt;&lt;td&gt;F1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description_ua>
     <param name="Род растения">Петуния</param>
   </offer>
-  
+
 <offer id="3254508373" available="true">
     <article>sdm-0330</article>
     <url>https://tukva.in.ua/p3254508373-petuniya-unikum-sumish.html</url>
@@ -216825,7 +216805,7 @@ Ca - 4%&lt;/p&gt;
     <description_ua>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Томат Рані F1, 10 шт., Садиба&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Томат Рані F1 - ультраранній (122-125 днів) низькорослий гібрид жовтоплідного томату для вирощування у відкритому грунті та плівкових теплицях. Рослина компактна, середньоросла, формує округлі яскраво жовті плоди з акуратним носиком, вирівняні за розміром, вагою 160-180 г, без зеленої плями біля плодоніжки, з соковитим цукристим м’якушем. Гібрид стійкий до поширених захворювань, несхильний до розтріскування плодів, відмінно транспортується, зав’язує плоди навіть у спекотних умовах. Використовується для свіжого ринку, салатів, кулінарії та переробки.&lt;/p&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;Виробник / бренд&lt;/td&gt;&lt;td&gt;Садиба&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Категорія&lt;/td&gt;&lt;td&gt;Томат&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Кількість насінин&lt;/td&gt;&lt;td&gt;10 шт&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Гібрид&lt;/td&gt;&lt;td&gt;F1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description_ua>
     <param name="Культура">Томат</param>
   </offer>
-
+  
 <offer id="3254508740" available="true">
     <article>sdm-0267</article>
     <url>https://tukva.in.ua/p3254508740-tomat-ribbon-sht.html</url>
@@ -216839,7 +216819,7 @@ Ca - 4%&lt;/p&gt;
     <description_ua>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Томат Ріббон F1, 5 шт., Садиба&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Томат Ріббон F1 - ранньостиглий (80 днів від висадки розсади) продуктивний високорослий гібрид китицевого томату з унікальною формою плодів для вирощування в теплицях. Рослина середньоросла з короткими міжвузлями. Помідори насичено-червоного кольору округло-плескатої форми з невеличкими ребрами, що надає їм оригінального та привабливого вигляду. Плоди зібрані в елегантні китиці по 8-12 шт., чудового смаку, кольору і форми, одночасно достигають на гілці. Гібрид стійкий до вірусу мозаїки томату та вертицильозного в’янення. Рекомендується для переробки, свіжого ринку, красиві і смачні помідорчики підходять для салатів та оформлення страв.&lt;/p&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;Виробник / бренд&lt;/td&gt;&lt;td&gt;Садиба&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Категорія&lt;/td&gt;&lt;td&gt;Томат&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Кількість насінин&lt;/td&gt;&lt;td&gt;5 шт&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Гібрид&lt;/td&gt;&lt;td&gt;F1&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description_ua>
     <param name="Культура">Томат</param>
   </offer>
-  
+
 <offer id="3254508741" available="true">
     <article>sdm-0269</article>
     <url>https://tukva.in.ua/p3254508741-tomat-roma-sadiba.html</url>
@@ -220554,7 +220534,7 @@ Ca - 4%&lt;/p&gt;
     <param name="Тип опрыскивателя">Ручной</param>
     <param name="Цвет">Белый</param>
   </offer>
-
+  
 <offer id="3254509142" available="true">
     <article>hc-HECHT410ACCU</article>
     <url>https://tukva.in.ua/p3254509142-opriskuvach-akumulyatornij-hecht.html</url>
@@ -220579,7 +220559,7 @@ Ca - 4%&lt;/p&gt;
     <param name="Источник питания">Аккумуляторный</param>
     <param name="Цвет">Белый</param>
   </offer>
-  
+
 <offer id="3254509143" available="true">
     <article>hc-HECHT415V</article>
     <url>https://tukva.in.ua/p3254509143-opriskuvach-ruchnij-hecht.html</url>
@@ -226474,7 +226454,7 @@ Ca - 4%&lt;/p&gt;
     <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;⚠️ Цей товар відправляємо лише після повної передоплати.&lt;/strong&gt; Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.&lt;/p&gt;&lt;p&gt;Подовжувач до шнека 1000 мм&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Характеристики&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Довжина, мм: 1000&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
     <description_ua>&lt;div&gt;&lt;p&gt;&lt;strong&gt;⚠️ Цей товар відправляємо лише після повної передоплати.&lt;/strong&gt; Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.&lt;/p&gt;&lt;p&gt;Подовжувач до шнека 1000 мм&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Характеристики&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Довжина, мм: 1000&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description_ua>
   </offer>
-
+  
 <offer id="3254509513" available="true">
     <article>amt-56501</article>
     <url>https://tukva.in.ua/p3254509513-motobur-kentavr-mbr.html</url>
@@ -226495,7 +226475,7 @@ Ca - 4%&lt;/p&gt;
     <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;⚠️ Цей товар відправляємо лише після повної передоплати.&lt;/strong&gt; Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.&lt;/p&gt;&lt;h2&gt;Опис мотобура Кентавр МБР-52Н&lt;/h2&gt;&lt;p&gt;Завдяки сучасним напрацюванням і технічному прогресу людина всіляко намагається спростити фізичну роботу і довірити її машинам і механізмам. Так, на допомогу будівельникам і садівникам, ТМ «Кентавр» розробила мотобур Кентавр МБР-52Н, який представляє собою моторизований механічний пристрій для свердління отворів різного діаметра в ґрунті під саджанці дерев, встановлення стовпів, опор огороджень, напрямних труб під час будівництва колон парканів.&lt;/p&gt;&lt;p&gt;Працює пристрій від одноциліндрового 2-тактного бензинового двигуна об'ємом 52 см³ і потужністю 3,2 к.с. Суміш бензину Аи-92 з маслом у пропорції 25:1 готується безпосередньо на початку використання і заливається в бак, об'ємом 1,25 л. Відкрита конструкція механізмів мотобура Кентавр МБР-52Н передбачає повітряну систему охолодження. Хромований циліндр, який в кілька разів подовжує термін служби поршневої системи – основного рушійного вузла виробу.&lt;/p&gt;&lt;p&gt;Запуск двигуна здійснюється ручним самостійно повертаючимся стартером. Швидкість обертання колінчастого вала двигуна здійснюється важелем дросельної заслінки (простіше кажучи – важелем газу), розташованої на рукоятці оператора. Там же розташований фіксатор ручки газу. Автоматичне зчеплення, тобто сильніше натиснув важіль дросельної заслінки – вища швидкість обертання шнека (макс. 9500 об/хв); відпустивши важіль – двигун працює на холостому ходу і не обертається шнек.&lt;/p&gt;&lt;p&gt;З двигуна через редуктор, який перетворює швидкість обертання в потужність обертання (передаточне число 30:1), крутний момент передається на бур (він же шнек). Дана модель не укомплектована шнеком та купується окремо. Вага мотобура Кентавр МБР-52Н становить 9 кг. Максимальний діаметр використовуваного в роботі шнека становить 250 мм.&lt;/p&gt;&lt;p&gt;Простота пристрою і комплектація якісними деталями і частинами механізму мотобура Кентавр МБР-52Н робить його надійним і зовсім не вибагливим в обслуговуванні помічником. Крім того, на всі частини і деталі надається гарантія 12 місяців і розповсюджується на всій території України.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Характеристики&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Тип двигуна: 2-тактний&lt;/li&gt;&lt;li&gt; Робочий об'єм, куб. см: 52&lt;/li&gt;&lt;li&gt; Потужність, к.с.: 3,2&lt;/li&gt;&lt;li&gt;Максимальна частота, об/хв: 9500&lt;/li&gt;&lt;li&gt; Обсяг паливного бака, л: 1,25&lt;/li&gt;&lt;li&gt;Коефіцієнт зниження: 30:1&lt;/li&gt;&lt;li&gt;Макс. діаметр використовуваного шнека, мм: 250&lt;/li&gt;&lt;li&gt;Габарити упаковки, мм: 430x375х305&lt;/li&gt;&lt;li&gt;Маса нетто/брутто, кг: 9,0/10,0&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
     <description_ua>&lt;div&gt;&lt;p&gt;&lt;strong&gt;⚠️ Цей товар відправляємо лише після повної передоплати.&lt;/strong&gt; Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.&lt;/p&gt;&lt;h2&gt;Опис мотобура Кентавр МБР-52Н&lt;/h2&gt;&lt;p&gt;Завдяки сучасним напрацюванням і технічному прогресу людина всіляко намагається спростити фізичну роботу і довірити її машинам і механізмам. Так, на допомогу будівельникам і садівникам, ТМ «Кентавр» розробила мотобур Кентавр МБР-52Н, який представляє собою моторизований механічний пристрій для свердління отворів різного діаметра в ґрунті під саджанці дерев, встановлення стовпів, опор огороджень, напрямних труб під час будівництва колон парканів.&lt;/p&gt;&lt;p&gt;Працює пристрій від одноциліндрового 2-тактного бензинового двигуна об'ємом 52 см³ і потужністю 3,2 к.с. Суміш бензину Аи-92 з маслом у пропорції 25:1 готується безпосередньо на початку використання і заливається в бак, об'ємом 1,25 л. Відкрита конструкція механізмів мотобура Кентавр МБР-52Н передбачає повітряну систему охолодження. Хромований циліндр, який в кілька разів подовжує термін служби поршневої системи – основного рушійного вузла виробу.&lt;/p&gt;&lt;p&gt;Запуск двигуна здійснюється ручним самостійно повертаючимся стартером. Швидкість обертання колінчастого вала двигуна здійснюється важелем дросельної заслінки (простіше кажучи – важелем газу), розташованої на рукоятці оператора. Там же розташований фіксатор ручки газу. Автоматичне зчеплення, тобто сильніше натиснув важіль дросельної заслінки – вища швидкість обертання шнека (макс. 9500 об/хв); відпустивши важіль – двигун працює на холостому ходу і не обертається шнек.&lt;/p&gt;&lt;p&gt;З двигуна через редуктор, який перетворює швидкість обертання в потужність обертання (передаточне число 30:1), крутний момент передається на бур (він же шнек). Дана модель не укомплектована шнеком та купується окремо. Вага мотобура Кентавр МБР-52Н становить 9 кг. Максимальний діаметр використовуваного в роботі шнека становить 250 мм.&lt;/p&gt;&lt;p&gt;Простота пристрою і комплектація якісними деталями і частинами механізму мотобура Кентавр МБР-52Н робить його надійним і зовсім не вибагливим в обслуговуванні помічником. Крім того, на всі частини і деталі надається гарантія 12 місяців і розповсюджується на всій території України.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Характеристики&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Тип двигуна: 2-тактний&lt;/li&gt;&lt;li&gt; Робочий об'єм, куб. см: 52&lt;/li&gt;&lt;li&gt; Потужність, к.с.: 3,2&lt;/li&gt;&lt;li&gt;Максимальна частота, об/хв: 9500&lt;/li&gt;&lt;li&gt; Обсяг паливного бака, л: 1,25&lt;/li&gt;&lt;li&gt;Коефіцієнт зниження: 30:1&lt;/li&gt;&lt;li&gt;Макс. діаметр використовуваного шнека, мм: 250&lt;/li&gt;&lt;li&gt;Габарити упаковки, мм: 430x375х305&lt;/li&gt;&lt;li&gt;Маса нетто/брутто, кг: 9,0/10,0&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description_ua>
   </offer>
-  
+
 <offer id="3254509514" available="true">
     <article>amt-56502</article>
     <url>https://tukva.in.ua/p3254509514-motobur-vitals-bum.html</url>
@@ -231653,7 +231633,7 @@ Ca - 4%&lt;/p&gt;
     <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;⚠️ Этот товар отправляем только после полной предоплаты.&lt;/strong&gt; Товар едет напрямую со склада производителя, поэтому оплата при получении (наложенный платёж) недоступна.&lt;/p&gt;&lt;p&gt;Светодиодная гирлянда «Рождественская фея» — универсальное решение для уличного и интерьерного декора. Она помогает создать праздничную атмосферу и подчеркнуть архитектурные линии дома, балкона, террасы или сада. Благодаря мягкому, равномерному свечению гирлянда добавляет тепла и уюта в любое пространство, делая его нарядным и привлекательным.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Основные характеристики уличной новогодней гирлянды:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Тип: гирлянда «Рождественская фея»;&lt;/li&gt; &lt;li&gt;Источник питания: от сети;&lt;/li&gt; &lt;li&gt;Количество LED: 500 шт;&lt;/li&gt; &lt;li&gt;Общая длина: 50 м;&lt;/li&gt; &lt;li&gt;Цвет провода: белый;&lt;/li&gt; &lt;li&gt;Расстояние от вилки до первой лампочки: 1.9 м;&lt;/li&gt; &lt;li&gt;Расстояние между лампочками: 9 см;&lt;/li&gt; &lt;li&gt;Количество режимов: 8;&lt;/li&gt; &lt;li&gt;Переключение режимов: механически;&lt;/li&gt; &lt;li&gt;Степень защиты: IP65 (влагозащита);&lt;/li&gt; &lt;li&gt;Назначение: для наружного и внутреннего использования.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Особенности светодиодной гирлянды на улицу:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Длина гирлянды — 50 м, что позволяет украшать большие площади.&lt;/li&gt; &lt;li&gt;500 ярких LED-лампочек обеспечивают равномерное свечение без затемнений.&lt;/li&gt; &lt;li&gt;Белый кабель аккуратно смотрится и сливается с поверхностью днём.&lt;/li&gt; &lt;li&gt;8 режимов работы для создания нужного светового эффекта.&lt;/li&gt; &lt;li&gt;Степень защиты IP65 — влагозащита и устойчивость к погодным условиям.&lt;/li&gt; &lt;li&gt;Энергосберегающие светодиоды с длительным сроком службы.&lt;/li&gt; &lt;li&gt;Удобное подключение: расстояние от вилки до первой лампочки — 1.9 м.&lt;/li&gt; &lt;li&gt;Безопасность и надёжность при длительной эксплуатации.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Уличная гирлянда «Рождественская фея» — это сочетание эстетики, практичности и долговечности. Она станет ярким акцентом новогоднего или повседневного освещения, создавая атмосферу уюта и праздника даже в холодное время года.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Характеристики&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Количество режимов свечения: 8&lt;/li&gt;&lt;li&gt;Режим работы: Динамический&lt;/li&gt;&lt;li&gt;Количество светодиодов: 500&lt;/li&gt;&lt;li&gt;Длина шнура питания: 1.09 м&lt;/li&gt;&lt;li&gt;Напряжение: 220 В&lt;/li&gt;&lt;li&gt;Длина: 50 м&lt;/li&gt;&lt;li&gt;Тип гирлянды: Нить комнатная|Нить уличная&lt;/li&gt;&lt;li&gt;Тип освещения: Светодиодная гирлянда&lt;/li&gt;&lt;li&gt;Тип питания: Сеть&lt;/li&gt;&lt;li&gt;Упаковка: Коробка&lt;/li&gt;&lt;li&gt;Степень защиты IP: 65&lt;/li&gt;&lt;li&gt;Цвет шнура питания: Белый&lt;/li&gt;&lt;li&gt;Угол свечения: 360&lt;/li&gt;&lt;li&gt;Цвет свечения: Синий&lt;/li&gt;&lt;li&gt;Форма лампочки: Классическая&lt;/li&gt;&lt;li&gt;Форма сечения: Круглая&lt;/li&gt;&lt;li&gt;Цветовая гамма: Синий&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
     <description_ua>&lt;div&gt;&lt;p&gt;&lt;strong&gt;⚠️ Цей товар відправляємо лише після повної передоплати.&lt;/strong&gt; Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.&lt;/p&gt;&lt;p&gt;Світлодіодна гірлянда «Різдвяна фея» - універсальне рішення для вуличного та інтер'єрного декору. Вона допомагає створити святкову атмосферу та підкреслити архітектурні лінії будинку, балкону, тераси чи саду. Завдяки м'якому, рівномірному світінню гірлянда додає тепла та затишку в будь-який простір, роблячи його ошатним та привабливим.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Основні характеристики вуличної новорічної гірлянди:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Тип: гірлянда «Різдвяна фея»;&lt;/li&gt; &lt;li&gt;Джерело живлення: від мережі;&lt;/li&gt; &lt;li&gt;Кількість LED: 500 шт;&lt;/li&gt; &lt;li&gt;Загальна довжина: 50 м;&lt;/li&gt; &lt;li&gt;Колір дроту: білий;&lt;/li&gt; &lt;li&gt;Відстань від вилки до першої лампочки: 1.9 м;&lt;/li&gt; &lt;li&gt;Відстань між лампочками: 9 см;&lt;/li&gt; &lt;li&gt;Кількість режимів: 8;&lt;/li&gt; &lt;li&gt;Перемикання режимів: механічно;&lt;/li&gt; &lt;li&gt;Ступінь захисту: IP65 (вологозахист);&lt;/li&gt; &lt;li&gt;Призначення: для зовнішнього та внутрішнього використання.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Особливості світлодіодної гірлянди на вулицю:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Довжина гірлянди — 50 м, що дає змогу прикрашати великі площі.&lt;/li&gt; &lt;li&gt;500 яскравих LED-лампочок забезпечують рівномірне свічення без затемнення.&lt;/li&gt; &lt;li&gt;Білий кабель акуратно виглядає і зливається з поверхнею вдень.&lt;/li&gt; &lt;li&gt;8 режимів роботи для створення потрібного світлового ефекту.&lt;/li&gt; &lt;li&gt;Ступінь захисту IP65 - вологозахист та стійкість до погодних умов.&lt;/li&gt; &lt;li&gt;Енергозберігаючі світлодіоди з тривалим терміном служби.&lt;/li&gt; &lt;li&gt;Зручне підключення: відстань від вилки до першої лампочки – 1.9 м.&lt;/li&gt; &lt;li&gt;Безпека та надійність при тривалій експлуатації.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Вулична гірлянда «Різдвяна фея» - це поєднання естетики, практичності та довговічності. Вона стане яскравим акцентом новорічного чи повсякденного освітлення, створюючи атмосферу затишку та свята навіть у холодну пору року.&lt;/p&gt;&lt;/div&gt;</description_ua>
   </offer>
-
+  
 <offer id="3254509927" available="true">
     <article>lg-CF500L50MWML</article>
     <url>https://tukva.in.ua/p3254509927-girlyanda-rozhdestvenskaya-feya.html</url>
@@ -231671,7 +231651,7 @@ Ca - 4%&lt;/p&gt;
     <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;⚠️ Этот товар отправляем только после полной предоплаты.&lt;/strong&gt; Товар едет напрямую со склада производителя, поэтому оплата при получении (наложенный платёж) недоступна.&lt;/p&gt;&lt;p&gt;Светодиодная гирлянда «Рождественская фея» — универсальное решение для уличного и интерьерного декора. Она помогает создать праздничную атмосферу и подчеркнуть архитектурные линии дома, балкона, террасы или сада. Благодаря мягкому, равномерному свечению гирлянда добавляет тепла и уюта в любое пространство, делая его нарядным и привлекательным.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Основные характеристики уличной новогодней гирлянды:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Тип: гирлянда «Рождественская фея»;&lt;/li&gt; &lt;li&gt;Источник питания: от сети;&lt;/li&gt; &lt;li&gt;Количество LED: 500 шт;&lt;/li&gt; &lt;li&gt;Общая длина: 50 м;&lt;/li&gt; &lt;li&gt;Цвет провода: белый;&lt;/li&gt; &lt;li&gt;Расстояние от вилки до первой лампочки: 1.9 м;&lt;/li&gt; &lt;li&gt;Расстояние между лампочками: 9 см;&lt;/li&gt; &lt;li&gt;Количество режимов: 8;&lt;/li&gt; &lt;li&gt;Переключение режимов: механически;&lt;/li&gt; &lt;li&gt;Степень защиты: IP65 (влагозащита);&lt;/li&gt; &lt;li&gt;Назначение: для наружного и внутреннего использования.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Особенности светодиодной гирлянды на улицу:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Длина гирлянды — 50 м, что позволяет украшать большие площади.&lt;/li&gt; &lt;li&gt;500 ярких LED-лампочек обеспечивают равномерное свечение без затемнений.&lt;/li&gt; &lt;li&gt;Белый кабель аккуратно смотрится и сливается с поверхностью днём.&lt;/li&gt; &lt;li&gt;8 режимов работы для создания нужного светового эффекта.&lt;/li&gt; &lt;li&gt;Степень защиты IP65 — влагозащита и устойчивость к погодным условиям.&lt;/li&gt; &lt;li&gt;Энергосберегающие светодиоды с длительным сроком службы.&lt;/li&gt; &lt;li&gt;Удобное подключение: расстояние от вилки до первой лампочки — 1.9 м.&lt;/li&gt; &lt;li&gt;Безопасность и надёжность при длительной эксплуатации.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Уличная гирлянда «Рождественская фея» — это сочетание эстетики, практичности и долговечности. Она станет ярким акцентом новогоднего или повседневного освещения, создавая атмосферу уюта и праздника даже в холодное время года.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Характеристики&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Количество режимов свечения: 8&lt;/li&gt;&lt;li&gt;Режим работы: Динамический&lt;/li&gt;&lt;li&gt;Количество светодиодов: 500&lt;/li&gt;&lt;li&gt;Длина шнура питания: 1.09 м&lt;/li&gt;&lt;li&gt;Напряжение: 220 В&lt;/li&gt;&lt;li&gt;Длина: 50 м&lt;/li&gt;&lt;li&gt;Тип гирлянды: Нить комнатная|Нить уличная&lt;/li&gt;&lt;li&gt;Тип освещения: Светодиодная гирлянда&lt;/li&gt;&lt;li&gt;Тип питания: Сеть&lt;/li&gt;&lt;li&gt;Упаковка: Коробка&lt;/li&gt;&lt;li&gt;Степень защиты IP: 65&lt;/li&gt;&lt;li&gt;Цвет шнура питания: Белый&lt;/li&gt;&lt;li&gt;Угол свечения: 360&lt;/li&gt;&lt;li&gt;Цвет свечения: Мультиколор&lt;/li&gt;&lt;li&gt;Форма лампочки: Классическая&lt;/li&gt;&lt;li&gt;Форма сечения: Круглая&lt;/li&gt;&lt;li&gt;Цветовая гамма: RGB&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
     <description_ua>&lt;div&gt;&lt;p&gt;&lt;strong&gt;⚠️ Цей товар відправляємо лише після повної передоплати.&lt;/strong&gt; Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.&lt;/p&gt;&lt;p&gt;Світлодіодна гірлянда «Різдвяна фея» - універсальне рішення для вуличного та інтер'єрного декору. Вона допомагає створити святкову атмосферу та підкреслити архітектурні лінії будинку, балкону, тераси чи саду. Завдяки м'якому, рівномірному світінню гірлянда додає тепла та затишку в будь-який простір, роблячи його ошатним та привабливим.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Основні характеристики вуличної новорічної гірлянди:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Тип: гірлянда «Різдвяна фея»;&lt;/li&gt; &lt;li&gt;Джерело живлення: від мережі;&lt;/li&gt; &lt;li&gt;Кількість LED: 500 шт;&lt;/li&gt; &lt;li&gt;Загальна довжина: 50 м;&lt;/li&gt; &lt;li&gt;Колір дроту: білий;&lt;/li&gt; &lt;li&gt;Відстань від вилки до першої лампочки: 1.9 м;&lt;/li&gt; &lt;li&gt;Відстань між лампочками: 9 см;&lt;/li&gt; &lt;li&gt;Кількість режимів: 8;&lt;/li&gt; &lt;li&gt;Перемикання режимів: механічно;&lt;/li&gt; &lt;li&gt;Ступінь захисту: IP65 (вологозахист);&lt;/li&gt; &lt;li&gt;Призначення: для зовнішнього та внутрішнього використання.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Особливості світлодіодної гірлянди на вулицю:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Довжина гірлянди — 50 м, що дає змогу прикрашати великі площі.&lt;/li&gt; &lt;li&gt;500 яскравих LED-лампочок забезпечують рівномірне свічення без затемнення.&lt;/li&gt; &lt;li&gt;Білий кабель акуратно виглядає і зливається з поверхнею вдень.&lt;/li&gt; &lt;li&gt;8 режимів роботи для створення потрібного світлового ефекту.&lt;/li&gt; &lt;li&gt;Ступінь захисту IP65 - вологозахист та стійкість до погодних умов.&lt;/li&gt; &lt;li&gt;Енергозберігаючі світлодіоди з тривалим терміном служби.&lt;/li&gt; &lt;li&gt;Зручне підключення: відстань від вилки до першої лампочки – 1.9 м.&lt;/li&gt; &lt;li&gt;Безпека та надійність при тривалій експлуатації.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Вулична гірлянда «Різдвяна фея» - це поєднання естетики, практичності та довговічності. Вона стане яскравим акцентом новорічного чи повсякденного освітлення, створюючи атмосферу затишку та свята навіть у холодну пору року.&lt;/p&gt;&lt;/div&gt;</description_ua>
   </offer>
-  
+
 <offer id="3254509928" available="true">
     <article>lg-CF500L50MWW</article>
     <url>https://tukva.in.ua/p3254509928-girlyanda-rozhdestvenskaya-feya.html</url>
@@ -236368,7 +236348,7 @@ Ca - 4%&lt;/p&gt;
     <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;⚠️ Этот товар отправляем только после полной предоплаты.&lt;/strong&gt; Товар едет напрямую со склада производителя, поэтому оплата при получении (наложенный платёж) недоступна.&lt;/p&gt;&lt;p&gt;Лита ялинка Елітна 2.30 м. блакитна&lt;/p&gt;&lt;p&gt;Ялинка виготовлена з харчового пластику.&lt;br&gt;Не викликає алергії. Без запаху. Ялина створена з екологічно чистої, першокласної сировини. Безпечна для дітей та тварин. &lt;br&gt;Підтверджена сертифікатом якості. &lt;br&gt;У комплекті йде металева розбірна підставка.&lt;br&gt;Упаковується в коробку з логотипом "XATYNKA".&lt;br&gt;Додається інструкція щодо встановлення та зберігання ялинки.&lt;br&gt;Всі відростки на гілках литі (як зовнішні так і внутрішні)&lt;br&gt;Діаметр гілки: 40мм.&lt;br&gt;Діаментр нижнього ярусу: 148см.&lt;br&gt;Кількість ярусів: 22.&lt;br&gt;Кількість відростків: 526шт.&lt;br&gt;Вага: 17 кг.&lt;br&gt;Ялинка складається з трьох частин.&lt;br&gt;Фото ялинок реальні.&lt;br&gt;Зберігати в складеному вигляді у вертикальному положенні.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Характеристики&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Вага ялини/сосни: 17 кг&lt;/li&gt;&lt;li&gt;Вид дерева: ялина штучна&lt;/li&gt;&lt;li&gt;Висота дерева: 2.3 м&lt;/li&gt;&lt;li&gt;Діаметр нижнього ярусу: 1.48 м&lt;/li&gt;&lt;li&gt;Довжина хвої: 40 мм&lt;/li&gt;&lt;li&gt;Кількість гілок: 526 шт.&lt;/li&gt;&lt;li&gt;Кількість ярусів: 22&lt;/li&gt;&lt;li&gt;Конструкція дерева: Ствольна&lt;/li&gt;&lt;li&gt;Матеріал підставки: Металл&lt;/li&gt;&lt;li&gt;Матеріал ствола: металл&lt;/li&gt;&lt;li&gt;Матеріал хвої: пластик&lt;/li&gt;&lt;li&gt;Область застосування: Внутри помещения&lt;/li&gt;&lt;li&gt;Підставка: Так&lt;/li&gt;&lt;li&gt;Колір хвої: Голубой&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
     <description_ua>&lt;div&gt;&lt;p&gt;&lt;strong&gt;⚠️ Цей товар відправляємо лише після повної передоплати.&lt;/strong&gt; Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.&lt;/p&gt;&lt;p&gt;Лита ялинка Елітна 2.30 м. блакитна&lt;/p&gt;&lt;p&gt;Ялинка виготовлена з харчового пластику.&lt;br&gt;Не викликає алергії. Без запаху. Ялина створена з екологічно чистої, першокласної сировини. Безпечна для дітей та тварин. &lt;br&gt;Підтверджена сертифікатом якості. &lt;br&gt;У комплекті йде металева розбірна підставка.&lt;br&gt;Упаковується в коробку з логотипом "XATYNKA".&lt;br&gt;Додається інструкція щодо встановлення та зберігання ялинки.&lt;br&gt;Всі відростки на гілках литі (як зовнішні так і внутрішні)&lt;br&gt;Діаметр гілки: 40мм.&lt;br&gt;Діаментр нижнього ярусу: 148см.&lt;br&gt;Кількість ярусів: 22.&lt;br&gt;Кількість відростків: 526шт.&lt;br&gt;Вага: 17 кг.&lt;br&gt;Ялинка складається з трьох частин.&lt;br&gt;Фото ялинок реальні.&lt;br&gt;Зберігати в складеному вигляді у вертикальному положенні.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Характеристики&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Вага ялини/сосни: 17 кг&lt;/li&gt;&lt;li&gt;Вид дерева: ялина штучна&lt;/li&gt;&lt;li&gt;Висота дерева: 2.3 м&lt;/li&gt;&lt;li&gt;Діаметр нижнього ярусу: 1.48 м&lt;/li&gt;&lt;li&gt;Довжина хвої: 40 мм&lt;/li&gt;&lt;li&gt;Кількість гілок: 526 шт.&lt;/li&gt;&lt;li&gt;Кількість ярусів: 22&lt;/li&gt;&lt;li&gt;Конструкція дерева: Ствольна&lt;/li&gt;&lt;li&gt;Матеріал підставки: Металл&lt;/li&gt;&lt;li&gt;Матеріал ствола: металл&lt;/li&gt;&lt;li&gt;Матеріал хвої: пластик&lt;/li&gt;&lt;li&gt;Область застосування: Внутри помещения&lt;/li&gt;&lt;li&gt;Підставка: Так&lt;/li&gt;&lt;li&gt;Колір хвої: Голубой&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description_ua>
   </offer>
-
+  
 <offer id="3254510297" available="true">
     <article>xt-1485033692</article>
     <url>https://tukva.in.ua/p3254510297-lita-yalinka-elitna.html</url>
@@ -236388,7 +236368,7 @@ Ca - 4%&lt;/p&gt;
     <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;⚠️ Этот товар отправляем только после полной предоплаты.&lt;/strong&gt; Товар едет напрямую со склада производителя, поэтому оплата при получении (наложенный платёж) недоступна.&lt;/p&gt;&lt;p&gt;Лита ялинка Елітна 1.50 м. блакитна&lt;/p&gt;&lt;p&gt;Ялинка виготовлена з харчового пластику.&lt;br&gt;Не викликає алергії. Без запаху. Ялина створена з екологічно чистої, першокласної сировини. Безпечна для дітей та тварин. Пожежостійка.&lt;br&gt;Підтверджена сертифікатом якості. &lt;br&gt;У комплекті йде металева розбірна підставка.&lt;br&gt;Упаковується в коробку з логотипом "XATYNKA".&lt;br&gt;Додається інструкція щодо встановлення та зберігання ялинки.&lt;br&gt;Діаметр гілки: 40мм.&lt;br&gt;Діаметр нижнього ярусу: 100см.&lt;br&gt;Кількість ярусів: 14&lt;br&gt;Кількість відростків: 220 шт.&lt;br&gt;Вага: 5,5 кг.&lt;br&gt;Ялинка складається з двох частин.&lt;br&gt;Фото ялинок реальні.&lt;br&gt;Зберігати в складеному вигляді у вертикальному положенні.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Характеристики&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Вага ялини/сосни: 5.5 кг&lt;/li&gt;&lt;li&gt;Вид дерева: ялина штучна&lt;/li&gt;&lt;li&gt;Висота дерева: 1.5 м&lt;/li&gt;&lt;li&gt;Діаметр нижнього ярусу: 1 м&lt;/li&gt;&lt;li&gt;Довжина хвої: 40 мм&lt;/li&gt;&lt;li&gt;Кількість гілок: 220 шт.&lt;/li&gt;&lt;li&gt;Кількість ярусів: 14&lt;/li&gt;&lt;li&gt;Конструкція дерева: Ствольна&lt;/li&gt;&lt;li&gt;Матеріал підставки: Металл&lt;/li&gt;&lt;li&gt;Матеріал ствола: металл&lt;/li&gt;&lt;li&gt;Матеріал хвої: пластик&lt;/li&gt;&lt;li&gt;Область застосування: Внутри помещения&lt;/li&gt;&lt;li&gt;Підставка: Так&lt;/li&gt;&lt;li&gt;Колір хвої: Голубой&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
     <description_ua>&lt;div&gt;&lt;p&gt;&lt;strong&gt;⚠️ Цей товар відправляємо лише після повної передоплати.&lt;/strong&gt; Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.&lt;/p&gt;&lt;p&gt;Лита ялинка Елітна 1.50 м. блакитна&lt;/p&gt;&lt;p&gt;Ялинка виготовлена з харчового пластику.&lt;br&gt;Не викликає алергії. Без запаху. Ялина створена з екологічно чистої, першокласної сировини. Безпечна для дітей та тварин. Пожежостійка.&lt;br&gt;Підтверджена сертифікатом якості. &lt;br&gt;У комплекті йде металева розбірна підставка.&lt;br&gt;Упаковується в коробку з логотипом "XATYNKA".&lt;br&gt;Додається інструкція щодо встановлення та зберігання ялинки.&lt;br&gt;Діаметр гілки: 40мм.&lt;br&gt;Діаметр нижнього ярусу: 100см.&lt;br&gt;Кількість ярусів: 14&lt;br&gt;Кількість відростків: 220 шт.&lt;br&gt;Вага: 5,5 кг.&lt;br&gt;Ялинка складається з двох частин.&lt;br&gt;Фото ялинок реальні.&lt;br&gt;Зберігати в складеному вигляді у вертикальному положенні.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Характеристики&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Вага ялини/сосни: 5.5 кг&lt;/li&gt;&lt;li&gt;Вид дерева: ялина штучна&lt;/li&gt;&lt;li&gt;Висота дерева: 1.5 м&lt;/li&gt;&lt;li&gt;Діаметр нижнього ярусу: 1 м&lt;/li&gt;&lt;li&gt;Довжина хвої: 40 мм&lt;/li&gt;&lt;li&gt;Кількість гілок: 220 шт.&lt;/li&gt;&lt;li&gt;Кількість ярусів: 14&lt;/li&gt;&lt;li&gt;Конструкція дерева: Ствольна&lt;/li&gt;&lt;li&gt;Матеріал підставки: Металл&lt;/li&gt;&lt;li&gt;Матеріал ствола: металл&lt;/li&gt;&lt;li&gt;Матеріал хвої: пластик&lt;/li&gt;&lt;li&gt;Область застосування: Внутри помещения&lt;/li&gt;&lt;li&gt;Підставка: Так&lt;/li&gt;&lt;li&gt;Колір хвої: Голубой&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description_ua>
   </offer>
-  
+
 <offer id="3254510298" available="true">
     <article>xt-1485033694</article>
     <url>https://tukva.in.ua/p3254510298-lita-yalinka-premium.html</url>
@@ -240497,7 +240477,7 @@ Ca - 4%&lt;/p&gt;
     <description>&lt;p&gt;&lt;strong&gt;Ніж Krauff Wikinger універсальний (зубчастий) 12,6 см.&lt;/strong&gt;&lt;/p&gt;</description>
     <description_ua>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Ніж Krauff Wikinger універсальний (зубчастий) 12,6 см.&lt;/strong&gt;&lt;/p&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;Бренд&lt;/td&gt;&lt;td&gt;Krauff&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Розмір&lt;/td&gt;&lt;td&gt;12,6 см&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description_ua>
   </offer>
-
+  
 <offer id="3254510964" available="true">
     <article>vt-29-305-192</article>
     <url>https://tukva.in.ua/p3254510964-nabir-sklyanok-krauff.html</url>
@@ -240511,7 +240491,7 @@ Ca - 4%&lt;/p&gt;
     <description>&lt;p&gt;&lt;strong&gt;Набір склянок Krauff для напоїв 550 мл (2склянки з кришками, 2 трубочки скляні, 2 йоржика)&lt;/strong&gt;&lt;/p&gt;</description>
     <description_ua>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Набір склянок Krauff для напоїв 550 мл (2склянки з кришками, 2 трубочки скляні, 2 йоржика)&lt;/strong&gt;&lt;/p&gt;&lt;h3&gt;Характеристики&lt;/h3&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;Бренд&lt;/td&gt;&lt;td&gt;Krauff&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Матеріал&lt;/td&gt;&lt;td&gt;Скло&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Об'єм&lt;/td&gt;&lt;td&gt;550 мл&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description_ua>
   </offer>
-  
+
 <offer id="3254510965" available="true">
     <article>vt-29-305-198</article>
     <url>https://tukva.in.ua/p3254510965-nabir-stolovih-priboriv.html</url>
@@ -245315,7 +245295,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-c6a3a47bb632" available="true">
 <url>https://harbuz.in.ua/ruchky-ta-vannochky-dlia-valykiv/9990/</url>
-<price>39</price>
+<price>29</price>
 <currencyId>UAH</currencyId>
 <categoryId>hbc10d2dbe</categoryId>
 <picture>https://harbuz.in.ua/content/images/41/20727998533283_+680112e9f0.jpg</picture>
@@ -245592,7 +245572,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-43f694d6ce7e" available="true">
 <url>https://harbuz.in.ua/skotchi-ta-kleiki-strichky/10549/</url>
-<price>159</price>
+<price>119</price>
 <currencyId>UAH</currencyId>
 <categoryId>hbef2672b5</categoryId>
 <picture>https://harbuz.in.ua/content/images/50/29397494999242_+b5df9c8170.jpg</picture>
@@ -248253,7 +248233,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-10786b64686b" available="true">
 <url>https://harbuz.in.ua/catalog/query/7147/</url>
-<price>107</price>
+<price>81</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb579685b3</categoryId>
 <picture>https://harbuz.in.ua/content/images/48/82846383390545_+7c0b865331.jpg</picture>
@@ -248634,7 +248614,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-4157d2d5f67b" available="true">
 <url>https://harbuz.in.ua/valyky-maliarni/9922/</url>
-<price>89</price>
+<price>68</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb1a2d580f</categoryId>
 <picture>https://harbuz.in.ua/content/images/23/92237972396170_+1f8c88df14.jpg</picture>
@@ -250116,7 +250096,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-8fcda3fcf4e5" available="true">
 <url>https://harbuz.in.ua/catalog/query/7110/</url>
-<price>129</price>
+<price>96</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb6cd29f21</categoryId>
 <picture>https://harbuz.in.ua/content/images/11/55553583600237_+39e14b8eeb.jpg</picture>
@@ -250129,7 +250109,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-899d7af2f875" available="true">
 <url>https://harbuz.in.ua/catalog/query/7113/</url>
-<price>139</price>
+<price>104</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb6cd29f21</categoryId>
 <picture>https://harbuz.in.ua/content/images/14/36755805181326_+e700581f6f.jpg</picture>
@@ -250820,7 +250800,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-5422fd6a69ed" available="true">
 <url>https://harbuz.in.ua/paialne-ta-zvariuvalne-pryladdia/10082/</url>
-<price>379</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb3c33cfa2</categoryId>
 <picture>https://harbuz.in.ua/content/images/33/44541575595210_+480af41142.jpg</picture>
@@ -251397,7 +251377,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-f218584cc555" available="true">
 <url>https://harbuz.in.ua/zamok-vriznyi-apecs-5300-ni-ua/</url>
-<price>549</price>
+<price>402</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb8b3df9da</categoryId>
 <picture>https://harbuz.in.ua/content/images/39/23066609273872_+e593251415.jpg</picture>
@@ -251436,7 +251416,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-9bc31827eb9b" available="true">
 <url>https://harbuz.in.ua/catalog/query/7117/</url>
-<price>439</price>
+<price>329</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb6cd29f21</categoryId>
 <picture>https://harbuz.in.ua/content/images/18/52440729770738_+199dcd3e54.jpg</picture>
@@ -252114,7 +252094,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-4eed0da3e750" available="true">
 <url>https://harbuz.in.ua/catalog/query/7228/</url>
-<price>909</price>
+<price>669</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb8b3df9da</categoryId>
 <picture>https://harbuz.in.ua/content/images/29/59096140861534_+e07ddcba92.jpg</picture>
@@ -252712,7 +252692,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-4efc97b7fbd8" available="true">
 <url>https://harbuz.in.ua/pasatyzhi-bokorizy-klishchi/10622/</url>
-<price>199</price>
+<price>149</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb71fd17d5</categoryId>
 <picture>https://harbuz.in.ua/content/images/23/95752888320885_+8d077d9317.jpg</picture>
@@ -252725,7 +252705,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-5a1173802505" available="true">
 <url>https://harbuz.in.ua/pasatyzhi-bokorizy-klishchi/10620/</url>
-<price>199</price>
+<price>149</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb71fd17d5</categoryId>
 <picture>https://harbuz.in.ua/content/images/21/16626262763716_+f7a2c53876.jpg</picture>
@@ -253250,7 +253230,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-5fa530589cdf" available="true">
 <url>https://harbuz.in.ua/penzli-ta-maklovytsi/9464/</url>
-<price>299</price>
+<price>269</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb85c7c471</categoryId>
 <picture>https://harbuz.in.ua/content/images/15/59946479050982_+1267c0d40a.jpg</picture>
@@ -253330,7 +253310,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-c1b9121b9a02" available="true">
 <url>https://harbuz.in.ua/paialne-ta-zvariuvalne-pryladdia/10129/</url>
-<price>319</price>
+<price>256</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb3c33cfa2</categoryId>
 <picture>https://harbuz.in.ua/content/images/30/38060159433435_+37e94faebd.jpg</picture>
@@ -254071,7 +254051,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-753368e65493" available="true">
 <url>https://harbuz.in.ua/vykrutky/10000/</url>
-<price>59</price>
+<price>44</price>
 <currencyId>UAH</currencyId>
 <categoryId>hbb550eab6</categoryId>
 <picture>https://harbuz.in.ua/content/images/1/56596173129898_+8ead7a6899.jpg</picture>
@@ -254318,7 +254298,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-e3f13de8d653" available="true">
 <url>https://harbuz.in.ua/zasoby-zakhystu/10335/</url>
-<price>109</price>
+<price>81</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb00cd8673</categoryId>
 <picture>https://harbuz.in.ua/content/images/36/63538586766928_+adc00803fd.jpg</picture>
@@ -254610,7 +254590,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-0a8b9d7730ec" available="true">
 <url>https://harbuz.in.ua/dysk-pylnyi-po-derevu-125x22.2-20-30t/</url>
-<price>149</price>
+<price>109</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb3320d987</categoryId>
 <picture>https://harbuz.in.ua/content/images/19/99469224982155_+22003cdc10.jpg</picture>
@@ -254714,7 +254694,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-cba6978a1c4a" available="true">
 <url>https://harbuz.in.ua/shlifuvalni-kruhy-ta-nasadky/10090/</url>
-<price>69</price>
+<price>50</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb6fe49f4a</categoryId>
 <picture>https://harbuz.in.ua/content/images/41/22117156276122_+df9cd64295.jpg</picture>
@@ -254948,7 +254928,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-986d9b78bfc7" available="true">
 <url>https://harbuz.in.ua/dysky-almazni/10103/</url>
-<price>409</price>
+<price>309</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb841f30c0</categoryId>
 <picture>https://harbuz.in.ua/content/images/4/74871181441692_+01d95e2ec4.jpg</picture>
@@ -255260,7 +255240,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-932d2685bbb2" available="true">
 <url>https://harbuz.in.ua/valyky-maliarni/9926/</url>
-<price>69</price>
+<price>51</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb1a2d580f</categoryId>
 <picture>https://harbuz.in.ua/content/images/27/17059414783459_+af2304b487.jpg</picture>
@@ -256049,7 +256029,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-62fe86009254" available="true">
 <url>https://harbuz.in.ua/volosin-ta-holovky-dlia-trymeriv/10174/</url>
-<price>159</price>
+<price>121</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb340c6938</categoryId>
 <picture>https://harbuz.in.ua/content/images/25/19362823745910_+82b93f916c.jpg</picture>
@@ -257253,7 +257233,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-ffafa705750c" available="true">
 <url>https://harbuz.in.ua/catalog/query/7170/</url>
-<price>439</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb04858800</categoryId>
 <picture>https://harbuz.in.ua/content/images/21/71842015249309_+b45b49730f.jpg</picture>
@@ -257518,7 +257498,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-af2446205b22" available="true">
 <url>https://harbuz.in.ua/catalog/query/7351/</url>
-<price>309</price>
+<price>235</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb9631cea8</categoryId>
 <picture>https://harbuz.in.ua/content/images/2/52221474725470_+9b24c4ad99.jpg</picture>
@@ -257715,7 +257695,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-f97d1cc30544" available="true">
 <url>https://harbuz.in.ua/catalog/query/7325/</url>
-<price>349</price>
+<price>265</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb8b3df9da</categoryId>
 <picture>https://harbuz.in.ua/content/images/26/52578555830852_+b446543567.jpg</picture>
@@ -257877,7 +257857,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-8e7c5eb0341c" available="true">
 <url>https://harbuz.in.ua/catalog/query/7349/</url>
-<price>309</price>
+<price>235</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb9631cea8</categoryId>
 <picture>https://harbuz.in.ua/content/images/50/40902791437554_+aaf8ab0187.jpg</picture>
@@ -265632,7 +265612,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-eeb855ac9153" available="true">
 <url>https://harbuz.in.ua/catalog/query/7079/</url>
-<price>579</price>
+<price>429</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb04858800</categoryId>
 <picture>https://harbuz.in.ua/content/images/30/77035539645778_+1833a370e7.jpg</picture>
@@ -265688,7 +265668,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-2f54afcf75a3" available="true">
 <url>https://harbuz.in.ua/catalog/query/7045/</url>
-<price>209</price>
+<price>154</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb3a03188f</categoryId>
 <picture>https://harbuz.in.ua/content/images/46/74863546643464_+ef52835b9f.jpg</picture>
@@ -274732,7 +274712,7 @@ Ca - 4%&lt;/p&gt;
 <description><![CDATA[<p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p><p>GV-SPS-С 12V16.7A-L (200W) - вбудований блок живлення в перфорованому металевому корпусі підключається до пристроїв відеоспостереження через гвинтові клеми. Модель забезпечує перетворення напруги мережі змінного струму (110-240 V) до величини вихідної напруги 12 V (постійний струм – 16700 mА), необхідного для живлення відеокамер. Тип підключення до мережі - клеммник. Обладнаний індикацією роботи в мережі (світлодіод зеленого кольору) і регулятором вихідної напруги. <br> Імпульсний блок живлення GV-SPS-С 12V16.7A-L (200W) має надійний захист від короткого замикання і стрибків напруги в мережі. <br> Колір корпусу – сірий. Тип зовнішнього захисту від пилу і вологи – IP20. Діапазон робочих температур від -20 до + 50 ºС.</p><p><strong>Характеристики</strong></p><ul><li>Тип: імпульсні блоки живлення</li><li>Тип корпусу: перфорований</li><li>Потужність, W: 200</li><li>Вхідна напруга, V: 110-240</li><li>Вихідна напруга, V: 12</li><li>Тип захисту: IP20</li><li>Сила струму, mA: 16700</li><li>Захист від короткого замикання: є</li><li>Захист від перевантаження: є</li><li>Тип під'єднання споживача: гвинтові клеми</li><li>Вихідне під'єднання: клемник</li><li>Тип під'єднання до мережі: клемник</li><li>Матеріал корпусу: метал</li><li>Регулювання напруги: є</li><li>Тип індикації: світлодіод (зелений)</li><li>Робоча температура, °C: -20 ~ +50</li><li>Колір: сірий</li><li>Гарантія, міс: 12</li><li>Довжина, мм: 200</li><li>Ширина, мм: 100</li><li>Висота, мм: 40</li><li>Вага, кг: 0.5</li></ul>]]></description>
 <description_ua><![CDATA[<p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p><p>GV-SPS-С 12V16.7A-L (200W) - вбудований блок живлення в перфорованому металевому корпусі підключається до пристроїв відеоспостереження через гвинтові клеми. Модель забезпечує перетворення напруги мережі змінного струму (110-240 V) до величини вихідної напруги 12 V (постійний струм – 16700 mА), необхідного для живлення відеокамер. Тип підключення до мережі - клеммник. Обладнаний індикацією роботи в мережі (світлодіод зеленого кольору) і регулятором вихідної напруги. <br> Імпульсний блок живлення GV-SPS-С 12V16.7A-L (200W) має надійний захист від короткого замикання і стрибків напруги в мережі. <br> Колір корпусу – сірий. Тип зовнішнього захисту від пилу і вологи – IP20. Діапазон робочих температур від -20 до + 50 ºС.</p><p><strong>Характеристики</strong></p><ul><li>Тип: імпульсні блоки живлення</li><li>Тип корпусу: перфорований</li><li>Потужність, W: 200</li><li>Вхідна напруга, V: 110-240</li><li>Вихідна напруга, V: 12</li><li>Тип захисту: IP20</li><li>Сила струму, mA: 16700</li><li>Захист від короткого замикання: є</li><li>Захист від перевантаження: є</li><li>Тип під'єднання споживача: гвинтові клеми</li><li>Вихідне під'єднання: клемник</li><li>Тип під'єднання до мережі: клемник</li><li>Матеріал корпусу: метал</li><li>Регулювання напруги: є</li><li>Тип індикації: світлодіод (зелений)</li><li>Робоча температура, °C: -20 ~ +50</li><li>Колір: сірий</li><li>Гарантія, міс: 12</li><li>Довжина, мм: 200</li><li>Ширина, мм: 100</li><li>Висота, мм: 40</li><li>Вага, кг: 0.5</li></ul>]]></description_ua>
 </offer>
-<offer id="hb-a467639b250e" available="false">
+<offer id="hb-a467639b250e" available="true">
 <url>https://harbuz.in.ua/kabel-merezhevyi-odeskabel-kpv-vp-350-42051-u-utp-cat.5e-305-m/</url>
 <price>8322</price>
 <currencyId>UAH</currencyId>
@@ -279386,7 +279366,7 @@ Ca - 4%&lt;/p&gt;
 <description><![CDATA[<p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p><p><strong>Акумулятор LiFePO4 SMART BMS Bluetooth </strong></p> <p>Літій-залізо-фосфатні LiFePo4 акумулятори нового покоління з унікальною BMS платою – найбільш ефективні та безпечні АКБ для побутових та промислових систем безперебійного живлення.</p> <p>Інтелектуальна BMS плата – програмована система керування для літій-залізо-фосфатних акумуляторів (LiFePO4).</p> <p><strong>Купити Smart LiFePO4 акумулятор в Україні: де їх можна використовувати? </strong></p> <ul> <li>Електронавантажувачі, підлогомийні машини, газонокосарки та інша спецтехніка</li> <li>Системи резервного та безперебійного живлення для дому, офісу, складів, виробництва та ін.</li> <li>Сонячні електростанції та інші альтернативні джерела енергії</li> <li>Портативні зарядні станції для мобільних телефонів, ноутбуків, дронів тощо. </li> </ul> <p><strong>BMS інтелектуальна плата захисту, активний балансир, Bluetooth: як допомагає збільшити ефективність та продовжити термін служби літієвих акумуляторів? </strong></p> <p>Плати SMART BMS Bluetooth можна використовувати в літієвих АКБ з різними хімічними властивостями: літій-залізо фосфат, літій-іон, літій-полімер тощо. </p> <p>Двошаровий захист апаратного та програмного забезпечення забезпечує високий захисний потенціал у процесі зарядки та розрядки АКБ:</p> <ul> <li>перезарядження</li> <li>захист від низького заряду</li> <li>захист від високих чи низьких температур</li> <li>захист від перевантаження струмом</li> <li>захист від короткого замикання тощо.</li> </ul> <p>Функція активного балансу для ефективного автоматичного заряджання акумулятора, та підтримання однакової напруги на кожному елементі. </p> <p>Акумулятор можна використовувати як у складі ДБЖ, так і з будь-яким сумісним по навантаженню приладом.</p> <p>Внутрішній датчик температури забезпечує потрійний контроль температурного режиму роботи акумуляторної батареї.</p> <p>Bluetooth - завжди актуальна та своєчасна інформація про стан АКБ:</p> <ul> <li>контроль рівня заряду акумулятора</li> <li>контроль стану роботи батареї</li> <li>контроль ємності акумулятора</li> </ul><p><strong>Характеристики</strong></p><ul><li>Номінальна ємність, Ah: 100</li><li>Номінальна напруга, V: 51,2</li><li>Мінімальна напруга, V: 42</li><li>Максимальний струм заряду, A: 50</li><li>Максимальний струм розряду, A: 100</li><li>Ємність, Wh: 5120</li><li>Тип: LiFePO4</li><li>Зарядна напруга (буферний режим), V: 54,4</li><li>Зарядна напруга (циклічний режим), V: 58,4</li><li>Струм короткого замикання, A: 200</li><li>Номінальний струм заряду, A: 50</li><li>Пусковий струм, А: 200</li><li>Тип клеми: Т11 (під болт М8)</li><li>Кількість циклів: 7000</li><li>Номінал елементів: 100</li><li>Матеріал корпусу: метал</li><li>Піковий струм розряду, A: 200 (100мс)</li><li>Повторне підключення напруги заряду, V: 56,8</li><li>Рекомендована низька напруга відключення, V: 44,8</li><li>Повторне підключення напруги розряду, V: 42,4</li><li>Саморазряд, %/міс.: <3%</li><li>Схема з'єднання комірок: 16S1P</li><li>Тип балансиру: Активний до 5А</li><li>Інтерфейс зв'язку: RS485, CAN</li><li>Ступінь захисту: IP20</li><li>Вологість навколишнього середовища, %(RH): 10～80%</li><li>Тип комірки: Призматична</li><li>Гарантія, міс: 60</li><li>Довжина, мм **: 555</li><li>Ширина, мм **: 445</li><li>Висота, мм **: 140</li><li>Температура зберігання АКБ, °C: -20 ~ +40</li><li>Робоча температура заряду, °C: 0 ~ +40</li><li>Робоча температура розряду, °C: -20 ~ +60</li><li>Вага, кг: 47</li></ul>]]></description>
 <description_ua><![CDATA[<p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p><p><strong>Акумулятор LiFePO4 SMART BMS Bluetooth </strong></p> <p>Літій-залізо-фосфатні LiFePo4 акумулятори нового покоління з унікальною BMS платою – найбільш ефективні та безпечні АКБ для побутових та промислових систем безперебійного живлення.</p> <p>Інтелектуальна BMS плата – програмована система керування для літій-залізо-фосфатних акумуляторів (LiFePO4).</p> <p><strong>Купити Smart LiFePO4 акумулятор в Україні: де їх можна використовувати? </strong></p> <ul> <li>Електронавантажувачі, підлогомийні машини, газонокосарки та інша спецтехніка</li> <li>Системи резервного та безперебійного живлення для дому, офісу, складів, виробництва та ін.</li> <li>Сонячні електростанції та інші альтернативні джерела енергії</li> <li>Портативні зарядні станції для мобільних телефонів, ноутбуків, дронів тощо. </li> </ul> <p><strong>BMS інтелектуальна плата захисту, активний балансир, Bluetooth: як допомагає збільшити ефективність та продовжити термін служби літієвих акумуляторів? </strong></p> <p>Плати SMART BMS Bluetooth можна використовувати в літієвих АКБ з різними хімічними властивостями: літій-залізо фосфат, літій-іон, літій-полімер тощо. </p> <p>Двошаровий захист апаратного та програмного забезпечення забезпечує високий захисний потенціал у процесі зарядки та розрядки АКБ:</p> <ul> <li>перезарядження</li> <li>захист від низького заряду</li> <li>захист від високих чи низьких температур</li> <li>захист від перевантаження струмом</li> <li>захист від короткого замикання тощо.</li> </ul> <p>Функція активного балансу для ефективного автоматичного заряджання акумулятора, та підтримання однакової напруги на кожному елементі. </p> <p>Акумулятор можна використовувати як у складі ДБЖ, так і з будь-яким сумісним по навантаженню приладом.</p> <p>Внутрішній датчик температури забезпечує потрійний контроль температурного режиму роботи акумуляторної батареї.</p> <p>Bluetooth - завжди актуальна та своєчасна інформація про стан АКБ:</p> <ul> <li>контроль рівня заряду акумулятора</li> <li>контроль стану роботи батареї</li> <li>контроль ємності акумулятора</li> </ul><p><strong>Характеристики</strong></p><ul><li>Номінальна ємність, Ah: 100</li><li>Номінальна напруга, V: 51,2</li><li>Мінімальна напруга, V: 42</li><li>Максимальний струм заряду, A: 50</li><li>Максимальний струм розряду, A: 100</li><li>Ємність, Wh: 5120</li><li>Тип: LiFePO4</li><li>Зарядна напруга (буферний режим), V: 54,4</li><li>Зарядна напруга (циклічний режим), V: 58,4</li><li>Струм короткого замикання, A: 200</li><li>Номінальний струм заряду, A: 50</li><li>Пусковий струм, А: 200</li><li>Тип клеми: Т11 (під болт М8)</li><li>Кількість циклів: 7000</li><li>Номінал елементів: 100</li><li>Матеріал корпусу: метал</li><li>Піковий струм розряду, A: 200 (100мс)</li><li>Повторне підключення напруги заряду, V: 56,8</li><li>Рекомендована низька напруга відключення, V: 44,8</li><li>Повторне підключення напруги розряду, V: 42,4</li><li>Саморазряд, %/міс.: <3%</li><li>Схема з'єднання комірок: 16S1P</li><li>Тип балансиру: Активний до 5А</li><li>Інтерфейс зв'язку: RS485, CAN</li><li>Ступінь захисту: IP20</li><li>Вологість навколишнього середовища, %(RH): 10～80%</li><li>Тип комірки: Призматична</li><li>Гарантія, міс: 60</li><li>Довжина, мм **: 555</li><li>Ширина, мм **: 445</li><li>Висота, мм **: 140</li><li>Температура зберігання АКБ, °C: -20 ~ +40</li><li>Робоча температура заряду, °C: 0 ~ +40</li><li>Робоча температура розряду, °C: -20 ~ +60</li><li>Вага, кг: 47</li></ul>]]></description_ua>
 </offer>
-<offer id="hb-99a44db2c924" available="true">
+<offer id="hb-99a44db2c924" available="false">
 <url>https://harbuz.in.ua/hibrydnyi-odnofaznyi-invertor-lp-lpw-gy-6000va/</url>
 <price>39381</price>
 <currencyId>UAH</currencyId>
@@ -280283,7 +280263,7 @@ Ca - 4%&lt;/p&gt;
 <description><![CDATA[<p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p><h2 style="text-align:center">Гібридний трифазний інвертор Megarevo for LP R15KH3 (15 кВт, 150-550 В)</h2> <p>Гібридний інвертор 15 кВт з чистою синусоїдою та MPPT-контролерами.</p> <p>Гібридний трифазний інвертор Megarevo for LP R15KH3 потужністю 15 кВт призначений для створення автономних, резервних і гібридних систем електроживлення у приватних будинках, квартирах, офісах і невеликих комерційних об’єктах.</p> <p>Пристрій ефективно працює як у мережевому режимі, так і під час відключень електроенергії, забезпечуючи стабільне живлення трифазних та однофазних навантажень. Підтримується 100% незбалансоване навантаження по фазах, що особливо важливо для реальних умов експлуатації.</p> <p>Інвертор перетворює постійний струм (DC) від сонячних панелей або високовольтних акумуляторних батарей у змінний струм (AC) з напругою 220/380 В або 230/400 В.</p> <p>Вихід із чистою синусоїдою гарантує безпечну та стабільну роботу чутливої електроніки, електродвигунів, насосів, холодильного та кліматичного обладнання.</p> <h3>Переваги гібридного інвертора:</h3> <ul> <li>Номінальна потужність 15 кВт — оптимальне рішення для побутових, комерційних та напівпромислових об’єктів</li> <li>Підтримка сонячних панелей до 22,5 кВт</li> <li>2 MPPT-контролер, по 2 ланцюги на кожен MPPT</li> <li>Широкий діапазон MPPT: 180 – 850 В</li> <li>Підтримка 100% незбалансованого навантаження</li> <li>Сумісність з однофазними та трифазними споживачами</li> <li>Швидке перемикання в резервний режим: < 10 мс</li> </ul> <h3>Робота з сонячними панелями та акумуляторами:</h3> <ul> <li>Підтримка високовольтних акумуляторів 150-550 В</li> <li>Типи акумуляторів: Li-ion, LiFePO₄, свинцево-кислотні (AGM, GEL)</li> <li>Максимальна потужність заряду/розряду АКБ: 16,5 кВт</li> <li>Інтелектуальна стратегія заряду з автоматичною адаптацією до BMS</li> <li>Комунікація з BMS через CAN</li> </ul> <h3>Режими роботи інвертора:</h3> <ul> <li>Пріоритет сонячної енергії</li> <li>Заряд акумуляторів та робота з піковими навантаженнями</li> <li>Резервне живлення при зникненні мережі</li> <li>Мережевий та гібридний режими роботи</li> </ul> <h3>Інтерфейси та керування:</h3> <ul> <li>Вбудований дисплей для контролю параметрів роботи</li> <li>Інтерфейси зв’язку: RS485, CAN, Wi-Fi</li> <li>Віддалений моніторинг через онлайн-платформу Solarman</li> </ul> <h3>Надійність і монтаж:</h3> <ul> <li>Комплексний захист від перенапруги, перевантаження та короткого замикання, захист від роботи в островному режимі, контроль витоку струму та ізоляції</li> <li>Клас захисту корпусу IP65 — придатний для внутрішнього та зовнішнього монтажу</li> <li>Природне охолодження</li> <li>Робочий температурний діапазон: -25…+60°С</li> </ul><p><strong>Характеристики</strong></p><ul><li>Тип: гібридний</li><li>Потужність, VA/W: 15000/15000</li><li>Номінальна напруга АКБ, V: 150-550</li><li>Встановлення: настінна</li><li>Діапазон вхідної напруги, V: 187-264,5</li><li>Вихідна напруга, V: 380/400</li><li>Частотний діапазон, Hz: 50/60</li><li>Час перемикання, мс: <10</li><li>Інтерфейс під'єднання до ПК: RS485/CAN/WiFi</li><li>Максимальний струм заряду (AC+PV), A: 50</li><li>Номінальний струм заряду (AC+PV), A: 40</li><li>Максимальна потужність панелей, W: 22500</li><li>Максимальна напруга МРРТ (DC), V: 850</li><li>Кількість фаз: 3</li><li>Номінальна вхідна напруга від панелей, V: 600</li><li>Максимальна вхідна напруга від панелей, V: 1000</li><li>Струм заряду від панелей, A: 50</li><li>Діапазон напруг MPPT, V: 180-850</li><li>Кількість трекерів MPPT, шт: 2</li><li>Номінальна вхідна напруга (AC), V: 380/400</li><li>Максимальний вхідний струм MPPT контролера (DC), A: 24</li><li>Рівень шуму: <45 дБ</li><li>Тип під'єднання до мережі: 3L+N+PE (клемна колодка)</li><li>Тип індикації: Монохромний дисплей</li><li>Матеріал корпусу: метал</li><li>Робоча температура, °C: -25 ~ +60</li><li>Гарантія, міс: 60</li><li>Колір: білий</li><li>Довжина, мм: 200</li><li>Ширина, мм: 566</li><li>Висота, мм: 596</li><li>Вага, кг: 32</li></ul>]]></description>
 <description_ua><![CDATA[<p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p><h2 style="text-align:center">Гібридний трифазний інвертор Megarevo for LP R15KH3 (15 кВт, 150-550 В)</h2> <p>Гібридний інвертор 15 кВт з чистою синусоїдою та MPPT-контролерами.</p> <p>Гібридний трифазний інвертор Megarevo for LP R15KH3 потужністю 15 кВт призначений для створення автономних, резервних і гібридних систем електроживлення у приватних будинках, квартирах, офісах і невеликих комерційних об’єктах.</p> <p>Пристрій ефективно працює як у мережевому режимі, так і під час відключень електроенергії, забезпечуючи стабільне живлення трифазних та однофазних навантажень. Підтримується 100% незбалансоване навантаження по фазах, що особливо важливо для реальних умов експлуатації.</p> <p>Інвертор перетворює постійний струм (DC) від сонячних панелей або високовольтних акумуляторних батарей у змінний струм (AC) з напругою 220/380 В або 230/400 В.</p> <p>Вихід із чистою синусоїдою гарантує безпечну та стабільну роботу чутливої електроніки, електродвигунів, насосів, холодильного та кліматичного обладнання.</p> <h3>Переваги гібридного інвертора:</h3> <ul> <li>Номінальна потужність 15 кВт — оптимальне рішення для побутових, комерційних та напівпромислових об’єктів</li> <li>Підтримка сонячних панелей до 22,5 кВт</li> <li>2 MPPT-контролер, по 2 ланцюги на кожен MPPT</li> <li>Широкий діапазон MPPT: 180 – 850 В</li> <li>Підтримка 100% незбалансованого навантаження</li> <li>Сумісність з однофазними та трифазними споживачами</li> <li>Швидке перемикання в резервний режим: < 10 мс</li> </ul> <h3>Робота з сонячними панелями та акумуляторами:</h3> <ul> <li>Підтримка високовольтних акумуляторів 150-550 В</li> <li>Типи акумуляторів: Li-ion, LiFePO₄, свинцево-кислотні (AGM, GEL)</li> <li>Максимальна потужність заряду/розряду АКБ: 16,5 кВт</li> <li>Інтелектуальна стратегія заряду з автоматичною адаптацією до BMS</li> <li>Комунікація з BMS через CAN</li> </ul> <h3>Режими роботи інвертора:</h3> <ul> <li>Пріоритет сонячної енергії</li> <li>Заряд акумуляторів та робота з піковими навантаженнями</li> <li>Резервне живлення при зникненні мережі</li> <li>Мережевий та гібридний режими роботи</li> </ul> <h3>Інтерфейси та керування:</h3> <ul> <li>Вбудований дисплей для контролю параметрів роботи</li> <li>Інтерфейси зв’язку: RS485, CAN, Wi-Fi</li> <li>Віддалений моніторинг через онлайн-платформу Solarman</li> </ul> <h3>Надійність і монтаж:</h3> <ul> <li>Комплексний захист від перенапруги, перевантаження та короткого замикання, захист від роботи в островному режимі, контроль витоку струму та ізоляції</li> <li>Клас захисту корпусу IP65 — придатний для внутрішнього та зовнішнього монтажу</li> <li>Природне охолодження</li> <li>Робочий температурний діапазон: -25…+60°С</li> </ul><p><strong>Характеристики</strong></p><ul><li>Тип: гібридний</li><li>Потужність, VA/W: 15000/15000</li><li>Номінальна напруга АКБ, V: 150-550</li><li>Встановлення: настінна</li><li>Діапазон вхідної напруги, V: 187-264,5</li><li>Вихідна напруга, V: 380/400</li><li>Частотний діапазон, Hz: 50/60</li><li>Час перемикання, мс: <10</li><li>Інтерфейс під'єднання до ПК: RS485/CAN/WiFi</li><li>Максимальний струм заряду (AC+PV), A: 50</li><li>Номінальний струм заряду (AC+PV), A: 40</li><li>Максимальна потужність панелей, W: 22500</li><li>Максимальна напруга МРРТ (DC), V: 850</li><li>Кількість фаз: 3</li><li>Номінальна вхідна напруга від панелей, V: 600</li><li>Максимальна вхідна напруга від панелей, V: 1000</li><li>Струм заряду від панелей, A: 50</li><li>Діапазон напруг MPPT, V: 180-850</li><li>Кількість трекерів MPPT, шт: 2</li><li>Номінальна вхідна напруга (AC), V: 380/400</li><li>Максимальний вхідний струм MPPT контролера (DC), A: 24</li><li>Рівень шуму: <45 дБ</li><li>Тип під'єднання до мережі: 3L+N+PE (клемна колодка)</li><li>Тип індикації: Монохромний дисплей</li><li>Матеріал корпусу: метал</li><li>Робоча температура, °C: -25 ~ +60</li><li>Гарантія, міс: 60</li><li>Колір: білий</li><li>Довжина, мм: 200</li><li>Ширина, мм: 566</li><li>Висота, мм: 596</li><li>Вага, кг: 32</li></ul>]]></description_ua>
 </offer>
-<offer id="hb-8c12f6d08a9f" available="true">
+<offer id="hb-8c12f6d08a9f" available="false">
 <url>https://harbuz.in.ua/stabilizator-napruhy-eleks-ants-u-5000/</url>
 <price>8579</price>
 <currencyId>UAH</currencyId>
@@ -289229,7 +289209,7 @@ Ca - 4%&lt;/p&gt;
 <description_ua><![CDATA[<p>Форма для випічки хліба Empire 255*130*62 мм — якісний товар з категорії «Кухонний інвентар». Практичний і надійний, стане чудовим вибором для дому та гарним подарунком. Доставка по всій Україні.</p><h3>Характеристики</h3><table><tr><td>Бренд</td><td>Empire</td></tr><tr><td>Розміри</td><td>255×130×62 мм</td></tr></table>]]></description_ua>
 <barcode>8903138098548</barcode>
 </offer>
-<offer id="hb-412b54be2b7f" available="false">
+<offer id="hb-412b54be2b7f" available="true">
 <url>https://harbuz.in.ua/forma-dlia-vypichky-pitsy-empire-d-30-sm/</url>
 <price>159</price>
 <currencyId>UAH</currencyId>
@@ -291905,7 +291885,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-886de7122524" available="true">
 <url>https://harbuz.in.ua/skandynavski-hnomy-ta-novorichnyi-dekor/26196/</url>
-<price>743</price>
+<price>792</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb14b250b5</categoryId>
 <picture>https://harbuz.in.ua/content/images/47/24488768349113_+e02715acd3.jpg</picture>
@@ -302805,7 +302785,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-cbe70dcb9834" available="true">
 <url>https://harbuz.in.ua/forma-dlia-vypichky-khliba-kamille-3315.57-sm-z-vuhletsevoi-stali-siryi-ta-bezhevyi-marmur/</url>
-<price>329</price>
+<price>349</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb7e9b60fb</categoryId>
 <picture>https://harbuz.in.ua/content/images/26/52157797864638_+df3ca587ed.jpg</picture>
@@ -316599,7 +316579,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-14783ad23fd1" available="true">
 <url>https://harbuz.in.ua/motokultyvator-kentavr-mk10-2cf/</url>
-<price>4630</price>
+<price>4650</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/5/59586780390314_+3ab8b40857.jpg</picture>
@@ -316625,7 +316605,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-b4aa78e453ed" available="true">
 <url>https://harbuz.in.ua/motokultyvator-kentavr-mk30-1t/</url>
-<price>9862</price>
+<price>9905</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/24/19591448506657_+cbdd9dd773.jpg</picture>
@@ -316638,7 +316618,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-853d7ee1fce0" available="true">
 <url>https://harbuz.in.ua/motokultyvator-kentavr-mk30-1-6t/</url>
-<price>10927</price>
+<price>10974</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/33/22528984135818_+fc79c1b0a8.jpg</picture>
@@ -325396,7 +325376,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-2df036d10dd9" available="true">
 <url>https://harbuz.in.ua/gruntofreza-130-kentavr-160b-200b-z-dodatkovym-reduktorom-ta-navisnym-mekhanizmom/</url>
-<price>12038</price>
+<price>12090</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb117faa35</categoryId>
 <picture>https://harbuz.in.ua/content/images/42/88946326193022_+e6e9072dbc.jpg</picture>
@@ -325487,7 +325467,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-034360eedc8c" available="true">
 <url>https://harbuz.in.ua/elektrokultyvator-kentavr-ke-2000-r/</url>
-<price>13890</price>
+<price>13950</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/31/69474081004821_+6e66ce5f97.jpg</picture>
@@ -325500,7 +325480,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-6a09ae93f582" available="true">
 <url>https://harbuz.in.ua/motokultyvator-kentavr-mk40-1-6/</url>
-<price>13473</price>
+<price>13532</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/34/79048836232129_+f9015b4286.jpg</picture>
@@ -325513,7 +325493,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-16e239b1cf43" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-s-504cu/</url>
-<price>481520</price>
+<price>483600</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/6/55905337945394_+3bbc8294c9.jpg</picture>
@@ -325552,7 +325532,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-6828184ee0f3" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-s-404xu/</url>
-<price>351880</price>
+<price>353400</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/43/38182642991756_+51d4a2f86e.jpg</picture>
@@ -325565,7 +325545,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-103eb72043f0" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-404x/</url>
-<price>324100</price>
+<price>325500</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/40/15742381351007_+4578fcb385.jpg</picture>
@@ -325604,7 +325584,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-8e8320b330b2" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-10d-1350/</url>
-<price>81025</price>
+<price>81375</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/11/52086240830377_+d405d00a4c.jpg</picture>
@@ -325619,7 +325599,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-65fd4fb21db3" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-504ue/</url>
-<price>365770</price>
+<price>367350</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/5/40527476641022_+8c81c1d126.jpg</picture>
@@ -326158,7 +326138,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-a2e4b42e0d08" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-244m/</url>
-<price>250020</price>
+<price>251100</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/35/34273965432277_+501b7c32ae.jpg</picture>
@@ -326186,7 +326166,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-946a0da06e69" available="true">
 <url>https://harbuz.in.ua/gruntofreza-kentavr-fn-125-pomarancheva/</url>
-<price>35049</price>
+<price>36317</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb117faa35</categoryId>
 <picture>https://harbuz.in.ua/content/images/7/54445462219919_+1c9a155ece.jpg</picture>
@@ -326199,7 +326179,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-7fc75fd1baa9" available="true">
 <url>https://harbuz.in.ua/gruntofreza-kentavr-fn-14-pomarancheva/</url>
-<price>36160</price>
+<price>36828</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb117faa35</categoryId>
 <picture>https://harbuz.in.ua/content/images/26/17761046961382_+2f26568682.jpg</picture>
@@ -326654,7 +326634,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-39a28702d1d8" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-b-244dxu/</url>
-<price>319470</price>
+<price>320850</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/36/12495969231899_+2f0b7d7001.jpg</picture>
@@ -326862,7 +326842,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-a158ecb16c29" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-b-404cxu/</url>
-<price>458370</price>
+<price>460350</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/39/33750335995527_+cf467be89b.jpg</picture>
@@ -326994,7 +326974,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-d7f4a535e9be" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-b-504ccu/</url>
-<price>583380</price>
+<price>585900</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/4/76523220273190_+3d396bad86.jpg</picture>
@@ -327007,7 +326987,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-cb7c1e1b9c12" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-b-504u/</url>
-<price>430590</price>
+<price>432450</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/49/69804343460338_+312519fd1b.jpg</picture>
@@ -328681,7 +328661,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-c898f26650d5" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-404sc-iz-plastykovymy-orhanaizeramy/</url>
-<price>381975</price>
+<price>383625</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/48/87239938359109_+9f37aa9331.jpg</picture>
@@ -328915,7 +328895,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-531a8aa39a36" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-b-404ccxu/</url>
-<price>486150</price>
+<price>488250</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/38/76049774424337_+fd652e19d0.jpg</picture>
@@ -328967,7 +328947,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-f06387baf173" available="false">
 <url>https://harbuz.in.ua/traktor-kentavr-l-504u/</url>
-<price>402810</price>
+<price>404550</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/1/11273039017282_+c1b65b0527.jpg</picture>
@@ -328980,7 +328960,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-716aa68c8953" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-l-504ccu/</url>
-<price>564860</price>
+<price>567300</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/3/77739372892168_+47358be3ac.jpg</picture>
@@ -329448,7 +329428,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-53dba2ea2ccb" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-b-504cu/</url>
-<price>509300</price>
+<price>511500</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/50/16609967847983_+eb0226c62c.jpg</picture>
@@ -329461,7 +329441,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-0f6f2019d3d5" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-b-404dxu/</url>
-<price>375030</price>
+<price>376650</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/37/21066345169197_+60937624ce.jpg</picture>
@@ -329707,7 +329687,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-4bc2106318a9" available="true">
 <url>https://harbuz.in.ua/traktor-kentavr-b-504cu-r/</url>
-<price>550970</price>
+<price>553350</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/2/80839999301868_+091a920891.jpg</picture>
@@ -329720,7 +329700,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-7f4dadbf42d1" available="true">
 <url>https://harbuz.in.ua/motokultyvator-kentavr-mk20-1t/</url>
-<price>10927</price>
+<price>10974</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/35/53797861953542_+74b0cfb3ed.jpg</picture>
@@ -329733,7 +329713,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-41635e6884d3" available="true">
 <url>https://harbuz.in.ua/motokultyvator-kentavr-mk20-1-6t/</url>
-<price>11853</price>
+<price>11904</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/34/70749754450278_+11a4f18037.jpg</picture>
@@ -330516,7 +330496,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-ea6b6dfafd24" available="true">
 <url>https://harbuz.in.ua/gruntofreza-kentavr-110u/</url>
-<price>6482</price>
+<price>6510</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb117faa35</categoryId>
 <picture>https://harbuz.in.ua/content/images/45/59887235348029_+664fab7f7f.jpg</picture>
@@ -334052,7 +334032,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-023231f62608" available="true">
 <url>https://harbuz.in.ua/borodan-65-sm-na-nizhkakh-smarahdovyi.-elf-skandynavskyi-hnom-santa-klaus-novorichnyi-ihrashka-myahka/</url>
-<price>659</price>
+<price>748</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb14b250b5</categoryId>
 <picture>https://harbuz.in.ua/content/images/1/54829476089822_+6dd7f2621d.jpg</picture>
@@ -334117,7 +334097,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-b15b428c0e6d" available="true">
 <url>https://harbuz.in.ua/motokultyvator-kentavr-mk70-1-6/</url>
-<price>12918</price>
+<price>12974</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb4c59d45c</categoryId>
 <picture>https://harbuz.in.ua/content/images/33/90957072181080_+1718089b17.jpg</picture>
@@ -341291,7 +341271,7 @@ Ca - 4%&lt;/p&gt;
 <description_ua><![CDATA[<p><b>Фасовка: 1 г.</b> На фото — гібрид Вайт Меджик F1 у пакуванні виробника; фасовка на фото може відрізнятися.</p><p>Насіння цибулі Вайт Меджик F1 — фасовка 1 г, оригінатор United Genetics. Торгова марка постачальника — «Професійне насіння».</p><ul><li>Культура: Цибуля</li><li>Гібрид F1: Вайт Меджик F1</li><li>Фасовка: 1 г</li><li>Оригінатор: United Genetics (Італія)</li><li>Латиницею: Vayt Medzhyk F1</li></ul>]]></description_ua>
 <barcode>4820176690500</barcode>
 </offer>
-<offer id="hb-241b3d55efa4" available="true">
+<offer id="hb-241b3d55efa4" available="false">
 <url>https://harbuz.in.ua/red-rok-f1-nasinnya-tsybuli-1-g/</url>
 <price>29</price>
 <currencyId>UAH</currencyId>
@@ -341305,7 +341285,7 @@ Ca - 4%&lt;/p&gt;
 <description_ua><![CDATA[<p><b>Фасовка: 1 г.</b> На фото — гібрид Ред Рок F1 у пакуванні виробника; фасовка на фото може відрізнятися.</p><p>Насіння цибулі Ред Рок F1 — фасовка 1 г, оригінатор United Genetics. Торгова марка постачальника — «Професійне насіння».</p><ul><li>Культура: Цибуля</li><li>Гібрид F1: Ред Рок F1</li><li>Фасовка: 1 г</li><li>Оригінатор: United Genetics (Італія)</li><li>Латиницею: Red Rok F1</li></ul>]]></description_ua>
 <barcode>4820176690517</barcode>
 </offer>
-<offer id="hb-30e59f336305" available="true">
+<offer id="hb-30e59f336305" available="false">
 <url>https://harbuz.in.ua/prizma-f1-nasinnya-pertsyu-solodkogo-8-sht/</url>
 <price>29</price>
 <currencyId>UAH</currencyId>
@@ -341333,7 +341313,7 @@ Ca - 4%&lt;/p&gt;
 <description_ua><![CDATA[<p>Насіння перцю гострого Хай Флай F1 — фасовка 10 шт, оригінатор NongWoo Bio. Торгова марка постачальника — «Професійне насіння».</p><ul><li>Культура: Перець гострий</li><li>Гібрид F1: Хай Флай F1</li><li>Фасовка: 10 шт</li><li>Оригінатор: NongWoo Bio (Корея)</li><li>Латиницею: Khay Flay F1</li></ul>]]></description_ua>
 <barcode>4820176690654</barcode>
 </offer>
-<offer id="hb-ea3938f8fbe7" available="true">
+<offer id="hb-ea3938f8fbe7" available="false">
 <url>https://harbuz.in.ua/silver-bel-f1-nasinnya-pertsyu-solodkogo-8-sht/</url>
 <price>49</price>
 <currencyId>UAH</currencyId>
@@ -341347,7 +341327,7 @@ Ca - 4%&lt;/p&gt;
 <description_ua><![CDATA[<p>Насіння перцю солодкого Сільвер Бел F1 — фасовка 8 шт, оригінатор NongWoo Bio. Торгова марка постачальника — «Професійне насіння».</p><ul><li>Культура: Перець солодкий</li><li>Гібрид F1: Сільвер Бел F1</li><li>Фасовка: 8 шт</li><li>Оригінатор: NongWoo Bio (Корея)</li><li>Латиницею: Silver Bel F1</li><li>Позначки виробника: червоний</li></ul>]]></description_ua>
 <barcode>4820176691026</barcode>
 </offer>
-<offer id="hb-3568465d83ab" available="true">
+<offer id="hb-3568465d83ab" available="false">
 <url>https://harbuz.in.ua/minerva-f1-nasinnya-pertsyu-solodkogo-8-sht/</url>
 <price>39</price>
 <currencyId>UAH</currencyId>
@@ -341375,7 +341355,7 @@ Ca - 4%&lt;/p&gt;
 <description_ua><![CDATA[<p><b>Фасовка: 1 г.</b> На фото — гібрид Кінг у пакуванні виробника; фасовка на фото може відрізнятися.</p><p>Насіння шпинату Кінг — фасовка 1 г, оригінатор NongWoo Bio. Торгова марка постачальника — «Професійне насіння».</p><ul><li>Культура: Шпинат</li><li>Сорт: Кінг</li><li>Фасовка: 1 г</li><li>Оригінатор: NongWoo Bio (Корея)</li><li>Латиницею: King</li></ul>]]></description_ua>
 <barcode>4820176691088</barcode>
 </offer>
-<offer id="hb-a448381dbd6c" available="true">
+<offer id="hb-a448381dbd6c" available="false">
 <url>https://harbuz.in.ua/margaryta-f1-nasinnya-pertsyu-solodkogo-8-sht/</url>
 <price>59</price>
 <currencyId>UAH</currencyId>
@@ -341431,7 +341411,7 @@ Ca - 4%&lt;/p&gt;
 <description_ua><![CDATA[<p>Насіння руколи Тріція — фасовка 0,3 г, оригінатор Enza Zaden. Торгова марка постачальника — «Професійне насіння».</p><ul><li>Культура: Рукола</li><li>Сорт: Тріція</li><li>Фасовка: 0,3 г</li><li>Оригінатор: Enza Zaden (Нідерланди)</li><li>Латиницею: Tritsiya</li></ul>]]></description_ua>
 <barcode>4820176694072</barcode>
 </offer>
-<offer id="hb-a11422528899" available="true">
+<offer id="hb-a11422528899" available="false">
 <url>https://harbuz.in.ua/bladi-dok-nasinnya-shchavlyu-0-2-g/</url>
 <price>29</price>
 <currencyId>UAH</currencyId>
@@ -341501,7 +341481,7 @@ Ca - 4%&lt;/p&gt;
 <description_ua><![CDATA[<p><b>Фасовка: 0,3 г.</b> На фото — гібрид Сімпсон у пакуванні виробника; фасовка на фото може відрізнятися.</p><p>Насіння салату Сімпсон — фасовка 0,3 г, оригінатор Hem Zaden. Торгова марка постачальника — «Професійне насіння».</p><ul><li>Культура: Салат</li><li>Сорт: Сімпсон</li><li>Фасовка: 0,3 г</li><li>Оригінатор: Hem Zaden (Нідерланди)</li><li>Латиницею: Simpson</li><li>Позначки виробника: листовий зелений</li></ul>]]></description_ua>
 <barcode>4820176696250</barcode>
 </offer>
-<offer id="hb-7d104418bc03" available="true">
+<offer id="hb-7d104418bc03" available="false">
 <url>https://harbuz.in.ua/orostar-f1-nasinnya-pertsyu-solodkogo-8-sht/</url>
 <price>49</price>
 <currencyId>UAH</currencyId>
@@ -341641,7 +341621,7 @@ Ca - 4%&lt;/p&gt;
 <description_ua><![CDATA[<p><b>Фасовка: 2 г.</b> На фото — гібрид коренева Алба у пакуванні виробника; фасовка на фото може відрізнятися.</p><p>Насіння петрушки коренева Алба — фасовка 2 г, оригінатор Moravo seeds. Торгова марка постачальника — «Професійне насіння».</p><ul><li>Культура: Петрушка</li><li>Сорт: коренева Алба</li><li>Фасовка: 2 г</li><li>Оригінатор: Moravo seeds (Чехія)</li><li>Латиницею: koreneva Alba</li></ul>]]></description_ua>
 <barcode>4820176698230</barcode>
 </offer>
-<offer id="hb-8fe44951ea83" available="true">
+<offer id="hb-8fe44951ea83" available="false">
 <url>https://harbuz.in.ua/dumas-nasinnya-pertsyu-solodkogo-0-2-g/</url>
 <price>19</price>
 <currencyId>UAH</currencyId>
@@ -341683,7 +341663,7 @@ Ca - 4%&lt;/p&gt;
 <description_ua><![CDATA[<p><b>Фасовка: 10 г.</b> На фото — гібрид Джоллі у пакуванні виробника; фасовка на фото може відрізнятися.</p><p>Насіння редиски Джоллі — фасовка 10 г, оригінатор Tezier. Торгова марка постачальника — «Професійне насіння».</p><ul><li>Культура: Редиска</li><li>Сорт: Джоллі</li><li>Фасовка: 10 г</li><li>Оригінатор: Tezier (Франція)</li><li>Латиницею: Dzholli</li></ul>]]></description_ua>
 <barcode>4823058200835</barcode>
 </offer>
-<offer id="hb-071c02f010d7" available="true">
+<offer id="hb-071c02f010d7" available="false">
 <url>https://harbuz.in.ua/tamara-f1-nasinnya-tsybuli-1-g/</url>
 <price>39</price>
 <currencyId>UAH</currencyId>
@@ -341697,7 +341677,7 @@ Ca - 4%&lt;/p&gt;
 <description_ua><![CDATA[<p><b>Фасовка: 1 г.</b> На фото — гібрид Тамара F1 у пакуванні виробника; фасовка на фото може відрізнятися.</p><p>Насіння цибулі Тамара F1 — фасовка 1 г, оригінатор Bejo Zaden. Торгова марка постачальника — «Професійне насіння».</p><ul><li>Культура: Цибуля</li><li>Гібрид F1: Тамара F1</li><li>Фасовка: 1 г</li><li>Оригінатор: Bejo Zaden (Нідерланди)</li><li>Латиницею: Tamara F1</li><li>Позначки виробника: золотисто-коричнева</li></ul>]]></description_ua>
 <barcode>4823058202488</barcode>
 </offer>
-<offer id="hb-25a98d61841c" available="true">
+<offer id="hb-25a98d61841c" available="false">
 <url>https://harbuz.in.ua/belvilskyy-nasinnya-shchavlyu-1-g/</url>
 <price>19</price>
 <currencyId>UAH</currencyId>
@@ -341753,7 +341733,7 @@ Ca - 4%&lt;/p&gt;
 <description_ua><![CDATA[<p>Насіння перцю гострого Ангаріка F1 — фасовка 10 шт, оригінатор NongWoo Bio. Торгова марка постачальника — «Професійне насіння».</p><ul><li>Культура: Перець гострий</li><li>Гібрид F1: Ангаріка F1</li><li>Фасовка: 10 шт</li><li>Оригінатор: NongWoo Bio (Корея)</li><li>Латиницею: Angarika F1</li><li>Позначки виробника: гострий</li></ul>]]></description_ua>
 <barcode>4823058206127</barcode>
 </offer>
-<offer id="hb-ebcd0e397bc6" available="true">
+<offer id="hb-ebcd0e397bc6" available="false">
 <url>https://harbuz.in.ua/dzhemini-f1-nasinnya-pertsyu-solodkogo-8-sht/</url>
 <price>69</price>
 <currencyId>UAH</currencyId>
@@ -341769,7 +341749,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-3281ac0cf9f2" available="true">
 <url>https://harbuz.in.ua/robot-dlia-myttia-vikon-logicpower-lpw-005/</url>
-<price>7020</price>
+<price>7251</price>
 <currencyId>UAH</currencyId>
 <categoryId>hbff87e100</categoryId>
 <picture>https://harbuz.in.ua/content/images/33/38018040873173_+882827f256.jpg</picture>
@@ -341782,7 +341762,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-c659438d10fa" available="true">
 <url>https://harbuz.in.ua/sliuniavchyk-sylikonovyi-zupo-crafts-dino-synii/</url>
-<price>240</price>
+<price>248</price>
 <currencyId>UAH</currencyId>
 <categoryId>hbc5f65ed7</categoryId>
 <picture>https://harbuz.in.ua/content/images/35/88109010597202_+a82fefce49.jpg</picture>
@@ -341795,7 +341775,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-54296a1db0be" available="true">
 <url>https://harbuz.in.ua/sliuniavchyk-sylikonovyi-zupo-crafts-dino-zhovtyi/</url>
-<price>240</price>
+<price>248</price>
 <currencyId>UAH</currencyId>
 <categoryId>hbc5f65ed7</categoryId>
 <picture>https://harbuz.in.ua/content/images/30/23055876734676_+d3f262b554.jpg</picture>
@@ -341808,7 +341788,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-18a5ae6fff19" available="true">
 <url>https://harbuz.in.ua/sliuniavchyk-sylikonovyi-zupo-crafts-dino-zelenyi/</url>
-<price>240</price>
+<price>248</price>
 <currencyId>UAH</currencyId>
 <categoryId>hbc5f65ed7</categoryId>
 <picture>https://harbuz.in.ua/content/images/31/48545628806737_+78fe1ce913.jpg</picture>
@@ -342094,7 +342074,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-eeab52f29fe0" available="true">
 <url>https://harbuz.in.ua/providnyi-modul-dlia-intehratsii-storonnikh-datchykiv-ajax-multitransmitter-fibra-white/</url>
-<price>5299</price>
+<price>5935</price>
 <currencyId>UAH</currencyId>
 <categoryId>hbf398af00</categoryId>
 <picture>https://harbuz.in.ua/content/images/10/64770454599296_+fd8404ce64.jpg</picture>
@@ -342224,7 +342204,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-1d90125b3ee9" available="true">
 <url>https://harbuz.in.ua/sverdlo-po-metalu-extreme-impact-black-gold-dewalt-dt20616/</url>
-<price>377</price>
+<price>407</price>
 <currencyId>UAH</currencyId>
 <categoryId>hbe4daea12</categoryId>
 <picture>https://harbuz.in.ua/content/images/37/63537443254773_+5f6e00a68d.jpg</picture>
@@ -342261,7 +342241,7 @@ Ca - 4%&lt;/p&gt;
 <description><![CDATA[<p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p><p>Кабель DC5525 - DC5521 (тато-тато) призначений для підключення пристроїв з різними роз'ємами живлення. Цей кабель використовується для з'єднання джерел живлення з обладнанням, що потребує DC-живлення через роз'єми 5.5x2.5 мм та 5.5x2.1 мм. Він забезпечує надійну передачу енергії та сумісність з широким спектром електроніки. Довжина кабелю – 30 см.</p><p><strong>Характеристики</strong></p><ul><li>Довжина, мм: 240</li><li>Ширина, мм: 10</li><li>Висота, мм: 10</li></ul>]]></description>
 <description_ua><![CDATA[<p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p><p>Кабель DC5525 - DC5521 (тато-тато) призначений для підключення пристроїв з різними роз'ємами живлення. Цей кабель використовується для з'єднання джерел живлення з обладнанням, що потребує DC-живлення через роз'єми 5.5x2.5 мм та 5.5x2.1 мм. Він забезпечує надійну передачу енергії та сумісність з широким спектром електроніки. Довжина кабелю – 30 см.</p><p><strong>Характеристики</strong></p><ul><li>Довжина, мм: 240</li><li>Ширина, мм: 10</li><li>Висота, мм: 10</li></ul>]]></description_ua>
 </offer>
-<offer id="hb-473fdb4d85cf" available="true">
+<offer id="hb-473fdb4d85cf" available="false">
 <url>https://harbuz.in.ua/akumuliator-lp-lifepo4-128v-50-ah-640wh-bms-80a-50a-plastyk-lcd-smart-bt/</url>
 <price>13105</price>
 <currencyId>UAH</currencyId>
@@ -342276,7 +342256,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-973c8b50ab58" available="true">
 <url>https://harbuz.in.ua/dysk-dlia-ruchnykh-plytkoriziv-enersol-eb-15/</url>
-<price>72</price>
+<price>78</price>
 <currencyId>UAH</currencyId>
 <categoryId>hbe4daea12</categoryId>
 <picture>https://harbuz.in.ua/content/images/39/37211114450066_+e7e70a6c3d.jpg</picture>
@@ -342367,7 +342347,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-9e518b485202" available="true">
 <url>https://harbuz.in.ua/pylosmok-merezhevyi-blackdecker-bxvms600e/</url>
-<price>4488</price>
+<price>4837</price>
 <currencyId>UAH</currencyId>
 <categoryId>hb64869030</categoryId>
 <picture>https://harbuz.in.ua/content/images/35/38050896079218_+4bff3e20fd.jpg</picture>
@@ -342445,7 +342425,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-b48bf25d56c1" available="true">
 <url>https://harbuz.in.ua/sliuniavchyk-sylikonovyi-zupo-crafts-zhovtyi/</url>
-<price>170</price>
+<price>175</price>
 <currencyId>UAH</currencyId>
 <categoryId>hbc5f65ed7</categoryId>
 <picture>https://harbuz.in.ua/content/images/32/29559691976347_+46013c0683.jpg</picture>
@@ -342458,7 +342438,7 @@ Ca - 4%&lt;/p&gt;
 </offer>
 <offer id="hb-ac57c5444e79" available="true">
 <url>https://harbuz.in.ua/sliuniavchyk-sylikonovyi-zupo-crafts-synii/</url>
-<price>170</price>
+<price>175</price>
 <currencyId>UAH</currencyId>
 <categoryId>hbc5f65ed7</categoryId>
 <picture>https://harbuz.in.ua/content/images/33/81660801583613_+fb9af9e14f.jpg</picture>
