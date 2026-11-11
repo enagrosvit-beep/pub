@@ -17,7 +17,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 000023774	m0_new			season_off								
 0001	m4_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok		689				
 0002	m0_norm			khvist				2988				
-0003	m1_hit		Shopping_ads	vytraty_stelya	chempion	stop		2988				
+0003	m1_hit		Shopping_ads	vytraty_stelya	chempion	cina		2988				
 0004	m4_norm	ads_zero	Shopping_ads			stop		2988				
 0005	m5_norm				rozvidka							
 0006	m5_norm				rozvidka							
@@ -26,7 +26,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0011	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 0012	m0_new_p			khvist								
 0013	m0_new		Shopping_ads,Display_ads	pid_zamovlennya	bez_foto						2026-11-25T09:00+0300	
-0014	m0_new_p			khvist								
+0014	m4_norm_p				chempion	prybutok						
 0015	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 0016	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 0017	m0_new_p			khvist								
@@ -39,11 +39,11 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0024	m1_norm_p				chempion	prybutok						
 0025	m0_new_p			khvist								
 0026	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
-0027	m0_norm			khvist								
+0027	m5_norm				chempion							
 0028	m3_norm_p				chempion							
 0029	m0_new_p			khvist								
-0030	m0_new_p			khvist								
-0031	m0_norm_p											
+0030	m3_norm_p				chempion							
+0031	m5_norm_p				chempion	prybutok						
 0032	m3_norm				chempion							
 0033	m4_norm				chempion	stop						
 0034	m3_hit				chempion	prybutok						
@@ -121,7 +121,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0104175	m5_new			season_off								
 0104182	m0_new			season_off								
 0104192	m4_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Syngenta					Насіння > Капуста > Гібрид F1
-0104203	m0_new			season_off								
+0104203	m4_norm			season_off	chempion							
 0104225	m5_new	prof-no-ads	Shopping_ads,Display_ads	season_off			United Genetics					Насіння > Буряк > Сорт
 0104238	m2_new	prof-no-ads	Shopping_ads,Display_ads	season_off			Wing Seed					Насіння > Цибуля > Сорт
 0104286	m5_new	prof-no-ads	Shopping_ads,Display_ads	season_off			NongWoo Bio					Насіння > Капуста > Гібрид F1
@@ -249,7 +249,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0192	m4_new			season_off								
 0193	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 0194	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-0195	m4_norm			season_off	chempion	prybutok						
+0195	m4_norm			season_off	chempion							
 0196	m5_new			season_off								
 0197	m3_new			season_off								
 0198	m0_new			season_off								
@@ -261,7 +261,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0201	m0_new			season_off								
 0202	m0_new_p			khvist								
 0203	m3_new_p			khvist								
-0204	m4_norm_p				chempion							
+0204	m4_norm_p				chempion	prybutok						
 0205	m0_new_p			khvist								
 0206	m5_new_p			khvist								
 0207	m0_new_p			khvist								
@@ -386,11 +386,11 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0348	m5_norm			khvist			Silver Crest					
 0349	m0_norm_p			khvist								
 0350	m4_norm_p				chempion	prybutok					2026-11-25T09:00+0300	
-0351	m4_hit_p				chempion							
+0351	m4_hit_p				chempion	prybutok						
 0352	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 0353	m3_new_p			khvist								
 0354	m3_new_p			khvist								
-0355	m5_hit_p				chempion							
+0355	m5_hit_p				chempion	prybutok						
 0356	m4_norm_p			khvist								
 0357	m4_new_p			khvist								
 0358	m0_new_p			khvist								
@@ -674,7 +674,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0647	m5_hit				chempion	prybutok						
 0648	m0_norm			khvist								
 0649	m0_norm			khvist								
-0650	m5_norm			khvist								
+0650	m5_norm				chempion	stop						
 0651	m0_norm			khvist								
 0652	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 0653	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				187			2026-11-25T09:00+0300	
@@ -831,7 +831,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0819	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 0820	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 0821	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
-0822	m4_hit_p				chempion	prybutok						
+0822	m4_hit_p			khvist		cina						
 0823	m0_new_p			khvist								
 0825	m0_norm_p			khvist								
 0826	m4_new_p			khvist								
@@ -964,7 +964,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0962	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 0963	m0_new			season_off								
 0965	m4_new_p			khvist								
-0967	m0_norm_p											
+0967	m5_hit_p				chempion	stop						
 0968	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 0969	m5_new			season_off								
 0970	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
@@ -1001,7 +1001,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 10-006	m0_new_p				rozvidka							
 100-088	m0_new_p			khvist								
 100-093	m0_new_p			khvist								
-100-102	m4_norm_p											
+100-102	m4_norm_p				chempion	prybutok						
 100-184	m0_new_p			khvist								
 100-187	m0_new_p				rozvidka							
 100-219	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
@@ -1152,7 +1152,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1093	m0_new			season_off								
 1094	m5_new			season_off								
 1095	m0_new			season_off								
-1096	m5_norm			season_off	chempion							
+1096	m5_norm			season_off	chempion	prybutok						
 1097	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
 1098	m0_new			season_off								
 1099	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -1169,7 +1169,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1109	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр				2026-11-25T09:00+0300	
 111-072	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 1110	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
-1110561242	m4_norm			season_off	chempion							
+1110561242	m4_norm			season_off	chempion	prybutok						
 1111	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
 1112	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
 1113	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -1263,7 +1263,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 119031	m5_norm_p			khvist								
 119032	m0_new_p			khvist								
 119093	m5_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
-119094	m0_norm				rozvidka							
+119094	m0_norm											
 119098	m5_norm			khvist								
 1191	m0_new			season_off								
 1192	m0_new			season_off			Садиба Центр					
@@ -1444,7 +1444,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1360	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 1361	m0_new_p				rozvidka							
 1362	m1_norm			season_off	chempion							
-1363	m5_new			season_off								
+1363	m5_norm			season_off	chempion							
 1364	m0_new			season_off								
 1365	m3_new			season_off								
 1366	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -2000,7 +2000,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1897	m0_new			season_off								
 1898	m0_new			season_off								
 1899	m0_new			season_off								
-19-04-003	m0_norm_p				konv_google							
+19-04-003	m0_norm_p											
 1900	m5_new			season_off								
 1901	m5_new			season_off								
 1902	m4_new			season_off								
@@ -2063,7 +2063,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1958	m5_new			season_off			Садиба Центр					
 1959	m0_new			season_off								
 1960	m0_new			season_off								
-1961	m5_new			season_off								
+1961	m5_norm			season_off	chempion							
 1962	m0_new			season_off								
 1963	m0_new			season_off								
 1964	m0_new			season_off							2026-11-25T09:00+0300	
@@ -2150,8 +2150,8 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2043	m5_norm			season_off								
 2044	m0_new			season_off								
 2045	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр				2026-11-25T09:00+0300	
-2046	m3_hit		Shopping_ads	vytraty_stelya	chempion	cina						
-2047	m4_norm		Shopping_ads	vytraty_stelya	chempion	prybutok						
+2046	m4_hit		Shopping_ads	vytraty_stelya	chempion	prybutok						
+2047	m3_norm				chempion	prybutok						
 2048	m0_new_p				rozvidka							
 2049	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 2050	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
@@ -2210,7 +2210,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2100	m0_new_p			khvist								
 2101	m0_norm_p			khvist								
 2102	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
-2102583814	m4_norm_p				chempion							
+2102583814	m0_norm_p			khvist								
 2110115127	m4_new_p			khvist								
 2116	m0_new_p			khvist								
 2117	m0_new_p			khvist								
@@ -2377,7 +2377,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2397	m1_norm			season_off	dovedeni							
 2398	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 2399	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
-2400	m1_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
+2400	m2_norm			season_off	chempion						2026-11-25T09:00+0300	
 2401	m0_norm			season_off								
 2402	m0_new			season_off								
 2403	m0_new			season_off								
@@ -2537,7 +2537,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2511	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 2511654018	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 2511798202	m5_norm				chempion	prybutok						
-2512	m1_norm											
+2512	m1_norm				chempion	prybutok						
 2513	m0_norm_p				konv_google							
 2514	m0_new_p				rozvidka							
 2515	m0_new_p			khvist								
@@ -2649,7 +2649,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2608929276	m0_norm			khvist								
 2608934532	m0_new_p			khvist								
 2608934876	m0_norm_p			khvist								
-2608975939	m5_norm		Shopping_ads	vytraty_stelya	chempion	prybutok						
+2608975939	m5_norm		Shopping_ads	vytraty_stelya	chempion	stop						
 2608978794	m5_norm_p				chempion	prybutok						
 2608992514	m5_norm_p				chempion	prybutok						
 2608995574	m0_new_p			khvist								
@@ -2744,14 +2744,14 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2669	m0_norm_p			khvist								
 2670	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 2671	m0_norm			khvist								
-2672	m0_norm			khvist								
+2672	m5_hit				chempion	prybutok						
 2673	m5_norm				chempion	prybutok						
 2674092732	m0_norm_p			khvist								
 2674093515	m0_norm_p				rozvidka							
 2675	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 2676	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 2677	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
-2678	m4_norm_p				chempion							
+2678	m4_hit_p				chempion							
 2679	m0_new_p			khvist								
 2680	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 2680041384	m0_norm			khvist								
@@ -2818,7 +2818,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2753	m4_new			season_off								
 2754	m0_new			season_off								
 2755	m1_new_p			khvist								
-2756	m0_norm_p											
+2756	m0_norm_p				rozvidka							
 2757	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 2758	m5_new_p			khvist								
 2759	m5_new_p			khvist								
@@ -3013,7 +3013,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2985	m1_new			season_off								
 2986	m0_new			season_off								
 2987	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
-2988	m4_norm				chempion	prybutok						
+2988	m4_hit				chempion	prybutok						
 2989	m0_new			season_off								
 2990	m0_new_p			khvist								
 2991	m0_norm				rozvidka							
@@ -3159,7 +3159,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482018872	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 482018873	m5_norm_p				chempion	prybutok						
 482018878	m5_new_p				rozvidka							
-482018882	m5_new_p			khvist								
+482018882	m5_norm_p			khvist								
 482018886	m0_new_p			cina_vid_4000								
 482018887	m2_new_p			cina_vid_4000								
 482018888	m4_norm			cina_vid_4000								
@@ -3246,7 +3246,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482020082	m5_norm			khvist				264				
 482020083	m5_new_p				rozvidka			264				
 482020084	m5_new_p			khvist				264				
-482020323	m3_norm			season_off	chempion							
+482020323	m3_norm			season_off	chempion	prybutok						
 482020328	m4_new			season_off								
 482025271	m5_norm_p				chempion	prybutok						
 482025393	m3_new			season_off								
@@ -3289,7 +3289,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482026564	m0_norm			season_off								
 482026569	m3_norm				rozvidka							
 482026593	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
-482026594	m3_hit				chempion	prybutok						
+482026594	m3_hit				chempion	cina						
 482026599	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 482026602	m4_norm			khvist								
 482026603	m4_norm			khvist								
@@ -3316,7 +3316,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482027310	m5_hit			season_off	chempion	prybutok						
 482027311	m5_hit		Shopping_ads	vytraty_stelya	chempion	stop						
 482027312	m5_hit		Shopping_ads	vytraty_stelya	chempion	prybutok						
-482027313	m5_hit				chempion	cina						
+482027313	m5_hit				chempion	prybutok						
 482027314	m5_hit				chempion	prybutok						
 482027315	m5_new			khvist								
 482027316	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
@@ -3905,7 +3905,7 @@ PLX-10-690	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti				1753			2026-11-25
 PLX-10-691	m5_norm			khvist				1753				
 PLX-10-692	m5_norm_p			khvist								
 PLX-10-693	m5_new_p			khvist								
-PLX-10-694	m5_norm		Shopping_ads	vytraty_stelya		stop						
+PLX-10-694	m5_norm		Shopping_ads	vytraty_stelya								
 PLX-10-695	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-10-696	m3_new_p			khvist								
 PLX-10-697	m5_norm_p			khvist								
@@ -4037,7 +4037,7 @@ PLX-1000-042	m2_new_p			khvist
 PLX-1000-043	m3_new_p			khvist								
 PLX-1000-044	m2_new_p			khvist								
 PLX-1000-046	m4_norm_p				chempion	prybutok						
-PLX-1000-104	m3_norm_p				chempion							
+PLX-1000-104	m3_norm_p				chempion	prybutok						
 PLX-1000-227	m4_new_p			khvist								
 PLX-1000-229	m3_new_p			khvist								
 PLX-1000-230	m4_norm_p			khvist								
@@ -4187,7 +4187,7 @@ PLX-101331	m4_norm_p			khvist
 PLX-101339	m4_new_p			khvist								
 PLX-101344	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-101345	m5_new_p			khvist								
-PLX-101347	m4_new_p			khvist								
+PLX-101347	m4_norm_p				chempion							
 PLX-101370б	m5_new_p			khvist								
 PLX-101372	m5_new_p			khvist								
 PLX-101373	m5_new_p			khvist								
@@ -4229,7 +4229,7 @@ PLX-101452	m4_new		Shopping_ads,Display_ads	ne_v_prajsi
 PLX-101517	m4_new_p			khvist								
 PLX-101518	m4_norm			khvist								
 PLX-101519	m4_new_p			khvist								
-PLX-101520	m5_norm				chempion	prybutok						
+PLX-101520	m5_norm			khvist								
 PLX-101526	m4_new_p			khvist								
 PLX-101536	m4_new_p			khvist								
 PLX-101537	m4_new_p			khvist								
@@ -4420,7 +4420,7 @@ PLX-1115600	m5_new_p			khvist
 PLX-1115800	m5_new_p			khvist								
 PLX-11196	m5_new_p			khvist								
 PLX-113-230	m5_new_p			khvist								
-PLX-113-330	m3_norm_p				rozvidka							
+PLX-113-330	m3_norm_p											
 PLX-11348	m2_norm_p			khvist								
 PLX-116461	m5_norm			khvist								
 PLX-117232	m5_new_p			khvist								
@@ -4619,7 +4619,7 @@ PLX-15-137-003	m4_new_p			khvist
 PLX-15-141-01	m4_norm_p			khvist								
 PLX-15-141-02	m4_norm			khvist								
 PLX-15-142-02	m4_new_p			khvist								
-PLX-15-144-01	m4_norm											
+PLX-15-144-01	m4_norm			khvist								
 PLX-15-145	m4_norm			khvist								
 PLX-15-147-01	m3_new_p			khvist								
 PLX-15-147-02	m3_new_p			khvist								
@@ -4674,7 +4674,7 @@ PLX-15-182-003	m4_norm			khvist
 PLX-15-182-004	m4_new_p			khvist								
 PLX-15-182-006	m4_norm_p				rozvidka							
 PLX-15-182-SN/PB	m4_new_p			khvist								
-PLX-15-183-001	m4_new_p			khvist								
+PLX-15-183-001	m4_norm_p											
 PLX-15-183-002	m4_new_p			khvist								
 PLX-15-183-003	m4_norm			khvist								
 PLX-15-183-004	m4_new_p			khvist								
@@ -4700,7 +4700,7 @@ PLX-15-188-003	m3_new_p			khvist
 PLX-15-188-004	m3_norm			khvist								
 PLX-15-188-005	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-191-001	m3_new_p			khvist								
-PLX-15-191-002	m3_norm			khvist								
+PLX-15-191-002	m3_norm											
 PLX-15-191-004	m3_new_p			khvist								
 PLX-15-191-005	m4_norm_p				chempion	prybutok						
 PLX-15-225-001	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
@@ -4757,7 +4757,7 @@ PLX-15-60-001	m4_new_p			khvist
 PLX-15-63-012	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 PLX-15-65-001	m4_norm_p			khvist								
 PLX-15-65-004	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-15-68-002	m4_norm_p				chempion							
+PLX-15-68-002	m4_norm_p				chempion	prybutok						
 PLX-15-68-003	m4_new_p				rozvidka							
 PLX-15-68-004	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-15-68-006	m4_norm				chempion	prybutok						
@@ -4868,7 +4868,7 @@ PLX-18-03-001	m4_norm_p			khvist
 PLX-18-03-002	m4_norm			khvist								
 PLX-18-03-003	dup:Едім		Shopping_ads,Display_ads			prybutok						
 PLX-18-03-004	m4_norm				chempion							
-PLX-18-03-005	m4_hit				chempion	prybutok						
+PLX-18-03-005	m4_norm			khvist								
 PLX-18-03-006	m4_norm			khvist								
 PLX-18-08-008	m4_norm			khvist								
 PLX-18-08-009	m4_norm			khvist								
@@ -5009,7 +5009,7 @@ PLX-20253	m4_new_p			khvist
 PLX-20256	m5_new_p			khvist								
 PLX-20257	m4_new_p			khvist								
 PLX-202621	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-20266	m5_norm_p				chempion							
+PLX-20266	m5_norm_p				chempion	prybutok						
 PLX-20267	m3_norm_p			khvist								
 PLX-20270	m3_new_p			khvist								
 PLX-20272	m3_new_p			khvist								
@@ -5299,7 +5299,7 @@ PLX-2879	m5_new_p			khvist
 PLX-29-001	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-29-002	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-29-003	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-29-007	m2_new_p			khvist								
+PLX-29-007	m2_norm_p											
 PLX-29-008	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-29-011	m4_new_p			khvist								
 PLX-29-013	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -5337,7 +5337,7 @@ PLX-3-019-003	m5_hit_p				chempion	prybutok
 PLX-3-046-001	m5_hit_p				chempion	prybutok						
 PLX-3-046-003	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-3-046-007	m4_new_p			khvist								
-PLX-3-046-008	m5_new_p				rozvidka							
+PLX-3-046-008	m5_norm_p											
 PLX-3-052-001	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-3-052-002	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 PLX-3-052-003	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
@@ -5397,11 +5397,11 @@ PLX-3036	m4_new_p			khvist
 PLX-3037	m5_norm				konv_google							
 PLX-3039	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 PLX-3040	m4_new_p			khvist								
-PLX-3041	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
+PLX-3041	m5_norm_p				chempion						2026-11-25T09:00+0300	
 PLX-3042	m5_new_p				rozvidka							
 PLX-3043	m3_new_p			khvist								
-PLX-3044	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
-PLX-3049	m4_norm											
+PLX-3044	m4_norm_p				chempion						2026-11-25T09:00+0300	
+PLX-3049	m4_norm				chempion	prybutok						
 PLX-30492	m3_norm			khvist								
 PLX-30494	m4_new_p			khvist								
 PLX-30495	m1_new_p			khvist								
@@ -5556,9 +5556,9 @@ PLX-32-039	m2_new_p			khvist
 PLX-32-040	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-32-041	m3_new_p			khvist								
 PLX-32-047	m3_new_p			khvist				1753				
-PLX-32-057	m2_norm				chempion	prybutok						
+PLX-32-057	m2_norm				chempion							
 PLX-32-058	m2_norm			khvist								
-PLX-32-059	m4_norm											
+PLX-32-059	m4_norm			khvist								
 PLX-32-060	m2_new_p			khvist								
 PLX-32-061	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 PLX-32-062	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -5688,7 +5688,7 @@ PLX-33327	m4_norm			khvist
 PLX-33328	m4_new_p			khvist								
 PLX-33330	m4_norm_p			khvist								
 PLX-33338	m3_norm			khvist								
-PLX-33344	m2_norm_p				chempion							
+PLX-33344	m2_norm_p				chempion	prybutok						
 PLX-33345	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-33346	m0_new_p			khvist								
 PLX-33347	m2_new_p			khvist								
@@ -5744,7 +5744,7 @@ PLX-341902	m1_new_p			khvist
 PLX-342	m4_new_p			khvist								
 PLX-343	m4_new_p			khvist								
 PLX-344021	m4_new_p			khvist								
-PLX-344022	m4_norm_p				chempion							
+PLX-344022	m4_norm_p				chempion	prybutok						
 PLX-344029	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-344047	m4_new_p			khvist								
 PLX-34460	m5_new_p			khvist								
@@ -5875,7 +5875,7 @@ PLX-36624	m4_norm			khvist
 PLX-368	m4_new_p			khvist								
 PLX-369	m4_new_p			khvist								
 PLX-37	m5_new_p			khvist								
-PLX-37-001	m2_norm_p				chempion							
+PLX-37-001	m2_norm_p				chempion	prybutok						
 PLX-37-002	m2_new_p			khvist								
 PLX-37-003	m5_new_p			khvist								
 PLX-37-004	m5_new_p			khvist								
@@ -5996,7 +5996,7 @@ PLX-37-131	m5_new_p			khvist
 PLX-37-132	m5_new_p			khvist								
 PLX-37-133	m4_new_p			khvist								
 PLX-37-134	m2_new_p			khvist								
-PLX-37-135	m4_hit_p				chempion							
+PLX-37-135	m4_hit_p				chempion	prybutok						
 PLX-37-137	m4_norm_p				chempion	prybutok						
 PLX-37-138	m4_new_p			khvist								
 PLX-37-139	m4_norm_p				chempion	prybutok						
@@ -6053,7 +6053,7 @@ PLX-38-003	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-38-004	m5_new_p			khvist								
 PLX-38-005	m2_new_p			khvist								
 PLX-38-009	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
-PLX-38-010	m4_norm_p											
+PLX-38-010	m4_norm_p			khvist								
 PLX-38-011	m3_norm_p			khvist								
 PLX-38-012	m3_norm			khvist								
 PLX-38-013	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
@@ -6942,7 +6942,7 @@ PLX-90016266	m1_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T
 PLX-90016272	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 PLX-90016283	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 PLX-90016285	m2_new_p			khvist								
-PLX-90016293	m2_norm				chempion	prybutok						
+PLX-90016293	m2_norm			khvist								
 PLX-90016294	m2_norm		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
 PLX-90016295	m1_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-90016296	m1_new_p			khvist								
@@ -8863,7 +8863,7 @@ PLX-НФ-00002336	m5_new_p			khvist
 PLX-НФ-00002337	m5_new_p			khvist								
 PLX-НФ-00002338	m5_new_p			khvist								
 PLX-НФ-00002339	m5_new_p			khvist								
-PLX-НФ-00002344	m5_new_p			khvist								
+PLX-НФ-00002344	m5_norm_p				chempion							
 PLX-НФ-00002350	m4_new_p			khvist								
 PLX-НФ-00002396	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00002397	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -9135,7 +9135,7 @@ PLX-НФ-00003201	m4_new_p			khvist
 PLX-НФ-00003203	m4_new_p			khvist								
 PLX-НФ-00003204	m4_new_p			khvist								
 PLX-НФ-00003205	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-НФ-00003206	m4_norm				chempion	prybutok						
+PLX-НФ-00003206	m4_norm			khvist								
 PLX-НФ-00003209	m4_new_p			khvist								
 PLX-НФ-00003210	m4_new_p			khvist								
 PLX-НФ-00003211	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
@@ -9258,7 +9258,7 @@ PLX-СК-01-11	m4_new_p			khvist
 PLX-СК-01-12	m4_new_p			khvist								
 PLX-СК-01-13	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 PLX-СК-01-14	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
-PLX-СК-01-15	m5_new_p			khvist								
+PLX-СК-01-15	m5_norm_p											
 PLX-СК-01-16	m5_new_p			khvist								
 PLX-СК-01-17	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 PLX-СК-01-18	m5_new_p			khvist								
@@ -9533,7 +9533,7 @@ amt-123120	m0_new		Shopping_ads,Display_ads	drop_marzha				3610		123120
 amt-123169	m0_new		Shopping_ads,Display_ads	drop_marzha						123169		
 amt-123170	m0_new		Shopping_ads,Display_ads	drop_t8						123170		
 amt-123171	m0_new		Shopping_ads,Display_ads	drop_t8						123171		
-amt-123172	m0_new_p			drop_t5						123172		
+amt-123172	m0_new		Shopping_ads,Display_ads	drop_t5						123172		
 amt-123173	m0_new		Shopping_ads,Display_ads	drop_marzha						123173		
 amt-123174	m0_new		Shopping_ads,Display_ads	drop_t8						123174		
 amt-123175	m0_new		Shopping_ads,Display_ads	drop_t8				3610		123175		
@@ -9544,7 +9544,7 @@ amt-123180	m4_norm		Shopping_ads,Display_ads	drop_marzha						123180
 amt-123181	m0_new		Shopping_ads,Display_ads	drop_marzha						123181		
 amt-123183	m0_new		Shopping_ads,Display_ads	drop_marzha						123183		
 amt-125986	m0_new		Shopping_ads,Display_ads	drop_t8						125986		
-amt-125988	m0_new_p			drop_t5						125988		
+amt-125988	m0_new		Shopping_ads,Display_ads	drop_t5						125988		
 amt-125989	m0_new		Shopping_ads,Display_ads	drop_t8						125989		
 amt-125992	m0_new		Shopping_ads,Display_ads	drop_marzha						125992		
 amt-125993	m0_new		Shopping_ads,Display_ads	drop_marzha						125993		
@@ -9655,7 +9655,7 @@ amt-162514	m0_new		Shopping_ads,Display_ads	drop_t8						162514
 amt-162515	m0_new		Shopping_ads,Display_ads	drop_t8						162515		
 amt-162516	m0_new		Shopping_ads,Display_ads	drop_t8						162516		
 amt-162517	m0_new		Shopping_ads,Display_ads	drop_t8						162517		
-amt-162518	m0_new		Shopping_ads,Display_ads	drop_t8						162518		
+amt-162518	m0_new		Shopping_ads,Display_ads	drop_marzha						162518		
 amt-162521	m0_new		Shopping_ads,Display_ads	drop_marzha						162521		
 amt-162522	m0_new		Shopping_ads,Display_ads	drop_t8						162522		
 amt-162523	m0_new		Shopping_ads,Display_ads	drop_marzha						162523		
@@ -9671,19 +9671,19 @@ amt-162534	m0_new		Shopping_ads,Display_ads	drop_marzha						162534
 amt-163188	m0_new		Shopping_ads,Display_ads	drop_marzha						163188		
 amt-163189	m0_new		Shopping_ads,Display_ads	drop_marzha						163189		
 amt-163191	m0_new		Shopping_ads,Display_ads	drop_t8								
-amt-163192	m0_new_p			drop_t5						163192		
+amt-163192	m0_new		Shopping_ads,Display_ads	drop_t5						163192		
 amt-163193	m0_new		Shopping_ads,Display_ads	drop_t8						163193		
 amt-163194	m0_new		Shopping_ads,Display_ads	drop_marzha						163194		
 amt-163195	m0_new		Shopping_ads,Display_ads	drop_marzha						163195		
 amt-16596	m0_new		Shopping_ads,Display_ads	drop_marzha				3610		16596		
 amt-168106	m0_new		Shopping_ads,Display_ads	drop_marzha						168106		
 amt-168108	m0_new		Shopping_ads,Display_ads	drop_t8						168108		
-amt-168109	m0_new_p			drop_t5						168109		
-amt-168110	m0_new_p			drop_t5						168110		
-amt-168111	m0_new_p			drop_t5						168111		
+amt-168109	m0_new		Shopping_ads,Display_ads	drop_t5						168109		
+amt-168110	m0_new		Shopping_ads,Display_ads	drop_t5						168110		
+amt-168111	m0_new		Shopping_ads,Display_ads	drop_t5						168111		
 amt-168113	m0_new		Shopping_ads,Display_ads	drop_t8						168113		
-amt-168114	m0_new_p			drop_t5						168114		
-amt-168116	m0_new_p			drop_t5						168116		
+amt-168114	m0_new		Shopping_ads,Display_ads	drop_t5						168114		
+amt-168116	m0_new		Shopping_ads,Display_ads	drop_t5						168116		
 amt-168117	m0_new		Shopping_ads,Display_ads	drop_marzha						168117		
 amt-168118	m0_new		Shopping_ads,Display_ads	drop_marzha						168118		
 amt-168119	m0_new		Shopping_ads,Display_ads	drop_marzha						168119		
@@ -9710,8 +9710,8 @@ amt-168140	m0_new		Shopping_ads,Display_ads	drop_marzha						168140
 amt-168141	m0_new		Shopping_ads,Display_ads	drop_marzha						168141		
 amt-168142	m0_new		Shopping_ads,Display_ads	drop_marzha						168142		
 amt-168143	m0_new		Shopping_ads,Display_ads	drop_t8						168143		
-amt-168144	m0_new_p			drop_t5						168144		
-amt-168145	m0_new_p			drop_t5						168145		
+amt-168144	m0_new		Shopping_ads,Display_ads	drop_t5						168144		
+amt-168145	m0_new		Shopping_ads,Display_ads	drop_t5						168145		
 amt-168146	m0_new		Shopping_ads,Display_ads	drop_marzha						168146		
 amt-169080	m0_new		Shopping_ads,Display_ads	drop_marzha				5866			2026-11-25T09:00+0300	
 amt-172049	m0_new		Shopping_ads,Display_ads	drop_t8				1223		172049		
@@ -9842,11 +9842,11 @@ amt-181785	m0_new		Shopping_ads,Display_ads	drop_marzha						181785
 amt-181786	m0_new		Shopping_ads,Display_ads	drop_marzha						181786		
 amt-181787	m0_new		Shopping_ads,Display_ads	drop_marzha						181787		
 amt-181788	m0_new		Shopping_ads,Display_ads	drop_t8						181788		
-amt-181790	m0_new_p			drop_t5						181790		
+amt-181790	m0_new		Shopping_ads,Display_ads	drop_t5						181790		
 amt-181791	m0_new		Shopping_ads,Display_ads	drop_marzha						181791		
 amt-181792	m0_new		Shopping_ads,Display_ads	drop_t8						181792		
 amt-181793	m0_new		Shopping_ads,Display_ads	drop_t8						181793		
-amt-181794	m0_new_p			drop_t5						181794		
+amt-181794	m0_new		Shopping_ads,Display_ads	drop_t5						181794		
 amt-181795	m0_new		Shopping_ads,Display_ads	drop_marzha						181795		
 amt-181796	m0_new		Shopping_ads,Display_ads	drop_marzha						181796		
 amt-181805	m0_new		Shopping_ads,Display_ads	drop_marzha						181805		
@@ -9869,8 +9869,8 @@ amt-184221	m0_new		Shopping_ads,Display_ads	drop_t8						184221
 amt-184455	m0_new		Shopping_ads,Display_ads	drop_t8				276		184455		
 amt-184456	m0_norm		Shopping_ads,Display_ads	drop_marzha				276		184456		
 amt-184457	m0_norm		Shopping_ads,Display_ads	drop_marzha				276		184457		
-amt-184575	m0_new_p			drop_t5						184575		
-amt-184576	m0_norm_p			drop_t5						184576		
+amt-184575	m0_new		Shopping_ads,Display_ads	drop_t5						184575		
+amt-184576	m0_norm		Shopping_ads,Display_ads	drop_t5						184576		
 amt-184681	m0_new		Shopping_ads,Display_ads	drop_marzha						184681		
 amt-184682	m0_new		Shopping_ads,Display_ads	drop_marzha						184682		
 amt-184684	m0_new		Shopping_ads,Display_ads	drop_marzha						184684		
@@ -9887,16 +9887,16 @@ amt-184697	m0_new		Shopping_ads,Display_ads	drop_marzha						184697
 amt-184698	m0_new		Shopping_ads,Display_ads	drop_marzha						184698		
 amt-184699	m0_new		Shopping_ads,Display_ads	drop_marzha						184699		
 amt-185735	m0_new		Shopping_ads,Display_ads	drop_t8				4928		185735		
-amt-186166	m0_new_p			drop_t5						186166		
-amt-186167	m0_new_p			drop_t5						186167		
-amt-186168	m0_new_p			drop_t5						186168		
-amt-186169	m0_norm_p			drop_t5						186169		
-amt-186170	m0_new_p			drop_t5						186170		
-amt-186171	m0_new_p			drop_t5						186171		
+amt-186166	m0_new		Shopping_ads,Display_ads	drop_t5						186166		
+amt-186167	m0_new		Shopping_ads,Display_ads	drop_t5						186167		
+amt-186168	m0_new		Shopping_ads,Display_ads	drop_t5						186168		
+amt-186169	m0_norm		Shopping_ads,Display_ads	drop_t5						186169		
+amt-186170	m0_new		Shopping_ads,Display_ads	drop_t5						186170		
+amt-186171	m0_new		Shopping_ads,Display_ads	drop_t5						186171		
 amt-186172	m0_new		Shopping_ads,Display_ads	drop_t8						186172		
 amt-186220	m0_new		Shopping_ads,Display_ads	drop_marzha						186220		
-amt-186655	m0_new_p			drop_t5						186655		
-amt-186656	m0_new_p			drop_t5						186656		
+amt-186655	m0_new		Shopping_ads,Display_ads	drop_t5						186655		
+amt-186656	m0_new		Shopping_ads,Display_ads	drop_t5						186656		
 amt-187841	m0_new		Shopping_ads,Display_ads	drop_marzha						187841		
 amt-187842	m0_new		Shopping_ads,Display_ads	drop_marzha						187842		
 amt-187843	m0_new		Shopping_ads,Display_ads	drop_marzha						187843		
@@ -9971,7 +9971,7 @@ amt-189107	m0_new		Shopping_ads,Display_ads	drop_marzha						189107
 amt-189329	m0_new		Shopping_ads,Display_ads	drop_t8						189329		
 amt-189330	m0_new		Shopping_ads,Display_ads	drop_marzha						189330		
 amt-189331	m0_new		Shopping_ads,Display_ads	drop_t8						189331		
-amt-189332	m0_new_p			drop_t5						189332		
+amt-189332	m0_new		Shopping_ads,Display_ads	drop_t5						189332		
 amt-189333	m0_new		Shopping_ads,Display_ads	drop_marzha						189333		
 amt-189334	m0_new		Shopping_ads,Display_ads	drop_marzha						189334		
 amt-189335	m0_new		Shopping_ads,Display_ads	drop_marzha						189335		
@@ -10038,13 +10038,13 @@ amt-190255	m0_new		Shopping_ads,Display_ads	drop_marzha						190255
 amt-190256	m0_new		Shopping_ads,Display_ads	drop_t8						190256		
 amt-190257	m0_new		Shopping_ads,Display_ads	drop_t8						190257		
 amt-190258	m0_new		Shopping_ads,Display_ads	drop_t8						190258		
-amt-190259	m0_new_p			drop_t5						190259		
+amt-190259	m0_new		Shopping_ads,Display_ads	drop_t5						190259		
 amt-190261	m0_new		Shopping_ads,Display_ads	drop_marzha						190261		
 amt-190262	m0_new		Shopping_ads,Display_ads	drop_t8						190262		
 amt-190263	m0_new		Shopping_ads,Display_ads	drop_t8						190263		
-amt-190265	m0_new_p			drop_t5						190265		
-amt-190266	m0_new_p			drop_t5						190266		
-amt-190268	m0_new_p			drop_t5						190268		
+amt-190265	m0_new		Shopping_ads,Display_ads	drop_t5						190265		
+amt-190266	m0_new		Shopping_ads,Display_ads	drop_t5						190266		
+amt-190268	m0_new		Shopping_ads,Display_ads	drop_t5						190268		
 amt-190270	m0_new		Shopping_ads,Display_ads	drop_marzha						190270		
 amt-190271	m0_new		Shopping_ads,Display_ads	drop_marzha						190271		
 amt-190272	m0_new		Shopping_ads,Display_ads	drop_marzha						190272		
@@ -10062,7 +10062,7 @@ amt-190293	m0_new		Shopping_ads,Display_ads	drop_marzha						190293
 amt-190295	m0_new		Shopping_ads,Display_ads	drop_marzha						190295		
 amt-190296	m0_new		Shopping_ads,Display_ads	drop_marzha						190296		
 amt-190297	m0_new		Shopping_ads,Display_ads	drop_t8						190297		
-amt-190298	m0_new_p			drop_t5						190298		
+amt-190298	m0_new		Shopping_ads,Display_ads	drop_t5						190298		
 amt-190299	m0_new		Shopping_ads,Display_ads	drop_marzha						190299		
 amt-190300	m0_new		Shopping_ads,Display_ads	drop_marzha						190300		
 amt-190301	m0_new		Shopping_ads,Display_ads	drop_marzha						190301		
@@ -10098,9 +10098,9 @@ amt-191512	m0_new		Shopping_ads,Display_ads	drop_marzha						191512
 amt-191513	m0_new		Shopping_ads,Display_ads	drop_marzha						191513		
 amt-191514	m0_new		Shopping_ads,Display_ads	drop_marzha						191514		
 amt-191515	m0_new		Shopping_ads,Display_ads	drop_t8						191515		
-amt-191516	m0_new_p			drop_t5						191516		
-amt-191517	m0_new_p			drop_t5						191517		
-amt-191518	m0_new_p			drop_t5						191518		
+amt-191516	m0_new		Shopping_ads,Display_ads	drop_t5						191516		
+amt-191517	m0_new		Shopping_ads,Display_ads	drop_t5						191517		
+amt-191518	m0_new		Shopping_ads,Display_ads	drop_t5						191518		
 amt-191519	m0_new		Shopping_ads,Display_ads	drop_marzha						191519		
 amt-191520	m0_new		Shopping_ads,Display_ads	drop_marzha						191520		
 amt-191521	m0_new		Shopping_ads,Display_ads	drop_marzha						191521		
@@ -10151,7 +10151,7 @@ amt-193937	m0_new		Shopping_ads,Display_ads	drop_marzha						193937
 amt-193938	m0_new		Shopping_ads,Display_ads	drop_marzha						193938		
 amt-193939	m0_new		Shopping_ads,Display_ads	drop_t8						193939		
 amt-193940	m0_new		Shopping_ads,Display_ads	drop_t8						193940		
-amt-193941	m0_new_p			drop_t5						193941		
+amt-193941	m0_new		Shopping_ads,Display_ads	drop_t5						193941		
 amt-193942	m0_new		Shopping_ads,Display_ads	drop_marzha						193942		
 amt-193944	m0_new		Shopping_ads,Display_ads	drop_marzha						193944		
 amt-193945	m0_new		Shopping_ads,Display_ads	drop_marzha						193945		
@@ -10165,7 +10165,7 @@ amt-194841	m0_new		Shopping_ads,Display_ads	drop_t8						194841
 amt-194842	m0_new		Shopping_ads,Display_ads	drop_t8				694		194842		
 amt-194843	m0_new		Shopping_ads,Display_ads	drop_marzha				1967		194843		
 amt-195155	m0_new		Shopping_ads,Display_ads	drop_t8				1223				
-amt-195699	m0_new_p			drop_t5						195699		
+amt-195699	m0_new		Shopping_ads,Display_ads	drop_t5						195699		
 amt-195700	m0_new		Shopping_ads,Display_ads	drop_marzha						195700		
 amt-195707	m0_new		Shopping_ads,Display_ads	drop_marzha						195707		
 amt-195708	m0_new		Shopping_ads,Display_ads	drop_marzha						195708		
@@ -10387,7 +10387,7 @@ amt-241170	m0_new		Shopping_ads,Display_ads	drop_marzha				5866			2026-11-25T09:
 amt-241172	m0_new		Shopping_ads,Display_ads	drop_marzha				5866			2026-11-25T09:00+0300	
 amt-241178	m0_new		Shopping_ads,Display_ads	drop_t8				1967		241178		
 amt-241179	m0_new		Shopping_ads,Display_ads	drop_t8				1967		241179		
-amt-241180	m0_new		Shopping_ads,Display_ads	drop_t8				1967		241180		
+amt-241180	m0_new		Shopping_ads,Display_ads	drop_marzha				1967		241180		
 amt-241184	m0_new		Shopping_ads,Display_ads	drop_t8				1967		241184		
 amt-241655	m0_new		Shopping_ads,Display_ads	drop_marzha								
 amt-241658	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -10518,11 +10518,11 @@ amt-246650	m0_new		Shopping_ads,Display_ads	drop_marzha						246650
 amt-247218	m0_new		Shopping_ads,Display_ads	drop_t8						247218		
 amt-247219	m0_new		Shopping_ads,Display_ads	drop_t8						247219		
 amt-247220	m0_new		Shopping_ads,Display_ads	drop_t8						247220		
-amt-247940	m0_new_p			drop_t5						247940		
+amt-247940	m0_new		Shopping_ads,Display_ads	drop_t5						247940		
 amt-247941	m0_new		Shopping_ads,Display_ads	drop_t8						247941		
-amt-247942	m0_new_p			drop_t5						247942		
-amt-247943	m0_new_p			drop_t5						247943		
-amt-247944	m0_new_p			drop_t5				3120		247944		
+amt-247942	m0_new		Shopping_ads,Display_ads	drop_t5						247942		
+amt-247943	m0_new		Shopping_ads,Display_ads	drop_t5						247943		
+amt-247944	m0_new		Shopping_ads,Display_ads	drop_t5				3120		247944		
 amt-248419	m0_new		Shopping_ads,Display_ads	drop_marzha				5866			2026-11-25T09:00+0300	
 amt-248455	m0_new		Shopping_ads,Display_ads	drop_t8				4564		248455		
 amt-248456	m0_new		Shopping_ads,Display_ads	drop_t8				4564		248456		
@@ -10688,7 +10688,7 @@ hc-494ADN	m0_new		Shopping_ads,Display_ads	drop_t8						494ADN
 hc-G02FHN	m0_new		Shopping_ads,Display_ads	drop_t8						G02FHN		
 hc-HECHT0000324	m0_norm		Shopping_ads,Display_ads	drop_marzha				6328		HECHT0000324		
 hc-HECHT000318	m0_new		Shopping_ads,Display_ads	drop_marzha				6328				
-hc-HECHT000650	m0_new_p			drop_t5				4564		HECHT000650		
+hc-HECHT000650	m0_new		Shopping_ads,Display_ads	drop_t5				4564		HECHT000650		
 hc-HECHT000651	m0_new		Shopping_ads,Display_ads	drop_marzha				4564		HECHT000651		
 hc-HECHT000670	m0_norm		Shopping_ads,Display_ads	drop_t8				4564		HECHT000670		
 hc-HECHT000671	m0_new		Shopping_ads,Display_ads	drop_t8				4564		HECHT000671		
@@ -10832,7 +10832,7 @@ hc-HECHT655	m0_new		Shopping_ads,Display_ads	drop_marzha				3120		HECHT655
 hc-HECHT6645	m0_norm		Shopping_ads,Display_ads	drop_t8				3798		HECHT6645		
 hc-HECHT670	m0_norm		Shopping_ads,Display_ads	drop_marzha				7030		HECHT670		
 hc-HECHT675	m0_norm		Shopping_ads,Display_ads	drop_t8				3120		HECHT675		
-hc-HECHT676	m0_new		Shopping_ads,Display_ads	drop_t8				7030		HECHT676		
+hc-HECHT676	m0_new		Shopping_ads,Display_ads	drop_t8				7030	8595614923606			
 hc-HECHT6810	m0_norm		Shopping_ads,Display_ads	drop_marzha				7030		HECHT6810		
 hc-HECHT6903IN1	m0_new		Shopping_ads,Display_ads	drop_t8				7245		HECHT6903IN1		
 hc-HECHT6910	m0_new		Shopping_ads,Display_ads	drop_marzha				7030		HECHT6910		
@@ -10935,7 +10935,7 @@ hc-HECHT99126	m0_new		Shopping_ads,Display_ads	drop_t8				3610		HECHT99126
 hc-HECHT9919	m0_new		Shopping_ads,Display_ads	drop_marzha				3610				
 hc-HECHT9920	m0_norm		Shopping_ads,Display_ads	drop_t8				3610		HECHT9920		
 hc-HECHT9922	m0_new		Shopping_ads,Display_ads	drop_t8				3610		HECHT9922		
-hc-HECHTGG10000	m0_norm			drop_t5				1218		HECHTGG10000		
+hc-HECHTGG10000	m0_norm		Shopping_ads,Display_ads	drop_t5				1218		HECHTGG10000		
 hc-HECHTGG11000	m0_new		Shopping_ads,Display_ads	drop_marzha				1218		HECHTGG11000		
 hc-HECHTGG6500	m0_norm		Shopping_ads,Display_ads	drop_marzha				1218		HECHTGG6500		
 hc-HECHTGG6501	m0_new		Shopping_ads,Display_ads	drop_t8				1218		HECHTGG6501		
@@ -11347,7 +11347,7 @@ km-47714	m4_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:0
 km-47716	m4_new_p			khvist								
 km-47725	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 km-47726	m3_new_p			khvist								
-km-47727	m3_new_p			khvist								
+km-47727	m3_new_p			khvist					4820185490238			
 km-47728	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 km-47729	m3_new_p			khvist								
 km-47730	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
@@ -11421,7 +11421,7 @@ km-47895	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:0
 km-47896	m3_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 km-47897	m3_norm				chempion	prybutok						
 km-47898	m3_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
-km-47899	m3_norm				chempion	prybutok						
+km-47899	m3_norm			khvist								
 km-47900	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 km-47901	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 km-47904	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
@@ -11514,87 +11514,87 @@ led-pglf-blue	m4_norm_p				chempion			100
 led-pglf-pink	m1_norm				rozvidka			100				
 led-t3	m3_hit				chempion	prybutok		100				
 led-yj101	m3_norm			cina_vid_4000				107				
-lg-1000L100MGBL	m0_new_p			drop_t5				2608		1000L100MGBL		
-lg-1000L100MGML	m0_new_p			drop_t5				2608		1000L100MGML		
-lg-1000L100MGW	m0_new_p			drop_t5				2608		1000L100MGW		
-lg-1000L100MGY	m0_new_p			drop_t5				2608		1000L100MGY		
-lg-1000L100MWBL	m0_new_p			drop_t5				2608		1000L100MWBL		
-lg-1000L100MWW	m0_new_p			drop_t5				2608		1000L100MWW		
-lg-1000L100MWY	m0_new_p			drop_t5				2608		1000L100MWY		
+lg-1000L100MGBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1000L100MGBL		
+lg-1000L100MGML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1000L100MGML		
+lg-1000L100MGW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1000L100MGW		
+lg-1000L100MGY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1000L100MGY		
+lg-1000L100MWBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1000L100MWBL		
+lg-1000L100MWW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1000L100MWW		
+lg-1000L100MWY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1000L100MWY		
 lg-100L10MWW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		100L10MWW		
 lg-100L10MWY	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		100L10MWY	2026-11-25T09:00+0300	
-lg-12MBBL	m0_new_p			drop_t5				2608		12MBBL		
-lg-12MBML	m0_new_p			drop_t5				2608		12MBML		
-lg-12MBW	m0_new_p			drop_t5				2608		12MBW		
-lg-12MBY	m0_new_p			drop_t5				2608		12MBY		
-lg-12MWBL	m0_new_p			drop_t5				2608		12MWBL		
-lg-12MWML	m0_new_p			drop_t5				2608		12MWML		
-lg-12MWW	m0_new_p			drop_t5				2608		12MWW		
-lg-12MWY	m0_new_p			drop_t5				2608		12MWY		
-lg-1733012GW	m0_new_p			drop_t5				2608		1733012GW		
-lg-1733012GY	m0_new_p			drop_t5				2608		1733012GY		
-lg-1733012Y	m0_new_p			drop_t5				2608		1733012Y		
-lg-1733015GW	m0_new_p			drop_t5				2608		1733015GW		
-lg-1733015GY	m0_norm			drop_t5				2608		1733015GY		
-lg-1733015W	m0_new_p			drop_t5				2608		1733015W		
-lg-173301ML	m0_new_p			drop_t5				2608		173301ML		
-lg-173302BL	m0_new_p			drop_t5				2608		173302BL		
-lg-173303W	m0_new_p			drop_t5				2608		173303W		
-lg-1733042W	m0_new_p			drop_t5				2608		1733042W		
-lg-1733043GR	m0_new_p			drop_t5				2608		1733043GR		
-lg-1733044W	m0_new_p			drop_t5				2608		1733044W		
-lg-1733051W	m0_new_p			drop_t5				2608		1733051W		
-lg-1733053ML	m0_new_p			drop_t5				2608		1733053ML		
-lg-1733054BL	m0_new_p			drop_t5				2608		1733054BL		
-lg-1733055W	m0_new_p			drop_t5				2608		1733055W		
-lg-173305ML	m0_new_p			drop_t5				2608		173305ML		
-lg-1733061ML	m0_new_p			drop_t5				2608		1733061ML		
-lg-1733062BL	m0_new_p			drop_t5				2608		1733062BL		
-lg-1733063Y	m0_new_p			drop_t5				2608		1733063Y		
-lg-1733064W	m0_new_p			drop_t5				2608		1733064W		
-lg-1733065ML	m0_new_p			drop_t5				2608		1733065ML		
-lg-1733066BL	m0_new_p			drop_t5				2608		1733066BL		
-lg-1733067W	m0_new_p			drop_t5				2608		1733067W		
-lg-1733068Y	m0_new_p			drop_t5				2608		1733068Y		
-lg-1733069ML	m0_new_p			drop_t5				2608		1733069ML		
-lg-173306BL	m0_new_p			drop_t5				2608		173306BL		
-lg-1733070BL	m0_new_p			drop_t5				2608		1733070BL		
-lg-1733071W	m0_new_p			drop_t5				2608		1733071W		
-lg-1733072Y	m0_new_p			drop_t5				2608		1733072Y		
-lg-173307W	m0_new_p			drop_t5				2608		173307W		
+lg-12MBBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		12MBBL		
+lg-12MBML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		12MBML		
+lg-12MBW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		12MBW		
+lg-12MBY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		12MBY		
+lg-12MWBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		12MWBL		
+lg-12MWML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		12MWML		
+lg-12MWW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		12MWW		
+lg-12MWY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		12MWY		
+lg-1733012GW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733012GW		
+lg-1733012GY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733012GY		
+lg-1733012Y	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733012Y		
+lg-1733015GW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733015GW		
+lg-1733015GY	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		1733015GY		
+lg-1733015W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733015W		
+lg-173301ML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		173301ML		
+lg-173302BL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		173302BL		
+lg-173303W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		173303W		
+lg-1733042W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733042W		
+lg-1733043GR	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733043GR		
+lg-1733044W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733044W		
+lg-1733051W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733051W		
+lg-1733053ML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733053ML		
+lg-1733054BL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733054BL		
+lg-1733055W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733055W		
+lg-173305ML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		173305ML		
+lg-1733061ML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733061ML		
+lg-1733062BL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733062BL		
+lg-1733063Y	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733063Y		
+lg-1733064W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733064W		
+lg-1733065ML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733065ML		
+lg-1733066BL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733066BL		
+lg-1733067W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733067W		
+lg-1733068Y	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733068Y		
+lg-1733069ML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733069ML		
+lg-173306BL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		173306BL		
+lg-1733070BL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733070BL		
+lg-1733071W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733071W		
+lg-1733072Y	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733072Y		
+lg-173307W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		173307W		
 lg-173309ML	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		173309ML		
-lg-2000L200MGBL	m0_new_p			drop_t5				2608		2000L200MGBL		
-lg-2000L200MGML	m0_new_p			drop_t5				2608		2000L200MGML		
-lg-2000L200MGW	m0_new_p			drop_t5				2608		2000L200MGW		
-lg-2000L200MGY	m0_new_p			drop_t5				2608		2000L200MGY		
-lg-2000L200MWBL	m0_new_p			drop_t5				2608		2000L200MWBL		
-lg-2000L200MWML	m0_new_p			drop_t5				2608		2000L200MWML		
-lg-2000L200MWW	m0_new_p			drop_t5				2608		2000L200MWW		
-lg-2000L200MWY	m0_new_p			drop_t5				2608		2000L200MWY		
+lg-2000L200MGBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		2000L200MGBL		
+lg-2000L200MGML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		2000L200MGML		
+lg-2000L200MGW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		2000L200MGW		
+lg-2000L200MGY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		2000L200MGY		
+lg-2000L200MWBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		2000L200MWBL		
+lg-2000L200MWML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		2000L200MWML		
+lg-2000L200MWW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		2000L200MWW		
+lg-2000L200MWY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		2000L200MWY		
 lg-2026-CR-3-1	m0_new		Shopping_ads,Display_ads	drop_marzha				596				
 lg-2026-CR-3-2	m0_norm		Shopping_ads,Display_ads	drop_marzha				596				
 lg-2026-CR-3-3	m0_new		Shopping_ads,Display_ads	drop_marzha				596				
 lg-2026-CR-3-5	m0_norm		Shopping_ads,Display_ads	drop_marzha				596				
-lg-2026-CR-3-6	dup:Тиква			drop_t5				596				
-lg-2026-CR-3-7	m0_norm			drop_t5				596				
-lg-2026-CR-3-8	m0_new_p			drop_t5				596				
+lg-2026-CR-3-6	dup:Тиква		Shopping_ads,Display_ads	drop_t5				596				
+lg-2026-CR-3-7	m0_norm		Shopping_ads,Display_ads	drop_t5				596				
+lg-2026-CR-3-8	m0_new		Shopping_ads,Display_ads	drop_t5				596				
 lg-2026-CR-3-9	m0_norm		Shopping_ads,Display_ads	drop_marzha				596				
-lg-20MBBL	m0_new_p			drop_t5				2608		20MBBL		
-lg-20MBML	m0_new_p			drop_t5				2608		20MBML		
-lg-20MBW	m0_new_p			drop_t5				2608		20MBW		
-lg-20MBY	m0_new_p			drop_t5				2608		20MBY		
-lg-20MWBL	m0_new_p			drop_t5				2608		20MWBL		
-lg-20MWML	m0_new_p			drop_t5				2608		20MWML		
-lg-20MWW	m0_new_p			drop_t5				2608		20MWW		
-lg-20MWY	m0_new_p			drop_t5				2608		20MWY		
-lg-25MBBL	m0_new_p			drop_t5				2608		25MBBL		
-lg-25MBML	m0_new_p			drop_t5				2608		25MBML		
-lg-25MBW	m0_new_p			drop_t5				2608		25MBW		
-lg-25MBY	m0_new_p			drop_t5				2608		25MBY		
-lg-25MWBL	m0_new_p			drop_t5				2608		25MWBL		
-lg-25MWML	m0_new_p			drop_t5				2608		25MWML		
-lg-25MWW	m0_new_p			drop_t5				2608		25MWW		
-lg-25MWY	m0_new_p			drop_t5				2608		25MWY		
+lg-20MBBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		20MBBL		
+lg-20MBML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		20MBML		
+lg-20MBW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		20MBW		
+lg-20MBY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		20MBY		
+lg-20MWBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		20MWBL		
+lg-20MWML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		20MWML		
+lg-20MWW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		20MWW		
+lg-20MWY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		20MWY		
+lg-25MBBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		25MBBL		
+lg-25MBML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		25MBML		
+lg-25MBW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		25MBW		
+lg-25MBY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		25MBY		
+lg-25MWBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		25MWBL		
+lg-25MWML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		25MWML		
+lg-25MWW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		25MWW		
+lg-25MWY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		25MWY		
 lg-281233001	m0_new		Shopping_ads,Display_ads	drop_marzha				596				
 lg-28124201	m0_new		Shopping_ads,Display_ads	drop_marzha				596				
 lg-28124303	m0_new		Shopping_ads,Display_ads	drop_marzha				596				
@@ -11606,10 +11606,10 @@ lg-30L3MWW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		30L3MWW
 lg-36MBML	m0_new		Shopping_ads,Display_ads	drop_marzha				2608			2026-11-25T09:00+0300	
 lg-36MBW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608			2026-11-25T09:00+0300	
 lg-36MBY	m0_new		Shopping_ads,Display_ads	drop_marzha				2608			2026-11-25T09:00+0300	
-lg-36MWBL	m0_new_p			drop_t5				2608		36MWBL		
-lg-36MWML	m0_new_p			drop_t5				2608		36MWML		
-lg-36MWW	m0_new_p			drop_t5				2608		36MWW		
-lg-36MWY	m0_new_p			drop_t5				2608		36MWY		
+lg-36MWBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		36MWBL		
+lg-36MWML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		36MWML		
+lg-36MWW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		36MWW		
+lg-36MWY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		36MWY		
 lg-500L50MGBL	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		500L50MGBL		
 lg-500L50MGW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		500L50MGW		
 lg-500L50MGY	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		500L50MGY		
@@ -11619,50 +11619,50 @@ lg-500L50MWW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		500L50MWW
 lg-500L50MWY	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		500L50MWY		
 lg-50L5MWML	m0_norm		Shopping_ads,Display_ads	drop_marzha				2608		50L5MWML		
 lg-50L5MWW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		50L5MWW		
-lg-50MBBL	m0_norm			drop_t5				2608		50MBBL		
-lg-50MBML	m0_new_p			drop_t5				2608		50MBML		
-lg-50MBW	m0_new_p			drop_t5				2608		50MBW		
-lg-50MBY	m0_new_p			drop_t5				2608		50MBY		
-lg-50MWBL	m0_new_p			drop_t5				2608		50MWBL		
-lg-50MWML	m0_new_p			drop_t5				2608		50MWML		
-lg-50MWW	m0_new_p			drop_t5				2608		50MWW		
-lg-50MWY	m0_new_p			drop_t5				2608		50MWY		
+lg-50MBBL	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		50MBBL		
+lg-50MBML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		50MBML		
+lg-50MBW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		50MBW		
+lg-50MBY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		50MBY		
+lg-50MWBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		50MWBL		
+lg-50MWML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		50MWML		
+lg-50MWW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		50MWW		
+lg-50MWY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		50MWY		
 lg-5MTR	m0_norm		Shopping_ads,Display_ads	drop_marzha				2608				
-lg-6L3MBAL	m0_new_p			drop_t5				2608		6L3MBAL		
-lg-6L3MDIA	m0_new_p			drop_t5				2608		6L3MDIA		
-lg-6L3MLIG	m0_new_p			drop_t5				2608		6L3MLIG		
-lg-6L3MSWA	m0_new_p			drop_t5				2608		6L3MSWA		
+lg-6L3MBAL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		6L3MBAL		
+lg-6L3MDIA	m0_new		Shopping_ads,Display_ads	drop_t5				2608		6L3MDIA		
+lg-6L3MLIG	m0_new		Shopping_ads,Display_ads	drop_t5				2608		6L3MLIG		
+lg-6L3MSWA	m0_new		Shopping_ads,Display_ads	drop_t5				2608		6L3MSWA		
 lg-6MBBL	m0_new		Shopping_ads,Display_ads	drop_marzha				2608				
 lg-6MBML	m0_norm		Shopping_ads,Display_ads	drop_marzha				2608				
 lg-6MBW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608				
 lg-6MBY	m0_new		Shopping_ads,Display_ads	drop_marzha				2608				
 lg-6MWBL	m0_new		Shopping_ads,Display_ads	drop_marzha				2608				
-lg-6MWMLNEW	m0_new_p			drop_t5				2608		6MWMLNEW		
+lg-6MWMLNEW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		6MWMLNEW		
 lg-6MWW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608				
-lg-CF1000L100MBBL	m0_norm			drop_t5				2608		CF1000L100MBBL		
-lg-CF1000L100MBML	m0_norm			drop_t5				2608		CF1000L100MBML		
-lg-CF1000L100MBW	m0_norm			drop_t5				2608		CF1000L100MBW		
-lg-CF1000L100MWBL	m0_norm_p			drop_t5				2608		CF1000L100MWBL		
-lg-CF1000L100MWML	m0_norm			drop_t5				2608		CF1000L100MWML		
-lg-CF1000L100MWW	m0_norm_p			drop_t5				2608		CF1000L100MWW		
-lg-CF1000L100MWY	m0_norm			drop_t5				2608		CF1000L100MWY		
-lg-CF300L30MBBL	m0_new_p			drop_t5				2608		CF300L30MBBL		
-lg-CF300L30MBML	m0_new_p			drop_t5				2608		CF300L30MBML		
-lg-CF300L30MBW	m0_norm			drop_t5				2608		CF300L30MBW		
-lg-CF300L30MBY	m0_new_p			drop_t5				2608		CF300L30MBY		
-lg-CF300L30MWBL	m0_new_p			drop_t5				2608		CF300L30MWBL		
-lg-CF300L30MWML	m0_norm			drop_t5				2608		CF300L30MWML		
-lg-CF300L30MWW	m0_norm			drop_t5				2608		CF300L30MWW		
-lg-CF300L30MWY	m0_new_p			drop_t5				2608		CF300L30MWY		
-lg-CF500L50MBBL	m0_norm			drop_t5				2608		CF500L50MBBL		
-lg-CF500L50MBML	m0_norm			drop_t5				2608		CF500L50MBML		
-lg-CF500L50MBW	m0_new_p			drop_t5				2608		CF500L50MBW		
-lg-CF500L50MBY	m0_new_p			drop_t5				2608		CF500L50MBY		
-lg-CF500L50MWBL	m0_new_p			drop_t5				2608		CF500L50MWBL		
-lg-CF500L50MWML	m0_new_p			drop_t5				2608		CF500L50MWML		
-lg-CF500L50MWW	m0_norm_p			drop_t5				2608		CF500L50MWW		
-lg-CF500L50MWY	m0_new_p			drop_t5				2608		CF500L50MWY		
-lg-CR-2-1	m0_norm			drop_t5				3144				
+lg-CF1000L100MBBL	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		CF1000L100MBBL		
+lg-CF1000L100MBML	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		CF1000L100MBML		
+lg-CF1000L100MBW	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		CF1000L100MBW		
+lg-CF1000L100MWBL	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		CF1000L100MWBL		
+lg-CF1000L100MWML	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		CF1000L100MWML		
+lg-CF1000L100MWW	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		CF1000L100MWW		
+lg-CF1000L100MWY	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		CF1000L100MWY		
+lg-CF300L30MBBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		CF300L30MBBL		
+lg-CF300L30MBML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		CF300L30MBML		
+lg-CF300L30MBW	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		CF300L30MBW		
+lg-CF300L30MBY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		CF300L30MBY		
+lg-CF300L30MWBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		CF300L30MWBL		
+lg-CF300L30MWML	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		CF300L30MWML		
+lg-CF300L30MWW	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		CF300L30MWW		
+lg-CF300L30MWY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		CF300L30MWY		
+lg-CF500L50MBBL	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		CF500L50MBBL		
+lg-CF500L50MBML	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		CF500L50MBML		
+lg-CF500L50MBW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		CF500L50MBW		
+lg-CF500L50MBY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		CF500L50MBY		
+lg-CF500L50MWBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		CF500L50MWBL		
+lg-CF500L50MWML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		CF500L50MWML		
+lg-CF500L50MWW	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		CF500L50MWW		
+lg-CF500L50MWY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		CF500L50MWY		
+lg-CR-2-1	m0_norm		Shopping_ads,Display_ads	drop_t5				3144				
 lg-CR-2-10	m0_new		Shopping_ads,Display_ads	drop_t8				3144				
 lg-CR-2-11	m0_new		Shopping_ads,Display_ads	drop_marzha				3144				
 lg-CR-2-12	m0_new		Shopping_ads,Display_ads	drop_marzha				3144				
@@ -11678,11 +11678,11 @@ lg-CR-2-24	m0_new		Shopping_ads,Display_ads	drop_marzha				3144
 lg-CR-2-25	m0_new		Shopping_ads,Display_ads	drop_t8				3144				
 lg-CR-2-27	m0_norm		Shopping_ads,Display_ads	drop_marzha				3144				
 lg-CR-2-28	m0_new		Shopping_ads,Display_ads	drop_marzha				3144				
-lg-CR-2-4	m0_norm			drop_t5				3144				
-lg-CR-2-5	m0_norm			drop_t5				3144				
-lg-CR-2-6	m0_new_p			drop_t5				3144				
-lg-CR-2-7	m0_new_p			drop_t5				3144				
-lg-CR-2-8	m0_new_p			drop_t5				3144				
+lg-CR-2-4	m0_norm		Shopping_ads,Display_ads	drop_t5				3144				
+lg-CR-2-5	m0_norm		Shopping_ads,Display_ads	drop_t5				3144				
+lg-CR-2-6	m0_new		Shopping_ads,Display_ads	drop_t5				3144				
+lg-CR-2-7	m0_new		Shopping_ads,Display_ads	drop_t5				3144				
+lg-CR-2-8	m0_new		Shopping_ads,Display_ads	drop_t5				3144				
 lg-CR-2-9	m0_new		Shopping_ads,Display_ads	drop_t8				3144				
 lg-CR-4-1	m0_norm		Shopping_ads,Display_ads	drop_t8				596				
 lg-CR-4-10	dup:Тиква		Shopping_ads,Display_ads	drop_t8				596				
@@ -11730,77 +11730,77 @@ lg-CR-6-6	m0_new		Shopping_ads,Display_ads	drop_marzha				596
 lg-CR-6-7	m0_new		Shopping_ads,Display_ads	drop_marzha				596				
 lg-CR-6-8	m0_new		Shopping_ads,Display_ads	drop_marzha				596				
 lg-CR-6-9	m0_new		Shopping_ads,Display_ads	drop_marzha				596				
-lg-D1000L50MGML	m0_new_p			drop_t5				2608		D1000L50MGML		
-lg-D1000L50MGW	m0_new_p			drop_t5				2608		D1000L50MGW		
-lg-D1000L50MGY	m0_norm			drop_t5				2608		D1000L50MGY		
-lg-D1000L50MWY	m0_new_p			drop_t5				2608		D1000L50MWY		
-lg-D1200L2MGBL	m0_new_p			drop_t5				2608		D1200L2MGBL		
-lg-D1200L2MGML	m0_norm_p			drop_t5				2608		D1200L2MGML		
-lg-D1200L2MGW	m0_new_p			drop_t5				2608		D1200L2MGW		
-lg-D1200L2MGY	m0_norm			drop_t5				2608		D1200L2MGY		
-lg-D1500L50MGBL	m0_new_p			drop_t5				2608		D1500L50MGBL		
-lg-D1500L50MWBL	m0_new_p			drop_t5				2608		D1500L50MWBL		
-lg-D1500L50MWML	m0_new_p			drop_t5				2608		D1500L50MWML		
-lg-D1500L50MWW	m0_new_p			drop_t5				2608		D1500L50MWW		
-lg-D1750BL	m0_new_p			drop_t5				2608		D1750BL		
+lg-D1000L50MGML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D1000L50MGML		
+lg-D1000L50MGW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D1000L50MGW		
+lg-D1000L50MGY	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		D1000L50MGY		
+lg-D1000L50MWY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D1000L50MWY		
+lg-D1200L2MGBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D1200L2MGBL		
+lg-D1200L2MGML	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		D1200L2MGML		
+lg-D1200L2MGW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D1200L2MGW		
+lg-D1200L2MGY	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		D1200L2MGY		
+lg-D1500L50MGBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D1500L50MGBL		
+lg-D1500L50MWBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D1500L50MWBL		
+lg-D1500L50MWML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D1500L50MWML		
+lg-D1500L50MWW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D1500L50MWW		
+lg-D1750BL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D1750BL		
 lg-D1750ML	m0_norm		Shopping_ads,Display_ads	drop_marzha				2608		D1750ML		
-lg-D1800L3MGBL	m0_new_p			drop_t5				2608		D1800L3MGBL		
-lg-D1800L3MGML	m0_new_p			drop_t5				2608		D1800L3MGML		
-lg-D1800L3MGW	m0_new_p			drop_t5				2608		D1800L3MGW		
-lg-D1800L3MGY	m0_new_p			drop_t5				2608		D1800L3MGY		
-lg-D2000L100MGML	m0_norm			drop_t5				2608		D2000L100MGML		
-lg-D2000L100MGW	m0_new_p			drop_t5				2608		D2000L100MGW		
-lg-D2000L100MGY	m0_norm			drop_t5				2608		D2000L100MGY		
-lg-D2000L100MWW	m0_new_p			drop_t5				2608		D2000L100MWW		
+lg-D1800L3MGBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D1800L3MGBL		
+lg-D1800L3MGML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D1800L3MGML		
+lg-D1800L3MGW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D1800L3MGW		
+lg-D1800L3MGY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D1800L3MGY		
+lg-D2000L100MGML	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		D2000L100MGML		
+lg-D2000L100MGW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D2000L100MGW		
+lg-D2000L100MGY	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		D2000L100MGY		
+lg-D2000L100MWW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D2000L100MWW		
 lg-D2000L100MWY	m0_norm		Shopping_ads,Display_ads	drop_marzha				2608		D2000L100MWY		
-lg-D3000L100MGBL	m0_new_p			drop_t5				2608		D3000L100MGBL		
-lg-D3000L100MWBL	m0_new_p			drop_t5				2608		D3000L100MWBL		
-lg-D3000L100MWML	m0_new_p			drop_t5				2608		D3000L100MWML		
+lg-D3000L100MGBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D3000L100MGBL		
+lg-D3000L100MWBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D3000L100MWBL		
+lg-D3000L100MWML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D3000L100MWML		
 lg-D3000L100MWW	dup:Тиква		Shopping_ads,Display_ads	drop_marzha				2608		D3000L100MWW		
-lg-D400LED2MW	m0_new_p			drop_t5				2608		D400LED2MW		
-lg-D400LED2MY	m0_new_p			drop_t5				2608		D400LED2MY		
-lg-D600LED3MW	m0_new_p			drop_t5				2608		D600LED3MW		
-lg-D600LED3MY	m0_new_p			drop_t5				2608		D600LED3MY		
-lg-D640L2MGBL	m0_new_p			drop_t5				2608		D640L2MGBL		
-lg-D640L2MGML	m0_new_p			drop_t5				2608		D640L2MGML		
-lg-D640L2MGW	m0_norm			drop_t5				2608		D640L2MGW		
-lg-D640L2MGY	m0_new_p			drop_t5				2608		D640L2MGY		
-lg-D960L3MGBL	m0_new_p			drop_t5				2608		D960L3MGBL		
-lg-D960L3MGML	m0_new_p			drop_t5				2608		D960L3MGML		
-lg-D960L3MGW	m0_new_p			drop_t5				2608		D960L3MGW		
-lg-D960L3MGY	m0_new_p			drop_t5				2608		D960L3MGY		
+lg-D400LED2MW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D400LED2MW		
+lg-D400LED2MY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D400LED2MY		
+lg-D600LED3MW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D600LED3MW		
+lg-D600LED3MY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D600LED3MY		
+lg-D640L2MGBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D640L2MGBL		
+lg-D640L2MGML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D640L2MGML		
+lg-D640L2MGW	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		D640L2MGW		
+lg-D640L2MGY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D640L2MGY		
+lg-D960L3MGBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D960L3MGBL		
+lg-D960L3MGML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D960L3MGML		
+lg-D960L3MGW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D960L3MGW		
+lg-D960L3MGY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		D960L3MGY		
 lg-HP-7-16	m0_new		Shopping_ads,Display_ads	drop_t8				596				
-lg-S141	m0_norm			drop_t5				2608		S141		
-lg-S14ML	m0_norm			drop_t5				2608		S14ML		
-lg-SB1000L100MBBL	m0_new_p			drop_t5				2608		SB1000L100MBBL		
-lg-SB1000L100MBML	m0_new_p			drop_t5				2608		SB1000L100MBML		
-lg-SB1000L100MBW	m0_new_p			drop_t5				2608		SB1000L100MBW		
-lg-SB1000L100MBY	m0_new_p			drop_t5				2608		SB1000L100MBY		
-lg-SB300L30MBBL	m0_new_p			drop_t5				2608		SB300L30MBBL		
-lg-SB300L30MBML	m0_new_p			drop_t5				2608		SB300L30MBML		
-lg-SB300L30MBW	m0_new_p			drop_t5				2608		SB300L30MBW		
-lg-SB300L30MBY	m0_new_p			drop_t5				2608		SB300L30MBY		
-lg-SB500L50MBBL	m0_new_p			drop_t5				2608		SB500L50MBBL		
-lg-SB500L50MBML	m0_new_p			drop_t5				2608		SB500L50MBML		
-lg-SB500L50MBW	m0_new_p			drop_t5				2608		SB500L50MBW		
-lg-SB500L50MBY	m0_new_p			drop_t5				2608		SB500L50MBY		
+lg-S141	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		S141		
+lg-S14ML	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		S14ML		
+lg-SB1000L100MBBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		SB1000L100MBBL		
+lg-SB1000L100MBML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		SB1000L100MBML		
+lg-SB1000L100MBW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		SB1000L100MBW		
+lg-SB1000L100MBY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		SB1000L100MBY		
+lg-SB300L30MBBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		SB300L30MBBL		
+lg-SB300L30MBML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		SB300L30MBML		
+lg-SB300L30MBW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		SB300L30MBW		
+lg-SB300L30MBY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		SB300L30MBY		
+lg-SB500L50MBBL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		SB500L50MBBL		
+lg-SB500L50MBML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		SB500L50MBML		
+lg-SB500L50MBW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		SB500L50MBW		
+lg-SB500L50MBY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		SB500L50MBY		
 lg-SOK-M-12-3	m0_new		Shopping_ads,Display_ads	drop_marzha				596			2026-11-25T09:00+0300	
 lg-SOK-M-12-4	m0_new		Shopping_ads,Display_ads	drop_marzha				596			2026-11-25T09:00+0300	
-lg-SP-14	m0_norm			drop_t5				596				
-lg-SP-22	m0_norm			drop_t5				596				
-lg-SP-26B	m0_norm			drop_t5				596				
-lg-SP-26BR	m0_new_p			drop_t5				596				
-lg-SP-47B	m0_norm			drop_t5				596				
-lg-SP-47BR	m0_norm			drop_t5				596				
-lg-SP-47W	m0_norm			drop_t5				596				
-lg-SP-60BR	m0_norm			drop_t5				596				
-lg-SP-60W	m0_norm			drop_t5				596				
+lg-SP-14	m0_norm		Shopping_ads,Display_ads	drop_t5				596				
+lg-SP-22	m0_norm		Shopping_ads,Display_ads	drop_t5				596				
+lg-SP-26B	m0_norm		Shopping_ads,Display_ads	drop_t5				596				
+lg-SP-26BR	m0_new		Shopping_ads,Display_ads	drop_t5				596				
+lg-SP-47B	m0_norm		Shopping_ads,Display_ads	drop_t5				596				
+lg-SP-47BR	m0_norm		Shopping_ads,Display_ads	drop_t5				596				
+lg-SP-47W	m0_norm		Shopping_ads,Display_ads	drop_t5				596				
+lg-SP-60BR	m0_norm		Shopping_ads,Display_ads	drop_t5				596				
+lg-SP-60W	m0_norm		Shopping_ads,Display_ads	drop_t5				596				
 lg-USB100L10MGW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		USB100L10MGW		
 lg-USB100L10MGY	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		USB100L10MGY		
 lg-USB100L10MWW	m0_norm		Shopping_ads,Display_ads	drop_marzha				2608		USB100L10MWW		
 lg-USB100L10MWY	m0_norm		Shopping_ads,Display_ads	drop_marzha				2608		USB100L10MWY		
-lg-USB173304Y	m3_norm			drop_t5	chempion	prybutok		2608		USB173304Y		
-lg-USB173308Y	dup:Тиква			drop_t5				2608		USB173308Y		
+lg-USB173304Y	m3_norm		Shopping_ads,Display_ads	drop_t5		prybutok		2608		USB173304Y		
+lg-USB173308Y	dup:Тиква		Shopping_ads,Display_ads	drop_t5				2608		USB173308Y		
 lg-USB200L20MGML	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		USB200L20MGML		
 lg-USB200L20MGW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		USB200L20MGW		
 lg-USB200L20MWML	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		USB200L20MWML		
@@ -11809,32 +11809,32 @@ lg-W120LED10MBW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		W120LED10M
 lg-W120LED10MBY	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		W120LED10MBY		
 lg-W120LED10MWW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		W120LED10MWW		
 lg-W120LED10MWY	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		W120LED10MWY		
-lg-W160LED16MBW	m0_new_p			drop_t5				2608		W160LED16MBW		
-lg-W160LED16MBY	m0_new_p			drop_t5				2608		W160LED16MBY		
-lg-W160LED16MWW	m0_norm			drop_t5				2608		W160LED16MWW		
-lg-W160LED16MWY	m0_new_p			drop_t5				2608		W160LED16MWY		
-lg-W180LED18MBW	m0_new_p			drop_t5				2608		W180LED18MBW		
-lg-W180LED18MBY	m0_norm			drop_t5				2608		W180LED18MBY		
-lg-W180LED18MWW	m0_new_p			drop_t5				2608		W180LED18MWW		
-lg-W180LED18MWY	m0_new_p			drop_t5				2608		W180LED18MWY		
-lg-W220LED22MBW	m0_norm			drop_t5				2608		W220LED22MBW		
-lg-W220LED22MBY	m0_new_p			drop_t5				2608		W220LED22MBY		
-lg-W220LED22MWW	m0_new_p			drop_t5				2608		W220LED22MWW		
-lg-W220LED22MWY	m0_new_p			drop_t5				2608		W220LED22MWY		
+lg-W160LED16MBW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		W160LED16MBW		
+lg-W160LED16MBY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		W160LED16MBY		
+lg-W160LED16MWW	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		W160LED16MWW		
+lg-W160LED16MWY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		W160LED16MWY		
+lg-W180LED18MBW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		W180LED18MBW		
+lg-W180LED18MBY	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		W180LED18MBY		
+lg-W180LED18MWW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		W180LED18MWW		
+lg-W180LED18MWY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		W180LED18MWY		
+lg-W220LED22MBW	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		W220LED22MBW		
+lg-W220LED22MBY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		W220LED22MBY		
+lg-W220LED22MWW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		W220LED22MWW		
+lg-W220LED22MWY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		W220LED22MWY		
 lg-W50LED6MBW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		W50LED6MBW		
 lg-W50LED6MBY	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		W50LED6MBY		
 lg-W50LED6MWW	m0_norm		Shopping_ads,Display_ads	drop_marzha				2608		W50LED6MWW		
-lg-WYF11BL	m0_new_p			drop_t5				2608		WYF11BL		
-lg-WYF11ML	m0_new_p			drop_t5				2608		WYF11ML		
+lg-WYF11BL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		WYF11BL		
+lg-WYF11ML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		WYF11ML		
 lg-ZWM1564LEDW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		ZWM1564LEDW		
 lg-ZWM1564LEDY	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		ZWM1564LEDY		
-lg-ZWM2280LEDW	m0_new_p			drop_t5				2608		ZWM2280LEDW		
-lg-ZWM2280LEDY	m0_new_p			drop_t5				2608		ZWM2280LEDY		
+lg-ZWM2280LEDW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		ZWM2280LEDW		
+lg-ZWM2280LEDY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		ZWM2280LEDY		
 lg-ZWM2320LEDBL	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		ZWM2320LEDBL		
-lg-ZWM2320LEDML	m0_norm			drop_t5				2608		ZWM2320LEDML		
-lg-ZWM32144LEDY	m0_new_p			drop_t5				2608		ZWM32144LEDY		
-lg-ZWM33192LEDW	m0_new_p			drop_t5				2608		ZWM33192LEDW		
-lg-ZWM33192LEDY	m0_new_p			drop_t5				2608		ZWM33192LEDY		
+lg-ZWM2320LEDML	m0_norm		Shopping_ads,Display_ads	drop_t5				2608		ZWM2320LEDML		
+lg-ZWM32144LEDY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		ZWM32144LEDY		
+lg-ZWM33192LEDW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		ZWM33192LEDW		
+lg-ZWM33192LEDY	m0_new		Shopping_ads,Display_ads	drop_t5				2608		ZWM33192LEDY		
 lp-LP10003	m0_new		Shopping_ads,Display_ads	drop_t8				1348		LP10003		
 lp-LP10011	m0_new		Shopping_ads,Display_ads	drop_marzha				7166		LP10011		
 lp-LP10063	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP10063		
@@ -11867,7 +11867,7 @@ lp-LP14334	m0_new		Shopping_ads,Display_ads	drop_marzha
 lp-LP14335	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lp-LP1454	m0_new		Shopping_ads,Display_ads	drop_marzha				1348		LP1454		
 lp-LP1456	m0_norm		Shopping_ads,Display_ads	drop_marzha				1348		LP1456		
-lp-LP14587	m0_norm			drop_t5				7167		LP14587		
+lp-LP14587	m0_norm		Shopping_ads,Display_ads	drop_t5				7167		LP14587		
 lp-LP14628	m0_new		Shopping_ads,Display_ads	drop_marzha				127		LP14628		
 lp-LP14630	m0_new		Shopping_ads,Display_ads	drop_marzha				127		LP14630		
 lp-LP14631	m0_new		Shopping_ads,Display_ads	drop_marzha				127		LP14631		
@@ -11981,7 +11981,7 @@ lp-LP18933	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP18933
 lp-LP19197	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP19197		
 lp-LP19198	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP19198		
 lp-LP19239	m0_new		Shopping_ads,Display_ads	drop_marzha				364				
-lp-LP19241	m0_new_p			drop_t5				364				
+lp-LP19241	m0_new		Shopping_ads,Display_ads	drop_t5				364				
 lp-LP19246	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP19260	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP19297	m0_new		Shopping_ads,Display_ads	drop_marzha				7167		LP19297		
@@ -11997,8 +11997,8 @@ lp-LP19472	m0_new		Shopping_ads,Display_ads	drop_t8				359
 lp-LP19474	m0_new		Shopping_ads,Display_ads	drop_t8				362				
 lp-LP19483	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP19523	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP19523		
-lp-LP19577	m0_new_p			drop_t5				362				
-lp-LP19578	m0_new_p			drop_t5				362				
+lp-LP19577	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP19578	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP19605	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP19605		
 lp-LP19686	m0_new		Shopping_ads,Display_ads	drop_marzha				359				
 lp-LP19687	m0_new		Shopping_ads,Display_ads	drop_marzha				359				
@@ -12008,21 +12008,21 @@ lp-LP19690	m0_new		Shopping_ads,Display_ads	drop_marzha				359
 lp-LP19691	m0_new		Shopping_ads,Display_ads	drop_marzha				359				
 lp-LP19693	m0_new		Shopping_ads,Display_ads	drop_marzha				359				
 lp-LP19729	m0_new		Shopping_ads,Display_ads	drop_t8				362				
-lp-LP19744	m0_new_p			drop_t5				364				
-lp-LP19745	m0_new_p			drop_t5				362				
-lp-LP19746	m0_new_p			drop_t5				362				
-lp-LP19747	m0_new_p			drop_t5				362				
-lp-LP19748	m0_new_p			drop_t5				362				
+lp-LP19744	m0_new		Shopping_ads,Display_ads	drop_t5				364				
+lp-LP19745	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP19746	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP19747	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP19748	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP19749	m0_new		Shopping_ads,Display_ads	drop_marzha				362				
-lp-LP19750	m0_new_p			drop_t5				362				
-lp-LP19751	m0_new_p			drop_t5				362				
-lp-LP19752	m0_new_p			drop_t5				362				
-lp-LP19753	m0_new_p			drop_t5				362				
+lp-LP19750	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP19751	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP19752	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP19753	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP19761	m0_new		Shopping_ads,Display_ads	drop_t8				360				
 lp-LP19762	m0_new		Shopping_ads,Display_ads	drop_t8				360				
 lp-LP19896	m0_norm		Shopping_ads,Display_ads	drop_marzha				127		LP19896		
-lp-LP19899	m0_norm_p			drop_t5				127		LP19899		
-lp-LP19900	m0_norm_p			drop_t5				127		LP19900		
+lp-LP19899	m0_norm		Shopping_ads,Display_ads	drop_t5				127		LP19899		
+lp-LP19900	m0_norm		Shopping_ads,Display_ads	drop_t5				127		LP19900		
 lp-LP19904	m0_new		Shopping_ads,Display_ads	drop_marzha				127		LP19904		
 lp-LP19910	m0_new		Shopping_ads,Display_ads	drop_marzha				7166		LP19910		
 lp-LP19917	m0_new		Shopping_ads,Display_ads	drop_marzha				7166		LP19917		
@@ -12030,36 +12030,36 @@ lp-LP19939	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP19939
 lp-LP19953	m0_new		Shopping_ads,Display_ads	drop_t8				1348				
 lp-LP19970	m0_new		Shopping_ads,Display_ads	drop_marzha				7166		LP19970		
 lp-LP20024	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
-lp-LP20026	m0_new_p			drop_t5				1480				
-lp-LP20027	m0_new_p			drop_t5				1480				
+lp-LP20026	m0_new		Shopping_ads,Display_ads	drop_t5				1480				
+lp-LP20027	m0_new		Shopping_ads,Display_ads	drop_t5				1480				
 lp-LP20031	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP20034	m0_new		Shopping_ads,Display_ads	drop_marzha				127		LP20034		
 lp-LP20054	m0_norm		Shopping_ads,Display_ads	drop_marzha				4714		LP20054		
 lp-LP20055	m0_norm		Shopping_ads,Display_ads	drop_marzha				4714		LP20055		
-lp-LP20117	m0_new_p			drop_t5				1870				
-lp-LP20118	m0_new_p			drop_t5				1870				
-lp-LP20120	m0_new_p			drop_t5				1870				
-lp-LP20121	m0_new_p			drop_t5				1870				
-lp-LP20122	m0_new_p			drop_t5				1870				
-lp-LP20123	m0_new_p			drop_t5				1870				
+lp-LP20117	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
+lp-LP20118	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
+lp-LP20120	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
+lp-LP20121	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
+lp-LP20122	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
+lp-LP20123	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
 lp-LP20124	m0_new		Shopping_ads,Display_ads	drop_marzha				1870				
-lp-LP20125	m0_new_p			drop_t5				1870				
-lp-LP20126	m0_norm_p			drop_t5				1870				
-lp-LP20127	m0_new_p			drop_t5				1870				
+lp-LP20125	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
+lp-LP20126	m0_norm		Shopping_ads,Display_ads	drop_t5				1870				
+lp-LP20127	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
 lp-LP20130	m0_new		Shopping_ads,Display_ads	drop_marzha				359				
-lp-LP20133	m0_new_p			drop_t5				359				
-lp-LP20135	m0_new_p			drop_t5								
+lp-LP20133	m0_new		Shopping_ads,Display_ads	drop_t5				359				
+lp-LP20135	m0_new		Shopping_ads,Display_ads	drop_t5								
 lp-LP20136	m0_new		Shopping_ads,Display_ads	drop_marzha				1870				
-lp-LP20139	m0_new_p			drop_t5				1870				
-lp-LP20140	m0_new_p			drop_t5				1870				
-lp-LP20141	m0_new_p			drop_t5				1870				
+lp-LP20139	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
+lp-LP20140	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
+lp-LP20141	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
 lp-LP20142	m0_new		Shopping_ads,Display_ads	drop_marzha				359				
 lp-LP20143	m0_new		Shopping_ads,Display_ads	drop_marzha				359				
-lp-LP20144	m0_new_p			drop_t5				359				
-lp-LP20150	m0_new_p			drop_t5				364				
-lp-LP20151	m0_new_p			drop_t5				362				
-lp-LP20152	m0_new_p			drop_t5				362				
-lp-LP20153	m0_norm_p			drop_t5				362				
+lp-LP20144	m0_new		Shopping_ads,Display_ads	drop_t5				359				
+lp-LP20150	m0_new		Shopping_ads,Display_ads	drop_t5				364				
+lp-LP20151	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP20152	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP20153	m0_norm		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP20166	m0_new		Shopping_ads,Display_ads	drop_marzha				1348				
 lp-LP20267	m0_new		Shopping_ads,Display_ads	drop_t8				1480				
 lp-LP20269	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP20269		
@@ -12068,7 +12068,7 @@ lp-LP20313	m0_norm		Shopping_ads,Display_ads	drop_marzha				7167		LP20313
 lp-LP20314	m0_norm		Shopping_ads,Display_ads	drop_marzha				7167		LP20314		
 lp-LP20315	m0_new		Shopping_ads,Display_ads	drop_t8				7167		LP20315		
 lp-LP20316	m0_new		Shopping_ads,Display_ads	drop_t8				7167		LP20316		
-lp-LP20373	m0_new_p			drop_t5				1350				
+lp-LP20373	m0_new		Shopping_ads,Display_ads	drop_t5				1350				
 lp-LP20374	m0_new		Shopping_ads,Display_ads	drop_t8				1348				
 lp-LP20375	m0_new		Shopping_ads,Display_ads	drop_t8				1348				
 lp-LP20401	m0_new		Shopping_ads,Display_ads	drop_marzha				4928				
@@ -12114,43 +12114,43 @@ lp-LP20468	m0_new		Shopping_ads,Display_ads	drop_marzha				4928
 lp-LP20469	m0_new		Shopping_ads,Display_ads	drop_marzha				4928				
 lp-LP20471	m0_new		Shopping_ads,Display_ads	drop_marzha				4928				
 lp-LP20524	m0_new		Shopping_ads,Display_ads	drop_marzha				4714		LP20524		
-lp-LP20690	m0_new_p			drop_t5				359				
+lp-LP20690	m0_new		Shopping_ads,Display_ads	drop_t5				359				
 lp-LP20701	m0_new		Shopping_ads,Display_ads	drop_t8				1480				
 lp-LP20753	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP20753		
 lp-LP21031	m0_new		Shopping_ads,Display_ads	drop_marzha				364				
 lp-LP21310	m0_norm		Shopping_ads,Display_ads	drop_t8				2455				
-lp-LP21311	m0_norm_p			drop_t5				2455				
-lp-LP21339	m0_new_p			drop_t5				362				
+lp-LP21311	m0_norm		Shopping_ads,Display_ads	drop_t5				2455				
+lp-LP21339	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP21379	m0_new		Shopping_ads,Display_ads	drop_t8				362				
 lp-LP21660	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP21856	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP21856		
 lp-LP21904	m0_new		Shopping_ads,Display_ads	drop_t8				1480				
 lp-LP21907	m0_new		Shopping_ads,Display_ads	drop_marzha				127		LP21907		
 lp-LP21921	m0_new		Shopping_ads,Display_ads	drop_t8				505295		LP21921		
-lp-LP21927	m0_new_p			drop_t5				362				
-lp-LP21928	m0_new_p			drop_t5				362				
-lp-LP21929	m0_new_p			drop_t5				362				
-lp-LP21930	m0_new_p			drop_t5				362				
-lp-LP21931	m0_new_p			drop_t5				362				
-lp-LP21932	m0_new_p			drop_t5				362				
+lp-LP21927	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP21928	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP21929	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP21930	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP21931	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP21932	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP21933	m0_new		Shopping_ads,Display_ads	drop_t8				2455				
 lp-LP21934	m0_new		Shopping_ads,Display_ads	drop_t8				2455				
 lp-LP21935	m0_new		Shopping_ads,Display_ads	drop_t8				2455				
-lp-LP21936	m0_new_p			drop_t5				364				
-lp-LP21937	m0_new_p			drop_t5				364				
-lp-LP22108	m0_new_p			drop_t5				1870				
-lp-LP22109	m0_new_p			drop_t5				1870				
+lp-LP21936	m0_new		Shopping_ads,Display_ads	drop_t5				364				
+lp-LP21937	m0_new		Shopping_ads,Display_ads	drop_t5				364				
+lp-LP22108	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
+lp-LP22109	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
 lp-LP22111	m0_new		Shopping_ads,Display_ads	drop_marzha				1870				
 lp-LP22478	m0_new		Shopping_ads,Display_ads	drop_marzha				359				
 lp-LP22497	m0_new		Shopping_ads,Display_ads	drop_marzha				127		LP22497		
 lp-LP22506	m0_new		Shopping_ads,Display_ads	drop_marzha				127				
 lp-LP22510	m0_new		Shopping_ads,Display_ads	drop_marzha				505295				
 lp-LP22571	m0_new		Shopping_ads,Display_ads	drop_marzha				4928		LP22571		
-lp-LP22583	m0_new_p			drop_t5				362				
+lp-LP22583	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP22639	m0_new		Shopping_ads,Display_ads	drop_t8				505295		LP22639		
 lp-LP22645	m0_new		Shopping_ads,Display_ads	drop_t8				1480				
-lp-LP22733	m0_new_p			drop_t5				1480				
-lp-LP22735	m0_norm_p			drop_t5				362				
+lp-LP22733	m0_new		Shopping_ads,Display_ads	drop_t5				1480				
+lp-LP22735	m0_norm		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP22784	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP22784		
 lp-LP22876	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP22877	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
@@ -12159,14 +12159,14 @@ lp-LP22883	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP22883
 lp-LP22973	m0_new		Shopping_ads,Display_ads	drop_marzha				359				
 lp-LP22974	m0_new		Shopping_ads,Display_ads	drop_marzha				359				
 lp-LP23002	m0_new		Shopping_ads,Display_ads	drop_marzha				1348				
-lp-LP23165	m0_new_p			drop_t5				364				
-lp-LP23166	m0_new_p			drop_t5				364				
+lp-LP23165	m0_new		Shopping_ads,Display_ads	drop_t5				364				
+lp-LP23166	m0_new		Shopping_ads,Display_ads	drop_t5				364				
 lp-LP23191	m0_new		Shopping_ads,Display_ads	drop_t8				362				
 lp-LP23192	m0_new		Shopping_ads,Display_ads	drop_t8				362				
 lp-LP23193	m0_new		Shopping_ads,Display_ads	drop_t8				362				
 lp-LP23194	m0_new		Shopping_ads,Display_ads	drop_t8				362				
 lp-LP23195	m0_new		Shopping_ads,Display_ads	drop_t8				362				
-lp-LP23223	m0_new_p			drop_t5				6508				
+lp-LP23223	m0_new		Shopping_ads,Display_ads	drop_t5				6508				
 lp-LP23266	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP23266		
 lp-LP23267	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP23267		
 lp-LP23268	m0_new		Shopping_ads,Display_ads	drop_t8				7166		LP23268		
@@ -12186,14 +12186,14 @@ lp-LP23517	m0_norm		Shopping_ads,Display_ads	drop_marzha				1348		LP23517
 lp-LP23556	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP23563	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP23628	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP23628		
-lp-LP23630	m0_new_p			drop_t5				362				
+lp-LP23630	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP23692	m0_new		Shopping_ads,Display_ads	drop_marzha				359				
 lp-LP23694	m0_new		Shopping_ads,Display_ads	drop_t8				362				
-lp-LP23695	m0_new_p			drop_t5				364				
+lp-LP23695	m0_new		Shopping_ads,Display_ads	drop_t5				364				
 lp-LP23696	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP23698	m0_norm		Shopping_ads,Display_ads	drop_t8				6508				
-lp-LP23699	m0_new_p			drop_t5				6508				
-lp-LP23700	m0_new_p			drop_t5				6508				
+lp-LP23699	m0_new		Shopping_ads,Display_ads	drop_t5				6508				
+lp-LP23700	m0_new		Shopping_ads,Display_ads	drop_t5				6508				
 lp-LP23702	m0_new		Shopping_ads,Display_ads	drop_t8				6508				
 lp-LP23808	m0_new		Shopping_ads,Display_ads	drop_t8				359				
 lp-LP23809	m0_new		Shopping_ads,Display_ads	drop_t8				359				
@@ -12204,7 +12204,7 @@ lp-LP23815	m0_new		Shopping_ads,Display_ads	drop_t8				359
 lp-LP23867	m0_new		Shopping_ads,Display_ads	drop_t8				362				
 lp-LP23869	m0_new		Shopping_ads,Display_ads	drop_t8				362				
 lp-LP23870	m0_new		Shopping_ads,Display_ads	drop_t8				362				
-lp-LP23871	m0_new_p			drop_t5				362				
+lp-LP23871	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP23965	m0_new		Shopping_ads,Display_ads	drop_marzha				1348		LP23965		
 lp-LP23966	m0_new		Shopping_ads,Display_ads	drop_marzha				1348		LP23966		
 lp-LP23967	m0_new		Shopping_ads,Display_ads	drop_marzha				1348		LP23967		
@@ -12216,9 +12216,9 @@ lp-LP24377	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP24377
 lp-LP24378	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP24378		
 lp-LP2444	m0_new		Shopping_ads,Display_ads	drop_marzha				2353				
 lp-LP2446	m0_new		Shopping_ads,Display_ads	drop_marzha				2353				
-lp-LP24516	m0_new_p			drop_t5				2455				
+lp-LP24516	m0_new		Shopping_ads,Display_ads	drop_t5				2455				
 lp-LP24662	m0_norm		Shopping_ads,Display_ads	drop_marzha				276		LP24662		
-lp-LP24738	m0_new_p			drop_t5				1870				
+lp-LP24738	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
 lp-LP24739	m0_new		Shopping_ads,Display_ads	drop_t8				1870				
 lp-LP24762	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP24762		
 lp-LP24763	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP24763		
@@ -12237,19 +12237,19 @@ lp-LP29596	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP29596
 lp-LP29628	m0_norm		Shopping_ads,Display_ads	drop_marzha				1348				
 lp-LP29629	m0_new		Shopping_ads,Display_ads	drop_t8				1348				
 lp-LP29732	m0_new		Shopping_ads,Display_ads	drop_marzha				359				
-lp-LP29792	m0_new_p			drop_t5				362				
-lp-LP29793	m0_new_p			drop_t5				364				
-lp-LP29794	m0_new_p			drop_t5				364				
-lp-LP29817	m0_new_p			drop_t5				1870				
+lp-LP29792	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP29793	m0_new		Shopping_ads,Display_ads	drop_t5				364				
+lp-LP29794	m0_new		Shopping_ads,Display_ads	drop_t5				364				
+lp-LP29817	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
 lp-LP29992	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP29992		
 lp-LP30031	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP30031		
 lp-LP30143	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP30143		
 lp-LP30172	m0_norm		Shopping_ads,Display_ads	drop_marzha				276		LP30172		
 lp-LP30252	m0_new		Shopping_ads,Display_ads	drop_marzha				359				
-lp-LP30284	m0_new_p			drop_t5				362				
+lp-LP30284	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP30285	m0_new		Shopping_ads,Display_ads	drop_t8				362				
-lp-LP30286	m0_new_p			drop_t5				360				
-lp-LP30287	m0_new_p			drop_t5				360				
+lp-LP30286	m0_new		Shopping_ads,Display_ads	drop_t5				360				
+lp-LP30287	m0_new		Shopping_ads,Display_ads	drop_t5				360				
 lp-LP30320	m0_new		Shopping_ads,Display_ads	drop_marzha				4928		LP30320		
 lp-LP30321	m0_new		Shopping_ads,Display_ads	drop_marzha				4928		LP30321		
 lp-LP30322	m0_new		Shopping_ads,Display_ads	drop_marzha				4928		LP30322		
@@ -12265,10 +12265,10 @@ lp-LP30336	m0_new		Shopping_ads,Display_ads	drop_marzha				4928		LP30336
 lp-LP30337	m3_norm		Shopping_ads,Display_ads	drop_marzha				4928		LP30337		
 lp-LP30339	m4_norm		Shopping_ads,Display_ads	drop_marzha				4928		LP30339		
 lp-LP30381	m0_new		Shopping_ads,Display_ads	drop_marzha				5142				
-lp-LP30461	m0_new_p			drop_t5				2455				
+lp-LP30461	m0_new		Shopping_ads,Display_ads	drop_t5				2455				
 lp-LP30514	m0_new		Shopping_ads,Display_ads	drop_marzha				4928		LP30514		
-lp-LP30581	m0_new_p			drop_t5				1870				
-lp-LP30582	m0_new_p			drop_t5				1870				
+lp-LP30581	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
+lp-LP30582	m0_new		Shopping_ads,Display_ads	drop_t5				1870				
 lp-LP30640	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP30641	m0_new		Shopping_ads,Display_ads	drop_marzha				1480				
 lp-LP30664	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP30664		
@@ -12294,17 +12294,17 @@ lp-LP3451	m0_new		Shopping_ads,Display_ads	drop_t8				505295
 lp-LP3536	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP3536		
 lp-LP3571	m0_new		Shopping_ads,Display_ads	drop_t8				359				
 lp-LP3572	m0_new		Shopping_ads,Display_ads	drop_t8				359				
-lp-LP3587	m0_new_p			drop_t5				359				
-lp-LP3588	m0_new_p			drop_t5				359				
-lp-LP3589	m0_new_p			drop_t5				359				
-lp-LP3590	m0_new_p			drop_t5				359				
-lp-LP36020	m0_norm_p			drop_t5				127		LP36020		
-lp-LP36138	m0_new_p			drop_t5				362				
+lp-LP3587	m0_new		Shopping_ads,Display_ads	drop_t5				359				
+lp-LP3588	m0_new		Shopping_ads,Display_ads	drop_t5				359				
+lp-LP3589	m0_new		Shopping_ads,Display_ads	drop_t5				359				
+lp-LP3590	m0_new		Shopping_ads,Display_ads	drop_t5				359				
+lp-LP36020	m0_norm		Shopping_ads,Display_ads	drop_t5				127		LP36020		
+lp-LP36138	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP36227	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lp-LP3643	m0_new		Shopping_ads,Display_ads	drop_t8				1870				
 lp-LP3649	m0_new		Shopping_ads,Display_ads	drop_marzha				359				
 lp-LP3651	m0_new		Shopping_ads,Display_ads	drop_marzha				359				
-lp-LP36722	m0_new_p			drop_t5				4928				
+lp-LP36722	m0_new		Shopping_ads,Display_ads	drop_t5				4928				
 lp-LP36723	m0_new		Shopping_ads,Display_ads	drop_marzha				4928				
 lp-LP36975	m0_new		Shopping_ads,Display_ads	drop_t8				1348				
 lp-LP3718	m0_new		Shopping_ads,Display_ads	drop_marzha				505295				
@@ -12318,7 +12318,7 @@ lp-LP37729	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP37729
 lp-LP37730	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP37730		
 lp-LP37733	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP37733		
 lp-LP37736	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP37736		
-lp-LP37760	m0_new		Shopping_ads,Display_ads	drop_t8				5142		LP37760		
+lp-LP37760	m0_new		Shopping_ads,Display_ads	drop_marzha				5142		LP37760		
 lp-LP37950	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP37950		
 lp-LP38057	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP38057		
 lp-LP38128	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP38128		
@@ -12360,9 +12360,9 @@ lp-LP3864	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP3864
 lp-LP3866	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP3866		
 lp-LP38682	m0_new		Shopping_ads,Display_ads	drop_marzha				2455				
 lp-LP3869	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP3869		
-lp-LP38709	m0_norm_p			drop_t5				362				
-lp-LP38710	m0_norm_p			drop_t5				362				
-lp-LP38711	m0_new_p			drop_t5				362				
+lp-LP38709	m0_norm		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP38710	m0_norm		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP38711	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP3872	m0_norm		Shopping_ads,Display_ads	drop_marzha				276		LP3872		
 lp-LP3873	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP3873		
 lp-LP3874	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP3874		
@@ -12371,10 +12371,10 @@ lp-LP38939	m0_norm		Shopping_ads,Display_ads	drop_marzha				4714		LP38939
 lp-LP38994	m3_hit		Shopping_ads,Display_ads	drop_marzha		prybutok		4714		LP38994		
 lp-LP38995	m0_norm		Shopping_ads,Display_ads	drop_marzha				4714		LP38995		
 lp-LP39001	m0_norm		Shopping_ads,Display_ads	drop_marzha				7167		LP39001		
-lp-LP39047	m0_new_p			drop_t5				362				
-lp-LP39050	m0_new_p			drop_t5				362				
+lp-LP39047	m0_new		Shopping_ads,Display_ads	drop_t5				362				
+lp-LP39050	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP39051	m0_new		Shopping_ads,Display_ads	drop_t8				362				
-lp-LP39052	m0_new_p			drop_t5				362				
+lp-LP39052	m0_new		Shopping_ads,Display_ads	drop_t5				362				
 lp-LP39171	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP39171		
 lp-LP39427	m0_new		Shopping_ads,Display_ads	drop_t5				5142		LP39427		
 lp-LP39431	m0_new		Shopping_ads,Display_ads	drop_t8				5142		LP39431		
@@ -12400,7 +12400,7 @@ lp-LP39749	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP39749
 lp-LP39750	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP39750		
 lp-LP39871	m0_norm		Shopping_ads,Display_ads	drop_marzha				1348				
 lp-LP39929	m0_new		Shopping_ads,Display_ads	drop_marzha				5142				
-lp-LP40177	m0_norm		Shopping_ads,Display_ads	drop_t8				1348				
+lp-LP40177	m0_norm		Shopping_ads,Display_ads	drop_marzha				1348				
 lp-LP40339	m0_new		Shopping_ads,Display_ads	drop_marzha				276				
 lp-LP40401	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40401		
 lp-LP40436	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40436		
@@ -13564,7 +13564,7 @@ vt-0716 BL	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:
 vt-0718 BL	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 vt-0820-A	m3_new_p			khvist								
 vt-0906 BS	m4_new		Shopping_ads,Display_ads	pid_zamovlennya				2034			2026-11-25T09:00+0300	
-vt-09392	m3_norm_p											
+vt-09392	m3_hit_p				chempion	prybutok						
 vt-0981	m5_new_p			khvist					6685879409815			
 vt-100001	m2_new_p			khvist								
 vt-100002	m2_norm			khvist								
@@ -13683,7 +13683,7 @@ vt-101303	m2_norm			khvist				3435
 vt-101304	m3_new_p			khvist								
 vt-101311	m2_new_p			khvist								
 vt-101320	m3_norm				chempion			3435				
-vt-101323	m3_norm				chempion	prybutok		3435				
+vt-101323	m3_norm				konv_google			3435				
 vt-101329	m4_norm		Shopping_ads,Display_ads	pid_zamovlennya				3435			2026-11-25T09:00+0300	
 vt-101332	m3_new_p			khvist				4722				
 vt-101333	m4_new_p			khvist				4722				
@@ -14220,7 +14220,7 @@ vt-25-45-181	m2_new_p			khvist
 vt-25-45-182	m2_new_p			khvist				6838				
 vt-25-45-209	m0_new_p			khvist								
 vt-25-45-213	m2_norm_p			khvist								
-vt-25-45-217	m2_norm_p			khvist								
+vt-25-45-217	m2_new_p			khvist								
 vt-25-45-218	m2_new_p			khvist								
 vt-25-45-219	m2_norm_p			khvist								
 vt-25-45-221	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi				666				
@@ -14394,7 +14394,7 @@ vt-2624	m5_new_p			khvist
 vt-2750-4	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				4372			2026-11-25T09:00+0300	
 vt-2769/1	m5_new_p			khvist								
 vt-29-178-003	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-29-178-004	m4_norm		Shopping_ads,Display_ads	khvist				666				
+vt-29-178-004	m4_norm			khvist				666				
 vt-29-178-008	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-29-178-009	m3_norm		Shopping_ads	vytraty_stelya	chempion	prybutok		666				
 vt-29-178-010	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
@@ -14527,7 +14527,7 @@ vt-29-305-207	m2_norm			khvist				665
 vt-29-305-208	m3_norm_p			khvist				665				
 vt-29-305-209	m2_new_p			khvist				665				
 vt-29-305-213	m2_new_p			khvist								
-vt-29-305-215	m3_norm_p				chempion							
+vt-29-305-215	m3_norm_p				chempion	prybutok						
 vt-29-305-218	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 vt-29-305-219	m3_new_p			khvist				666				
 vt-29-305-231	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -14604,12 +14604,12 @@ vt-3203	m4_norm				rozvidka
 vt-32235-2	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-32236-1	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-32246	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-32247	m3_norm			khvist								
+vt-32247	m3_norm											
 vt-32254	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-32258	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 vt-3300-54	m5_norm			khvist								
 vt-3300-55	m3_new_p			khvist								
-vt-3300-58	m4_norm				chempion	prybutok			4823082545308			
+vt-3300-58	m4_norm			khvist					4823082545308			
 vt-3300-59	m4_new_p			khvist					4823082545315			
 vt-3397-19 S&T	m0_norm			khvist								
 vt-3397-21	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
@@ -14728,7 +14728,7 @@ vt-4262	m5_norm_p				chempion
 vt-4264	m5_new_p			khvist								
 vt-4265	m5_new_p			khvist								
 vt-4266	m5_new_p			khvist								
-vt-42665	m5_norm				chempion	prybutok						
+vt-42665	m5_norm			khvist								
 vt-4268	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-4270	m5_new_p			khvist								
 vt-4271	m5_new_p			khvist								
@@ -15155,7 +15155,7 @@ vt-530042	m2_norm			khvist
 vt-530044	m5_norm				chempion	prybutok						
 vt-530068	m2_norm			khvist				637				
 vt-530106	m4_new_p			khvist								
-vt-530122	m3_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
+vt-530122	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 vt-530138	m3_norm_p			khvist								
 vt-530144/4	m5_new_p			khvist								
 vt-530146	m5_new_p			khvist								
@@ -15428,8 +15428,8 @@ vt-80390-SL	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T0
 vt-80402	m3_new_p			khvist								
 vt-80403	m3_new_p			khvist								
 vt-85-350 Green	m3_new_p			khvist					8200013588126			
-vt-85-350Black	m5_norm				chempion	prybutok			8200013588102	85-350Black		
-vt-85-350Red	m3_new_p			khvist					8200013588119	85-350Red		
+vt-85-350Black	m5_norm			khvist					8200013588102	85-350Black		
+vt-85-350Red	m3_new_p				chempion				8200013588119	85-350Red		
 vt-87-750Black	m4_norm			khvist					8200013589024	87-750Black		
 vt-87-750MatteBlack	m2_norm			khvist					8200013588294	87-750MatteBlack		
 vt-87-750Steel	m4_new_p			khvist					8200013590204	87-750Steel		
@@ -15551,7 +15551,7 @@ vt-9328	m5_new_p			khvist
 vt-9329	m4_norm_p			khvist								
 vt-9330	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-933511	m0_norm			khvist								
-vt-933511-А	m3_norm											
+vt-933511-А	m3_norm				chempion	prybutok						
 vt-9343	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-9392	m0_new_p			khvist								
 vt-94-1200	m4_norm_p			khvist					8200013590389			
@@ -15734,7 +15734,7 @@ vt-AR0912BB	m2_norm			khvist
 vt-AR0912WB	m2_new_p			khvist								
 vt-AR0913BB	m3_new_p			khvist								
 vt-AR0913SS	m3_norm_p				chempion	prybutok						
-vt-AR0913WB	m3_norm_p							3061				
+vt-AR0913WB	m3_norm_p				chempion	prybutok		3061				
 vt-AR0914GB	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR0914S	m3_new_p			khvist								
 vt-AR0914WB	m2_new_p			khvist								
@@ -15766,7 +15766,7 @@ vt-AR0949	m2_norm			khvist
 vt-AR0957	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 vt-AR0958	m5_norm			khvist								
 vt-AR0959	m2_new_p			khvist				6086				
-vt-AR0960	m3_norm				konv_google							
+vt-AR0960	m3_norm											
 vt-AR0961	m3_norm_p			khvist				3802				
 vt-AR0962	m3_new_p			khvist				3802				
 vt-AR0963	m2_new_p			khvist				4026				
@@ -15810,7 +15810,7 @@ vt-AR1250BSQ	m3_norm_p				chempion				0767637180160	AR1250BSQ
 vt-AR1260BRC	m3_new_p			khvist					0767637180207	AR1260BRC		
 vt-AR1280BSQ	m3_norm_p			khvist					0767637180177	AR1280BSQ		
 vt-AR1303BP	m3_new_p			khvist								
-vt-AR1305SFM	m3_norm			khvist								
+vt-AR1305SFM	m3_norm											
 vt-AR1307GG	m5_norm_p			khvist					0767637187848	AR1307GG		
 vt-AR1307SF	m3_new_p			khvist								
 vt-AR1307SFM	m3_norm			khvist								
@@ -15820,11 +15820,11 @@ vt-AR1310BBS	m3_norm			khvist
 vt-AR1310BLR	m3_norm			khvist								
 vt-AR1311GG	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-AR1311SF	m3_norm			khvist								
-vt-AR1311SFM	m3_hit				chempion	prybutok						
+vt-AR1311SFM	m3_norm			khvist								
 vt-AR1313BBS	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR1313BLR	m3_norm			khvist								
 vt-AR1316SF	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
-vt-AR1316SFM	m4_norm				chempion	prybutok						
+vt-AR1316SFM	m4_norm			khvist								
 vt-AR1324A	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR1326A	m2_new_p			khvist								
 vt-AR1338SF	m3_norm			khvist								
@@ -16125,7 +16125,7 @@ vt-AR2409BG	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T0
 vt-AR2409BGB	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2412GE	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-AR2412GES	m2_new_p			khvist								
-vt-AR2414FW	m3_norm			khvist								
+vt-AR2414FW	m3_norm											
 vt-AR2415FW	m3_norm			khvist								
 vt-AR2416FW	m2_new_p			khvist								
 vt-AR2424GE	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -16291,7 +16291,7 @@ vt-AR2919MW	m4_norm_p			khvist
 vt-AR2919R	m3_norm			khvist								
 vt-AR2919SBG	m3_norm_p				chempion							
 vt-AR2919SW	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-AR2919SWB	m3_norm			khvist								
+vt-AR2919SWB	m3_norm											
 vt-AR2919UB	m3_new_p			khvist								
 vt-AR2919WGC	m3_norm			khvist								
 vt-AR2920AB	m2_new_p			khvist								
@@ -16383,7 +16383,7 @@ vt-AR3010BGA	m4_norm			khvist
 vt-AR3010BGR	m4_hit				chempion	prybutok						
 vt-AR3010GBB	m4_new_p			khvist								
 vt-AR3010GBM	m3_norm	ads_low	Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-AR3010GFB	m3_norm			khvist								
+vt-AR3010GFB	m3_norm											
 vt-AR3010GHM	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR3012GBM	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR3015GBB	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -16548,7 +16548,7 @@ vt-AR3746	m2_norm			khvist					0767637182645	AR3746
 vt-AR3747	m5_new_p			khvist					0767637182652	AR3747		
 vt-AR3749	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR3750	m3_new_p			khvist								
-vt-AR3752H	m4_norm_p			khvist					0767637185349	AR3752H		
+vt-AR3752H	m4_norm_p								0767637185349	AR3752H		
 vt-AR3802W	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti				602			2026-11-25T09:00+0300	
 vt-AR3831	m3_norm			khvist				602				
 vt-AR3832	m2_new_p			khvist				602				
@@ -16572,7 +16572,7 @@ vt-AR3918T	m3_new_p			khvist
 vt-AR3920SS	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-AR4012B	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-AR4040T	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
-vt-AR4103FT	m3_norm_p											
+vt-AR4103FT	m3_norm_p				chempion	prybutok						
 vt-AR4313GB	m5_new_p			khvist					0767637170390	AR4313GB		
 vt-AR4318GB	m2_new_p			khvist								
 vt-AR4322GB	m2_new_p			khvist								
@@ -16978,7 +16978,7 @@ vt-EM-0335	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:
 vt-EM-0540	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-EM-0602	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-EM-0610	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
-vt-EM-0710	m5_norm_p				chempion			3620				
+vt-EM-0710	m5_norm_p				chempion	prybutok		3620				
 vt-EM-0822	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-EM-0824	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-EM-0910	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -17035,7 +17035,7 @@ vt-EM-3336	m5_new		Shopping_ads,Display_ads	pid_zamovlennya				752			2026-11-25T
 vt-EM-3340	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-EM-3343	m3_norm_p				chempion			3248				
 vt-EM-3355	m5_new_p			khvist								
-vt-EM-3366	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				668				
+vt-EM-3366	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti				668				
 vt-EM-3367	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 vt-EM-3371	m5_new_p			khvist								
 vt-EM-3401	m4_new_p				rozvidka							
@@ -17087,7 +17087,7 @@ vt-EM-9506	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09
 vt-EM-9508	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 vt-EM-9595	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-EM-9599	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
-vt-EM-9607	m5_new_p			khvist								
+vt-EM-9607	m5_norm_p				chempion							
 vt-EM-9642	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti				3156				
 vt-EM-9643	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 vt-EM-9672	m4_new_p			khvist								
@@ -17161,7 +17161,7 @@ vt-HT02-P600	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T0
 vt-HT03-P600	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 vt-HT03-P800 75279	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-HT12-P1000	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
-vt-HT12-P350	m5_norm			khvist								
+vt-HT12-P350	m5_norm											
 vt-HT12-P600	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-HT12-P800	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-IvoryOMS 3141-IND-26-5,5л	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
@@ -17303,7 +17303,7 @@ vt-KM-10041	m2_norm_p				chempion	prybutok			5904734066552	KM-10041
 vt-KM-10042	m2_new_p			khvist					5904734066569	KM-10042		
 vt-KM-10043	m5_new_p			khvist					5904734066576	KM-10043		
 vt-KM-10044	m5_new_p			khvist					5904734066613	KM-10044		
-vt-KM-10053	m5_norm				konv_google				5904734066699	KM-10053		
+vt-KM-10053	m5_norm								5904734066699	KM-10053		
 vt-KM-10072	m3_norm			khvist				666				
 vt-KM-10076	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				666			2026-11-25T09:00+0300	
 vt-KM-10087	m5_new_p			khvist				3156				
@@ -17390,7 +17390,7 @@ vt-KM-2011WH	m2_norm				chempion	prybutok		3435
 vt-KM-2021	m2_new_p			khvist								
 vt-KM-2024	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya				3435			2026-11-25T09:00+0300	
 vt-KM-2030	m2_norm			khvist				3435				
-vt-KM-2031	m5_hit				chempion	prybutok		3435				
+vt-KM-2031	m5_norm				chempion	prybutok		3435				
 vt-KM-2032	m2_norm			khvist				3435				
 vt-KM-2034	m4_new			khvist								
 vt-KM-2037	m2_norm			khvist								
@@ -17580,7 +17580,7 @@ vt-KM-4358	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-KM-4360	m3_norm			khvist								
 vt-KM-4361	m3_new_p			khvist								
 vt-KM-4362	m2_norm_p				chempion							
-vt-KM-4363	m3_norm				chempion	prybutok		659				
+vt-KM-4363	m3_hit				chempion	prybutok		659				
 vt-KM-4364	m2_norm				chempion	prybutok		659				
 vt-KM-4366	m5_new_p			khvist								
 vt-KM-4367	m3_new_p			khvist								
@@ -18177,7 +18177,7 @@ vt-KM-9206	m3_norm			khvist				650
 vt-KM-9207	m5_norm			khvist								
 vt-KM-9208	m3_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 vt-KM-9209	m4_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
-vt-KM-9210	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya		prybutok					2026-11-25T09:00+0300	
+vt-KM-9210	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 vt-KM-9211	m3_hit				chempion	prybutok						
 vt-KM-9212	m2_hit				chempion	prybutok						
 vt-KM-9213	m3_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
@@ -18244,7 +18244,7 @@ vt-N3273	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:0
 vt-N3600	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-N3646	m3_new_p			khvist								
 vt-N3913	m2_norm			khvist								
-vt-N3941	m3_norm	ads_zero	Shopping_ads			prybutok						
+vt-N3941	m3_norm	ads_zero	Shopping_ads,Display_ads			stop						
 vt-N6416	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 vt-N7784	m5_new_p			khvist				2169				
 vt-N8005	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -18274,7 +18274,7 @@ vt-OMS 2070-28-9,2л	m4_new_p			cina_vid_4000				661
 vt-OMS 2070-L-28-6,8л	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti				661				
 vt-OMS 3005-IND-Grey IND	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-OMS 3023 IND-Gold	m4_new_p			cina_vid_4000				666				
-vt-OMS 3024-IND-Ivory	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi		stop		666				
+vt-OMS 3024-IND-Ivory	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi				666				
 vt-OMS 3031-Gold	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-OMS 3116-24-4,2л-San	m4_norm_p			khvist				661				
 vt-OMS 3116-28-Black	m4_new_p			khvist								
@@ -18581,7 +18581,7 @@ vt-ZFC045 CR 89863	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-1
 vt-ZFC465 CR	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-ZFC465 OP	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ZFC465 PF	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-ZS 17 R	m5_norm			khvist					6906136370236			
+vt-ZS 17 R	m5_norm								6906136370236			
 vt-a52736	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-25T09:00+0300	
 vt-a53922	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-25T09:00+0300	
 vt-a54673	m5_new_p			khvist								
@@ -18595,7 +18595,7 @@ vt-АСМО269-3	m4_norm			khvist
 vt-В-344	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				602			2026-11-25T09:00+0300	
 vt-В-3445	m5_norm			khvist				602				
 vt-В-3447	m5_new_p			khvist				602				
-vt-В-345	m5_norm			khvist				602				
+vt-В-345	m5_norm							602				
 vt-В-346	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti				602			2026-11-25T09:00+0300	
 vt-В-348	m5_norm			khvist				602				
 vt-В-349	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				602			2026-11-25T09:00+0300	
