@@ -5,6 +5,6 @@
 
 | артикул Едіму | назва | сторінка | зараз (ціна / наявність) | очікувано після імпорту | Гарбуз |
 |---|---|---|---|---|---|
-| 100-073 | Шпатель притискний для розгладжування шпалер 280мм | https://edimik.com.ua/shpatel-prytysknyi-dlia-rozghladzhuvannia-shpaler-280mm-krylo-zhovte/ | 49 / є | 52 / немає | 2429210780 52.0 |
+| 01-45-003 | Ручка для металопластикових вікон CGZS036-CD | https://edimik.com.ua/ruchka-dlia-metaloplastykovykh-vikon-cgzs036-cd/ | 199 / є | 229 / немає | 2639817174 229.0 |
 | 002-h | Аерозольний балон, DOMEX WHITE LINE, високотемпера | https://edimik.com.ua/aerozolnyi-balon-domex-white-line-vysokotemperaturna-sribna-121-400-ml/ | 339 / немає | 279 / є | PLX-WL121 279.0 |
 | 003-h | Аерозольний балон, DOMEX WHITE LINE, високотемпера | https://edimik.com.ua/aerozolnyi-balon-domex-white-line-vysokotemperaturna-chervona-124-400-ml/ | 339 / немає | 279 / є | PLX-WL124 279.0 |
