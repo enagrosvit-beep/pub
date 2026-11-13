@@ -626,7 +626,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0598	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-27T09:00+0300	
 0599	m5_norm_p			khvist								
 0600	m5_norm_p			khvist								
-0601	m4_norm				rozvidka	stop						
+0601	m4_norm				konv_google	stop						
 0602	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-27T09:00+0300	
 0603	m0_norm			khvist								
 0604	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -8294,7 +8294,7 @@ PLX-НФ-00001134	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-НФ-00001135	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-27T09:00+0300	
 PLX-НФ-00001137	m3_new_p			khvist								
 PLX-НФ-00001138	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-НФ-00001139	m3_norm_p			khvist								
+PLX-НФ-00001139	m3_norm_p				konv_google							
 PLX-НФ-00001141	m5_new_p			deshevyi								
 PLX-НФ-00001142	m5_new_p			deshevyi								
 PLX-НФ-00001143	m1_new_p			deshevyi	rozvidka							
@@ -16965,7 +16965,7 @@ vt-50063	m4_norm_p			cina_vid_4000
 vt-50070	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti					5907706500702			
 vt-50071	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti					5907706500719			
 vt-50072	m4_new_p			khvist					5907706500726			
-vt-50079	m2_norm_p			khvist								
+vt-50079	m2_norm_p				konv_google							
 vt-50083	m0_norm_p			ne_v_rynku								
 vt-50087	m3_norm_p			khvist								
 vt-50092	m2_norm			cina_vid_4000					5907706500924			
@@ -17935,7 +17935,7 @@ vt-AR1376BLRG	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-27T
 vt-AR1403BB	m3_new_p			khvist				666				
 vt-AR1403DB	m5_new_p			khvist					0767637184953	AR1403DB		
 vt-AR1403GB	m3_norm_p			khvist								
-vt-AR1403GR	m3_norm_p				chempion			666				
+vt-AR1403GR	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi				666				
 vt-AR1403GRB	m2_norm				chempion	prybutok		666				
 vt-AR1403KB	m5_new_p			khvist					0767637184946	AR1403KB		
 vt-AR1404GB	m2_new_p			khvist				666				
@@ -19957,7 +19957,7 @@ vt-KM-5821	m2_norm			khvist
 vt-KM-5825	m3_norm_p			khvist				656				
 vt-KM-5831	m4_norm			khvist				656				
 vt-KM-5840	m2_norm			ne_v_rynku								
-vt-KM-5841	m2_norm			khvist				3526				
+vt-KM-5841	m2_norm				konv_google			3526				
 vt-KM-5842	m4_new		Shopping_ads,Display_ads	pid_zamovlennya				3373			2026-11-27T09:00+0300	
 vt-KM-5843	m2_norm_p			ne_v_rynku				3373				
 vt-KM-5845	m2_norm			khvist					5904734061090	KM-5845		
