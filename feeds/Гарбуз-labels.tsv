@@ -51,7 +51,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0036	m5_new			season_off								
 0037	m1_new		Shopping_ads	season_off								
 0038	m2_new		Shopping_ads	season_off								
-0039	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+0039	m4_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0040	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 0041	m0_new		Shopping_ads	season_off								
 0042	m0_new		Shopping_ads	season_off								
@@ -76,7 +76,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0064	m0_norm_p			khvist								
 0065	m0_norm_p			khvist								
 0066	m0_norm		Shopping_ads	deshevyi								
-0067	dup:Тиква		Shopping_ads,Display_ads			cina						
+0067	m5_hit				chempion	cina						
 0068	m3_hit				chempion	prybutok						
 0069	m5_norm		Shopping_ads	vytraty_stelya	chempion	prybutok						
 0070	m0_norm_p				chempion	stop						
@@ -284,7 +284,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0230	m0_new_p			khvist								
 0231	m0_norm		Shopping_ads	deshevyi								
 0232	m4_norm				chempion	prybutok						
-0233	dup:Тиква				chempion	prybutok						
+0233	m3_hit				chempion	prybutok						
 0235	m0_new		Shopping_ads	ne_v_rynku								
 0236	m0_norm_p			khvist								
 0237	m0_new_p			khvist								
@@ -361,7 +361,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0311	m0_norm		Shopping_ads	deshevyi				500035				
 0312	m5_norm	ads_zero	Shopping_ads					276				
 0313	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya				4928			2026-11-28T09:00+0300	
-0314	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				276				
+0314	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				276				
 0315	m0_new_p			khvist				4928				
 0316	m0_norm			khvist				4928				
 0317	m0_new		Shopping_ads	deshevyi				4928				
@@ -534,7 +534,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 05-007	m2_new		Shopping_ads	deshevyi								
 0500	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0502	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-0503	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+0503	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 0504	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 0505	m5_norm			khvist								
 0506	m0_norm	ads_zero	Shopping_ads	deshevyi								
@@ -595,7 +595,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0562	m5_norm				rozvidka							
 0563	m5_norm	ads_zero	Shopping_ads	deshevyi								
 0564	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-0565	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+0565	m0_new		Shopping_ads	ne_v_nayavnosti								
 0567	m0_norm_p			cina_vid_4000								
 0568	m3_new_p			cina_vid_4000								
 0569	m0_norm		Shopping_ads	deshevyi								
@@ -619,7 +619,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0591	m4_new_p			khvist								
 0592	m0_norm_p			khvist								
 0593	m4_new_p			khvist								
-0594	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+0594	m1_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 0595	m5_norm				chempion	prybutok						
 0596	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 0597	m5_norm			cina_vid_4000								
@@ -642,7 +642,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0614	m0_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti								
 0616	m5_norm		Shopping_ads	deshevyi								
 0617	m0_norm_p			khvist								
-0618	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+0618	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0619	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 0620	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 0621	m0_norm	ads_zero	Shopping_ads									
@@ -680,7 +680,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0653	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				187			2026-11-28T09:00+0300	
 0654	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				187				
 0655	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				187			2026-11-28T09:00+0300	
-0656	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+0656	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 0657	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 0658	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 0659	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
@@ -688,7 +688,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0661	m0_norm_p			khvist								
 0662	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0663	m0_norm_p			cina_vid_4000								
-0664	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+0664	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0665	m1_norm			cina_vid_4000								
 0666	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0667	m5_new		Shopping_ads	ne_v_nayavnosti								
@@ -852,7 +852,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0841	m0_new		Shopping_ads	season_off								
 0842	m0_new		Shopping_ads	season_off								
 0843	m5_new		Shopping_ads	season_off								
-0844	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+0844	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0845	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0846	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 0847	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
@@ -863,7 +863,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0852	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 0853	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 0854	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-0855	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+0855	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0856	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0857	m0_new			season_off								
 0858	m0_new			season_off								
@@ -905,7 +905,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0896	m3_new		Shopping_ads	season_off								
 0897	m4_new		Shopping_ads	season_off								
 0898	m4_new		Shopping_ads	season_off								
-0899	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+0899	m0_new		Shopping_ads	ne_v_nayavnosti								
 0900	m5_new		Shopping_ads	season_off								
 0901	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0902	m0_new		Shopping_ads	season_off								
@@ -919,7 +919,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0911	m5_new		Shopping_ads	season_off								
 0912	m0_new			season_off								
 0913	m4_new		Shopping_ads	season_off								
-0914	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+0914	m4_new		Shopping_ads	ne_v_nayavnosti								
 0915	m2_new		Shopping_ads	season_off								
 0916	m3_new		Shopping_ads	season_off								
 0917	m4_new		Shopping_ads	season_off								
@@ -948,7 +948,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0944	m0_new			season_off								
 0945	m5_new		Shopping_ads	season_off								
 0946	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-0947	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+0947	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 0948	m4_new		Shopping_ads	season_off								
 0949	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0950	m4_new			season_off								
@@ -958,7 +958,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0956	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0957	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0958	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-0959	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+0959	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0960	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0961	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0962	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
@@ -976,18 +976,18 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0976	m0_new		Shopping_ads	season_off								
 0977	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0978	m3_new		Shopping_ads	season_off								
-0979	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+0979	m5_new		Shopping_ads	ne_v_nayavnosti								
 0980	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0981	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0982	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0983	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0984	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0985	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-0986	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+0986	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0987	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0988	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 0989	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-0990	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+0990	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 0991	m5_new		Shopping_ads	ne_v_nayavnosti								
 0992	m0_new		Shopping_ads	season_off								
 0993	m0_new		Shopping_ads	season_off								
@@ -1102,7 +1102,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1043	m5_norm		Shopping_ads	season_off								
 1044	m0_new		Shopping_ads	season_off								
 1045	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
-1046	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+1046	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 1047	m0_new		Shopping_ads	season_off								
 1048	m0_new		Shopping_ads	season_off								
 1049	m0_new		Shopping_ads	season_off								
@@ -1112,10 +1112,10 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1053	m0_new		Shopping_ads	season_off								
 1054	m0_new		Shopping_ads	ne_v_nayavnosti								
 1055	m0_new		Shopping_ads	season_off								
-1056	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1056	m0_new		Shopping_ads	ne_v_nayavnosti								
 1057	m0_new			season_off								
 1058	m0_new		Shopping_ads	season_off								
-1059	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1059	m0_new		Shopping_ads	ne_v_nayavnosti								
 1060	m0_new		Shopping_ads	season_off								
 1061	m0_new			season_off								
 1062	m0_new		Shopping_ads	season_off							2026-11-28T09:00+0300	
@@ -1124,7 +1124,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1065	m5_new		Shopping_ads	season_off								
 1066	m5_new		Shopping_ads	season_off								
 1067	m5_new		Shopping_ads	season_off								
-1068	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+1068	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 1069	m5_new		Shopping_ads	season_off								
 1070	m5_new		Shopping_ads	season_off								
 1071	m5_new		Shopping_ads	season_off								
@@ -1132,7 +1132,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1073	m0_new		Shopping_ads	season_off								
 1074	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
 1075	m5_new		Shopping_ads	season_off								
-1076	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1076	m5_new		Shopping_ads	ne_v_nayavnosti								
 1077	m0_norm		Shopping_ads	season_off								
 1078	m5_hit			season_off	chempion						2026-11-28T09:00+0300	
 1079	m0_new		Shopping_ads	season_off								
@@ -1153,11 +1153,11 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1094	m5_new		Shopping_ads	season_off								
 1095	m0_new		Shopping_ads	season_off								
 1096	m5_norm			season_off	chempion	prybutok						
-1097	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1097	m5_new		Shopping_ads	ne_v_nayavnosti								
 1098	m0_new		Shopping_ads	season_off								
-1099	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1099	m0_new		Shopping_ads	ne_v_nayavnosti								
 1100	m0_new		Shopping_ads	season_off								
-1101	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1101	m5_new		Shopping_ads	ne_v_nayavnosti								
 1102	m0_new		Shopping_ads	season_off								
 1102-200N	m4_new_p			khvist								
 1103	m5_new		Shopping_ads	season_off								
@@ -1170,15 +1170,15 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 111-072	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 1110	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1110561242	m4_norm			season_off	chempion	prybutok						
-1111	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
-1112	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1111	m5_new		Shopping_ads	ne_v_nayavnosti								
+1112	m5_new		Shopping_ads	ne_v_nayavnosti								
 1113	m5_new		Shopping_ads	ne_v_nayavnosti								
 1114	m5_norm			season_off	chempion							
 1115	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 1116	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1117	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1118	m0_new		Shopping_ads	ne_v_nayavnosti			Садиба Центр				2026-11-28T09:00+0300	
-1119	dup:Тиква		Shopping_ads	ne_v_nayavnosti			Садиба Центр					
+1119	m0_new		Shopping_ads	ne_v_nayavnosti			Садиба Центр					
 1120	m5_new		Shopping_ads	season_off			Садиба Центр					
 1121	m5_new		Shopping_ads	season_off			Садиба Центр					
 1122	m0_new		Shopping_ads	season_off								
@@ -1186,7 +1186,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1124	m0_new			season_off								
 1125	m0_new		Shopping_ads	season_off								
 1126	m5_norm		Shopping_ads	season_off								
-1127	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1127	m5_new		Shopping_ads	ne_v_nayavnosti								
 1128	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1129	m5_new		Shopping_ads	season_off								
 1130	m4_new		Shopping_ads	season_off								
@@ -1213,7 +1213,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1143	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
 1144	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
 1145	m0_new		Shopping_ads	season_off								
-1146	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1146	m0_new		Shopping_ads	ne_v_nayavnosti								
 1147	m5_new		Shopping_ads	season_off								
 1148	m5_new		Shopping_ads	season_off								
 1149	m0_new		Shopping_ads	season_off								
@@ -1299,7 +1299,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1220	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 1221	m0_new		Shopping_ads	season_off			Садиба Центр					
 1222	m0_new		Shopping_ads	season_off								
-1223	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1223	m0_new		Shopping_ads	ne_v_nayavnosti								
 1224	m2_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 1225	m0_new		Shopping_ads	pid_zamovlennya			Садиба Центр				2026-11-28T09:00+0300	
 1226	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
@@ -1381,12 +1381,12 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1300	m0_new		Shopping_ads	season_off								
 1301	m5_new		Shopping_ads	season_off								
 1302	m5_new		Shopping_ads	season_off								
-1303	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1303	m0_new		Shopping_ads	ne_v_nayavnosti								
 1304	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-1305	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1305	m0_new		Shopping_ads	ne_v_nayavnosti								
 1306	m5_new		Shopping_ads	season_off								
 1307	m0_new		Shopping_ads	season_off			Садиба Центр					
-1308	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1308	m5_new		Shopping_ads	ne_v_nayavnosti								
 1309	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
 1310	m0_new		Shopping_ads	season_off								
 1311	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
@@ -1399,14 +1399,14 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1318	m4_norm		Shopping_ads	season_off								
 1319	m0_new		Shopping_ads	season_off								
 1320	m3_new		Shopping_ads	season_off								
-1321	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1321	m0_new		Shopping_ads	ne_v_nayavnosti								
 1322	m1_new		Shopping_ads	season_off							2026-11-28T09:00+0300	
 1323	m5_new		Shopping_ads	season_off								
 1324	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 1325	m0_new		Shopping_ads	season_off								
 1326	m5_new		Shopping_ads	season_off								
 1327	m5_new		Shopping_ads	season_off								
-1328	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1328	m0_new		Shopping_ads	ne_v_nayavnosti								
 1329	m3_new		Shopping_ads	season_off								
 1330	m0_new			season_off								
 1331	m5_new		Shopping_ads	season_off								
@@ -1434,7 +1434,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1351754274	m0_new			season_off								
 1352	m0_norm		Shopping_ads	season_off								
 1353	m0_norm		Shopping_ads	season_off								
-1354	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1354	m4_new		Shopping_ads	ne_v_nayavnosti								
 1354988311	m2_new		Shopping_ads	season_off								
 1355	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 1356	m5_new		Shopping_ads	season_off								
@@ -1447,7 +1447,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1363	m5_norm			season_off	chempion							
 1364	m0_new		Shopping_ads	season_off								
 1365	m1_new		Shopping_ads	season_off								
-1366	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1366	m5_new		Shopping_ads	ne_v_nayavnosti								
 1367	m0_new		Shopping_ads	season_off								
 1368	m0_new		Shopping_ads	season_off								
 1369	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
@@ -1466,7 +1466,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1382	m5_new		Shopping_ads	season_off			Садиба Центр					
 1383	m5_new		Shopping_ads	season_off			Садиба Центр					
 1384	m5_new		Shopping_ads	season_off			Садиба Центр					
-1385	dup:Тиква		Shopping_ads	ne_v_nayavnosti			Садиба Центр					
+1385	m5_new		Shopping_ads	ne_v_nayavnosti			Садиба Центр					
 1386	m0_new		Shopping_ads	ne_v_nayavnosti			Садиба Центр				2026-11-28T09:00+0300	
 1387	m0_new		Shopping_ads	season_off								
 1388	m5_norm			season_off	chempion							
@@ -1495,7 +1495,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1410	m4_norm		Shopping_ads	season_off								
 1411	m5_norm		Shopping_ads	season_off								
 1412	m0_new		Shopping_ads	season_off								
-1413	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1413	m0_new		Shopping_ads	ne_v_nayavnosti								
 1414	m0_new		Shopping_ads	season_off								
 1415	m0_new		Shopping_ads	season_off								
 1416	m5_norm			season_off	chempion							
@@ -1515,11 +1515,11 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1430	m0_new		Shopping_ads	season_off								
 1431	m0_new		Shopping_ads	season_off								
 1432	m1_norm		Shopping_ads	ne_v_nayavnosti			Садиба Центр					
-1433	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1433	m4_new		Shopping_ads	ne_v_nayavnosti								
 1434	m0_norm			season_off								
 1435	m0_norm		Shopping_ads	season_off								
 1436	m5_new		Shopping_ads	season_off								
-1437	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1437	m0_new		Shopping_ads	ne_v_nayavnosti								
 1438	m5_new		Shopping_ads	season_off								
 1439	m0_norm			season_off								
 1440	m5_norm		Shopping_ads	season_off								
@@ -1529,7 +1529,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1444	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1445	m0_new		Shopping_ads	season_off								
 1446	m5_new		Shopping_ads	season_off								
-1447	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1447	m0_new		Shopping_ads	ne_v_nayavnosti								
 1448	m5_new		Shopping_ads	season_off								
 1449	m5_new		Shopping_ads	season_off								
 1450	m5_new		Shopping_ads	season_off								
@@ -1550,19 +1550,19 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1465	m0_new		Shopping_ads	season_off			Садиба Центр					
 1466	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1467	m0_new		Shopping_ads	season_off								
-1468	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1468	m5_new		Shopping_ads	ne_v_nayavnosti								
 1469	m5_hit			season_off	chempion						2026-11-28T09:00+0300	
 1470	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
 1471	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1472	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1473	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-1474	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1474	m5_new		Shopping_ads	ne_v_nayavnosti								
 1475	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1476	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1477	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1478	m5_new		Shopping_ads	season_off			Садиба Центр					
 1479	m0_new		Shopping_ads	ne_v_nayavnosti			Садиба Центр				2026-11-28T09:00+0300	
-1480	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1480	m5_new		Shopping_ads	ne_v_nayavnosti								
 1481	m0_new		Shopping_ads	ne_v_nayavnosti			Садиба Центр				2026-11-28T09:00+0300	
 1482	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1483	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
@@ -1580,7 +1580,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1495	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1496	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1497	m0_norm		Shopping_ads	season_off								
-1498	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1498	m5_new		Shopping_ads	ne_v_nayavnosti								
 1499	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 15-151-003	m0_new_p			khvist								
 15-186-003	m5_norm_p				rozvidka							
@@ -1597,8 +1597,8 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1508	m0_norm			season_off								
 1509	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1510	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр				2026-11-28T09:00+0300	
-1511	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр					
-1512	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр					
+1511	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр					
+1512	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр					
 1513	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр				2026-11-28T09:00+0300	
 1514	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр				2026-11-28T09:00+0300	
 1515	m0_new			season_off								
@@ -1616,7 +1616,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1527	m0_new			season_off								
 1528	m0_new		Shopping_ads	season_off								
 1529	m5_new		Shopping_ads	season_off								
-1530	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1530	m0_new		Shopping_ads	ne_v_nayavnosti								
 1531	m0_new			season_off								
 1532	m5_new		Shopping_ads	season_off								
 1533	m5_new		Shopping_ads	season_off								
@@ -1628,7 +1628,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1539	m5_new		Shopping_ads	season_off								
 1540	m5_norm		Shopping_ads	season_off								
 1541	m0_new		Shopping_ads	season_off								
-1542	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1542	m5_new		Shopping_ads	ne_v_nayavnosti								
 1543	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1543401837	m0_norm		Shopping_ads	ne_v_nayavnosti								
 1544	m0_new		Shopping_ads	season_off								
@@ -1640,19 +1640,19 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1550	m0_new		Shopping_ads	ne_v_nayavnosti								
 1551	m0_new		Shopping_ads	season_off								
 1552	m0_new		Shopping_ads	season_off								
-1553	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1553	m0_new		Shopping_ads	ne_v_nayavnosti								
 1554	m5_new		Shopping_ads	season_off								
-1555	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1555	m0_new		Shopping_ads	ne_v_nayavnosti								
 1556	m0_new		Shopping_ads	season_off								
 1557	m0_new		Shopping_ads	season_off								
 1558	m0_new		Shopping_ads	season_off								
-1559	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
-1560	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1559	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
+1560	m0_new		Shopping_ads	ne_v_nayavnosti								
 1561	m0_new		Shopping_ads	season_off								
-1562	dup:Тиква		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
+1562	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1563	m0_new		Shopping_ads	season_off								
 1564	m0_new		Shopping_ads	season_off								
-1565	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+1565	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 1566	m5_new		Shopping_ads	season_off								
 1567	m0_new		Shopping_ads	season_off								
 1568	m0_new		Shopping_ads	season_off								
@@ -1661,7 +1661,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1571	m0_norm		Shopping_ads	season_off								
 1572	m0_new			season_off								
 1573	m5_new		Shopping_ads	season_off								
-1574	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1574	m0_new		Shopping_ads	ne_v_nayavnosti								
 1575	m5_new		Shopping_ads	season_off								
 1576	m5_norm			season_off	chempion							
 1577	m0_new		Shopping_ads	season_off								
@@ -1694,12 +1694,12 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1604	m0_norm		Shopping_ads	season_off								
 1605	m0_new		Shopping_ads	season_off								
 1606	m5_new		Shopping_ads	season_off								
-1607	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
-1608	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1607	m5_new		Shopping_ads	ne_v_nayavnosti								
+1608	m0_new		Shopping_ads	ne_v_nayavnosti								
 1609	m0_new		Shopping_ads	season_off								
 1610	m0_new		Shopping_ads	season_off								
-1611	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
-1612	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1611	m0_new		Shopping_ads	ne_v_nayavnosti								
+1612	m0_new		Shopping_ads	ne_v_nayavnosti								
 1613	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1614	m0_new		Shopping_ads	season_off								
 1615	m0_new		Shopping_ads	season_off								
@@ -1741,7 +1741,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1649	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
 1650	m4_new		Shopping_ads	season_off								
 1651	m5_new		Shopping_ads	season_off								
-1652	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1652	m5_new		Shopping_ads	ne_v_nayavnosti								
 1653	m0_new		Shopping_ads	season_off								
 1654	m5_new		Shopping_ads	season_off								
 1655	m0_new		Shopping_ads	season_off								
@@ -1772,7 +1772,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1680	m1_new		Shopping_ads	ne_v_nayavnosti								
 1681	m5_new		Shopping_ads	season_off								
 1682	m0_new		Shopping_ads	season_off								
-1683	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1683	m0_new		Shopping_ads	ne_v_nayavnosti								
 1684	m0_norm		Shopping_ads	season_off								
 1685	m5_new		Shopping_ads	season_off								
 1686	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
@@ -1807,7 +1807,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1714	m0_new		Shopping_ads	season_off								
 1715	m0_new		Shopping_ads	season_off								
 1716	m0_new		Shopping_ads	season_off								
-1717	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1717	m0_new		Shopping_ads	ne_v_nayavnosti								
 1718	m0_new		Shopping_ads	season_off								
 1719	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1720	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
@@ -1853,14 +1853,14 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1758	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 1759	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1760	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
-1761	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр					
+1761	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр					
 1762	m0_new		Shopping_ads,Display_ads	pid_zamovlennya			Садиба Центр				2026-11-28T09:00+0300	
 1763	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			Садиба Центр				2026-11-28T09:00+0300	
 1764	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1765	m0_new			season_off								
 1766	m3_new			season_off								
 1767	m0_new			season_off								
-1768	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1768	m0_new		Shopping_ads	ne_v_nayavnosti								
 1769	m5_new		Shopping_ads	season_off								
 1770	m0_new		Shopping_ads	season_off								
 1771	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
@@ -1944,7 +1944,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1847	m5_new			season_off								
 1848	m5_new			season_off								
 1849	m5_new			season_off								
-1850	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1850	m4_new		Shopping_ads	ne_v_nayavnosti								
 1851	m0_norm			season_off								
 1852	m0_new		Shopping_ads	season_off								
 1853	m0_new		Shopping_ads	season_off								
@@ -1956,10 +1956,10 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1859	m2_new		Shopping_ads	season_off								
 1860	m0_new		Shopping_ads	season_off								
 1861	m0_norm		Shopping_ads	season_off								
-1862	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1862	m5_new		Shopping_ads	ne_v_nayavnosti								
 1863	m0_new		Shopping_ads	season_off								
 1864	m0_new		Shopping_ads	season_off								
-1865	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1865	m0_new		Shopping_ads	ne_v_nayavnosti								
 1866	m5_new		Shopping_ads	season_off								
 1867	m5_new		Shopping_ads	season_off								
 1868	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
@@ -2008,7 +2008,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1904	m0_norm		Shopping_ads	season_off								
 1905	m3_new		Shopping_ads	season_off								
 1906	m5_new		Shopping_ads	season_off								
-1907	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1907	m4_new		Shopping_ads	ne_v_nayavnosti								
 1908	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
 1909	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1910	m0_new		Shopping_ads	season_off								
@@ -2057,9 +2057,9 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1952	m4_new		Shopping_ads	season_off								
 1953	m0_new		Shopping_ads	season_off								
 1954	m0_norm		Shopping_ads	season_off								
-1955	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1955	m0_new		Shopping_ads	ne_v_nayavnosti								
 1956	m5_new		Shopping_ads	season_off								
-1957	dup:Тиква		Shopping_ads	ne_v_nayavnosti			Садиба Центр					
+1957	m0_new		Shopping_ads	ne_v_nayavnosti			Садиба Центр					
 1958	m5_new		Shopping_ads	season_off			Садиба Центр					
 1959	m0_new		Shopping_ads	ne_v_nayavnosti								
 1960	m0_new		Shopping_ads	season_off								
@@ -2067,7 +2067,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1962	m0_new		Shopping_ads	season_off								
 1963	m0_new		Shopping_ads	season_off								
 1964	m0_norm		Shopping_ads	season_off							2026-11-28T09:00+0300	
-1965	dup:Тиква		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
+1965	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 1966	m5_norm		Shopping_ads	season_off								
 1967	m0_new		Shopping_ads	season_off								
 1968	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
@@ -2095,7 +2095,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1989	m5_new		Shopping_ads	season_off								
 1990	m0_new		Shopping_ads	season_off								
 1991	m5_new		Shopping_ads	season_off								
-1992	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+1992	m5_new		Shopping_ads	ne_v_nayavnosti								
 1993	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 1994	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 1995	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
@@ -2116,7 +2116,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2009	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 2010	m0_new		Shopping_ads	season_off								
 2011	m4_new		Shopping_ads	season_off								
-2012	dup:Тиква		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
+2012	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 2013	m5_new		Shopping_ads	season_off								
 2014	m0_new		Shopping_ads	ne_v_nayavnosti								
 2015	m5_new		Shopping_ads	season_off								
@@ -2140,7 +2140,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2033	m0_norm		Shopping_ads	season_off								
 2034	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
 2035	m0_new		Shopping_ads	ne_v_nayavnosti								
-2036	dup:Тиква		Shopping_ads	ne_v_nayavnosti			Садиба Центр					
+2036	m0_new		Shopping_ads	ne_v_nayavnosti			Садиба Центр					
 2037	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 2038	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 2039	m0_norm		Shopping_ads	ne_v_nayavnosti								
@@ -2165,10 +2165,10 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2057	m0_new		Shopping_ads	ne_v_rynku								
 2058	m0_new		Shopping_ads	ne_v_rynku								
 2060	m0_new		Shopping_ads	ne_v_rynku								
-2061	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2061	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2062	m0_new_p			khvist								
 2063	m0_new		Shopping_ads	ne_v_rynku								
-2064	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2064	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2065	m0_norm		Shopping_ads	ne_v_rynku								
 2066	m0_new		Shopping_ads	ne_v_rynku								
 2067	m0_new_p			khvist								
@@ -2186,7 +2186,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2079	m5_norm		Shopping_ads	ne_v_rynku								
 2080	m5_new_p			khvist								
 2081	m0_new_p			khvist								
-2082	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2082	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2083	m4_norm_p				chempion	prybutok						
 2084	m5_new		Shopping_ads	ne_v_rynku								
 2085	m5_norm_p				chempion	prybutok						
@@ -2209,7 +2209,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 21-012	m0_norm		Shopping_ads	ne_v_rynku								
 2100	m0_new		Shopping_ads	ne_v_rynku								
 2101	m0_norm_p			khvist								
-2102	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
+2102	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 2102583814	m0_norm_p			khvist								
 2110115127	m4_new_p			khvist								
 2116	m0_new_p			khvist								
@@ -2248,7 +2248,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2213	dup:Едім		Shopping_ads	ne_v_rynku								
 2214	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2215	dup:Едім		Shopping_ads,Display_ads									
-2216	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2216	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2217	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2218	m0_norm			khvist								
 2218593537	m0_new			season_off								
@@ -2256,11 +2256,11 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2220	m0_new		Shopping_ads	ne_v_rynku								
 2221	m0_new		Shopping_ads	ne_v_rynku								
 2222	m0_new_p			khvist								
-2227233205	dup:Тиква				chempion	prybutok						
+2227233205	m5_hit				chempion	prybutok						
 2229911329	m0_norm	ads_zero	Shopping_ads									
 2230	m0_new		Shopping_ads	ne_v_rynku								
 2231	m0_new		Shopping_ads	ne_v_rynku								
-2232	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+2232	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 2233	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2234	m0_new		Shopping_ads	deshevyi								
 2235	m0_new_p			khvist								
@@ -2272,7 +2272,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2278	m0_new		Shopping_ads	deshevyi								
 2279	m0_new		Shopping_ads	deshevyi								
 2280	m0_new_p			khvist								
-2281	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2281	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2288	m0_new		Shopping_ads	ne_v_rynku								
 2289	m0_norm		Shopping_ads	ne_v_rynku								
 2290	m0_norm		Shopping_ads	ne_v_rynku								
@@ -2307,7 +2307,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2335_45	m0_new_p			khvist								
 2336	m0_new_p				rozvidka			6381				
 2337	m3_norm_p				chempion	prybutok		6381				
-2338	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+2338	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 2339	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 2339-1	m0_norm_p			khvist								
 2340	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
@@ -2415,84 +2415,84 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2429	m0_norm		Shopping_ads	deshevyi								
 2430	m0_new		Shopping_ads	deshevyi								
 2431306594	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431306999	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431308466	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431309456	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431309856	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431306999	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431308466	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431309456	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431309856	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431310614	m0_new		Shopping_ads	deshevyi								
 2431310944	m0_new		Shopping_ads	ne_v_rynku								
-2431311682	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431311682	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431313061	m0_new		Shopping_ads	deshevyi								
 2431313342	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431316585	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431321986	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431324770	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431327152	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431328001	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431316585	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431321986	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431324770	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431327152	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431328001	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431328205	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431329984	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431329984	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431330926	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431376180	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431379761	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431376180	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431379761	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431383512	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431384559	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431384559	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431385705	m0_new		Shopping_ads	deshevyi								
 2431388467	m0_new		Shopping_ads	deshevyi								
 2431389458	m0_new		Shopping_ads	deshevyi								
 2431390986	m0_new		Shopping_ads	ne_v_rynku								
-2431392147	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431392147	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431397284	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431409473	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431414314	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431529425	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431533166	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431536316	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431539854	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431543029	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431600705	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431409473	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431414314	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431529425	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431533166	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431536316	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431539854	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431543029	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431600705	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431604120	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431606094	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431612186	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431612186	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431615352	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431618109	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431618109	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431623324	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431626499	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431628099	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431631975	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431626499	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431628099	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431631975	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431635115	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431675495	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431677868	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431679009	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431679009	m1_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431682489	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431687067	m2_new		Shopping_ads	ne_v_rynku								
-2431688919	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431692446	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2431694829	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431688919	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431692446	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2431694829	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431697559	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431698737	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2431700456	m3_norm_p				chempion	prybutok					2026-11-28T09:00+0300	
 2433	m0_new_p			khvist								
-2433584810	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2433586927	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2433588201	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2433590504	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2433592232	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2433584810	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2433586927	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2433588201	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2433590504	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2433592232	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2434	m0_new		Shopping_ads	deshevyi								
 2435	m0_new_p				rozvidka							
 2437	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 2438	m1_new		Shopping_ads	deshevyi								
 2443	m3_norm_p				chempion	prybutok						
 2444	m0_new_p			khvist								
-2445	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2445	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2446	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-2447	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
+2447	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 2448	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 2449	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2450	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2451	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2450	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2451	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2452	m0_new_p			khvist								
 2453	m0_new_p			khvist								
-2454	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2454	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2455	m0_new_p			khvist								
 2456	m0_norm	ads_zero	Shopping_ads									
 2457	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
@@ -2500,7 +2500,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2459	m0_new		Shopping_ads	deshevyi								
 2460	m0_new_p			khvist								
 2461	m0_new_p			khvist								
-2462	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2462	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2463	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 2464	m0_norm				rozvidka							
 2465	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
@@ -2534,7 +2534,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2508	m5_norm				konv_google							
 2509	m0_new_p			khvist								
 2510	m4_hit				chempion	prybutok						
-2511	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2511	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2511654018	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2511798202	m5_norm				chempion	prybutok						
 2512	m1_hit				chempion	prybutok						
@@ -2546,13 +2546,13 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2518	m0_new_p			khvist								
 2519	m0_new_p			khvist								
 2520	m4_norm				chempion	prybutok						
-2521	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2521	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2522	m4_new_p			khvist								
-2523	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2523	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2524	m0_new_p			khvist								
-2525	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2525	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2526	m0_new		Shopping_ads	deshevyi								
-2527	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2527	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2528	dup:Едім	ads_zero	Shopping_ads,Display_ads									
 2529	m0_norm_p			khvist								
 2529385480	m0_new_p			khvist								
@@ -2588,7 +2588,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2557	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 2560671214	m0_norm		Shopping_ads	deshevyi								
 2563	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
-2564	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
+2564	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 2565	m0_new_p			khvist								
 2566	m5_norm			khvist								
 2567	m0_new_p			khvist								
@@ -2628,12 +2628,12 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2598113928	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				1967			2026-11-28T09:00+0300	
 2598120755	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				1967			2026-11-28T09:00+0300	
 2598123545	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				1967			2026-11-28T09:00+0300	
-2599	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2599	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 26-008	m0_new		Shopping_ads	ne_v_rynku								
-2600	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2600	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2601	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2601855784	m5_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2602	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2602	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2603	m0_norm			khvist								
 2604	m0_new_p			khvist								
 2605	m0_norm		Shopping_ads	deshevyi								
@@ -2705,20 +2705,20 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2612376728	m0_norm_p			khvist								
 2613	m4_new_p				rozvidka							
 2614	m0_new_p			khvist								
-2615	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2615	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2616	m5_new_p				rozvidka							
 2617	m0_new		Shopping_ads	deshevyi								
 2618	m5_new_p				rozvidka							
-2618066604	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2619	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2620	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2621	dup:Тиква		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2618066604	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2619	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2620	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2621	dup:Едім		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2622	m0_new_p			khvist								
 2632	m5_hit_p				chempion							
 2635	m0_new		Shopping_ads	deshevyi								
 2636	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 2639814771	m0_new		Shopping_ads	pid_zamovlennya				499773			2026-11-28T09:00+0300	
-2639817174	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya				499773			2026-11-28T09:00+0300	
+2639817174	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya				499773			2026-11-28T09:00+0300	
 2642	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 2643	m1_new		Shopping_ads	deshevyi								
 2644	m0_new		Shopping_ads	deshevyi								
@@ -2737,7 +2737,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2657	m0_new		Shopping_ads	deshevyi								
 2658	m0_new		Shopping_ads	ne_v_rynku								
 2662	m0_new		Shopping_ads	deshevyi								
-2663	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2663	dup:Едім		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2664	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 2665	m4_new_p			khvist								
 2666	m0_new		Shopping_ads	deshevyi								
@@ -2771,7 +2771,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2692	m0_new			season_off								
 2693	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 27-006	m0_new		Shopping_ads	ne_v_rynku								
-2702	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+2702	m5_new		Shopping_ads	ne_v_nayavnosti								
 2703	m0_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2705	m4_new		Shopping_ads	season_off								
 2706	m4_new		Shopping_ads	season_off								
@@ -2784,13 +2784,13 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2713	m4_new			season_off								
 2714	m0_new		Shopping_ads	season_off								
 2717	m0_new		Shopping_ads	season_off								
-2718	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+2718	m3_new		Shopping_ads	ne_v_nayavnosti								
 2719	m4_new		Shopping_ads	season_off								
 2720	m0_new			season_off								
 2721	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2722	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2723	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-2724	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+2724	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2725	m0_new			season_off								
 2726	m0_new			season_off								
 2727	m0_norm			khvist								
@@ -2833,7 +2833,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2766	m0_new		Shopping_ads	ne_v_rynku								
 2767	m0_new		Shopping_ads	ne_v_rynku								
 2769	m0_norm	ads_zero	Shopping_ads	ne_v_rynku								
-2771	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+2771	m0_new		Shopping_ads	ne_v_nayavnosti								
 2772	m0_new		Shopping_ads	deshevyi								
 2773	m0_new		Shopping_ads	ne_v_rynku								
 2774	m0_norm		Shopping_ads	ne_v_rynku								
@@ -2881,7 +2881,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2821	m2_new		Shopping_ads	season_off								
 2822	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 2823	m5_norm		Shopping_ads	ne_v_rynku								
-2824	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+2824	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 2825	m0_new			season_off								
 2826	m0_new		Shopping_ads	season_off								
 2827	m3_new		Shopping_ads	season_off								
@@ -2916,7 +2916,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2858	m1_new		Shopping_ads	season_off								
 2859	m0_new			season_off								
 2860	m0_new		Shopping_ads	season_off								
-2861	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+2861	m0_norm		Shopping_ads	ne_v_nayavnosti								
 2862	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 2863	m0_new			season_off								
 2864	m0_new			season_off								
@@ -2939,7 +2939,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2897	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2898	m5_new		Shopping_ads	ne_v_rynku								
 2898975455	m0_new		Shopping_ads	season_off								
-2898976537	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+2898976537	m4_new		Shopping_ads	ne_v_nayavnosti								
 2899884694	m0_new_p			khvist								
 29-005	m0_new		Shopping_ads	ne_v_rynku								
 29-006	m0_new		Shopping_ads	ne_v_rynku								
@@ -2947,7 +2947,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 29-012	m0_new_p			khvist								
 2902552641	m0_new		Shopping_ads	ne_v_rynku								
 2906	m0_new		Shopping_ads	season_off								
-2909	m4_hit		Shopping_ads	vytraty_stelya	chempion	prybutok						
+2909	m4_hit				chempion	prybutok						
 2910	m0_new		Shopping_ads	ne_v_rynku								
 2913	m0_new		Shopping_ads	ne_v_rynku								
 2914	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
@@ -2974,7 +2974,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2934598784	m0_new		Shopping_ads	season_off				1967				
 2934599786	m0_new		Shopping_ads	pid_zamovlennya				1967			2026-11-28T09:00+0300	
 2935	m0_new		Shopping_ads	ne_v_rynku								
-2940	m4_hit		Shopping_ads	vytraty_stelya	chempion	prybutok						
+2940	m4_hit				chempion	prybutok						
 2941	m5_new		Shopping_ads	season_off								
 2942	m0_new			season_off								
 2945	m3_norm				chempion	prybutok						
@@ -2996,7 +2996,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2972	m0_new			season_off								
 2973	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 2974	m0_new		Shopping_ads	season_off								
-2975	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+2975	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 2976	m0_new		Shopping_ads	season_off								
 2977	m3_norm		Shopping_ads	deshevyi								
 2981	m0_new		Shopping_ads	deshevyi								
@@ -3052,7 +3052,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 3028	m0_norm_p			khvist								
 3029	m5_norm	ads_zero	Shopping_ads									
 3030	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-3031	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+3031	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 3032	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 3033	m5_hit				chempion	prybutok						
 3034	m5_norm_p			khvist								
@@ -3116,7 +3116,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482018624	m4_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		stop						
 482018628	m0_new			season_off				1967				
 482018631	m5_norm		Shopping_ads	deshevyi				499894				
-482018635	dup:Тиква		Shopping_ads,Display_ads			prybutok						
+482018635	m4_hit				chempion	prybutok						
 482018638	m0_new		Shopping_ads	ne_v_rynku								
 482018639	m0_new_p			khvist								
 482018640	m0_new_p			khvist								
@@ -3348,7 +3348,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 904087019	m0_new		Shopping_ads	deshevyi								
 93475062	m5_new		Shopping_ads,Display_ads	pid_zamovlennya				1967			2026-11-28T09:00+0300	
 93475703	m3_new		Shopping_ads,Display_ads	pid_zamovlennya				1967			2026-11-28T09:00+0300	
-93587246	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
+93587246	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 94569403	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 AK 681	m0_norm	ads_zero	Shopping_ads									
 ARHB3112BT	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
@@ -16843,8 +16843,8 @@ vt-10467	m5_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-10473	m3_norm		Shopping_ads	ne_v_rynku								
 vt-10478	m5_norm_p				chempion	prybutok						
 vt-10487	m5_norm_p			khvist								
-vt-10499	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-10539	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-10499	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-10539	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-10546	m2_norm_p				chempion							
 vt-10547	m3_norm		Shopping_ads	ne_v_rynku								
 vt-10553	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -17723,7 +17723,7 @@ vt-31-289-021	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28
 vt-310	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-3106	m5_new_p			khvist								
 vt-318	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	bez_foto						2026-11-28T09:00+0300	
-vt-320-60	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-320-60	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-3200-53	m0_norm			khvist								
 vt-3200-75	m5_new_p			khvist								
 vt-3203	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -17921,7 +17921,7 @@ vt-440356	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357469495
 vt-440376	m4_hit				chempion	prybutok			8693357465633			
 vt-4404 270	m5_norm			khvist								
 vt-440410	m5_new		Shopping_ads	pid_zamovlennya							2026-11-28T09:00+0300	
-vt-440414	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-440414	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-440436	m3_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti		stop						
 vt-440436-GOLD	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 vt-440456	m3_new_p			khvist					8693357591851			
@@ -17948,11 +17948,11 @@ vt-44419-1 ТЕХ	m5_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+03
 vt-44419-12 ТЕХ	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-44688-ТЕХ 6	m2_new_p			khvist								
 vt-44703	m2_new_p			khvist								
-vt-44704	dup:Тиква		Shopping_ads	ne_v_nayavnosti					8693357198951			
+vt-44704	m2_new		Shopping_ads	ne_v_nayavnosti					8693357198951			
 vt-44705	m5_new_p			khvist								
 vt-44728-2	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-44745	m3_new_p			khvist								
-vt-44767	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357161269			
+vt-44767	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357161269			
 vt-44787-1 ТЕХ	m5_norm		Shopping_ads	ne_v_rynku								
 vt-44872-1 ТЕХ	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-44872-12 ТЕХ	m4_new_p			khvist					4606065006887			
@@ -18176,7 +18176,7 @@ vt-50681	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti				668
 vt-50682	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-50683	m2_new_p			khvist				3196				
 vt-50684	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti				6388				
-vt-50685	dup:Тиква		Shopping_ads	pid_zamovlennya				3196			2026-11-28T09:00+0300	
+vt-50685	m0_new		Shopping_ads	pid_zamovlennya				3196			2026-11-28T09:00+0300	
 vt-50686	m3_new_p			khvist				3196				
 vt-50687	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti				668				
 vt-50688	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -18312,7 +18312,7 @@ vt-53713-SL	m3_new		Shopping_ads	ne_v_rynku
 vt-53942	m5_new_p			khvist								
 vt-5402	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-54036	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-54188	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+vt-54188	m2_new		Shopping_ads	ne_v_nayavnosti								
 vt-54209	m3_new_p			khvist				750				
 vt-54783	m2_norm			khvist								
 vt-54883	m3_norm	ads_zero	Shopping_ads									
@@ -18351,7 +18351,7 @@ vt-59001g	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-59004	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-590046	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-59006g	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-59007	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok			8693357003521			
+vt-59007	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok			8693357003521			
 vt-590076	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357609495			
 vt-59010	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-59013	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -18490,14 +18490,14 @@ vt-768-18 ГРАФІТ	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							20
 vt-768-18 ПЕРЛ	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-77030	m2_new		Shopping_ads	ne_v_nayavnosti					6902959913117			
 vt-77031	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-77032	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti					6902959913179			
+vt-77032	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti					6902959913179			
 vt-77075	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-77086	m3_new_p			khvist					6904610220152			
 vt-77089	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti					6904610220183		2026-11-28T09:00+0300	
 vt-77090	m3_norm_p			khvist					6902950022344			
 vt-77091	m2_new		Shopping_ads	ne_v_rynku					6902950022351			
-vt-77092	dup:Тиква		Shopping_ads	ne_v_nayavnosti					6902950022368			
-vt-77093	dup:Тиква		Shopping_ads	ne_v_nayavnosti					6902950022375			
+vt-77092	m2_new		Shopping_ads	ne_v_nayavnosti					6902950022368			
+vt-77093	m2_new		Shopping_ads	ne_v_nayavnosti					6902950022375			
 vt-77094	m4_new_p			khvist					6904610533078			
 vt-77095	m4_new_p			khvist					6904610533085			
 vt-77327	m4_new_p			khvist					8200013689212			
@@ -18534,7 +18534,7 @@ vt-80028	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00
 vt-80030	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-80030 S&T	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-80032	m5_norm			khvist								
-vt-80034	dup:Тиква	ads_zero	Shopping_ads,Display_ads	ne_v_prajsi					4823082543076			
+vt-80034	m5_norm	ads_zero	Shopping_ads,Display_ads	ne_v_prajsi					4823082543076			
 vt-80056	m3_new		Shopping_ads	ne_v_rynku								
 vt-80113-1 ТЕХ	m5_new_p			khvist								
 vt-80229	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
@@ -18978,7 +18978,7 @@ vt-AR1415B	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-AR1419AB	m4_norm		Shopping_ads	deshevyi								
 vt-AR1420AB	m3_norm		Shopping_ads	ne_v_rynku								
 vt-AR1420AW	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-AR1425BG	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+vt-AR1425BG	m3_new		Shopping_ads	ne_v_nayavnosti								
 vt-AR1427AB	m4_norm_p			khvist								
 vt-AR1431BM	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-AR1433BA	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
@@ -19270,7 +19270,7 @@ vt-AR2602BD	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-AR2602SP	m3_new_p			khvist								
 vt-AR2603BD	m2_norm		Shopping_ads	ne_v_rynku								
 vt-AR2603L	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-AR2610BGB	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR2610BGB	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2612BD	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2612BH	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2613GR	m2_norm				chempion	prybutok						
@@ -19346,7 +19346,7 @@ vt-AR2637BR	m4_norm	ads_zero	Shopping_ads	ne_v_rynku
 vt-AR2638B	m2_new		Shopping_ads	ne_v_rynku								
 vt-AR2638BS	m2_new_p			khvist								
 vt-AR2639GW	m3_new_p			khvist								
-vt-AR2640B	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR2640B	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2640BGR	m2_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2640BHR	m2_new_p			khvist								
 vt-AR2640BT	m2_norm		Shopping_ads	vytraty_stelya	chempion							
@@ -19368,7 +19368,7 @@ vt-AR2645DMM	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300
 vt-AR2645FC	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-AR2645OT	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-AR2645RN	m2_new		Shopping_ads	ne_v_rynku								
-vt-AR2645STR	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR2645STR	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2645YT	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-AR2648GREY	m3_norm	ads_zero	Shopping_ads	deshevyi								
 vt-AR2648GW	m2_new		Shopping_ads	ne_v_rynku								
@@ -19593,13 +19593,13 @@ vt-AR3495	m3_norm_p			khvist
 vt-AR3498	m4_new		Shopping_ads	ne_v_rynku								
 vt-AR3499	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR3503I	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
-vt-AR3504I	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-AR3505I	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR3504I	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR3505I	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR3509I	m4_new_p			khvist					0674012402017	AR3509I		
 vt-AR3511I	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-AR3513I	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-AR3514I	m5_new_p			khvist								
-vt-AR3515I	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR3515I	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR3516I	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-AR3517I	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-AR3518I	m4_norm			khvist								
@@ -19649,7 +19649,7 @@ vt-AR3629P	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-AR3630P	m3_new		Shopping_ads	ne_v_rynku					0674012401850	AR3630P		
 vt-AR3634PS	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR3635P	m0_norm		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
-vt-AR3637P	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR3637P	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR3704	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 vt-AR3706	m3_norm		Shopping_ads	deshevyi					0674012402390	AR3706		
 vt-AR3708	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -19758,7 +19758,7 @@ vt-ARHB3109W	m2_new		Shopping_ads	ne_v_rynku
 vt-ARHB3110GB	m3_norm_p			khvist								
 vt-ARHB3110WB	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ARHB3112CB	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-ARHB3113GW	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi								
+vt-ARHB3113GW	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 vt-ARHB3113WB	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ARHB3123BB	m2_new_p			khvist								
 vt-ARHB3123WB	m2_new		Shopping_ads	ne_v_rynku								
@@ -19783,7 +19783,7 @@ vt-ARHB3187A	m3_norm		Shopping_ads	ne_v_rynku
 vt-ARHB3187G	m3_new		Shopping_ads	ne_v_rynku								
 vt-ARHB3301OB	m3_new_p			khvist								
 vt-ARHB3301RB	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
-vt-ARHB3301RG	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-ARHB3301RG	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ARHB3503BB	m3_hit				chempion	prybutok						
 vt-ARHB3503DB	m3_norm			khvist								
 vt-ARHB3503EB	m3_norm_p			khvist								
@@ -19986,7 +19986,7 @@ vt-BCA4697Z-18	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28
 vt-BCA4697Z-20	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-BCA4697Z-22	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-BCB3201	m5_norm_p				chempion							
-vt-BCB3202	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-BCB3202	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-BCB328	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-BG-4211 MM	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-BG-4991-GR	m5_norm			khvist								
@@ -20264,7 +20264,7 @@ vt-H4997	m5_norm		Shopping_ads	ne_v_nayavnosti
 vt-H5604	m2_norm		Shopping_ads	ne_v_rynku								
 vt-H6142	m4_new_p			khvist								
 vt-H6345	m4_new_p			khvist								
-vt-H6346	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-H6346	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-H7795	m5_new_p			khvist								
 vt-HD-3	m0_new		Shopping_ads	ne_v_nayavnosti	bez_foto						2026-11-28T09:00+0300	
 vt-HG07319А	m4_norm_p			khvist								
@@ -20514,7 +20514,7 @@ vt-KM-2010WH	m2_norm			khvist				3435
 vt-KM-2011BL	m2_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti				3435				
 vt-KM-2011WH	m2_norm				chempion	prybutok		3435				
 vt-KM-2021	m2_norm_p			khvist								
-vt-KM-2024	dup:Тиква		Shopping_ads	pid_zamovlennya				3435			2026-11-28T09:00+0300	
+vt-KM-2024	m0_norm		Shopping_ads	pid_zamovlennya				3435			2026-11-28T09:00+0300	
 vt-KM-2030	m2_norm	ads_zero	Shopping_ads	ne_v_rynku				3435				
 vt-KM-2031	m5_norm				chempion	prybutok		3435				
 vt-KM-2032	m2_norm		Shopping_ads	ne_v_rynku				3435				
@@ -21324,7 +21324,7 @@ vt-L5406	m2_norm		Shopping_ads	ne_v_nayavnosti
 vt-L761-12	m5_norm_p			khvist								
 vt-L761-9	m5_new_p			khvist								
 vt-LD75190	m5_norm	ads_zero	Shopping_ads	deshevyi								
-vt-LK240506	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+vt-LK240506	m2_new		Shopping_ads	ne_v_nayavnosti								
 vt-LNP85	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-LNP95	m5_new_p			khvist								
 vt-LTBS-L0160	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -21352,7 +21352,7 @@ vt-LXY4009-1	m5_new_p			khvist
 vt-LXY5010-4	m5_new_p			khvist					6970766341126	LXY5010-4		
 vt-LXZB19	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-LXZS0602	m5_new_p			khvist								
-vt-LXZS0604	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-LXZS0604	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-LXZS0615-2	m5_new_p			khvist								
 vt-LXZS0624-1	m5_new_p			khvist					6936663304152	LXZS0624-1		
 vt-LYJ-12	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -21505,7 +21505,7 @@ vt-S445012C/U 067/12	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026
 vt-S453508-A	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-S506710-А	m2_norm		Shopping_ads	ne_v_rynku								
 "vt-S506710BZJ - ""1"" - A"	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-S507009-А	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+vt-S507009-А	m2_norm		Shopping_ads	ne_v_nayavnosti								
 vt-S508610-А	m3_norm			khvist								
 vt-S701	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti				602			2026-11-28T09:00+0300	
 vt-SC10	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -21573,7 +21573,7 @@ vt-TU1992-2	m3_new_p			khvist
 vt-TU2081-2	m5_new_p			khvist								
 vt-TU2081-3	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-TU2081-5	m3_new_p			khvist								
-vt-TU2081-6	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-TU2081-6	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-TU2204-2	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-TU2204-3	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 vt-TU2204-4	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
@@ -21706,7 +21706,7 @@ vt-ZFC038 LV	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok
 vt-ZFC045 CR 89863	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
 vt-ZFC465 CR	m5_new		Shopping_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-ZFC465 OP	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-ZFC465 PF	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-ZFC465 PF	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ZS 17 R	m5_norm		Shopping_ads	deshevyi					6906136370236			
 vt-a52736	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-28T09:00+0300	
 vt-a53922	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-28T09:00+0300	
@@ -21835,7 +21835,7 @@ vt-ФП-10	m5_norm	ads_zero	Shopping_ads
 vt-ФП-15	m0_norm_p			khvist								
 vt-ФПК-1	m5_norm			khvist								
 vt-ФПЛА-1	m5_norm			khvist								
-vt-ФПО-12	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-ФПО-12	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ФПП-1П	m5_norm		Shopping_ads	deshevyi								
 vt-ФПТ- М	m5_new		Shopping_ads	deshevyi								
 vt-ФПТ- С	m5_new		Shopping_ads	deshevyi								
