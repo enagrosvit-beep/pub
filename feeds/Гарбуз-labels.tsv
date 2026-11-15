@@ -360,15 +360,15 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0310	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				500035			2026-11-29T09:00+0300	
 0311	m0_norm		Shopping_ads	deshevyi				500035				
 0312	m5_norm	ads_zero	Shopping_ads					276				
-0313	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya				4928			2026-11-29T09:00+0300	
+0313	m0_norm	mykolai		pid_zamovlennya				4928			2026-11-29T09:00+0300	
 0314	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				276				
 0315	m0_new_p			khvist				4928				
 0316	m0_norm			khvist				4928				
 0317	m0_new		Shopping_ads	deshevyi				4928				
 0318	m4_norm_p				chempion			4928				
-0330	m1_new_p			khvist								
+0330	m1_new_p	mykolai		khvist								
 0331	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-29T09:00+0300	
-0332	m3_norm_p		Shopping_ads	cina_vid_4000								
+0332	m3_norm_p	mykolai		cina_vid_4000								
 0333	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-29T09:00+0300	
 0334	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti			Sonac					
 0335	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -685,7 +685,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0658	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-29T09:00+0300	
 0659	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-29T09:00+0300	
 0660	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
-0661	m0_norm_p			khvist								
+0661	m0_norm_p	mykolai		khvist								
 0662	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
 0663	m0_norm_p			cina_vid_4000								
 0664	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
@@ -3039,7 +3039,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 3000	m0_norm			season_off								
 3001	m0_new			season_off								
 3002	m0_new			season_off								
-3003	m0_new		Shopping_ads	season_off								
+3003	m0_new	mykolai		season_off								
 3004	m2_new		Shopping_ads	season_off								
 3005	m0_norm			khvist								
 3012	m0_norm			khvist								
@@ -3307,7 +3307,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482027304	m5_hit				chempion	prybutok						
 482027305	m5_hit				chempion	prybutok						
 482027306	m0_norm	ads_zero	Shopping_ads									
-482027307	m5_new		Shopping_ads	season_off								
+482027307	m5_new	mykolai		season_off								
 482027308	m5_norm				chempion	prybutok						
 482027309	m5_norm			khvist								
 482027310	m5_hit			season_off	chempion	prybutok						
@@ -3341,7 +3341,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 5904517128279	m2_norm_p				chempion							
 80229	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-29T09:00+0300	
 80229-2	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
-808	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
+808	m3_new	mykolai		pid_zamovlennya							2026-11-29T09:00+0300	
 87335110	m4_norm		Shopping_ads,Display_ads	pid_zamovlennya				1967			2026-11-29T09:00+0300	
 87335563	m0_new		Shopping_ads	season_off				1967				
 87393571	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				1967			2026-11-29T09:00+0300	
@@ -9495,10 +9495,10 @@ PLX-ЩНк-50	m5_new		Shopping_ads	deshevyi
 PLX-ЩНк-63	m5_new		Shopping_ads	deshevyi								
 PLX-ЩНк-76	m2_new		Shopping_ads	deshevyi								
 RENET-T-612	m5_norm			khvist								
-S600	m1_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
+S600	m1_norm	mykolai		pid_zamovlennya							2026-11-29T09:00+0300	
 SET-MYSKY-ZAUBERG-5	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
 SET-SHOPER-KOTY-3	m3_norm				chempion	prybutok						
-SK-603	m1_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
+SK-603	m1_new	mykolai		pid_zamovlennya							2026-11-29T09:00+0300	
 TE-330	m5_norm			khvist								
 VS0405	m0_new		Shopping_ads	ne_v_rynku								
 Y 029	m0_norm	ads_zero	Shopping_ads									
@@ -10807,7 +10807,7 @@ hc-HECHT5013	m0_new		Shopping_ads,Display_ads	drop_marzha				3120		HECHT5013
 hc-HECHT5030	m0_new		Shopping_ads,Display_ads	drop_t8				694		HECHT5030		
 hc-HECHT5036	m0_new		Shopping_ads,Display_ads	drop_t8				1223		HECHT5036		
 hc-HECHT504	m0_new		Shopping_ads,Display_ads	drop_t8				694		HECHT504		
-hc-HECHT50437	m0_new		Shopping_ads,Display_ads	drop_t8				694		HECHT50437		
+hc-HECHT50437	m0_new	mykolai		drop_t8				694		HECHT50437		
 hc-HECHT5051S	m0_new		Shopping_ads,Display_ads	drop_marzha				694		HECHT5051S		
 hc-HECHT5060	m0_new		Shopping_ads,Display_ads	drop_marzha				2204		HECHT5060		
 hc-HECHT5107	m0_new		Shopping_ads,Display_ads	drop_marzha				5866		HECHT5107		
@@ -11592,11 +11592,11 @@ kv-EF244045	m3_norm	ads_zero	Shopping_ads
 kv-FD31D21E	m3_norm_p			khvist								
 led-259	m1_norm			cina_vid_4000				100				
 led-720	m3_new_p			khvist				106				
-led-810	m3_norm			khvist				104				
-led-pglf-blue	m4_norm_p				chempion			100				
-led-pglf-pink	m1_norm				rozvidka			100				
-led-t3	m3_hit				chempion	prybutok		100				
-led-yj101	m3_norm				chempion	prybutok		107				
+led-810	m3_norm	mykolai		khvist				104				
+led-pglf-blue	m4_norm_p	mykolai			chempion			100				
+led-pglf-pink	m1_norm	mykolai			rozvidka			100				
+led-t3	m3_hit	mykolai			chempion	prybutok		100				
+led-yj101	m3_norm	mykolai			chempion	prybutok		107				
 lg-038-6-100B	m0_new		Shopping_ads,Display_ads	drop_marzha						038-6-100B		
 lg-038-6-100BE	m0_new		Shopping_ads,Display_ads	drop_marzha						038-6-100BE		
 lg-038-6-100G	m0_new		Shopping_ads,Display_ads	drop_marzha						038-6-100G		
@@ -11829,9 +11829,9 @@ lg-503-106-M-336W	m0_new		Shopping_ads,Display_ads	drop_marzha						503-106-M-33
 lg-507-66-60	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-507-90-60R	m0_new		Shopping_ads,Display_ads	drop_marzha						507-90-60R		
 lg-507-91-60	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-509-23P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-509-28BEGR	m0_new		Shopping_ads,Display_ads	drop_marzha						509-28BEGR		
-lg-509-28BRV	m0_new		Shopping_ads,Display_ads	drop_marzha						509-28BRV		
+lg-509-23P	m0_new	mykolai		drop_marzha								
+lg-509-28BEGR	m0_new	mykolai		drop_marzha						509-28BEGR		
+lg-509-28BRV	m0_new	mykolai		drop_marzha						509-28BRV		
 lg-509-28WBR	m0_new		Shopping_ads,Display_ads	drop_marzha						509-28WBR		
 lg-509-28WV	m0_new		Shopping_ads,Display_ads	drop_marzha						509-28WV		
 lg-50L5MGW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		50L5MGW		
@@ -11863,7 +11863,7 @@ lg-515-17-60S	m0_new		Shopping_ads,Display_ads	drop_marzha						515-17-60S
 lg-515-17-60W	m0_new		Shopping_ads,Display_ads	drop_marzha						515-17-60W		
 lg-515-5-60M	m0_new		Shopping_ads,Display_ads	drop_marzha						515-5-60M		
 lg-515-5-60V	m0_new		Shopping_ads,Display_ads	drop_marzha						515-5-60V		
-lg-520-27-50BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-520-27-50BR	m0_new	mykolai		drop_marzha								
 lg-529-1P	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-534-19-68-1	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-534-19-68-2	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -11922,7 +11922,7 @@ lg-6MBY	m0_new		Shopping_ads,Display_ads	drop_marzha				2608
 lg-6MWBL	m0_new		Shopping_ads,Display_ads	drop_marzha				2608				
 lg-6MWMLNEW	m0_new		Shopping_ads,Display_ads	drop_t5				2608		6MWMLNEW		
 lg-6MWW	m0_new		Shopping_ads,Display_ads	drop_marzha				2608				
-lg-7230	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-7230	m0_new	mykolai		drop_marzha								
 lg-80116601	m0_new		Shopping_ads,Display_ads	drop_marzha				3144				
 lg-801166012	m0_new		Shopping_ads,Display_ads	drop_marzha				3144				
 lg-80117706	m0_new		Shopping_ads,Display_ads	drop_marzha				3144				
@@ -12095,7 +12095,7 @@ lg-CR-1-30	m0_new		Shopping_ads,Display_ads	drop_marzha
 lg-CR-1-31	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-CR-1-32	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-CR-1-33	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-CR-1-34	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-CR-1-34	m0_new	mykolai		drop_marzha								
 lg-CR-1-35	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-CR-1-37	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-CR-1-38	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -12263,36 +12263,36 @@ lg-DS-32P	m0_new		Shopping_ads,Display_ads	drop_marzha
 lg-DW12P	m0_new		Shopping_ads,Display_ads	drop_marzha				264		DW12P		
 lg-FM-11A	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-11B	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-12BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-12P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-12Y	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-FM-12BL	m0_new	mykolai		drop_marzha								
+lg-FM-12P	m0_new	mykolai		drop_marzha								
+lg-FM-12Y	m0_new	mykolai		drop_marzha								
 lg-FM-14A	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-14B	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-14C	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-14D	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-15	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-FM-15	m0_new	mykolai		drop_marzha								
 lg-FM-16	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-17A	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-17B	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-17C	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-FM-17A	m0_new	mykolai		drop_marzha								
+lg-FM-17B	m0_new	mykolai		drop_marzha								
+lg-FM-17C	m0_new	mykolai		drop_marzha								
 lg-FM-1A	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-1B	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-21A	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-21B	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-FM-21A	m0_new	mykolai		drop_marzha								
+lg-FM-21B	m0_new	mykolai		drop_marzha								
 lg-FM-21C	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-21D	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-22A	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-22B	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-22C	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-22D	m0_new		Shopping_ads,Display_ads	drop_marzha						FM-22D		
+lg-FM-21D	m0_new	mykolai		drop_marzha								
+lg-FM-22A	m0_new	mykolai		drop_marzha								
+lg-FM-22B	m0_new	mykolai		drop_marzha								
+lg-FM-22C	m0_new	mykolai		drop_marzha								
+lg-FM-22D	m0_new	mykolai		drop_marzha						FM-22D		
 lg-FM-23A	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-23C	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-23D	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-24B	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-24D	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-25A	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-25B	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-25C	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-FM-24B	m0_new	mykolai		drop_marzha								
+lg-FM-24D	m0_new	mykolai		drop_marzha								
+lg-FM-25A	m0_new	mykolai		drop_marzha								
+lg-FM-25B	m0_new	mykolai		drop_marzha								
+lg-FM-25C	m0_new	mykolai		drop_marzha								
 lg-FM-27A	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-27B	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-27C	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -12307,16 +12307,16 @@ lg-FM-34D	m0_new		Shopping_ads,Display_ads	drop_marzha
 lg-FM-35A	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-35B	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-35D	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-37A	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-37B	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-FM-37A	m0_new	mykolai		drop_marzha								
+lg-FM-37B	m0_new	mykolai		drop_marzha								
 lg-FM-42BE	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-42GR	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-42P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-52A	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-52B	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-52C	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-52D	m0_new		Shopping_ads,Display_ads	drop_marzha						FM-52D		
-lg-FM-53A	m0_new		Shopping_ads,Display_ads	drop_marzha						FM-53A		
+lg-FM-52A	m0_new	mykolai		drop_marzha								
+lg-FM-52B	m0_new	mykolai		drop_marzha								
+lg-FM-52C	m0_new	mykolai		drop_marzha								
+lg-FM-52D	m0_new	mykolai		drop_marzha						FM-52D		
+lg-FM-53A	m0_new	mykolai		drop_marzha						FM-53A		
 lg-FM-53B	m0_new		Shopping_ads,Display_ads	drop_marzha						FM-53B		
 lg-FM-54A	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-54B	m0_new		Shopping_ads,Display_ads	drop_marzha						FM-54B		
@@ -12326,7 +12326,7 @@ lg-FM-56A	m0_new		Shopping_ads,Display_ads	drop_marzha
 lg-FM-56B	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-56C	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-56D	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-FM-8	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-FM-8	m0_new	mykolai		drop_marzha								
 lg-FM-A23-5	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-CS-10C	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-FM-CS-10D	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -12408,7 +12408,7 @@ lg-HP-10359-1	m0_new		Shopping_ads,Display_ads	drop_marzha				602
 lg-HP-10359-10	m0_new		Shopping_ads,Display_ads	drop_marzha				602				
 lg-HP-10359-11BL	m0_new		Shopping_ads,Display_ads	drop_marzha				602				
 lg-HP-10359-11M	m0_new		Shopping_ads,Display_ads	drop_marzha				602				
-lg-HP-10359-11P	m0_new		Shopping_ads,Display_ads	drop_marzha				602				
+lg-HP-10359-11P	m0_new	mykolai		drop_marzha				602				
 lg-HP-10359-11V	m0_new		Shopping_ads,Display_ads	drop_marzha				602				
 lg-HP-10359-15	m0_new		Shopping_ads,Display_ads	drop_marzha				602				
 lg-HP-10359-16	m0_new		Shopping_ads,Display_ads	drop_marzha				602				
@@ -12528,33 +12528,33 @@ lg-HP-14-35	m0_new		Shopping_ads,Display_ads	drop_marzha
 lg-HP-14-35GR	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-14-35P	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-14-35V	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-36BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-36V	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-37BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-37BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-37GR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-37P	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-HP-14-36BL	m0_new	mykolai		drop_marzha								
+lg-HP-14-36V	m0_new	mykolai		drop_marzha								
+lg-HP-14-37BL	m0_new	mykolai		drop_marzha								
+lg-HP-14-37BR	m0_new	mykolai		drop_marzha								
+lg-HP-14-37GR	m0_new	mykolai		drop_marzha								
+lg-HP-14-37P	m0_new	mykolai		drop_marzha								
 lg-HP-14-39B	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-14-39BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-14-39G	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-3BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-3P	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-HP-14-3BL	m0_new	mykolai		drop_marzha								
+lg-HP-14-3P	m0_new	mykolai		drop_marzha								
 lg-HP-14-40GR	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-14-40M	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-14-40P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-43BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-43GR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-43P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-43V	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-44BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-44TU	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-45BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-45O	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-45R	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-46B	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-46BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-46P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-14-46V	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-HP-14-43BR	m0_new	mykolai		drop_marzha								
+lg-HP-14-43GR	m0_new	mykolai		drop_marzha								
+lg-HP-14-43P	m0_new	mykolai		drop_marzha								
+lg-HP-14-43V	m0_new	mykolai		drop_marzha								
+lg-HP-14-44BL	m0_new	mykolai		drop_marzha								
+lg-HP-14-44TU	m0_new	mykolai		drop_marzha								
+lg-HP-14-45BL	m0_new	mykolai		drop_marzha								
+lg-HP-14-45O	m0_new	mykolai		drop_marzha								
+lg-HP-14-45R	m0_new	mykolai		drop_marzha								
+lg-HP-14-46B	m0_new	mykolai		drop_marzha								
+lg-HP-14-46BL	m0_new	mykolai		drop_marzha								
+lg-HP-14-46P	m0_new	mykolai		drop_marzha								
+lg-HP-14-46V	m0_new	mykolai		drop_marzha								
 lg-HP-14-47W	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-14-48V	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-14-49BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -12590,10 +12590,10 @@ lg-HP-14-7W	m0_new		Shopping_ads,Display_ads	drop_marzha
 lg-HP-14-9GR	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-14-9V	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-14-9W	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-15-13	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-15-14	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-HP-15-13	m0_new	mykolai		drop_marzha								
+lg-HP-15-14	m0_new	mykolai		drop_marzha								
 lg-HP-15-15	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-15-16	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-HP-15-16	m0_new	mykolai		drop_marzha								
 lg-HP-15-20	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-15-21	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-15-22	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -12705,7 +12705,7 @@ lg-HP-1727	m0_new		Shopping_ads,Display_ads	drop_marzha				602
 lg-HP-18-1P	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-18-1TU	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-18-1TUP	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-18-3BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-HP-18-3BL	m0_new	mykolai		drop_marzha								
 lg-HP-19-1-18CM	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-19-1-18CM		
 lg-HP-19-103	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-19-104	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -12937,15 +12937,15 @@ lg-HP-20-67	m0_new		Shopping_ads,Display_ads	drop_marzha
 lg-HP-20-8	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-21-1	m0_new		Shopping_ads,Display_ads	drop_marzha				3684		HP-21-1		
 lg-HP-21-2	m0_new		Shopping_ads,Display_ads	drop_marzha				3684		HP-21-2		
-lg-HP-23-12M	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-23-12V	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-23-13BE	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-23-13BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-23-13GR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-23-13R	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-23-13V	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-23-13W	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-23-13Y	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-HP-23-12M	m0_new	mykolai		drop_marzha								
+lg-HP-23-12V	m0_new	mykolai		drop_marzha								
+lg-HP-23-13BE	m0_new	mykolai		drop_marzha								
+lg-HP-23-13BL	m0_new	mykolai		drop_marzha								
+lg-HP-23-13GR	m0_new	mykolai		drop_marzha								
+lg-HP-23-13R	m0_new	mykolai		drop_marzha								
+lg-HP-23-13V	m0_new	mykolai		drop_marzha								
+lg-HP-23-13W	m0_new	mykolai		drop_marzha								
+lg-HP-23-13Y	m0_new	mykolai		drop_marzha								
 lg-HP-23-14ML	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-23-14Y	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-23-15B	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -13596,10 +13596,10 @@ lg-HP-46-5	m0_new		Shopping_ads,Display_ads	drop_marzha
 lg-HP-46-7	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-46-9-A	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-47-2	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-47-5	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-HP-47-5	m0_new	mykolai		drop_marzha								
 lg-HP-47-6G	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-47-6M	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-47-7	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-HP-47-7	m0_new	mykolai		drop_marzha								
 lg-HP-47-8BE	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-47-8G	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-47-9	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -13709,69 +13709,69 @@ lg-HP-5-77	m0_new		Shopping_ads,Display_ads	drop_marzha
 lg-HP-5-9MF	m0_new		Shopping_ads,Display_ads	drop_marzha				4928				
 lg-HP-51-5	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-51-7	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-10BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-10P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-11BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-15B	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-15BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-15GR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-15P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-16BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-16GR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-16V	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-16Y	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-17BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-18BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-19	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-1BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-1P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-1W	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-20	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-20GR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-21BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-21P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-21V	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-22BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-24CAP	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-24CROC	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-24DUCK	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-24TURT	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-25B	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-25V	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-27	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-28	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-29BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-2BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-30BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-31BAG	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-31BEAR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-31COL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-31LAP	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-32BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-32P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-32R	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-32V	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-34BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-3BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-4GR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-4P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-4V	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-5BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-5P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-6	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-6P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-6V	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-7BR	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-7P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-7V	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-8BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-8P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-8V	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-8Y	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-9B	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-9P	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-9PP	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-55-9V	m0_new		Shopping_ads,Display_ads	drop_marzha								
+lg-HP-55-10BR	m0_new	mykolai		drop_marzha								
+lg-HP-55-10P	m0_new	mykolai		drop_marzha								
+lg-HP-55-11BR	m0_new	mykolai		drop_marzha								
+lg-HP-55-15B	m0_new	mykolai		drop_marzha								
+lg-HP-55-15BR	m0_new	mykolai		drop_marzha								
+lg-HP-55-15GR	m0_new	mykolai		drop_marzha								
+lg-HP-55-15P	m0_new	mykolai		drop_marzha								
+lg-HP-55-16BR	m0_new	mykolai		drop_marzha								
+lg-HP-55-16GR	m0_new	mykolai		drop_marzha								
+lg-HP-55-16V	m0_new	mykolai		drop_marzha								
+lg-HP-55-16Y	m0_new	mykolai		drop_marzha								
+lg-HP-55-17BR	m0_new	mykolai		drop_marzha								
+lg-HP-55-18BR	m0_new	mykolai		drop_marzha								
+lg-HP-55-19	m0_new	mykolai		drop_marzha								
+lg-HP-55-1BL	m0_new	mykolai		drop_marzha								
+lg-HP-55-1P	m0_new	mykolai		drop_marzha								
+lg-HP-55-1W	m0_new	mykolai		drop_marzha								
+lg-HP-55-20	m0_new	mykolai		drop_marzha								
+lg-HP-55-20GR	m0_new	mykolai		drop_marzha								
+lg-HP-55-21BL	m0_new	mykolai		drop_marzha								
+lg-HP-55-21P	m0_new	mykolai		drop_marzha								
+lg-HP-55-21V	m0_new	mykolai		drop_marzha								
+lg-HP-55-22BR	m0_new	mykolai		drop_marzha								
+lg-HP-55-24CAP	m0_new	mykolai		drop_marzha								
+lg-HP-55-24CROC	m0_new	mykolai		drop_marzha								
+lg-HP-55-24DUCK	m0_new	mykolai		drop_marzha								
+lg-HP-55-24TURT	m0_new	mykolai		drop_marzha								
+lg-HP-55-25B	m0_new	mykolai		drop_marzha								
+lg-HP-55-25V	m0_new	mykolai		drop_marzha								
+lg-HP-55-27	m0_new	mykolai		drop_marzha								
+lg-HP-55-28	m0_new	mykolai		drop_marzha								
+lg-HP-55-29BR	m0_new	mykolai		drop_marzha								
+lg-HP-55-2BR	m0_new	mykolai		drop_marzha								
+lg-HP-55-30BR	m0_new	mykolai		drop_marzha								
+lg-HP-55-31BAG	m0_new	mykolai		drop_marzha								
+lg-HP-55-31BEAR	m0_new	mykolai		drop_marzha								
+lg-HP-55-31COL	m0_new	mykolai		drop_marzha								
+lg-HP-55-31LAP	m0_new	mykolai		drop_marzha								
+lg-HP-55-32BL	m0_new	mykolai		drop_marzha								
+lg-HP-55-32P	m0_new	mykolai		drop_marzha								
+lg-HP-55-32R	m0_new	mykolai		drop_marzha								
+lg-HP-55-32V	m0_new	mykolai		drop_marzha								
+lg-HP-55-34BR	m0_new	mykolai		drop_marzha								
+lg-HP-55-3BR	m0_new	mykolai		drop_marzha								
+lg-HP-55-4GR	m0_new	mykolai		drop_marzha								
+lg-HP-55-4P	m0_new	mykolai		drop_marzha								
+lg-HP-55-4V	m0_new	mykolai		drop_marzha								
+lg-HP-55-5BL	m0_new	mykolai		drop_marzha								
+lg-HP-55-5P	m0_new	mykolai		drop_marzha								
+lg-HP-55-6	m0_new	mykolai		drop_marzha								
+lg-HP-55-6P	m0_new	mykolai		drop_marzha								
+lg-HP-55-6V	m0_new	mykolai		drop_marzha								
+lg-HP-55-7BR	m0_new	mykolai		drop_marzha								
+lg-HP-55-7P	m0_new	mykolai		drop_marzha								
+lg-HP-55-7V	m0_new	mykolai		drop_marzha								
+lg-HP-55-8BL	m0_new	mykolai		drop_marzha								
+lg-HP-55-8P	m0_new	mykolai		drop_marzha								
+lg-HP-55-8V	m0_new	mykolai		drop_marzha								
+lg-HP-55-8Y	m0_new	mykolai		drop_marzha								
+lg-HP-55-9B	m0_new	mykolai		drop_marzha								
+lg-HP-55-9P	m0_new	mykolai		drop_marzha								
+lg-HP-55-9PP	m0_new	mykolai		drop_marzha								
+lg-HP-55-9V	m0_new	mykolai		drop_marzha								
 lg-HP-56-24BL	m0_new		Shopping_ads,Display_ads	drop_marzha				602				
 lg-HP-56-24G	m0_new		Shopping_ads,Display_ads	drop_marzha				602				
 lg-HP-56-24GR	m0_new		Shopping_ads,Display_ads	drop_marzha				602				
@@ -13969,10 +13969,10 @@ lg-HP-GM-31	m0_new		Shopping_ads,Display_ads	drop_marzha
 lg-HP-GM-32	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-GM-4	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-GM-5	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-GM-6	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-GM-6		
-lg-HP-GM-7	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-GM-7		
-lg-HP-GM-8	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-GM-8		
-lg-HP-GM-9	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-GM-9		
+lg-HP-GM-6	m0_new	mykolai		drop_marzha						HP-GM-6		
+lg-HP-GM-7	m0_new	mykolai		drop_marzha						HP-GM-7		
+lg-HP-GM-8	m0_new	mykolai		drop_marzha						HP-GM-8		
+lg-HP-GM-9	m0_new	mykolai		drop_marzha						HP-GM-9		
 lg-HP-GM231	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-GM231		
 lg-HP-GP-1	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-GP-10	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -14083,15 +14083,15 @@ lg-HP-L-9	m0_new		Shopping_ads,Display_ads	drop_marzha
 lg-HP-N40	m0_new		Shopping_ads,Display_ads	drop_marzha				4928				
 lg-HP-N56	m0_new		Shopping_ads,Display_ads	drop_marzha				4928				
 lg-HP-N57	m0_new		Shopping_ads,Display_ads	drop_marzha				4928				
-lg-HP-S-1NDBL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-S-1NDP	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-S-2ND	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP-S-3NDO	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-S-3NDO		
-lg-HP-S-4NDBL	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-S-4NDBL		
-lg-HP-S-4NDV	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-S-4NDV		
-lg-HP-S-5NDBL	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-S-5NDBL		
-lg-HP-S-5NDP	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-S-5NDP		
-lg-HP-S-5NDY	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-S-5NDY		
+lg-HP-S-1NDBL	m0_new	mykolai		drop_marzha								
+lg-HP-S-1NDP	m0_new	mykolai		drop_marzha								
+lg-HP-S-2ND	m0_new	mykolai		drop_marzha								
+lg-HP-S-3NDO	m0_new	mykolai		drop_marzha						HP-S-3NDO		
+lg-HP-S-4NDBL	m0_new	mykolai		drop_marzha						HP-S-4NDBL		
+lg-HP-S-4NDV	m0_new	mykolai		drop_marzha						HP-S-4NDV		
+lg-HP-S-5NDBL	m0_new	mykolai		drop_marzha						HP-S-5NDBL		
+lg-HP-S-5NDP	m0_new	mykolai		drop_marzha						HP-S-5NDP		
+lg-HP-S-5NDY	m0_new	mykolai		drop_marzha						HP-S-5NDY		
 lg-HP-SC-002-white	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-SD-10	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP-SD-3	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -14136,8 +14136,8 @@ lg-HP-V-031	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-V-031
 lg-HP-V-071	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-V-071		
 lg-HP-V-082	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-V-082		
 lg-HP-V-105	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-V-105		
-lg-HP-V-151	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-V-151		
-lg-HP-V-155	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-V-155		
+lg-HP-V-151	m0_new	mykolai		drop_marzha						HP-V-151		
+lg-HP-V-155	m0_new	mykolai		drop_marzha						HP-V-155		
 lg-HP-V-179	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-V-179		
 lg-HP-V-191	m1_new		Shopping_ads,Display_ads	drop_marzha						HP-V-191		
 lg-HP-V-256	m0_new		Shopping_ads,Display_ads	drop_marzha						HP-V-256		
@@ -14216,7 +14216,7 @@ lg-HP1213	m0_new		Shopping_ads,Display_ads	drop_marzha
 lg-HP1219	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP1225	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP1226	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lg-HP12271BR	m0_new		Shopping_ads,Display_ads	drop_marzha						HP12271BR		
+lg-HP12271BR	m0_new	mykolai		drop_marzha						HP12271BR		
 lg-HP1228	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP1230	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HP1231	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -14247,8 +14247,8 @@ lg-HP17303BL	m0_new		Shopping_ads,Display_ads	drop_marzha						HP17303BL
 lg-HP17303R	m0_new		Shopping_ads,Display_ads	drop_marzha						HP17303R		
 lg-HP17304B	m0_new		Shopping_ads,Display_ads	drop_marzha						HP17304B		
 lg-HP17304W	m0_new		Shopping_ads,Display_ads	drop_marzha						HP17304W		
-lg-HP17306B	m0_new		Shopping_ads,Display_ads	drop_marzha						HP17306B		
-lg-HP17306GR	m0_new		Shopping_ads,Display_ads	drop_marzha						HP17306GR		
+lg-HP17306B	m0_new	mykolai		drop_marzha						HP17306B		
+lg-HP17306GR	m0_new	mykolai		drop_marzha						HP17306GR		
 lg-HP176094	m0_new		Shopping_ads,Display_ads	drop_marzha				264		HP176094		
 lg-HP176095	m0_new		Shopping_ads,Display_ads	drop_marzha				264		HP176095		
 lg-HP176096	m0_new		Shopping_ads,Display_ads	drop_marzha				264		HP176096		
@@ -14289,10 +14289,10 @@ lg-HP34542	m0_new		Shopping_ads,Display_ads	drop_marzha						HP34542
 lg-HP34543	m0_new		Shopping_ads,Display_ads	drop_marzha						HP34543		
 lg-HP34544G	m0_new		Shopping_ads,Display_ads	drop_marzha						HP34544G		
 lg-HP34544P	m0_new		Shopping_ads,Display_ads	drop_marzha						HP34544P		
-lg-HP34545BL	m0_new		Shopping_ads,Display_ads	drop_marzha						HP34545BL		
-lg-HP34545G	m0_new		Shopping_ads,Display_ads	drop_marzha						HP34545G		
-lg-HP34545P	m0_new		Shopping_ads,Display_ads	drop_marzha						HP34545P		
-lg-HP34546G	m0_new		Shopping_ads,Display_ads	drop_marzha						HP34546G		
+lg-HP34545BL	m0_new	mykolai		drop_marzha						HP34545BL		
+lg-HP34545G	m0_new	mykolai		drop_marzha						HP34545G		
+lg-HP34545P	m0_new	mykolai		drop_marzha						HP34545P		
+lg-HP34546G	m0_new	mykolai		drop_marzha						HP34546G		
 lg-HP36564	m0_new		Shopping_ads,Display_ads	drop_marzha				602		HP36564		
 lg-HP39568B	m0_new		Shopping_ads,Display_ads	drop_marzha						HP39568B		
 lg-HP39568C	m0_new		Shopping_ads,Display_ads	drop_marzha						HP39568C		
@@ -14413,10 +14413,10 @@ lg-HPBH16985P	m0_new		Shopping_ads,Display_ads	drop_marzha						HPBH16985P
 lg-HPBH17128P	m0_new		Shopping_ads,Display_ads	drop_marzha						HPBH17128P		
 lg-HPBH17128W	m0_new		Shopping_ads,Display_ads	drop_marzha						HPBH17128W		
 lg-HPBH17200P	m0_new		Shopping_ads,Display_ads	drop_marzha						HPBH17200P		
-lg-HPBH17201P	m0_new		Shopping_ads,Display_ads	drop_marzha						HPBH17201P		
+lg-HPBH17201P	m0_new	mykolai		drop_marzha						HPBH17201P		
 lg-HPBH17202P	m0_new		Shopping_ads,Display_ads	drop_marzha						HPBH17202P		
 lg-HPDY9291BR	m0_new		Shopping_ads,Display_ads	drop_marzha				602		HPDY9291BR		
-lg-HPGM2217Y	m0_new		Shopping_ads,Display_ads	drop_marzha						HPGM2217Y		
+lg-HPGM2217Y	m0_new	mykolai		drop_marzha						HPGM2217Y		
 lg-HPGM5009B	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HPGM5009BL	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lg-HPGM5009M	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -16528,10 +16528,10 @@ set10-482019277	m0_new_p			khvist
 set10-482027303	m0_new_p			khvist								
 set45-482019277	m0_new_p			khvist								
 set5-482027303	m0_new		Shopping_ads	deshevyi								
-tk-808	m3_norm_p			khvist								
-tk-moto	m4_norm			khvist								
-tk-s600	m3_norm			cina_vid_4000								
-tk-sk603	m0_new_p			khvist								
+tk-808	m3_norm_p	mykolai		khvist								
+tk-moto	m4_norm	mykolai		khvist								
+tk-s600	m3_norm	mykolai		cina_vid_4000								
+tk-sk603	m0_new_p	mykolai		khvist								
 vt-00-09	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-00-1012	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
 vt-00-1014	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				648				
@@ -16676,8 +16676,8 @@ vt-0316 BL	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-0322 BL	m0_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
 vt-0328 BL	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
 vt-0342	m5_new_p			khvist								
-vt-040-01-103	m3_norm		Shopping_ads	ne_v_rynku					4823082529636			
-vt-040-01-104	m4_norm_p			khvist								
+vt-040-01-103	m3_norm	mykolai		ne_v_rynku					4823082529636			
+vt-040-01-104	m4_norm_p	mykolai		khvist								
 vt-040-01-88 S&T	m0_norm		Shopping_ads	ne_v_nayavnosti							2026-11-29T09:00+0300	
 vt-0429E BS	m2_norm		Shopping_ads	ne_v_rynku				575				
 vt-0435D BS	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti				575				
@@ -16690,8 +16690,8 @@ vt-050-53-05	m5_norm		Shopping_ads	ne_v_nayavnosti
 vt-054-04-09 S&T	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-0620 BL	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
 vt-0624 BL	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
-vt-06373	m5_new_p			khvist					6936097906373			
-vt-07011	m5_new_p			khvist					6900365207011			
+vt-06373	m5_new_p	mykolai		khvist					6936097906373			
+vt-07011	m5_new_p	mykolai		khvist					6900365207011			
 vt-0704	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				3382			2026-11-29T09:00+0300	
 vt-0716 BL	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
 vt-0718 BL	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
@@ -16878,13 +16878,13 @@ vt-112	m5_new_p			khvist
 vt-1124	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
 vt-1125	m0_norm		Shopping_ads	ne_v_nayavnosti							2026-11-29T09:00+0300	
 vt-1129	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-1130	m5_new_p			khvist								
+vt-1130	m5_new_p	mykolai		khvist								
 vt-1133	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-1134	m5_new_p				rozvidka							
+vt-1134	m5_new_p	mykolai			rozvidka							
 vt-1135	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-1136	m5_new_p			khvist								
-vt-1139	m5_new_p			khvist								
-vt-1140	m5_new_p			khvist								
+vt-1136	m5_new_p	mykolai		khvist								
+vt-1139	m5_new_p	mykolai		khvist								
+vt-1140	m5_new_p	mykolai		khvist								
 vt-1147	m5_norm_p			khvist								
 vt-1153	m5_norm			khvist								
 vt-1154-4,0	m4_norm		Shopping_ads	pid_zamovlennya							2026-11-29T09:00+0300	
@@ -16899,7 +16899,7 @@ vt-11720	m0_new		Shopping_ads	ne_v_rynku
 vt-119	m5_new_p			khvist								
 vt-119220	m4_norm_p			khvist								
 vt-119236	m4_norm_p			khvist								
-vt-11970	m5_new_p			khvist					6936578611970			
+vt-11970	m5_new_p	mykolai		khvist					6936578611970			
 vt-120	m5_new_p			khvist								
 vt-1201	m5_new_p			khvist								
 vt-1202	m5_norm			khvist								
@@ -16967,21 +16967,21 @@ vt-1448	m5_new_p			khvist
 vt-1453-15	m5_norm			khvist								
 vt-15022	m5_new		Shopping_ads	pid_zamovlennya							2026-11-29T09:00+0300	
 vt-151050-000	m2_norm		Shopping_ads	ne_v_rynku					8699038003002			
-vt-1520	m5_norm			khvist								
-vt-1522	m5_new_p			khvist								
+vt-1520	m5_norm	mykolai		khvist								
+vt-1522	m5_new_p	mykolai		khvist								
 vt-15222-00	m4_norm		Shopping_ads	pid_zamovlennya							2026-11-29T09:00+0300	
 vt-15223-00	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 vt-15224-00	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-15225-00	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-1523	m5_norm_p			khvist								
-vt-1524	m5_new_p				rozvidka							
+vt-1523	m5_norm_p	mykolai		khvist								
+vt-1524	m5_new_p	mykolai			rozvidka							
 vt-1525	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-1526	m5_new_p			khvist								
-vt-1527	m5_norm_p			khvist								
-vt-1528	m5_norm_p			khvist								
-vt-1529	m5_new_p			khvist								
+vt-1526	m5_new_p	mykolai		khvist								
+vt-1527	m5_norm_p	mykolai		khvist								
+vt-1528	m5_norm_p	mykolai		khvist								
+vt-1529	m5_new_p	mykolai		khvist								
 vt-1529-18	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
-vt-1531	m5_norm_p			khvist								
+vt-1531	m5_norm_p	mykolai		khvist								
 vt-1541 (01108-100)	m5_new_p			khvist								
 vt-15623568	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti				602			2026-11-29T09:00+0300	
 vt-15623568 В	m4_new		Shopping_ads,Display_ads	pid_zamovlennya				602			2026-11-29T09:00+0300	
@@ -17031,7 +17031,7 @@ vt-16973-14	m4_new		Shopping_ads	deshevyi				3381
 vt-16973-15	m5_new		Shopping_ads	deshevyi				3381				
 vt-16973-17	m5_new		Shopping_ads	deshevyi								
 vt-16973-18	m4_new		Shopping_ads	deshevyi								
-vt-16с1914 4ДЗ	m4_norm		Shopping_ads	deshevyi								
+vt-16с1914 4ДЗ	m4_norm	mykolai		deshevyi								
 vt-1702	m5_new_p			khvist								
 vt-1703	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-1708	m5_new_p			khvist								
@@ -17296,7 +17296,7 @@ vt-2417	m5_new_p			khvist
 vt-2418	m5_new_p			khvist								
 vt-2419	m5_new_p				rozvidka							
 vt-2420	m5_new_p				rozvidka							
-vt-24200	m5_new_p			khvist					6952011224200			
+vt-24200	m5_new_p	mykolai		khvist					6952011224200			
 vt-2421	m5_new_p			khvist								
 vt-2422	m5_new_p			khvist								
 vt-2423	m5_new_p			khvist								
@@ -17393,7 +17393,7 @@ vt-2510	m5_new_p				rozvidka
 vt-2511	m5_new_p			khvist								
 vt-2512	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-2513	m5_new_p			khvist								
-vt-25137	m5_new_p			khvist					6928123925137			
+vt-25137	m5_new_p	mykolai		khvist					6928123925137			
 vt-2514	m5_new_p			khvist								
 vt-2515	m5_new_p			khvist								
 vt-2516	m5_new_p			khvist								
@@ -17703,7 +17703,7 @@ vt-30185-00	m4_new		Shopping_ads	ne_v_nayavnosti
 vt-30186-00	m4_new		Shopping_ads	ne_v_nayavnosti							2026-11-29T09:00+0300	
 vt-30187-00	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-30188-00	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-29T09:00+0300	
-vt-30194	m2_norm			khvist								
+vt-30194	m2_norm	mykolai		khvist								
 vt-30200-00	m4_norm	ads_zero	Shopping_ads									
 vt-30201-00	m5_norm			khvist								
 vt-30202-00	m5_norm			khvist								
@@ -18230,7 +18230,7 @@ vt-51769	m4_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:0
 vt-51809	m4_new_p			khvist								
 vt-51819	m5_new_p			khvist								
 vt-5188	m5_new		Shopping_ads	deshevyi					6970863769328			
-vt-51952	m5_new_p			khvist					6922048551952			
+vt-51952	m5_new_p	mykolai		khvist					6922048551952			
 vt-520004	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-520004-GOLD	m4_new		Shopping_ads	pid_zamovlennya							2026-11-29T09:00+0300	
 vt-520014	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-29T09:00+0300	
@@ -18560,9 +18560,9 @@ vt-80390	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-80390-SL	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T09:00+0300	
 vt-80402	m3_new		Shopping_ads	ne_v_rynku								
 vt-80403	m3_norm	ads_zero	Shopping_ads	ne_v_rynku								
-vt-85-350 Green	m3_new_p			khvist					8200013588126			
-vt-85-350Black	m5_norm	ads_zero	Shopping_ads						8200013588102	85-350Black		
-vt-85-350Red	m3_new_p			khvist					8200013588119	85-350Red		
+vt-85-350 Green	m3_new_p	mykolai		khvist					8200013588126			
+vt-85-350Black	m5_norm	mykolai							8200013588102	85-350Black		
+vt-85-350Red	m3_new_p	mykolai		khvist					8200013588119	85-350Red		
 vt-87-750Black	m4_norm			khvist					8200013589024	87-750Black		
 vt-87-750MatteBlack	m2_norm	ads_zero	Shopping_ads						8200013588294	87-750MatteBlack		
 vt-87-750Steel	m4_new_p			khvist					8200013590204	87-750Steel		
@@ -18644,7 +18644,7 @@ vt-9038-3	m2_norm	ads_zero	Shopping_ads
 vt-9038-4	m0_norm		Shopping_ads	ne_v_nayavnosti							2026-11-29T09:00+0300	
 vt-9038-6	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-29T09:00+0300	
 vt-9038-8	m4_new_p			khvist								
-vt-90788	m5_new_p			khvist					6910787090788			
+vt-90788	m5_new_p	mykolai		khvist					6910787090788			
 vt-9090-20	m5_new		Shopping_ads	pid_zamovlennya							2026-11-29T09:00+0300	
 vt-9090-24	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-9090-26	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -18804,7 +18804,7 @@ vt-AR0619CB	m2_new		Shopping_ads	ne_v_rynku
 vt-AR0620CB	m2_new		Shopping_ads	ne_v_rynku								
 vt-AR0627CB	m2_new		Shopping_ads	ne_v_rynku								
 vt-AR0632CB	m2_new		Shopping_ads	ne_v_rynku								
-vt-AR0704AS	m3_norm		Shopping_ads,Display_ads	khvist								
+vt-AR0704AS	m3_norm	mykolai		khvist								
 vt-AR0704FSB	m3_norm	ads_zero	Shopping_ads,Display_ads									
 vt-AR0704FSC	m2_norm		Shopping_ads	ne_v_rynku								
 vt-AR0704FSG	m2_norm	ads_zero	Shopping_ads	ne_v_rynku								
@@ -19226,7 +19226,7 @@ vt-AR2210EV	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-29T09:00+0300
 vt-AR2250BB	m2_norm_p			khvist								
 vt-AR2250BY	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-29T09:00+0300	
 vt-AR2250PL	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-AR2250PO	m0_norm		Shopping_ads	pid_zamovlennya							2026-11-29T09:00+0300	
+vt-AR2250PO	m0_norm	mykolai		pid_zamovlennya							2026-11-29T09:00+0300	
 vt-AR2250PU	m0_new		Shopping_ads	ne_v_nayavnosti							2026-11-29T09:00+0300	
 vt-AR2255BB	m3_norm_p			khvist								
 vt-AR2255RB	m0_new		Shopping_ads	ne_v_nayavnosti	bez_foto						2026-11-29T09:00+0300	
@@ -20546,7 +20546,7 @@ vt-KM-2070	m3_norm				chempion	prybutok		3435
 vt-KM-2071	m2_norm	ads_zero	Shopping_ads					3435				
 vt-KM-2080	m2_norm				chempion	prybutok		3435				
 vt-KM-2081	m2_norm		Shopping_ads	ne_v_rynku				3435				
-vt-KM-2086	m2_new		Shopping_ads	ne_v_rynku								
+vt-KM-2086	m2_new	mykolai		ne_v_rynku								
 vt-KM-2087	m2_norm		Shopping_ads	ne_v_rynku								
 vt-KM-2088	m0_new		Shopping_ads	pid_zamovlennya							2026-11-29T09:00+0300	
 vt-KM-2093A	m3_norm		Shopping_ads	pid_zamovlennya							2026-11-29T09:00+0300	
@@ -20598,7 +20598,7 @@ vt-KM-2160	m5_norm			khvist
 vt-KM-2161	m3_new_p			khvist								
 vt-KM-2162	m3_new_p			khvist				3800				
 vt-KM-2163	m3_new_p			khvist								
-vt-KM-2164	m3_norm	ads_zero	Shopping_ads					3800				
+vt-KM-2164	m3_norm	mykolai						3800				
 vt-KM-2165	m3_norm_p			khvist								
 vt-KM-2170	m2_hit				chempion	prybutok		669				
 vt-KM-2171	m2_hit				chempion	prybutok		669				
@@ -20941,8 +20941,8 @@ vt-KM-5301	m2_norm		Shopping_ads	ne_v_rynku
 vt-KM-5302	m4_new_p			khvist								
 vt-KM-5333	m4_new_p			khvist								
 vt-KM-5334	m3_norm			khvist								
-vt-KM-5335	m2_norm			khvist								
-vt-KM-5336	m3_norm		Shopping_ads	ne_v_rynku								
+vt-KM-5335	m2_norm	mykolai		khvist								
+vt-KM-5336	m3_norm	mykolai		ne_v_rynku								
 vt-KM-5340	m4_norm		Shopping_ads	deshevyi				666				
 vt-KM-5341	m4_norm		Shopping_ads	deshevyi				666				
 vt-KM-5379MR	m2_new		Shopping_ads	ne_v_rynku								
@@ -21546,8 +21546,8 @@ vt-TM-SS36-2	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-11-29T0
 vt-TM-SS38-2	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-11-29T09:00+0300	
 vt-TM0068	m5_norm_p			khvist								
 vt-TM0068-R	m5_new_p			khvist								
-vt-TO-22-N	m5_norm			khvist								
-vt-TO-24	m0_new_p			khvist								
+vt-TO-22-N	m5_norm	mykolai		khvist								
+vt-TO-24	m0_new_p	mykolai		khvist								
 vt-TO-31 N	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-TP1500H ДЕКОР	m5_new_p			khvist								
 vt-TP1800H ДЕКОР	m5_new_p			khvist								
