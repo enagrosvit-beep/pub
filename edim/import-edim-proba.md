@@ -6,5 +6,5 @@
 | артикул Едіму | назва | сторінка | зараз (ціна / наявність) | очікувано після імпорту | Гарбуз |
 |---|---|---|---|---|---|
 | 01-45-003 | Ручка для металопластикових вікон CGZS036-CD | https://edimik.com.ua/ruchka-dlia-metaloplastykovykh-vikon-cgzs036-cd/ | 199 / є | 229 / немає | 2639817174 229.0 |
-| 100-153 | Стрічка серпянка Polax самоклеюча скловолоконна дл | https://edimik.com.ua/strichka-serpianka-polax-samokleiucha-sklovolokonna-dlia-stykiv-230-mm-kh-20-m/ | 219 / немає | 379 / є | 2400473061 379.0 |
-| 101-149 | Клейка ПВХ стрічка для теплоізоляції 45мм Х 30м сі | https://edimik.com.ua/kleika-pvkh-strichka-dlia-teploizoliatsii-45mm-kh-30m-sira/ | 179 / немає | 169 / є | 2430323483 169.0 |
+| 01-03-005 | Упор дверний "Бочка", 30 мм, AB | https://edimik.com.ua/upor-dvernyi-bochka-30-mm-ab/ | 89 / немає | 79 / є | PLX-01-03-005 79.0 |
+| 01-03-006 | Упор дверний "Бочка", 40 мм, SN | https://edimik.com.ua/upor-dvernyi-bochka-40-mm-sn/ | 129 / немає | 149 / є | PLX-01-03-006 149.0 |
