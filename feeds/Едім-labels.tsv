@@ -144,7 +144,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 03-004	dup:Тиква			khvist			1300	
 03-005	dup:Тиква			khvist			1300	
 03-006	dup:Тиква			khvist			1300	
-03-007	m0_new		Shopping_ads,Display_ads	pid_zamovlennya			1300	2026-12-01T09:00+0300
+03-007	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya			1300	2026-12-01T09:00+0300
 03-008	dup:Тиква			khvist			1300	
 03-01-002	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			5707	
 03-01-005	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			5707	
@@ -965,7 +965,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 15-188-004	dup:Тиква			khvist			1356	
 15-188-005	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi			1356	
 15-191-001	dup:Тиква			khvist			1356	
-15-191-002	dup:Тиква			khvist			1356	
+15-191-002	m0_norm_p			khvist			1356	
 15-191-003	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi			1356	
 15-191-004	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi			1356	
 15-191-005	dup:Тиква	prybutok			chempion		1356	
@@ -1524,7 +1524,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 3-004-001	dup:Гарбуз			khvist			499981	
 3-004-002	dup:Гарбуз			khvist			499981	
 3-005	dup:Гарбуз	stop	Shopping_ads,Display_ads	ne_v_prajsi			499981	
-3-006	m0_norm	ads_zero	Shopping_ads,Display_ads	pid_zamovlennya			499981	2026-12-01T09:00+0300
+3-006	dup:Тиква	ads_zero	Shopping_ads,Display_ads	pid_zamovlennya			499981	2026-12-01T09:00+0300
 3-007-001	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya			499981	2026-12-01T09:00+0300
 3-007-002	m0_new_p			khvist			499981	
 3-008-001	dup:Гарбуз	ads_zero	Shopping_ads				499981	
@@ -2068,7 +2068,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 44-009	dup:Тиква			khvist			1632	
 44-012	dup:Гарбуз			khvist			1632	
 44-013	dup:Гарбуз			khvist			1632	
-44-014	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_prajsi			1632	
+44-014	dup:Гарбуз			khvist			1632	
 440	dup:Гарбуз			khvist			2181	
 4444	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			974	
 4445	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya			974	2026-12-01T09:00+0300
@@ -5884,7 +5884,7 @@ PLX-44-008	m2_norm		Shopping_ads,Display_ads	ne_v_prajsi			1632
 PLX-44-009	m2_norm		Shopping_ads	ne_v_rynku			1632	
 PLX-44-012	dup:Гарбуз			khvist			1632	
 PLX-44-013	dup:Гарбуз		Shopping_ads	ne_v_rynku			1632	
-PLX-44-014	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_prajsi			1632	
+PLX-44-014	dup:Гарбуз			khvist			1632	
 PLX-440	m5_new_p			khvist			7112	
 PLX-45	dup:Гарбуз			khvist			1974	
 PLX-45-103	dup:Гарбуз	ads_zero	Shopping_ads	season_off				
