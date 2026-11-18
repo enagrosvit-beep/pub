@@ -544,7 +544,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 05-007	m2_new		Shopping_ads	deshevyi								
 0500	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-02T09:00+0300	
 0502	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-02T09:00+0300	
-0503	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+0503	m4_norm_p				chempion							
 0504	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 0505	m5_norm			khvist								
 0506	m0_norm	ads_zero	Shopping_ads	deshevyi								
@@ -832,7 +832,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0811	m0_new		Shopping_ads	season_off								
 0812	m0_new		Shopping_ads	pid_zamovlennya							2026-12-02T09:00+0300	
 0813	m0_new		Shopping_ads	pid_zamovlennya							2026-12-02T09:00+0300	
-0814	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+0814	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 0815	m0_new			season_off								
 0816	m0_new			season_off								
 0817	m0_new			season_off								
@@ -2778,7 +2778,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2690	m0_new			season_off								
 2691	m0_norm			season_off								
 2692	m0_new			season_off								
-2693	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
+2693	m5_norm				chempion	prybutok						
 27-006	m0_new		Shopping_ads	ne_v_rynku								
 2702	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
 2703	m0_new		Shopping_ads	ne_v_rynku								
@@ -3698,7 +3698,7 @@ PLX-10-001	m2_new		Shopping_ads	ne_v_rynku
 PLX-10-003	m5_new		Shopping_ads	deshevyi								
 PLX-10-005	m5_new		Shopping_ads	deshevyi								
 PLX-10-01	m4_new_p			khvist								
-PLX-10-02-001	m4_norm_p				chempion	prybutok						
+PLX-10-02-001	dup:Едім				chempion	prybutok						
 PLX-10-03-001	m4_new_p			khvist								
 PLX-10-05-001	m4_norm_p			khvist								
 PLX-10-05-003	dup:Едім				chempion	prybutok						
@@ -3826,7 +3826,7 @@ PLX-10-694	m5_norm	ads_zero	Shopping_ads	deshevyi
 PLX-10-695	m5_new		Shopping_ads	ne_v_nayavnosti								
 PLX-10-696	m3_norm		Shopping_ads	deshevyi								
 PLX-10-697	m5_norm		Shopping_ads	deshevyi								
-PLX-100-004	m5_hit_p				chempion	prybutok						
+PLX-100-004	dup:Едім				chempion	prybutok						
 PLX-100-005	m2_new		Shopping_ads	ne_v_rynku								
 PLX-100-005с	m5_new		Shopping_ads	deshevyi								
 PLX-100-006	m4_new		Shopping_ads	deshevyi								
@@ -3968,7 +3968,7 @@ PLX-101-002	m2_norm		Shopping_ads	ne_v_rynku
 PLX-101-003	m4_new_p			khvist								
 PLX-101-004	m2_new		Shopping_ads	ne_v_prajsi								
 PLX-101-005	m4_new_p			khvist								
-PLX-101-006	m4_hit_p				chempion	prybutok						
+PLX-101-006	dup:Едім		Shopping_ads,Display_ads			prybutok						
 PLX-101-010	m4_norm_p				chempion							
 PLX-101-011	m3_norm_p											
 PLX-101-012	m4_norm				chempion							
@@ -6427,7 +6427,7 @@ PLX-54-027	m2_new		Shopping_ads	ne_v_rynku
 PLX-54-028	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-54-029	m2_new		Shopping_ads	ne_v_rynku								
 PLX-54-030	m2_new_p			khvist								
-PLX-54-031	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
+PLX-54-031	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-54-033	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-54-034	m2_new		Shopping_ads	ne_v_rynku								
 PLX-54-035	m2_new_p			khvist								
@@ -7171,7 +7171,7 @@ PLX-FP-0022	m2_norm		Shopping_ads	ne_v_rynku
 PLX-FP-0417	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-FP-0568	m4_norm			khvist								
 PLX-FP-0569	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-FRS-0472	dup:Едім	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti								
+PLX-FRS-0472	m5_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-FU-0419	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-FU-0421	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
 PLX-G00316	m5_new_p			khvist								
@@ -8122,7 +8122,7 @@ PLX-НФ-00000794	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-НФ-00000796	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00000798	m4_new_p			khvist								
 PLX-НФ-00000799	m4_norm_p			khvist								
-PLX-НФ-00000800	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
+PLX-НФ-00000800	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00000801	m4_new_p			khvist								
 PLX-НФ-00000802	m4_new_p			khvist								
 PLX-НФ-00000803	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -8753,9 +8753,9 @@ PLX-НФ-00002070	m4_norm_p			khvist
 PLX-НФ-00002071	m4_new_p			khvist								
 PLX-НФ-00002072	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00002073	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-НФ-00002075	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
+PLX-НФ-00002075	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00002076	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-НФ-00002077	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
+PLX-НФ-00002077	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00002079	m3_norm_p			khvist								
 PLX-НФ-00002080	m3_new_p			khvist								
 PLX-НФ-00002167	m4_new_p			khvist								
@@ -10766,7 +10766,7 @@ hc-HECHT416ACCU	m0_new		Shopping_ads,Display_ads	drop_t8						HECHT416ACCU
 hc-HECHT420153	m0_new		Shopping_ads,Display_ads	drop_marzha				4928				
 hc-HECHT433	m0_norm		Shopping_ads,Display_ads	drop_t8						HECHT433		
 hc-HECHT443	m0_new		Shopping_ads,Display_ads	drop_t8				1967		HECHT443		
-hc-HECHT445	dup:Тиква		Shopping_ads,Display_ads	drop_marzha				500016		HECHT445		
+hc-HECHT445	m0_new		Shopping_ads,Display_ads	drop_marzha				500016		HECHT445		
 hc-HECHT45	m0_new		Shopping_ads,Display_ads	drop_t8				3610		HECHT45		
 hc-HECHT4500	m0_new		Shopping_ads,Display_ads	drop_t8						HECHT4500		
 hc-HECHT459	m0_new		Shopping_ads,Display_ads	drop_t8				1967		HECHT459		
@@ -11663,7 +11663,7 @@ lg-1733015W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733015W
 lg-173301ML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		173301ML		
 lg-173302BL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		173302BL		
 lg-173303W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		173303W		
-lg-1733042W	dup:Тиква		Shopping_ads,Display_ads	drop_marzha				2608		1733042W		
+lg-1733042W	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		1733042W		
 lg-1733043GR	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733043GR		
 lg-1733044W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733044W		
 lg-1733051W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733051W		
@@ -11672,7 +11672,7 @@ lg-1733054BL	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733054BL
 lg-1733055W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733055W		
 lg-173305ML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		173305ML		
 lg-1733061ML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733061ML		
-lg-1733062BL	dup:Тиква		Shopping_ads,Display_ads	drop_marzha				2608		1733062BL		
+lg-1733062BL	m0_new		Shopping_ads,Display_ads	drop_marzha				2608		1733062BL		
 lg-1733063Y	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733063Y		
 lg-1733064W	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733064W		
 lg-1733065ML	m0_new		Shopping_ads,Display_ads	drop_t5				2608		1733065ML		
@@ -15554,7 +15554,7 @@ lp-LP40615	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP40615
 lp-LP40616	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40616		
 lp-LP40617	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40617		
 lp-LP40652	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40652		
-lp-LP40653	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP40653		
+lp-LP40653	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP40653		
 lp-LP40686	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP40686		
 lp-LP40687	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP40687		
 lp-LP40765	m0_new		Shopping_ads,Display_ads	drop_marzha				5142		LP40765		
@@ -15656,40 +15656,40 @@ lp-LP43483	m0_new		Shopping_ads,Display_ads	drop_marzha				127		LP43483
 lp-LP43484	m0_new		Shopping_ads,Display_ads	drop_marzha				127		LP43484		
 lp-LP43504	m0_new		Shopping_ads,Display_ads	drop_marzha				1348				
 lp-LP43569	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43569		
-lp-LP43707	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43707		
-lp-LP43708	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43708		
-lp-LP43709	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43709		
-lp-LP43710	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43710		
-lp-LP43723	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43723		
-lp-LP43724	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43724		
-lp-LP43725	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43725		
-lp-LP43726	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43726		
-lp-LP43727	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43727		
-lp-LP43728	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43728		
-lp-LP43729	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43729		
-lp-LP43730	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43730		
-lp-LP43731	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43731		
-lp-LP43732	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43732		
-lp-LP43733	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43733		
-lp-LP43734	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43734		
-lp-LP43735	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43735		
-lp-LP43736	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43736		
-lp-LP43737	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43737		
-lp-LP43738	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43738		
-lp-LP43739	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43739		
-lp-LP43740	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43740		
-lp-LP43741	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43741		
-lp-LP43742	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43742		
-lp-LP43743	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43743		
-lp-LP43744	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43744		
-lp-LP43745	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43745		
-lp-LP43746	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43746		
-lp-LP43747	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43747		
-lp-LP43748	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43748		
-lp-LP43749	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43749		
-lp-LP43750	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43750		
-lp-LP43751	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43751		
-lp-LP43752	m0_new		Shopping_ads,Display_ads	drop_t8				276		LP43752		
+lp-LP43707	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43707		
+lp-LP43708	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43708		
+lp-LP43709	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43709		
+lp-LP43710	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43710		
+lp-LP43723	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43723		
+lp-LP43724	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43724		
+lp-LP43725	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43725		
+lp-LP43726	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43726		
+lp-LP43727	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43727		
+lp-LP43728	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43728		
+lp-LP43729	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43729		
+lp-LP43730	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43730		
+lp-LP43731	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43731		
+lp-LP43732	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43732		
+lp-LP43733	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43733		
+lp-LP43734	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43734		
+lp-LP43735	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43735		
+lp-LP43736	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43736		
+lp-LP43737	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43737		
+lp-LP43738	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43738		
+lp-LP43739	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43739		
+lp-LP43740	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43740		
+lp-LP43741	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43741		
+lp-LP43742	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43742		
+lp-LP43743	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43743		
+lp-LP43744	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43744		
+lp-LP43745	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43745		
+lp-LP43746	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43746		
+lp-LP43747	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43747		
+lp-LP43748	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43748		
+lp-LP43749	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43749		
+lp-LP43750	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43750		
+lp-LP43751	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43751		
+lp-LP43752	m0_new		Shopping_ads,Display_ads	drop_marzha				276		LP43752		
 lp-LP43853	m0_new		Shopping_ads,Display_ads	drop_marzha				127		LP43853		
 lp-LP4420	m0_new		Shopping_ads,Display_ads	drop_marzha				505295				
 lp-LP4428	m0_new		Shopping_ads,Display_ads	drop_marzha				505295				
@@ -16756,7 +16756,7 @@ vt-100513	m3_norm_p			khvist
 vt-100514	m2_new		Shopping_ads	ne_v_rynku								
 vt-100515	m2_new_p			khvist								
 vt-100516	m2_norm			khvist								
-vt-100517	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				657				
+vt-100517	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				657				
 vt-100520	m2_new		Shopping_ads	cina_vid_4000								
 vt-100522	m3_new_p			khvist								
 vt-100523	m2_norm			khvist								
@@ -16804,7 +16804,7 @@ vt-101-099	m5_new_p			khvist
 vt-101002	m4_norm_p			khvist								
 vt-101005	m2_norm		Shopping_ads	ne_v_rynku								
 vt-101010	m3_new_p			khvist				4762				
-vt-101100	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				1647				
+vt-101100	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				1647				
 vt-101101	m2_new_p			khvist								
 vt-101102	m2_new		Shopping_ads	ne_v_rynku								
 vt-101103	m2_norm		Shopping_ads	ne_v_rynku				1647				
@@ -16852,7 +16852,7 @@ vt-10467	m5_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-10473	m3_norm			khvist								
 vt-10478	m5_norm_p				chempion	prybutok						
 vt-10487	m5_norm_p			khvist								
-vt-10499	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-10499	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-10539	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-10546	m2_norm_p				chempion							
 vt-10547	m3_norm		Shopping_ads	ne_v_rynku								
@@ -17240,9 +17240,9 @@ vt-222826-А	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-223121	m0_new_p			khvist								
 vt-223121-А	m3_norm			khvist								
 vt-223131	m0_new		Shopping_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
-vt-223719	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-223719	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-223719-А	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-223723	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-223723	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-223723-А	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-224	m5_norm			khvist								
 vt-2242-21	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -17251,7 +17251,7 @@ vt-227	m0_new		Shopping_ads	ne_v_nayavnosti							2026-12-02T09:00+0300
 vt-228821-А	m2_norm			khvist								
 vt-228823-А	m5_new_p			khvist					6920180628488	228823-А		
 vt-228826-А	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-228922	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-228922	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-228922-А	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-22900	m5_new_p			khvist					7895730213225			
 vt-23-060AC	m4_norm_p			khvist					6942178908761	23-060AC		
@@ -17259,7 +17259,7 @@ vt-23001 440	m3_new_p			khvist
 vt-23190-00	m5_norm			khvist					4823082542468			
 vt-23194-00	m2_new		Shopping_ads	ne_v_nayavnosti					4823082543281			
 vt-23419/103	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-23498/013	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti					7891112229310			
+vt-23498/013	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti					7891112229310			
 vt-23498/032	m4_norm		Shopping_ads	pid_zamovlennya					7891112253391		2026-12-02T09:00+0300	
 vt-23498/313	m0_norm		Shopping_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
 vt-23498/612	m0_new		Shopping_ads	ne_v_nayavnosti					7891112229303		2026-12-02T09:00+0300	
@@ -17542,7 +17542,7 @@ vt-29-199-024	m3_hit				chempion	prybutok
 vt-29-199-025	m4_hit				chempion	prybutok						
 vt-29-199-026	m4_norm			khvist								
 vt-29-243-024	m3_new		Shopping_ads	ne_v_rynku				3196				
-vt-29-250-010	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				665				
+vt-29-250-010	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti				665				
 vt-29-250-020	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti				752				
 vt-29-250-022	m0_new		Shopping_ads,Display_ads	pid_zamovlennya				752			2026-12-02T09:00+0300	
 vt-29-250-023	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti				752				
@@ -17705,7 +17705,7 @@ vt-30185-00	m4_new		Shopping_ads	ne_v_nayavnosti
 vt-30186-00	m4_new		Shopping_ads	ne_v_nayavnosti								
 vt-30187-00	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-30188-00	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-30194	dup:Тиква	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-30194	m2_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-30200-00	m4_norm	ads_zero	Shopping_ads									
 vt-30201-00	m5_norm			khvist								
 vt-30202-00	m5_norm			khvist								
@@ -18090,7 +18090,7 @@ vt-50301	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti				665
 vt-50302	m4_new_p			khvist				666				
 vt-50303	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti				665				
 vt-50304	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-50305(89305)	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				665				
+vt-50305(89305)	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti				665				
 vt-50307	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti				5157				
 vt-50310	m4_new		Shopping_ads	pid_zamovlennya				752			2026-12-02T09:00+0300	
 vt-50311	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -18158,7 +18158,7 @@ vt-5053	m5_new_p			khvist
 vt-50543	m2_norm		Shopping_ads	ne_v_rynku				666				
 vt-50545	m2_new		Shopping_ads	ne_v_rynku				666				
 vt-50547	m2_new		Shopping_ads	ne_v_rynku				666				
-vt-50550	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				666				
+vt-50550	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				666				
 vt-50594	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-50595	m2_new		Shopping_ads	ne_v_rynku								
 vt-50596	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -18181,7 +18181,7 @@ vt-50669	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti				668
 vt-50670	m3_new		Shopping_ads	ne_v_rynku				3196				
 vt-506710	m0_norm		Shopping_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
 vt-50673	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti				3467				
-vt-50674	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				3467				
+vt-50674	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti				3467				
 vt-50677	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti				3381				
 vt-50678	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-50680	m3_new_p			khvist				3196				
@@ -18209,8 +18209,8 @@ vt-50736	m2_new		Shopping_ads	ne_v_rynku					5907706507367
 vt-50739	m2_norm	ads_zero	Shopping_ads						5907706507398			
 vt-50742	m2_norm			khvist								
 vt-50770	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-50771	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				653				
-vt-50772	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				653				
+vt-50771	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti				653				
+vt-50772	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti				653				
 vt-50773	m3_new		Shopping_ads	ne_v_rynku								
 vt-50774	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-50775	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -18596,7 +18596,7 @@ vt-88-222-122	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti				654
 vt-88-222-123	m3_norm			khvist								
 vt-88-222-124	m4_new_p			khvist				666				
 vt-88-222-125	m2_new_p			khvist					4005527173530			
-vt-88-222-126	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				666				
+vt-88-222-126	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti				666				
 vt-88-222-127	m2_new		Shopping_ads	ne_v_rynku				666				
 vt-88-222-128	m2_new		Shopping_ads	ne_v_rynku								
 vt-88-222-129	m2_new		Shopping_ads	ne_v_rynku								
@@ -18882,7 +18882,7 @@ vt-AR0916	m5_new		Shopping_ads	ne_v_nayavnosti							2026-12-02T09:00+0300
 vt-AR0917	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR0918	m0_new		Shopping_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
 vt-AR0919S	m3_norm			khvist								
-vt-AR0920	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR0920	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR0920S	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-02T09:00+0300	
 vt-AR0922	m0_new		Shopping_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
 vt-AR0923B	m2_norm	ads_zero	Shopping_ads									
@@ -19016,7 +19016,7 @@ vt-AR1603B	m5_new		Shopping_ads	ne_v_nayavnosti							2026-12-02T09:00+0300
 vt-AR1603LP	m2_new_p			khvist								
 vt-AR1603TP	m2_norm	ads_zero	Shopping_ads									
 vt-AR1608B	m0_new		Shopping_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
-vt-AR1618SS	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR1618SS	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR1624SS	m3_norm		Shopping_ads	ne_v_rynku								
 vt-AR1628SS	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
 vt-AR1653G	m5_new		Shopping_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
@@ -19322,7 +19322,7 @@ vt-AR2628WRT	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-AR2630AB	m5_new_p			khvist								
 vt-AR2630AR	m3_new_p			khvist								
 vt-AR2630BHR	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-AR2630BL	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR2630BL	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2630BWA	m3_new		Shopping_ads	ne_v_rynku								
 vt-AR2630BWL	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2630GGR	m3_norm_p			khvist								
@@ -19403,7 +19403,7 @@ vt-AR2914MW	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-02T09
 vt-AR2914SW	m4_new		Shopping_ads	deshevyi								
 vt-AR2914SWB	m4_new		Shopping_ads	deshevyi								
 vt-AR2914SWG	m3_new		Shopping_ads	deshevyi								
-vt-AR2914WGC	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
+vt-AR2914WGC	m2_norm		Shopping_ads	ne_v_nayavnosti								
 vt-AR2915UB	m3_new		Shopping_ads	ne_v_rynku								
 vt-AR2916AC	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2916AW	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -19474,14 +19474,14 @@ vt-AR2926BMC	m3_new		Shopping_ads	ne_v_rynku
 vt-AR2926GGC	m3_norm		Shopping_ads	ne_v_rynku					0684079972378	AR2926GGC		
 vt-AR2926GRC	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-02T09:00+0300	
 vt-AR2926GREY	m3_norm	ads_zero	Shopping_ads									
-vt-AR2926LGC	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR2926LGC	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2926PC	m4_norm		Shopping_ads	deshevyi								
 vt-AR2926TB	m0_new		Shopping_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
 vt-AR2926TG	m3_norm	ads_zero	Shopping_ads									
 vt-AR2926TW	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2926WGC	m2_norm		Shopping_ads	ne_v_rynku								
 vt-AR2926WM	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-02T09:00+0300	
-vt-AR2927AC	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR2927AC	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2927AG	m3_new_p			khvist								
 vt-AR2927AW	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2927BB	m3_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -19538,7 +19538,7 @@ vt-AR3042Y	m3_norm	ads_zero	Shopping_ads	deshevyi
 vt-AR3043BL	m4_new		Shopping_ads	ne_v_nayavnosti								
 vt-AR3043OR	m4_norm		Shopping_ads	ne_v_rynku								
 vt-AR3043Y	m3_new		Shopping_ads	ne_v_rynku								
-vt-AR3044BN	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR3044BN	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR3044GY	m5_new		Shopping_ads	pid_zamovlennya							2026-12-02T09:00+0300	
 vt-AR3044LG	m0_new		Shopping_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
 vt-AR3049	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -19607,8 +19607,8 @@ vt-AR3495	m5_norm_p			khvist
 vt-AR3498	m4_new		Shopping_ads	ne_v_nayavnosti								
 vt-AR3499	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR3503I	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
-vt-AR3504I	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-AR3505I	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR3504I	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR3505I	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR3509I	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR3511I	m0_new		Shopping_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
 vt-AR3513I	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
@@ -19670,7 +19670,7 @@ vt-AR3708	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-AR3709	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR3712	m3_new		Shopping_ads	ne_v_rynku					0674012402451	AR3712		
 vt-AR3721	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-AR3722	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR3722	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR3726	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-02T09:00+0300	
 vt-AR3727	m0_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-02T09:00+0300	
 vt-AR3728	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -19949,8 +19949,8 @@ vt-ART2536DB	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-ART2536DR	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ART2536DW	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ART2538DB	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-ART2538DR	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-ART2538DW	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-ART2538DR	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-ART2538DW	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ART3035NEP	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ART3863HDB	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ART3863HSB	m2_new_p			khvist								
@@ -20140,7 +20140,7 @@ vt-EM-1532	m5_new_p			khvist
 vt-EM-1551	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
 vt-EM-1620	m0_new		Shopping_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
 vt-EM-1733	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-EM-1734	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-EM-1734	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-EM-1750	m5_norm	ads_zero	Shopping_ads,Display_ads	pid_zamovlennya							2026-12-02T09:00+0300	
 vt-EM-1757	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
 vt-EM-2018	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
@@ -20512,7 +20512,7 @@ vt-KM-1714	m3_new_p			khvist				638
 vt-KM-1715A	m2_new_p			khvist				638				
 vt-KM-1715R	m2_norm		Shopping_ads	ne_v_rynku				638				
 vt-KM-1719A	m4_new_p			khvist				638				
-vt-KM-1720B	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti				638				
+vt-KM-1720B	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti				638				
 vt-KM-1721	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-KM-1722	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-KM-1723	m2_norm_p				chempion	prybutok		638				
@@ -21795,7 +21795,7 @@ vt-ДК-МК-35	m4_norm	ads_zero	Shopping_ads
 vt-ДК-МК-35-3	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
 vt-ДК-МК-35-4	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
 vt-ДК-МО-4030	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-02T09:00+0300	
-vt-ДК-ПК 30	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-ДК-ПК 30	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ДК-ПК 35	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ДК-ПО	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ДК-ПО 5030	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
