@@ -3543,7 +3543,7 @@ PLX-04.27	m3_new_p	test0		khvist
 PLX-04.27-S	m3_norm			khvist								
 PLX-04.47	m3_norm			khvist								
 PLX-04.51	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-04.51-KMA	m3_norm			khvist								
+PLX-04.51-KMA	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-04.51-S-3	m3_norm_p			khvist								
 PLX-0400-0001	m4_new		Shopping_ads	deshevyi								
 PLX-0400-0002	m4_new		Shopping_ads	deshevyi								
@@ -3583,7 +3583,7 @@ PLX-0619-L-PB	m5_new		Shopping_ads	deshevyi
 PLX-0640-Б	m4_new		Shopping_ads	deshevyi								
 PLX-07-001	m3_norm_p			khvist								
 PLX-07-002	m2_norm		Shopping_ads	ne_v_rynku								
-PLX-07-003	m2_new		Shopping_ads	ne_v_rynku								
+PLX-07-003	m2_new		Shopping_ads	ne_v_prajsi								
 PLX-07-004	m2_hit_p				chempion	prybutok						
 PLX-07-005	m4_new		Shopping_ads	deshevyi								
 PLX-07-006	m3_new		Shopping_ads	deshevyi								
@@ -3621,7 +3621,7 @@ PLX-09-208	m4_new		Shopping_ads	deshevyi
 PLX-09-209	m4_new		Shopping_ads	deshevyi								
 PLX-09-210	m4_new		Shopping_ads	deshevyi								
 PLX-09-211	m4_new		Shopping_ads	deshevyi								
-PLX-09-350	m5_norm		Shopping_ads	deshevyi								
+PLX-09-350	m5_norm		Shopping_ads	ne_v_prajsi								
 PLX-09-351	m5_norm		Shopping_ads	deshevyi								
 PLX-09-353	m5_new		Shopping_ads	deshevyi								
 PLX-09-354	m5_new		Shopping_ads	deshevyi								
@@ -3749,14 +3749,14 @@ PLX-10-289	m4_new		Shopping_ads,Display_ads	ne_v_prajsi
 PLX-10-29-002	m4_new_p			khvist								
 PLX-10-29-004	m4_new_p			khvist								
 PLX-10-290	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-10-31-001	m4_norm_p			khvist								
+PLX-10-31-001	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-10-31-002	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-10-31-003	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-10-32-004	m5_new_p	test0		khvist								
 PLX-10-32-005	m5_new_p	test0		khvist								
-PLX-10-32-007	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-10-32-007	m4_norm			khvist								
 PLX-10-32-012	m5_norm_p			khvist								
-PLX-10-33-001	m4_new_p	test0		khvist								
+PLX-10-33-001	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-10-33-004	m4_new_p	test0		khvist								
 PLX-10-33-005	m4_norm			khvist								
 PLX-10-33-007	m4_new_p	test0		khvist								
@@ -3902,8 +3902,8 @@ PLX-100-120	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09
 PLX-100-125	m5_new_p			khvist								
 PLX-100-130	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-100-146	m5_norm		Shopping_ads	deshevyi								
-PLX-100-147	m4_new		Shopping_ads	deshevyi								
-PLX-100-148	m5_norm_p			khvist								
+PLX-100-147	m4_new		Shopping_ads	ne_v_prajsi								
+PLX-100-148	m5_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-100-149	m4_new_p	test0		khvist								
 PLX-100-151	m5_new_p			khvist								
 PLX-100-152	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
@@ -3922,7 +3922,7 @@ PLX-100-225	m5_new		Shopping_ads	pid_zamovlennya							2026-12-03T09:00+0300
 PLX-100-234	m5_new		Shopping_ads	deshevyi								
 PLX-100-300	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-100-301	m5_new_p			khvist								
-PLX-100-302	m5_new_p			khvist								
+PLX-100-302	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-100-303	m4_new_p			khvist								
 PLX-100-3044	m4_new_p	test0		khvist								
 PLX-100-396	m5_new_p			khvist								
@@ -3967,7 +3967,7 @@ PLX-101-001	m3_new		Shopping_ads	deshevyi
 PLX-101-002	m2_norm		Shopping_ads	ne_v_rynku								
 PLX-101-003	m4_new_p			khvist								
 PLX-101-004	m2_new		Shopping_ads	ne_v_prajsi								
-PLX-101-005	m4_new_p			khvist								
+PLX-101-005	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-101-006	dup:Едім		Shopping_ads,Display_ads			prybutok						
 PLX-101-010	m4_norm_p				chempion							
 PLX-101-011	m3_norm_p											
@@ -4263,7 +4263,7 @@ PLX-11-410	m2_new		Shopping_ads	season_off
 PLX-11-411	m2_new		Shopping_ads	season_off								
 PLX-11-412	m5_new		Shopping_ads	deshevyi								
 PLX-11-415	m5_new			season_off								
-PLX-11-416	m4_new			season_off								
+PLX-11-416	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-11-418	m5_new		Shopping_ads	season_off								
 PLX-11-419	m5_new		Shopping_ads	deshevyi								
 PLX-11-420	m5_new_p			khvist								
@@ -4508,7 +4508,7 @@ PLX-15-004	m4_new		Shopping_ads	deshevyi
 PLX-15-01-001	m4_new_p	test0		khvist								
 PLX-15-01-002	m4_new_p	test0		khvist								
 PLX-15-01-004	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-15-01-005	m4_norm				chempion	prybutok						
+PLX-15-01-005	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
 PLX-15-01-007	m4_new_p	test0		khvist								
 PLX-15-015	m2_new		Shopping_ads	ne_v_rynku								
 PLX-15-02-001	m4_hit				chempion	prybutok						
@@ -4532,7 +4532,7 @@ PLX-15-134-003	m4_new_p	test0		khvist
 PLX-15-135-002	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-136-001-SN/PC	m4_new_p	test0		khvist								
 PLX-15-136-AB	m4_new_p	test0		khvist								
-PLX-15-137-001	m4_new_p	test0		khvist								
+PLX-15-137-001	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-137-002	m4_new_p	test0		khvist								
 PLX-15-137-003	m4_new_p	test0		khvist								
 PLX-15-141-01	m4_norm_p			khvist								
@@ -4582,7 +4582,7 @@ PLX-15-179-002	m4_norm			khvist
 PLX-15-180-001	m4_norm_p			khvist								
 PLX-15-180-002	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
 PLX-15-180-003	m4_norm_p			khvist								
-PLX-15-180-004	m4_new_p	test0		khvist								
+PLX-15-180-004	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-180-006	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-181-001	m4_new_p	test0		khvist								
 PLX-15-181-002	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
@@ -4749,7 +4749,7 @@ PLX-16-09-003	m4_new		Shopping_ads	deshevyi
 PLX-16-09-004	m4_new		Shopping_ads	deshevyi								
 PLX-16-09-005	m4_norm_p			khvist								
 PLX-16-10-001	m4_new		Shopping_ads	deshevyi				503730				
-PLX-16-10-002	m4_new		Shopping_ads	deshevyi				503730				
+PLX-16-10-002	m4_new		Shopping_ads	ne_v_prajsi				503730				
 PLX-16-14-001	m4_new_p	test0		khvist								
 PLX-16-14-002	m4_new_p	test0		khvist								
 PLX-16-17-001	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -4775,7 +4775,7 @@ PLX-17-007	m5_new		Shopping_ads	deshevyi
 PLX-17-008	m5_norm		Shopping_ads	deshevyi								
 PLX-17-019	m2_new		Shopping_ads	ne_v_rynku								
 PLX-17937	m2_norm		Shopping_ads	ne_v_rynku								
-PLX-17938	m2_new		Shopping_ads	ne_v_prajsi								
+PLX-17938	m2_new		Shopping_ads	ne_v_rynku								
 PLX-17984	m4_new		Shopping_ads	pid_zamovlennya							2026-12-03T09:00+0300	
 PLX-17996	m4_new		Shopping_ads	deshevyi								
 PLX-18-001	m2_new		Shopping_ads	deshevyi								
@@ -4809,7 +4809,7 @@ PLX-18418	dup:Едім		Shopping_ads	ne_v_nayavnosti
 PLX-18426	m4_new		Shopping_ads	deshevyi								
 PLX-18445	m5_new		Shopping_ads	deshevyi								
 PLX-18481	m4_new		Shopping_ads	deshevyi								
-PLX-188	m4_norm_p			khvist								
+PLX-188	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-189	m4_norm	ads_zero	Shopping_ads									
 PLX-18901	m4_norm		Shopping_ads	deshevyi								
 PLX-19-001	m3_norm		Shopping_ads	ne_v_rynku								
@@ -4908,7 +4908,7 @@ PLX-20169	m2_new_p	test0		khvist
 PLX-20170	m3_new_p	test0		khvist								
 PLX-20171	m3_norm_p			khvist								
 PLX-20172	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
-PLX-20173	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-20173	m2_new_p			khvist								
 PLX-20175	m2_new		Shopping_ads	ne_v_rynku								
 PLX-20176	m2_norm			khvist								
 PLX-20202	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -4937,7 +4937,7 @@ PLX-20272	m2_norm		Shopping_ads	ne_v_rynku
 PLX-20277	m3_new		Shopping_ads	deshevyi								
 PLX-20278	m4_new		Shopping_ads	deshevyi								
 PLX-20279	m4_norm		Shopping_ads	deshevyi								
-PLX-20280	m5_new		Shopping_ads	ne_v_prajsi								
+PLX-20280	m5_new		Shopping_ads	deshevyi								
 PLX-20288	m2_new		Shopping_ads	deshevyi								
 PLX-20293	m4_new		Shopping_ads	deshevyi								
 PLX-204-160	m4_new		Shopping_ads	ne_v_prajsi								
@@ -4945,7 +4945,7 @@ PLX-20437	m2_new		Shopping_ads	ne_v_rynku				1027
 PLX-20445	m2_new		Shopping_ads	ne_v_rynku								
 PLX-20447	m2_norm			khvist								
 PLX-20448	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-20450	m2_norm_p											
+PLX-20450	m2_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-20454	m3_new_p	test0		khvist								
 PLX-205-110	m3_new		Shopping_ads	deshevyi								
 PLX-20509	m3_new_p	test0		khvist								
@@ -5012,7 +5012,7 @@ PLX-215	m4_norm_p			khvist
 PLX-216-160	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
 PLX-216-260	m4_new_p			khvist								
 PLX-216-310	m4_new_p	test0		khvist								
-PLX-216-400	m4_new_p	test0		khvist								
+PLX-216-400	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-21646	m3_norm_p			khvist								
 PLX-2174	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-2175	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
@@ -5118,8 +5118,8 @@ PLX-25-010	m2_new		Shopping_ads	ne_v_rynku
 PLX-25-011	m2_norm		Shopping_ads	ne_v_rynku								
 PLX-25-013	m2_new_p	test0		khvist								
 PLX-25-017	m2_norm		Shopping_ads	ne_v_rynku								
-PLX-25-018	m2_norm		Shopping_ads	ne_v_rynku								
-PLX-25-020	m2_new		Shopping_ads	ne_v_rynku								
+PLX-25-018	m2_norm		Shopping_ads	ne_v_prajsi								
+PLX-25-020	m2_new		Shopping_ads	ne_v_prajsi								
 PLX-25-067	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-25-076	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-25-079	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -5180,7 +5180,7 @@ PLX-263	m5_new		Shopping_ads	deshevyi
 PLX-2631	m5_new		Shopping_ads	deshevyi								
 PLX-264	m5_new		Shopping_ads	deshevyi								
 PLX-26586	m2_new		Shopping_ads	ne_v_rynku								
-PLX-26587	m2_norm		Shopping_ads	ne_v_prajsi								
+PLX-26587	m2_norm		Shopping_ads	ne_v_rynku								
 PLX-267	m5_new		Shopping_ads	deshevyi								
 PLX-268	m4_new		Shopping_ads	pid_zamovlennya							2026-12-03T09:00+0300	
 PLX-269	m5_new		Shopping_ads	deshevyi								
@@ -5336,7 +5336,7 @@ PLX-30547	m2_norm			khvist
 PLX-3055	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
 PLX-30557	m2_new_p	test0		khvist								
 PLX-3056	m4_new_p			khvist								
-PLX-30575	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-30575	m4_norm			khvist								
 PLX-3058	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
 PLX-3059	m4_norm	ads_zero	Shopping_ads									
 PLX-306	m5_new		Shopping_ads	pid_zamovlennya							2026-12-03T09:00+0300	
@@ -5359,7 +5359,7 @@ PLX-3080	m4_new_p	test0		khvist
 PLX-3082	m5_new		Shopping_ads	deshevyi								
 PLX-3085	m5_new		Shopping_ads	deshevyi								
 PLX-3086	m5_new		Shopping_ads	deshevyi								
-PLX-3092	m4_new_p	test0		khvist								
+PLX-3092	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-3098	m4_norm			khvist								
 PLX-31-001	m5_norm			khvist								
 PLX-31-002	m5_norm_p	test0			chempion							
@@ -5395,7 +5395,7 @@ PLX-3110	m5_new_p			khvist
 PLX-31106	m2_hit				chempion	prybutok						
 PLX-31107	m2_norm	ads_zero	Shopping_ads									
 PLX-3111	m5_norm_p				chempion	prybutok						
-PLX-3112	m4_norm_p	test0			chempion	prybutok						
+PLX-3112	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
 PLX-3113	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
 PLX-3119	m5_new_p			khvist								
 PLX-3120	m5_new_p			khvist								
@@ -5411,7 +5411,7 @@ PLX-31244	m3_norm			khvist
 PLX-31246	m2_new_p	test0		khvist								
 PLX-31247	m2_norm			khvist								
 PLX-31248	m2_new_p	test0		khvist								
-PLX-3125	m4_new_p			khvist								
+PLX-3125	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-31250	m2_norm			khvist								
 PLX-31251	m2_norm			khvist								
 PLX-3126	m4_new_p			khvist								
@@ -5549,11 +5549,11 @@ PLX-33175	m3_new_p	test0		khvist
 PLX-33177	m3_new_p	test0		khvist								
 PLX-33179	m3_norm			khvist								
 PLX-33180	m3_new_p	test0		khvist								
-PLX-33181	m2_new		Shopping_ads	ne_v_rynku								
+PLX-33181	m2_new		Shopping_ads	ne_v_prajsi								
 PLX-33183	m2_new		Shopping_ads	ne_v_rynku								
 PLX-33184	m2_norm_p			khvist								
 PLX-33185	m2_norm_p			khvist								
-PLX-33187	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-33187	m2_new_p			khvist								
 PLX-33188	m4_norm			khvist								
 PLX-33191	m2_norm		Shopping_ads	ne_v_rynku								
 PLX-33195	m2_norm			khvist								
@@ -5562,12 +5562,12 @@ PLX-33197	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-33198	m2_new		Shopping_ads	ne_v_rynku								
 PLX-33199	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-33200	m4_new_p	test0		khvist								
-PLX-33264	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-33264	m3_new_p			khvist								
 PLX-33265	m4_new_p	test0		khvist								
 PLX-33266	m2_new_p			khvist								
 PLX-33267	m2_norm_p				chempion	prybutok						
 PLX-33269	m4_hit				chempion	prybutok						
-PLX-33271	m3_hit		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
+PLX-33271	m3_hit				chempion	prybutok						
 PLX-33273	m4_norm			khvist								
 PLX-33274	m2_new_p			khvist								
 PLX-33275	m2_norm			khvist								
@@ -5578,7 +5578,7 @@ PLX-33280	m4_norm_p				chempion	prybutok
 PLX-33282	m5_new_p	test0		khvist								
 PLX-33284	m2_norm	ads_zero	Shopping_ads									
 PLX-33285	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
-PLX-33286	m2_new		Shopping_ads	ne_v_prajsi								
+PLX-33286	m2_new		Shopping_ads	ne_v_rynku								
 PLX-33287	m4_norm_p			khvist								
 PLX-33288	m5_norm			khvist								
 PLX-33289	m4_norm_p				chempion	prybutok						
@@ -5600,7 +5600,7 @@ PLX-33310	m2_new		Shopping_ads	ne_v_rynku
 PLX-33311	m4_norm_p	test0		khvist								
 PLX-33316	m2_norm	ads_zero	Shopping_ads									
 PLX-33317	m2_norm	ads_zero	Shopping_ads									
-PLX-33318	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
+PLX-33318	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-33319	m4_new_p	test0		khvist								
 PLX-33320	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-33321	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -5633,10 +5633,10 @@ PLX-3337	m5_norm		Shopping_ads	deshevyi
 PLX-33371	m3_new		Shopping_ads	ne_v_nayavnosti				6343				
 PLX-33392	m5_norm	ads_zero	Shopping_ads									
 PLX-33397	m3_norm			khvist								
-PLX-33398	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-33398	m2_new_p			khvist								
 PLX-33399	m4_norm_p			khvist								
 PLX-33400	m2_norm			khvist								
-PLX-33415	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-33415	m4_new_p			khvist								
 PLX-33416	m4_new_p	test0		khvist								
 PLX-33419	m2_new		Shopping_ads	ne_v_prajsi								
 PLX-33430	m4_norm		Shopping_ads	deshevyi								
@@ -5944,7 +5944,7 @@ PLX-37-154	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:
 PLX-37-155	m5_new_p			khvist								
 PLX-37-157	m2_new		Shopping_ads	deshevyi								
 PLX-37-158	m4_new_p			khvist								
-PLX-37-159	m5_new		Shopping_ads	deshevyi								
+PLX-37-159	m5_new		Shopping_ads	ne_v_prajsi								
 PLX-37-160	m5_new_p			khvist								
 PLX-37-161	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
 PLX-37-162	m5_new_p			khvist								
@@ -6077,7 +6077,7 @@ PLX-400-146	m2_new		Shopping_ads	deshevyi
 PLX-400-147	m5_new		Shopping_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-400-148	m4_new		Shopping_ads	deshevyi								
 PLX-400-149	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-400-150	m5_new_p			khvist								
+PLX-400-150	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-400-151	m5_new		Shopping_ads	deshevyi								
 PLX-400-152	m4_new_p			khvist								
 PLX-400-153	m5_new		Shopping_ads	deshevyi								
@@ -6112,7 +6112,7 @@ PLX-403802	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-405128	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-41-001	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-41-002	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-41-003	m2_norm		Shopping_ads	ne_v_rynku								
+PLX-41-003	m2_norm		Shopping_ads	ne_v_prajsi								
 PLX-41-004	m1_new		Shopping_ads	deshevyi								
 PLX-41-005	m4_norm_p			khvist								
 PLX-41-006	m3_new_p			khvist								
@@ -6236,7 +6236,7 @@ PLX-50-001	m5_new_p			khvist
 PLX-50-002	m4_new_p			khvist								
 PLX-50-003	m4_norm		Shopping_ads	deshevyi								
 PLX-50-004	m2_new_p	test0		khvist								
-PLX-50-006	m2_norm_p				chempion	prybutok						
+PLX-50-006	m2_norm		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
 PLX-50-50307	m4_new_p	test0		khvist								
 PLX-500	m3_new_p	test0		khvist								
 PLX-500-006С	m4_new		Shopping_ads	deshevyi								
@@ -6392,7 +6392,7 @@ PLX-5301-8160	m4_new		Shopping_ads	deshevyi
 PLX-5301-8230	m2_new		Shopping_ads	deshevyi								
 PLX-531	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-532	m4_norm_p	test0		khvist								
-PLX-533	m4_new_p	test0		khvist								
+PLX-533	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-5335	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-534	m4_norm			khvist								
 PLX-535	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
@@ -6449,7 +6449,7 @@ PLX-54-052	m5_new		Shopping_ads	deshevyi
 PLX-54-053	m5_new		Shopping_ads	deshevyi								
 PLX-54-054	m5_new		Shopping_ads	deshevyi								
 PLX-54-055	m5_new		Shopping_ads	deshevyi								
-PLX-54-056	m5_new		Shopping_ads	deshevyi								
+PLX-54-056	m5_new		Shopping_ads	ne_v_prajsi								
 PLX-54-058	m5_new		Shopping_ads	deshevyi								
 PLX-54-059	m5_new		Shopping_ads	deshevyi								
 PLX-54-071	m2_new		Shopping_ads	ne_v_rynku								
@@ -6578,7 +6578,7 @@ PLX-54-228	m3_new		Shopping_ads	ne_v_rynku
 PLX-54-229	m3_new		Shopping_ads	ne_v_rynku								
 PLX-54-230	m2_norm		Shopping_ads	ne_v_rynku								
 PLX-54-231	m2_new		Shopping_ads	ne_v_rynku								
-PLX-540	m4_norm			khvist								
+PLX-540	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-542	m4_norm			khvist								
 PLX-544	m4_norm			khvist								
 PLX-5441	m4_new_p			khvist								
@@ -6587,7 +6587,7 @@ PLX-5443	m4_new_p			khvist
 PLX-5444	m4_new_p			khvist								
 PLX-5445	m4_new_p			khvist								
 PLX-545	m4_norm			khvist								
-PLX-5468	m5_norm_p				chempion	prybutok						
+PLX-5468	m5_norm		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
 PLX-547	m4_new_p	test0		khvist								
 PLX-548	m4_new_p	test0		khvist								
 PLX-55-001	m2_new		Shopping_ads	ne_v_rynku								
@@ -6644,7 +6644,7 @@ PLX-665	m4_new_p	test0		khvist
 PLX-666	m4_norm			khvist								
 PLX-68	m4_new_p	test0		khvist								
 PLX-69303	m4_norm_p			khvist								
-PLX-69609	m4_new_p	test0		khvist								
+PLX-69609	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-69616	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-69624	m4_new_p	test0		khvist								
 PLX-7-001	m5_norm		Shopping_ads	deshevyi				1027				
@@ -6668,7 +6668,7 @@ PLX-70-011	m2_new		Shopping_ads	ne_v_rynku
 PLX-70-012	m2_norm_p				chempion	prybutok						
 PLX-70-015	m2_new		Shopping_ads	ne_v_prajsi								
 PLX-70-017	m2_new_p	test0		khvist								
-PLX-70-018	m2_new_p			khvist								
+PLX-70-018	m2_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-70-019	m2_new		Shopping_ads	ne_v_rynku								
 PLX-70-020	m3_norm		Shopping_ads	ne_v_rynku								
 PLX-70-021	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
@@ -6864,10 +6864,10 @@ PLX-90016225	dup:Едім		Shopping_ads	ne_v_nayavnosti
 PLX-90016226	m2_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 PLX-90016227	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-90016228	dup:Едім		Shopping_ads	ne_v_nayavnosti								
-PLX-90016230	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
+PLX-90016230	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-90016234	dup:Едім		Shopping_ads	ne_v_nayavnosti								
 PLX-90016235	m2_norm		Shopping_ads	ne_v_rynku								
-PLX-90016237	m4_new		Shopping_ads	pid_zamovlennya							2026-12-03T09:00+0300	
+PLX-90016237	m2_new		Shopping_ads	pid_zamovlennya							2026-12-03T09:00+0300	
 PLX-90016239	m4_new		Shopping_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-90016240	m4_new		Shopping_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-90016266	m1_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
@@ -6875,15 +6875,15 @@ PLX-90016272	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T0
 PLX-90016283	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-90016285	m2_norm_p			khvist								
 PLX-90016293	m2_norm		Shopping_ads	ne_v_rynku								
-PLX-90016294	m2_norm		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
+PLX-90016294	m2_norm				chempion	prybutok						
 PLX-90016295	m2_new		Shopping_ads	ne_v_prajsi								
 PLX-90016296	m2_new		Shopping_ads	ne_v_rynku								
 PLX-90016297	m3_new		Shopping_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-90016298	m2_hit_p				chempion	prybutok						
 PLX-90016300	m3_new		Shopping_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-90016301	m4_new		Shopping_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
-PLX-90016302	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-90016303	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-90016302	m3_norm			khvist								
+PLX-90016303	m3_norm			khvist								
 PLX-90016304	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-90016552	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-90016555	m4_norm_p			khvist								
@@ -6893,7 +6893,7 @@ PLX-90016561	m4_norm_p			khvist				6343
 PLX-90016562	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti				6343				
 PLX-90016563	m5_norm			khvist								
 PLX-90016564	m4_norm_p			khvist								
-PLX-90016565	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-90016565	m4_new_p			khvist								
 PLX-90016566	m4_norm			khvist								
 PLX-90016567	m4_norm			khvist								
 PLX-90016568	m4_norm			khvist								
@@ -6939,7 +6939,7 @@ PLX-90025956	m4_norm_p			khvist
 PLX-90025957	m2_new		Shopping_ads	ne_v_rynku								
 PLX-90025958	m2_norm		Shopping_ads	ne_v_rynku								
 PLX-90025960	m2_norm		Shopping_ads	ne_v_rynku								
-PLX-90026693	m2_new		Shopping_ads	ne_v_prajsi								
+PLX-90026693	m2_new		Shopping_ads	ne_v_rynku								
 PLX-90026694	m2_new_p	test0		khvist								
 PLX-90026695	m2_new		Shopping_ads	ne_v_rynku								
 PLX-90026696	m2_new_p	test0		khvist								
@@ -7012,7 +7012,7 @@ PLX-90026877	m4_norm			khvist
 PLX-90026878	m4_norm				konv_google							
 PLX-90026879	m4_new_p	test0		khvist								
 PLX-90026880	m4_new_p	test0		khvist								
-PLX-90026881	m4_new_p	test0		khvist								
+PLX-90026881	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-900440	m5_new		Shopping_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-900442	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-900444	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -7168,7 +7168,7 @@ PLX-FL1550	m4_new_p	test0		khvist
 PLX-FL1565	m4_new_p	test0		khvist								
 PLX-FL1565L	m3_new_p	test0		khvist								
 PLX-FP-0022	m2_norm		Shopping_ads	ne_v_rynku								
-PLX-FP-0417	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-FP-0417	m4_new			khvist								
 PLX-FP-0568	m4_norm			khvist								
 PLX-FP-0569	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-FRS-0472	m5_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -7499,15 +7499,15 @@ PLX-R-0087	m4_new		Shopping_ads	deshevyi
 PLX-R-0088	m4_new		Shopping_ads	deshevyi								
 PLX-R-0089	m4_new_p			khvist								
 PLX-R-01-201	m5_new_p			khvist								
-PLX-R-01-203	m5_norm_p				chempion							
+PLX-R-01-203	m5_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-R-01-401	m4_new		Shopping_ads	ne_v_nayavnosti				499860				
 PLX-R-01-403	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti				499860				
 PLX-R-0127	m4_new		Shopping_ads	deshevyi								
-PLX-R-0128	dup:Едім		Shopping_ads	ne_v_nayavnosti								
+PLX-R-0128	m4_new		Shopping_ads	ne_v_nayavnosti								
 PLX-R-0129	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-R-0130	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-R-0131	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
-PLX-R-0132	m4_new_p			khvist								
+PLX-R-0132	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-R-0143	m5_new		Shopping_ads	deshevyi								
 PLX-R-0145	m5_new		Shopping_ads	deshevyi								
 PLX-R-0146	m5_new		Shopping_ads	deshevyi								
@@ -7526,7 +7526,7 @@ PLX-R-0280	m1_new		Shopping_ads	deshevyi
 PLX-R-0305	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-R-0318	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-R-0362	m4_norm	ads_zero	Shopping_ads									
-PLX-R-0363	m4_hit				chempion	prybutok						
+PLX-R-0363	m4_hit		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
 PLX-R-0393	m5_new		Shopping_ads	deshevyi								
 PLX-R-0395	m4_new_p			khvist								
 PLX-R-0398	m4_norm	ads_zero	Shopping_ads									
@@ -7592,7 +7592,7 @@ PLX-SRF2750	m4_new_p	test0		khvist
 PLX-SRF2760	m4_norm			khvist								
 PLX-SRF2770	m4_new_p	test0		khvist								
 PLX-SS-0424	m4_norm_p				chempion	prybutok						
-PLX-SS-0425	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-SS-0425	m4_new_p			khvist								
 PLX-SS-0518	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-SS-0602	m5_new		Shopping_ads	pid_zamovlennya							2026-12-03T09:00+0300	
 PLX-SS-0603	m5_new		Shopping_ads	ne_v_prajsi								
@@ -7734,7 +7734,7 @@ PLX-А0025263	m4_new_p	test0		khvist
 PLX-А0025340	m4_new_p	test0		khvist								
 PLX-А0025341	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-А0025342	m4_new_p	test0		khvist								
-PLX-А0025343	m4_new_p	test0		khvist								
+PLX-А0025343	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-А0025344	m4_new_p	test0		khvist								
 PLX-А0025345	m4_new_p	test0		khvist								
 PLX-А0025346	m4_new_p	test0		khvist								
@@ -7747,7 +7747,7 @@ PLX-А0025352	m4_norm_p	test0		khvist
 PLX-А0025353	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-А0025354	m4_new_p	test0		khvist								
 PLX-А0025355	m4_new_p	test0		khvist								
-PLX-А0025356	m4_new_p	test0		khvist								
+PLX-А0025356	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-А0025357	m4_new_p	test0		khvist								
 PLX-А0025358	m4_new_p	test0		khvist								
 PLX-А0025359	m4_new_p	test0		khvist								
@@ -7756,8 +7756,8 @@ PLX-А0025361	m3_new_p	test0		khvist
 PLX-А0025437	m4_norm_p			khvist								
 PLX-А0025438	m4_norm			khvist								
 PLX-А0025455	m4_norm			khvist								
-PLX-А0025456	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-А0025457	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-А0025456	m4_new_p			khvist								
+PLX-А0025457	m4_new_p			khvist								
 PLX-А0025458	m4_norm_p			khvist								
 PLX-А0025459	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-А0025460	m4_new_p	test0		khvist								
@@ -7783,7 +7783,7 @@ PLX-А0025508	m4_new_p	test0		khvist
 PLX-А0025509	m4_new_p	test0		khvist								
 PLX-А0025512	m4_new_p	test0		khvist								
 PLX-А0025549	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
-PLX-А0025562	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-А0025562	m4_new_p			khvist								
 PLX-А0025563	m4_new_p	test0		khvist								
 PLX-А0025580	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-А0025581	m4_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
@@ -7827,7 +7827,7 @@ PLX-ВН 04-Н54 SN/СР	m4_new		Shopping_ads,Display_ads	ne_v_prajsi
 PLX-ВС2-10	m4_norm			khvist								
 PLX-ВС2-2А	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-ЗВС-12	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
-PLX-ЗКП2-40	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-ЗКП2-40	m3_norm			khvist								
 PLX-ЗН-6	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-ЗН-8	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-К18201	m4_norm_p			khvist								
@@ -8113,15 +8113,15 @@ PLX-НФ-00000717	m4_new_p	test0		khvist
 PLX-НФ-00000718	m4_new_p	test0		khvist								
 PLX-НФ-00000719	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00000720	m4_new_p	test0		khvist								
-PLX-НФ-00000788	m4_new_p			khvist								
-PLX-НФ-00000789	m4_new_p			khvist								
+PLX-НФ-00000788	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00000789	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00000790	m4_new_p			khvist								
 PLX-НФ-00000791	m4_new_p			khvist								
 PLX-НФ-00000792	m4_new_p			khvist								
 PLX-НФ-00000794	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00000796	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00000798	m4_new_p	test0		khvist								
-PLX-НФ-00000799	m4_norm_p			khvist								
+PLX-НФ-00000799	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00000800	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00000801	m4_new_p	test0		khvist								
 PLX-НФ-00000802	m4_new_p	test0		khvist								
@@ -8154,7 +8154,7 @@ PLX-НФ-00000848	m4_new_p	test0		khvist
 PLX-НФ-00000849	m4_new_p	test0		khvist								
 PLX-НФ-00000850	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00000851	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-НФ-00000852	m4_new_p	test0		khvist								
+PLX-НФ-00000852	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00000853	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00000854	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00000855	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -8208,7 +8208,7 @@ PLX-НФ-00000982	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-НФ-00000983	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00000984	m4_new_p	test0		khvist								
 PLX-НФ-00000985	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-НФ-00000990	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
+PLX-НФ-00000990	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00000991	m4_new_p			khvist								
 PLX-НФ-00000992	m4_new_p	test0		khvist								
 PLX-НФ-00000993	m4_new_p	test0		khvist								
@@ -8311,7 +8311,7 @@ PLX-НФ-00001132	m4_new_p	test0		khvist
 PLX-НФ-00001133	m4_new_p	test0		khvist								
 PLX-НФ-00001134	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00001135	m3_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
-PLX-НФ-00001137	m3_new_p	test0		khvist								
+PLX-НФ-00001137	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001138	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001139	m3_norm_p				konv_google							
 PLX-НФ-00001141	m5_new		Shopping_ads	deshevyi								
@@ -8619,7 +8619,7 @@ PLX-НФ-00001753	m2_new		Shopping_ads	deshevyi
 PLX-НФ-00001754	m4_new		Shopping_ads	deshevyi								
 PLX-НФ-00001755	m5_new		Shopping_ads	deshevyi								
 PLX-НФ-00001756	m3_new_p	test0		khvist								
-PLX-НФ-00001757	m3_norm_p			khvist								
+PLX-НФ-00001757	m3_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001758	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001759	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001760	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
@@ -8695,7 +8695,7 @@ PLX-НФ-00001887	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-НФ-00001890	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00001894	m5_new		Shopping_ads	ne_v_nayavnosti								
 PLX-НФ-00001896	m3_new_p	test0		khvist								
-PLX-НФ-00001897	m3_new_p	test0		khvist								
+PLX-НФ-00001897	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001899	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001900	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001901	m3_new		Shopping_ads,Display_ads	ne_v_prajsi								
@@ -8704,9 +8704,9 @@ PLX-НФ-00001904	m4_new_p	test0		khvist
 PLX-НФ-00001905	m4_new_p	test0		khvist								
 PLX-НФ-00001907	m4_new_p	test0		khvist								
 PLX-НФ-00001909	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-НФ-00001910	m5_new_p	test0		khvist								
+PLX-НФ-00001910	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001911	m4_new_p	test0		khvist								
-PLX-НФ-00001912	m5_new_p	test0		khvist								
+PLX-НФ-00001912	m5_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00001913	m5_new_p	test0		khvist								
 PLX-НФ-00001914	m3_new_p	test0		khvist								
 PLX-НФ-00001915	m3_new_p	test0		khvist								
@@ -8816,7 +8816,7 @@ PLX-НФ-00002274	m4_norm_p			khvist
 PLX-НФ-00002275	m4_new_p	test0		khvist								
 PLX-НФ-00002276	m4_norm_p			khvist								
 PLX-НФ-00002277	m4_new_p	test0		khvist								
-PLX-НФ-00002279	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
+PLX-НФ-00002279	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00002280	m4_new_p	test0		khvist								
 PLX-НФ-00002281	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00002285	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -9083,7 +9083,7 @@ PLX-НФ-00002987	m3_new		Shopping_ads,Display_ads	ne_v_prajsi
 PLX-НФ-00003002	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00003003	m3_new_p	test0		khvist								
 PLX-НФ-00003007	m4_new_p			khvist								
-PLX-НФ-00003145	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
+PLX-НФ-00003145	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00003146	m4_new_p	test0		khvist								
 PLX-НФ-00003147	m4_new_p	test0		khvist								
 PLX-НФ-00003148	m4_new_p	test0		khvist								
@@ -9254,17 +9254,17 @@ PLX-СК-03-22	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-СК-03-23	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-СК-03-24	m4_new_p			khvist								
 PLX-СК-03-25	m4_new_p			khvist								
-PLX-СК-03-П-04	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-СК-03-П-04	m4_norm			khvist								
 PLX-СК-03-П-05	m4_norm	ads_zero	Shopping_ads									
 PLX-СК-03-П-06	m4_norm	ads_zero	Shopping_ads									
 PLX-СК-03-П-07	m4_new_p	test0		khvist								
-PLX-СК-03-Ш-01	m4_new		Shopping_ads	ne_v_prajsi								
-PLX-СК-03-Ш-02	m4_new		Shopping_ads	ne_v_prajsi								
+PLX-СК-03-Ш-01	m4_new		Shopping_ads	deshevyi								
+PLX-СК-03-Ш-02	m4_new		Shopping_ads	deshevyi								
 PLX-СК-03-Ш-03	m4_new		Shopping_ads	deshevyi								
 PLX-СК-03-Ш-04	m4_norm	ads_zero	Shopping_ads	deshevyi								
 PLX-СК-03-Ш-05	m4_new		Shopping_ads	deshevyi								
 PLX-СК-03-Ш-07	m4_new		Shopping_ads	deshevyi								
-PLX-СК-03-Ш-08	m5_norm		Shopping_ads	ne_v_prajsi								
+PLX-СК-03-Ш-08	m5_norm		Shopping_ads	deshevyi								
 PLX-СК-03-Ш-09	m4_new		Shopping_ads	deshevyi								
 PLX-СК-03-Ш-10	m4_norm		Shopping_ads	deshevyi								
 PLX-СК-03-Ш-11	m4_new		Shopping_ads	deshevyi								
@@ -9276,7 +9276,7 @@ PLX-СК-03-Ш-16	m5_norm		Shopping_ads	deshevyi
 PLX-СК-03-Ш-17	m5_new		Shopping_ads	pid_zamovlennya							2026-12-03T09:00+0300	
 PLX-СК-03-Ш-18	m4_new		Shopping_ads	deshevyi								
 PLX-СК-03-Ш-19	m4_norm		Shopping_ads	deshevyi								
-PLX-СК-03-Ш-20	m4_new		Shopping_ads	ne_v_prajsi								
+PLX-СК-03-Ш-20	m4_new		Shopping_ads	deshevyi								
 PLX-СК-03-Ш-21	m4_new		Shopping_ads	deshevyi								
 PLX-СК-03-Ш-22	m4_norm		Shopping_ads	deshevyi								
 PLX-СК-03-Ш-23	m4_norm		Shopping_ads	deshevyi								
@@ -9322,10 +9322,10 @@ PLX-СК-04-34	m5_new		Shopping_ads	deshevyi
 PLX-СК-04-35	m4_new		Shopping_ads	deshevyi								
 PLX-СК-04-36	m4_norm		Shopping_ads	deshevyi								
 PLX-СК-04-37	m5_new		Shopping_ads	deshevyi								
-PLX-СК-05-01	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-СК-05-01	m4_new_p			khvist								
 PLX-СК-05-02	m4_new		Shopping_ads	deshevyi								
 PLX-СК-05-03	m4_new_p			khvist								
-PLX-СК-05-04	m4_new		Shopping_ads	deshevyi								
+PLX-СК-05-04	m4_new		Shopping_ads	ne_v_prajsi								
 PLX-СК-05-05	m4_norm		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-СК-05-06	m4_norm			khvist								
 PLX-СК-05-07	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
@@ -9357,7 +9357,7 @@ PLX-СК-05-39	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-СК-05-40	m4_new_p	test0		khvist								
 PLX-СК-05-41	m4_new_p	test0		khvist								
 PLX-СК-05-42	m5_norm		Shopping_ads	deshevyi								
-PLX-СК-05-47	m5_new		Shopping_ads	ne_v_prajsi								
+PLX-СК-05-47	m5_new		Shopping_ads	deshevyi								
 PLX-СК-05-51	m3_new		Shopping_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 PLX-СК-06-01	m5_new		Shopping_ads	deshevyi								
 PLX-СК-06-02	m5_new		Shopping_ads	deshevyi								
@@ -9385,7 +9385,7 @@ PLX-СК-07-09	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-СК-07-11	m4_norm_p				chempion	prybutok						
 PLX-СК-07-12	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-СК-07-13	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-PLX-СК-07-14	m4_new_p			khvist								
+PLX-СК-07-14	m4_new		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-СК-07-15	m4_new_p			khvist								
 PLX-СК-07-16	m4_new		Shopping_ads	deshevyi								
 PLX-СК-07-17	m4_new		Shopping_ads	deshevyi								
@@ -9394,7 +9394,7 @@ PLX-СК-07-19	m4_new		Shopping_ads	deshevyi
 PLX-СК-07-21	m4_new		Shopping_ads	deshevyi								
 PLX-СК-07-24	m4_new_p			khvist								
 PLX-СК-07-25	m4_new_p			khvist								
-PLX-СК-07-26	m4_new		Shopping_ads	ne_v_prajsi								
+PLX-СК-07-26	m4_new		Shopping_ads	deshevyi								
 PLX-СК-07-27	m4_new		Shopping_ads	deshevyi								
 PLX-СК-07-28	m4_new		Shopping_ads	deshevyi								
 PLX-СК-07-29	m4_norm		Shopping_ads	deshevyi								
@@ -9421,7 +9421,7 @@ PLX-СК-09-02	m5_new		Shopping_ads	deshevyi
 PLX-СК-09-03	m5_new		Shopping_ads	deshevyi								
 PLX-СК-09-04	m5_new		Shopping_ads	deshevyi								
 PLX-СК-09-05	m5_new		Shopping_ads	deshevyi								
-PLX-СК-12-002	m4_new		Shopping_ads	deshevyi								
+PLX-СК-12-002	m4_new		Shopping_ads	ne_v_prajsi								
 PLX-СК-12-003	dup:Едім		Shopping_ads	ne_v_nayavnosti								
 PLX-СК-12-004	m4_new		Shopping_ads	deshevyi								
 PLX-СК-12-007	m4_norm_p			khvist								
@@ -21536,7 +21536,7 @@ vt-B005-12	m4_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti		stop
 vt-B005-8	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
 vt-B006-10	m5_new		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
 vt-B006-12	m5_hit				chempion	prybutok						
-vt-B006-8	m5_norm		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
+vt-B006-8	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-03T09:00+0300	
 vt-B010-18	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-B010-20	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
 vt-B010-22	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-03T09:00+0300	
