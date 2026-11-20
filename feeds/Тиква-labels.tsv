@@ -4,7 +4,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 1007167184	m5_hit	prybutok				
 1024571462	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	2802	
 1030327091	m0_norm				113	
-1030327919	dup:Гарбуз				113	
+1030327919	dup:Гарбуз	ads_zero	Shopping_ads		113	
 1030328538	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	113	
 1032379638	dup:Гарбуз	ads_zero	Shopping_ads		2988	
 1032395676	dup:Гарбуз	prybutok			1794	
@@ -16,7 +16,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 1033469494	m0_norm				1794	
 1033497926	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	1794	
 1034195296	m3_norm		Shopping_ads	vytraty_stelya		
-1034448482	m4_hit	prybutok			728	2026-12-03T09:00+0300
+1034448482	m4_hit	prybutok			728	2026-12-04T09:00+0300
 1034450196	m0_norm			season_off	728	
 1034482927	m0_norm				3103	
 1034484845	m0_new				2869	
@@ -47,7 +47,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 1295719489	dup:Гарбуз				1794	
 1296834378	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	689	
 1296852926	m4_norm		Shopping_ads	vytraty_stelya	728	
-1296862749	m0_new		Shopping_ads,Display_ads	pid_zamovlennya	728	2026-12-03T09:00+0300
+1296862749	m0_new		Shopping_ads,Display_ads	pid_zamovlennya	728	2026-12-04T09:00+0300
 1335736620	dup:Гарбуз				1794	
 1335754167	m5_hit	prybutok			1794	
 1336571123	dup:Гарбуз				2869	
@@ -61,7 +61,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 1336597161	dup:Гарбуз	prybutok			113	
 1351623011	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	2869	
 1351635761	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	2869	
-1351645527	m0_new			season_off	3103	
+1351645527	m0_norm			season_off	3103	
 1351651432	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	3103	
 1351662844	m0_norm			season_off	2869	
 1351680174	dup:Гарбуз	prybutok		season_off	2869	
@@ -154,7 +154,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 1725480830	m5_norm	prybutok			728	
 1726652752	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	728	
 1726656751	m0_new_p				728	
-1726657690	m0_new_p	test0				
+1726657690	m0_norm_p	test0				
 1732052573	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti		
 1732236847	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti	3173	
 1732250657	dup:Гарбуз	prybutok			689	
@@ -278,7 +278,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 1856373727	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti		
 1856389966	dup:Гарбуз			season_off	2869	
 1856417206	dup:Гарбуз			season_off	2869	
-1856435003	m0_new			season_off	3103	
+1856435003	m0_norm			season_off	3103	
 1856522366	m0_norm			season_off	3103	
 1856554664	m0_norm	ads_zero	Shopping_ads	season_off	2869	
 1856571902	dup:Гарбуз			season_off	2869	
@@ -300,7 +300,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 1882800262	dup:Гарбуз				503742	
 1883208788	m0_new_p			cina_vid_4000	2277	
 1885296171	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti		
-1885367149	m0_new				974	
+1885367149	m0_norm				974	
 1885422871	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	974	
 1885428589	m0_new_p				974	
 1888986147	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	2626	
@@ -401,7 +401,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 1950136364	m0_new					
 1950225144	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		
 1950956382	m0_norm					
-1951072782	m0_norm				728	
+1951072782	m0_norm		Shopping_ads	vytraty_stelya	728	
 1951241983	dup:Гарбуз					
 1955352243	m0_new_p				3086	
 1956083440	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	2713	
@@ -606,8 +606,8 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2128567395	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	2869	
 2130234736	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	3103	
 2131286281	m0_norm			season_off	2869	
-2131375245	m0_new			season_off	3103	
-2131454264	m0_new			season_off	3103	
+2131375245	m0_norm			season_off	3103	
+2131454264	m0_norm			season_off	3103	
 2131496199	m0_norm			season_off	2869	
 2131502244	m0_norm			season_off	2869	
 2131988796	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	728	
@@ -722,7 +722,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2176709983	dup:Гарбуз	prybutok			113	
 2176724413	dup:Гарбуз	prybutok			113	
 2176752082	dup:Гарбуз				113	
-2176781755	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		
+2176781755	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti		
 2177747670	dup:Гарбуз	prybutok			113	
 2177795108	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	113	
 2177814621	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti	113	
@@ -803,7 +803,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2218387633	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti		
 2218395386	dup:Гарбуз			season_off	3103	
 2218400931	dup:Гарбуз			season_off	3103	
-2218431669	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya	3103	2026-12-03T09:00+0300
+2218431669	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya	3103	2026-12-04T09:00+0300
 2218433839	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	3103	
 2218437361	dup:Гарбуз			season_off	3103	
 2218444628	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti		
@@ -1541,7 +1541,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2401622983	dup:Гарбуз	test0			2878	
 2401635830	m5_norm_p				2212	
 2401638698	m5_norm_p				2212	
-2401640623	m0_new_p	test0			2212	
+2401640623	m0_norm_p	test0			2212	
 2403310013	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	2878	
 2403314971	m0_new_p				2878	
 2403317057	m0_new_p				2212	
@@ -1964,7 +1964,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2421694070	m0_new_p	test0			4081	
 2421695108	m0_new_p	test0			4081	
 2421695880	m0_new_p	test0			4081	
-2421696083	m0_new_p	test0			4081	
+2421696083	m0_norm_p	test0			4081	
 2421696180	m0_new_p	test0			4081	
 2421721492	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti	1191	
 2421722426	m0_new_p				1191	
@@ -2007,7 +2007,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2425905504	m5_norm_p	test0			499886	
 2425908026	m0_norm_p	test0			499886	
 2425911241	m0_new_p	test0			499886	
-2425913048	m0_new_p	test0			499886	
+2425913048	m0_norm_p	test0			499886	
 2425914094	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti	499886	
 2425970820	m0_new_p				499886	
 2425972531	m0_new_p				499886	
@@ -2457,7 +2457,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2433999421	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	1632	
 2434000536	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	1632	
 2434023234	m0_new_p	test0			1632	
-2434030349	dup:Гарбуз				1632	
+2434030349	m0_new_p				1632	
 2434034453	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti	1632	
 2434039875	m0_new_p	test0			1632	
 2434053055	m0_norm_p	test0			1632	
@@ -4077,7 +4077,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2474492377	dup:Едім		Shopping_ads,Display_ads		1774	
 2474498359	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	1774	
 2474502489	m0_new_p	test0			1774	
-2474544334	m0_new_p	test0			1774	
+2474544334	m0_norm_p	test0			1774	
 2474545702	dup:Гарбуз	prybutok	Shopping_ads,Display_ads	ne_v_nayavnosti	1774	
 2474555366	m0_new_p	test0			1774	
 2474563829	m0_new_p	test0			1774	
@@ -4179,7 +4179,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2479313467	dup:Гарбуз				1202	
 2479319853	dup:Гарбуз				1202	
 2479322508	dup:Гарбуз	prybutok			1202	
-2479323938	m0_new_p	test0			1202	
+2479323938	m0_norm_p	test0			1202	
 2479325593	dup:Гарбуз				1202	
 2479328379	m0_new_p				1202	
 2479330032	m0_new_p				1202	
@@ -4653,7 +4653,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2574131433	dup:Гарбуз			season_off	2869	
 2574870469	dup:Гарбуз			season_off	2869	
 2574906509	m0_new					
-2574914863	m3_norm	prybutok				
+2574914863	m3_norm	prybutok	Shopping_ads	vytraty_stelya		
 2574997331	dup:Гарбуз				113	
 2575014148	dup:Гарбуз				113	
 2575018802	dup:Гарбуз				113	
@@ -4729,9 +4729,9 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2577287266	m0_norm			season_off	3173	
 2577287521	m0_norm			season_off	3103	
 2577289556	m0_new			season_off	2869	
-2577292366	m0_new			season_off	3103	
+2577292366	m0_norm			season_off	3103	
 2577293242	m0_norm			season_off	3103	
-2577335265	m0_new			season_off	3103	
+2577335265	m0_norm			season_off	3103	
 2577339011	m0_norm			season_off	3103	
 2577340440	m0_norm			season_off	3103	
 2577343273	dup:Гарбуз			season_off	2869	
@@ -4773,7 +4773,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2579257504	m0_norm			season_off	3103	
 2579258916	m0_norm			season_off	3103	
 2579261968	m0_new_p				113	
-2579279072	m0_norm			season_off	3103	
+2579279072	m0_norm	ads_zero	Shopping_ads	season_off	3103	
 2579407414	m0_norm			season_off	3103	
 2579421718	m0_norm			season_off	3103	
 2579429003	m0_norm			season_off	2869	
@@ -4818,7 +4818,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2583182838	dup:Гарбуз			season_off	3103	
 2583244624	dup:Гарбуз			season_off	3103	
 2584447901	m0_new			season_off	3103	
-2584450726	m0_new			season_off	3103	
+2584450726	m0_norm			season_off	3103	
 2584464574	dup:Гарбуз			season_off	2869	
 2584469091	dup:Гарбуз			season_off	2869	
 2584491723	dup:Гарбуз				728	
@@ -4893,9 +4893,9 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2595007424	m0_new_p				6437	
 2595008406	m0_norm_p				6437	
 2595010053	m0_new_p				6437	
-2595013569	m0_new_p	test0			6437	
+2595013569	m0_norm_p	test0			6437	
 2595204508	m0_new_p	test0			2802	
-2595205864	m0_new_p	test0			6437	
+2595205864	m0_norm_p	test0			6437	
 2595207875	m0_new_p				6437	
 2595208908	m0_new_p				6437	
 2595209385	m0_new_p				2802	
@@ -4923,7 +4923,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2596723463	m0_new_p				2202	
 2597160299	m0_new_p	test0			2202	
 2598019427	m0_norm_p				1794	
-2598044504	dup:Гарбуз				5927	
+2598044504	m0_new_p				5927	
 2598053260	dup:Гарбуз				3173	
 2598054751	dup:Гарбуз				3173	
 2598061177	m0_norm				7335	
@@ -5010,7 +5010,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2603549054	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	1367	
 2603552869	dup:Гарбуз				1367	
 2603554155	dup:Гарбуз	test0			1367	
-2603554844	dup:Гарбуз	test0			1367	
+2603554844	m0_new_p	test0			1367	
 2603557521	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	1367	
 2603558354	dup:Гарбуз	test0			1367	
 2603559648	dup:Гарбуз	test0			1367	
@@ -5122,7 +5122,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2613882900	m0_new_p	test0			503744	
 2614114892	m0_new_p				1027	
 2614116567	m0_new_p				1027	
-2614131905	m0_new_p	test0			503730	
+2614131905	m0_norm_p	test0			503730	
 2614167104	dup:Едім	prybutok			503730	
 2614172364	dup:Гарбуз	test0			503730	
 2614219220	dup:Гарбуз	test0			503730	
@@ -5182,7 +5182,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2620210021	dup:Едім	prybutok			503730	
 2620211212	m0_new_p				503730	
 2620668069	m3_norm_p	prybutok			503730	
-2620668500	m0_new_p	test0			503730	
+2620668500	m0_norm_p	test0			503730	
 2620668624	m0_new_p	test0			503730	
 2620668708	m3_norm_p	prybutok			503730	
 2620668789	m0_new_p	test0			503730	
@@ -5245,7 +5245,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2625608946	dup:Гарбуз	prybutok			4698	
 2625609701	dup:Гарбуз	test0			4698	
 2625610595	dup:Гарбуз	prybutok	Shopping_ads,Display_ads		4698	
-2625613606	dup:Гарбуз	test0			4698	
+2625613606	dup:Гарбуз		Shopping_ads,Display_ads		4698	
 2625670460	dup:Гарбуз				8067	
 2625672510	m0_new_p				8067	
 2625673522	dup:Гарбуз				8067	
@@ -5669,7 +5669,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2893967641	m0_norm					
 2893973465	m0_norm					
 2893977639	m0_norm					
-2893988797	m0_norm					
+2893988797	m0_new_p					
 2894074088	m0_norm_p					
 2898954545	m0_new			season_off	2802	
 2898975455	dup:Гарбуз			season_off	2869	
@@ -5772,7 +5772,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2934904551	dup:Гарбуз	ads_zero	Shopping_ads		630	
 2934904621	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	630	
 2934904697	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	630	
-2934907977	m0_new_p	test0			630	
+2934907977	m0_norm_p	test0			630	
 2934931834	dup:Гарбуз				630	
 2934932637	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	630	
 2936051095	dup:Гарбуз	test0			630	
@@ -5788,7 +5788,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2938066568	m0_new_p				630	
 2938139752	m0_norm				672	
 2938151042	m0_new				672	
-2938192606	m0_new_p	test0				
+2938192606	m0_norm_p	test0				
 2939659709	m0_norm				4424	
 2939661216	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti	4424	
 2939745805	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti		
@@ -5841,7 +5841,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2974718157	m0_norm					
 2974726213	m0_new					
 2974728359	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		
-2977666880	m0_new					
+2977666880	m0_norm					
 2977676058	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti		
 2977678284	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti		
 2977701523	dup:Гарбуз				630	
@@ -5912,7 +5912,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2996760187	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	672	
 2996763721	dup:Гарбуз				672	
 3012752673	m0_new			season_off	2802	
-3025132578	m0_new_p				672	
+3025132578	m0_norm_p				672	
 3025142993	m0_new_p	test0			672	
 3025174698	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	6740	
 3025175948	m3_norm_p	cina			672	
@@ -6033,7 +6033,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3041243808	dup:Гарбуз	test0			654	
 3041244766	dup:Гарбуз	test0			654	
 3041244948	dup:Гарбуз	test0			654	
-3041245168	m0_new_p	test0			654	
+3041245168	m0_norm_p	test0			654	
 3041246121	dup:Гарбуз	test0			654	
 3041246391	dup:Гарбуз	test0			654	
 3041364043	m0_new				658	
@@ -6144,7 +6144,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3053905051	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	4424	
 3053906210	m0_norm				640	
 3053906923	m0_norm				640	
-3054918520	dup:Гарбуз				6740	
+3054918520	m0_new_p				6740	
 3054930060	m0_new_p					
 3054936400	m0_new_p				6740	
 3054939088	dup:Гарбуз				6740	
@@ -6192,7 +6192,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3092575001	dup:Гарбуз	test0		cina_vid_4000	630	
 3092576699	dup:Гарбуз	test0		cina_vid_4000	630	
 3096404807	m0_norm		Shopping_ads	vytraty_stelya	975	
-3125474982	dup:Гарбуз	mykolai		pid_zamovlennya	3601	2026-12-03T09:00+0300
+3125474982	dup:Гарбуз	mykolai		pid_zamovlennya	3601	2026-12-04T09:00+0300
 3125474983	m0_norm_p	mykolai		cina_vid_4000	3601	
 3125474984	m0_norm_p	mykolai			3601	
 3125474985	dup:Гарбуз				3601	
@@ -6221,7 +6221,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3131969026	m0_new_p	test0				
 3131969028	m2_norm				654	
 3131969030	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	6740	
-3131969031	dup:Гарбуз				6740	
+3131969031	m0_new				6740	
 3131969035	dup:Гарбуз					
 3131969039	m2_new_p	test0			654	
 3131969040	dup:Гарбуз	test0			4424	
@@ -6276,9 +6276,9 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3131969113	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	2951	
 3131969114	dup:Гарбуз	test0				
 3131969115	dup:Гарбуз	prybutok			672	
-3131969116	dup:Гарбуз				6740	
+3131969116	m0_norm				6740	
 3131969117	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	6740	
-3131969118	dup:Гарбуз	test0			2951	
+3131969118	m2_new_p	test0			2951	
 3131969119	dup:Гарбуз					
 3131969120	dup:Гарбуз				4424	
 3131969122	dup:Гарбуз	test0				
@@ -6296,7 +6296,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3131969137	dup:Гарбуз	test0				
 3131969138	dup:Гарбуз	test0			2951	
 3131969139	dup:Гарбуз				654	
-3131969142	dup:Гарбуз					
+3131969142	m0_new					
 3131969143	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	2951	
 3131969145	dup:Гарбуз	test0			2951	
 3131969146	m2_new_p	test0				
@@ -6404,7 +6404,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3131969320	dup:Гарбуз	prybutok			6740	
 3131969323	dup:Гарбуз				654	
 3131969324	dup:Гарбуз					
-3131969325	m2_new_p	test0			2951	
+3131969325	m2_norm_p	test0			2951	
 3131969326	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	4424	
 3131969327	dup:Гарбуз				654	
 3131969328	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	6740	
@@ -6435,7 +6435,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3131969357	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	654	
 3131969358	dup:Гарбуз				2951	
 3131969359	m2_new_p	test0			2951	
-3131969360	dup:Гарбуз	test0				
+3131969360	m0_new_p	test0				
 3131969361	dup:Гарбуз	test0			672	
 3131969363	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	672	
 3131969364	dup:Гарбуз	test0			2951	
@@ -6518,14 +6518,14 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3131969453	dup:Гарбуз	test0			2951	
 3131969454	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	4424	
 3131969455	dup:Гарбуз	test0			672	
-3131969458	dup:Гарбуз	test0			2951	
+3131969458	m2_new_p	test0			2951	
 3131969459	m0_new_p	test0			4424	
 3131969460	dup:Гарбуз	test0			2951	
 3131969463	dup:Гарбуз				2951	
 3131969464	dup:Гарбуз				4424	
 3131969465	dup:Гарбуз	test0			672	
 3131969466	dup:Гарбуз				6740	
-3131969467	dup:Гарбуз	test0			672	
+3131969467	m3_new_p	test0			672	
 3131969468	dup:Гарбуз	test0			2951	
 3131969470	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	2951	
 3131969471	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	6740	
@@ -6592,7 +6592,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3131969588	m3_norm					
 3131969590	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	672	
 3131969591	dup:Гарбуз	test0			672	
-3131969592	dup:Гарбуз				2951	
+3131969592	m0_norm				2951	
 3131969593	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	4424	
 3131969595	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	672	
 3131969596	dup:Гарбуз	test0			602	
@@ -6630,7 +6630,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3131969637	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	672	
 3131969638	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti		
 3131969640	dup:Гарбуз	test0			4424	
-3131969641	dup:Гарбуз	test0			672	
+3131969641	m0_new_p	test0			672	
 3131969642	dup:Гарбуз	test0			2951	
 3131969644	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	2951	
 3131969647	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	672	
@@ -6650,7 +6650,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3131969666	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	4424	
 3131969667	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	672	
 3131969668	dup:Гарбуз				672	
-3131969671	m5_new_p	test0			4424	
+3131969671	m5_norm_p	test0			4424	
 3131969672	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	2951	
 3131969673	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	4424	
 3131969674	m0_new_p	test0				
@@ -7436,7 +7436,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3254509193	dup:Гарбуз	test0		cina_vid_4000	500034	
 3254509194	dup:Гарбуз	test0		cina_vid_4000	500034	
 3254509195	dup:Гарбуз			cina_vid_4000	500034	
-3254509196	m0_new_p	test0		cina_vid_4000		
+3254509196	m0_norm_p	test0		cina_vid_4000		
 3254509197	m0_norm_p			cina_vid_4000		
 3254509198	m0_norm_p			cina_vid_4000		
 3254509199	m0_new_p	test0		cina_vid_4000		
@@ -7524,16 +7524,16 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3254509393	m0_new_p			cina_vid_4000		
 3254509394	m0_new_p			cina_vid_4000		
 3254509395	m0_new_p			cina_vid_4000		
-3254509396	m0_new_p	test0		cina_vid_4000		
+3254509396	m0_norm_p	test0		cina_vid_4000		
 3254509397	m0_new_p	test0		cina_vid_4000		
-3254509398	m0_new_p	test0		cina_vid_4000		
+3254509398	m0_norm_p	test0		cina_vid_4000		
 3254509399	m0_new_p	test0		cina_vid_4000		
 3254509400	m0_new_p	test0		cina_vid_4000		
 3254509401	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		
 3254509402	m0_norm_p			cina_vid_4000		
 3254509403	m0_norm_p					
-3254509404	m0_new_p	test0		cina_vid_4000		
-3254509405	m0_new_p	test0				
+3254509404	m0_norm_p	test0		cina_vid_4000		
+3254509405	m0_norm_p	test0				
 3254509406	m0_new_p	test0			2204	
 3254509407	m0_new_p	test0			2204	
 3254509408	dup:Гарбуз	test0			4564	
@@ -7557,7 +7557,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3254509428	m0_new_p	test0		cina_vid_4000		
 3254509429	m0_new_p	test0		cina_vid_4000		
 3254509430	m0_new_p			cina_vid_4000		
-3254509431	m0_new_p	test0		cina_vid_4000		
+3254509431	m0_norm_p	test0		cina_vid_4000		
 3254509432	m0_new_p	test0		cina_vid_4000		
 3254509433	dup:Гарбуз					
 3254509434	dup:Гарбуз	test0		cina_vid_4000	2204	
@@ -7659,7 +7659,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3254509533	m0_new_p	test0				
 3254509534	m0_new_p	test0				
 3254509535	m0_norm_p					
-3254509536	m0_new_p	test0				
+3254509536	m0_norm_p	test0				
 3254509537	m0_norm_p					
 3254509538	m0_new_p	test0				
 3254509539	m0_new_p	test0				
@@ -7684,7 +7684,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3254509558	dup:Гарбуз	test0			4565	
 3254509559	dup:Гарбуз	test0			4565	
 3254509560	dup:Гарбуз	test0			3610	
-3254509561	m0_new_p	test0			7020	
+3254509561	m0_norm_p	test0			7020	
 3254509562	dup:Гарбуз				3610	
 3254509563	dup:Гарбуз	test0		cina_vid_4000	3610	
 3254509565	dup:Гарбуз	test0		cina_vid_4000	3610	
@@ -7711,7 +7711,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3254509587	dup:Гарбуз	test0		cina_vid_4000	3610	
 3254509588	dup:Гарбуз	test0		cina_vid_4000	3610	
 3254509589	dup:Гарбуз	test0		cina_vid_4000	3610	
-3254509590	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	3610	
+3254509590	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	3610	
 3254509591	dup:Гарбуз	test0		cina_vid_4000	3610	
 3254509592	dup:Гарбуз	test0		cina_vid_4000	3610	
 3254509593	dup:Гарбуз	test0		cina_vid_4000	3610	
@@ -7994,7 +7994,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3254510142	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	596	
 3254510143	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	596	
 3254510144	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	596	
-3254510145	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	596	
+3254510145	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti	596	
 3254510146	dup:Гарбуз	test0			596	
 3254510147	dup:Гарбуз	test0			596	
 3254510148	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	596	
@@ -8005,7 +8005,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3254510153	dup:Гарбуз				596	
 3254510154	dup:Гарбуз				596	
 3254510155	dup:Гарбуз	test0			596	
-3254510156	dup:Гарбуз	test0			596	
+3254510156	m0_new_p	test0			596	
 3254510157	dup:Гарбуз	test0			596	
 3254510158	dup:Гарбуз	test0			596	
 3254510159	dup:Гарбуз	test0			596	
@@ -8405,7 +8405,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3254510970	dup:Гарбуз	test0			665	
 3254510971	dup:Гарбуз	test0			665	
 3254510972	dup:Гарбуз	test0			665	
-3254510973	dup:Гарбуз				666	
+3254510973	m3_new_p				666	
 3254510974	dup:Гарбуз	test0			666	
 3254510976	dup:Гарбуз				3381	
 3254510978	dup:Гарбуз	test0			661	
@@ -8448,7 +8448,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3254511405	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	668	
 3254511406	dup:Гарбуз				3620	
 3254511407	dup:Гарбуз				6388	
-3254511408	dup:Гарбуз	test0			3196	
+3254511408	m3_new_p	test0			3196	
 3254511409	dup:Гарбуз				668	
 3254511410	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	653	
 3254511411	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	653	
@@ -8481,11 +8481,11 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3254511441	dup:Гарбуз	test0			666	
 3254511443	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	3382	
 3254511444	dup:Гарбуз	prybutok			3620	
-3254511445	dup:Гарбуз	test0			1698	
+3254511445	dup:Гарбуз		Shopping_ads,Display_ads		1698	
 3254511446	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	5135	
 3254511448	dup:Гарбуз	test0			3248	
 3254511449	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	668	
-3254511450	dup:Гарбуз			season_off	3382	
+3254511450	m0_new			season_off	3382	
 3254511451	dup:Гарбуз	test0			4026	
 3254511453	dup:Гарбуз	test0			3061	
 3254511454	dup:Гарбуз	prybutok	Shopping_ads,Display_ads	ne_v_nayavnosti	4026	
@@ -8510,7 +8510,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3254511477	dup:Гарбуз	test0			652	
 3254511479	dup:Гарбуз	test0			652	
 3254511480	dup:Гарбуз	prybutok			652	
-3254511481	dup:Гарбуз				4660	
+3254511481	dup:Гарбуз		Shopping_ads,Display_ads		4660	
 3254511482	dup:Гарбуз	prybutok	Shopping_ads,Display_ads		4660	
 3254511483	dup:Гарбуз				4660	
 3254511484	dup:Гарбуз				4660	
@@ -8520,7 +8520,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3254511488	dup:Гарбуз	test0			4660	
 3254511489	dup:Гарбуз	test0			4660	
 3254511490	dup:Гарбуз	test0			4660	
-3254511491	dup:Гарбуз	test0			4660	
+3254511491	dup:Гарбуз		Shopping_ads,Display_ads		4660	
 3254511492	dup:Гарбуз	test0			4660	
 3254511493	dup:Гарбуз	test0			638	
 3254511494	dup:Гарбуз	test0			3800	
@@ -8543,7 +8543,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3254511514	dup:Гарбуз	test0			638	
 3254511515	dup:Гарбуз	test0			638	
 3254511516	dup:Гарбуз	test0			638	
-3254511517	dup:Гарбуз	test0			638	
+3254511517	m0_new_p	test0			638	
 3254511518	dup:Гарбуз	test0			638	
 3254511519	dup:Гарбуз	test0			638	
 3254511520	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti	638	
@@ -8560,7 +8560,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3254511532	dup:Гарбуз	prybutok			6740	
 3254511533	dup:Гарбуз	prybutok			6740	
 3254511534	dup:Гарбуз	test0			6740	
-3254511535	dup:Гарбуз	test0			6740	
+3254511535	m0_new_p	test0			6740	
 3259667799	dup:Гарбуз				728	
 3259667800	dup:Гарбуз				505821	
 3259667801	dup:Гарбуз				505821	
@@ -8739,4 +8739,4 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 970821452	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	2802	
 970835000	m0_new			season_off	2802	
 975128497	m0_norm			season_off	3103	
-975150891	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti	113	
+975150891	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	113	
