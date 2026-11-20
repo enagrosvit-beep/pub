@@ -1,7 +1,7 @@
 id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_product_category	availability_date
 1007144112	m4_norm	stop	Shopping_ads	vytraty_stelya		
 1007144608	m4_hit	prybutok	Shopping_ads	vytraty_stelya	2869	
-1007167184	m5_hit	prybutok				
+1007167184	m0_norm	prybutok				
 1024571462	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	2802	
 1030327091	m0_norm				113	
 1030327919	dup:Гарбуз	ads_zero	Shopping_ads		113	
@@ -135,7 +135,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 1690167997	m0_new				728	
 1690226444	m0_norm					
 1690634473	dup:Гарбуз	prybutok	Shopping_ads,Display_ads		728	
-1690669509	dup:Гарбуз	prybutok			728	
+1690669509	dup:Гарбуз	prybutok	Shopping_ads		728	
 1690811462	dup:Гарбуз				728	
 1698657053	m5_norm			season_off	2802	
 1702575931	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	422	
@@ -153,7 +153,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 1726657690	m0_norm_p	test0				
 1732052573	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti		
 1732236847	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti	3173	
-1732250657	dup:Гарбуз	prybutok			689	
+1732250657	dup:Гарбуз	prybutok		cina_vid_4000	689	
 1732522886	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti		
 1742577471	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	113	
 1742612565	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	113	
@@ -243,7 +243,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 1855717772	m0_norm			season_off	2869	
 1855781903	m0_norm			season_off	2869	
 1856273044	m0_norm			season_off	3103	
-1856273465	m5_norm	prybutok		season_off	3103	
+1856273465	m0_norm	prybutok		season_off	3103	
 1856311840	m0_norm			season_off	3944	
 1856333063	m0_norm			season_off	3103	
 1856366732	dup:Гарбуз	ads_zero	Shopping_ads	season_off	2869	
@@ -495,7 +495,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2125706703	dup:Гарбуз				113	
 2125765054	dup:Гарбуз				113	
 2125815836	m0_norm				113	
-2125822692	m4_norm_p				113	
+2125822692	m0_norm_p				113	
 2125854915	dup:Гарбуз				113	
 2125925015	dup:Гарбуз				113	
 2126101600	dup:Гарбуз	test0			113	
@@ -580,7 +580,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2152500820	m0_new_p					
 2152586853	m0_new_p					
 2152756519	dup:Гарбуз				113	
-2153828963	m5_hit	prybutok			113	
+2153828963	m0_norm	prybutok			113	
 2153857223	dup:Гарбуз	prybutok			113	
 2153928191	m0_norm			season_off	1794	
 2163842468	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	3103	
@@ -648,7 +648,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 2198901549	dup:Гарбуз		Shopping_ads	ne_v_rynku	2869	
 2199670358	dup:Гарбуз		Shopping_ads	season_off	2869	
 2199783989	dup:Гарбуз		Shopping_ads	season_off	2869	
-2199963689	m1_hit	prybutok			728	
+2199963689	m0_norm	prybutok			728	
 2200741357	m0_norm				728	
 2200862712	dup:Гарбуз				113	
 2201203000	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		
@@ -7687,6 +7687,175 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 3260791219	dup:Гарбуз	test0			665	
 3260791220	dup:Гарбуз				665	
 3260791221	dup:Гарбуз				665	
+3283587103	m4_norm_p				974	
+3283587104	m0_new_p				3568	
+3283587105	m0_new			season_off	3568	
+3283587106	m0_new_p				3568	
+3283587107	m0_new_p				1167	
+3283590804	m0_new_p					
+3283590805	m0_new_p					
+3283590806	m0_new			season_off		
+3283590807	m0_new_p					
+3283590808	m0_new_p					
+3283590809	m0_new_p					
+3283590810	m0_new_p					
+3283590811	m0_new			season_off		
+3283590812	m0_new_p					
+3283590813	m0_new_p					
+3283590814	m0_new_p					
+3283590815	m0_new_p					
+3283590816	m0_new_p					
+3283590817	m0_new_p					
+3283590818	m0_new_p					
+3283590819	m0_new_p					
+3283590820	m0_new_p					
+3283590821	m4_norm_p					
+3283590822	m0_new_p					
+3283590823	m0_new_p					
+3283590824	m0_new_p					
+3283590825	m0_new			season_off		
+3283590826	m0_new_p					
+3283590827	m0_new_p					
+3283590828	m0_new_p					
+3283590829	m0_new_p					
+3283590830	m0_new_p					
+3283590831	m0_new_p					
+3283590832	m0_new_p					
+3283590833	m0_new_p					
+3283590834	m0_new_p					
+3283590835	m0_new_p					
+3283590836	m0_new			season_off		
+3283590837	m0_new_p					
+3283590838	m0_new_p					
+3283590839	m0_new_p					
+3283590840	m0_new_p					
+3283590841	m0_new			season_off		
+3283590842	m0_new_p					
+3283590843	m0_new_p					
+3283590844	m0_new			season_off		
+3283590845	m0_new			season_off		
+3283590846	m0_new_p					
+3283590847	m0_new_p					
+3283590848	m0_new			season_off		
+3283590849	m0_new			season_off		
+3283590850	m0_new			season_off		
+3283590851	m0_new			season_off		
+3283590852	m0_new_p					
+3283590853	m0_new			season_off		
+3283590854	m0_new_p					
+3283590855	m0_new_p					
+3283590856	m0_new			season_off		
+3283590857	m0_new_p					
+3283590858	m0_new_p					
+3283590859	m0_new			season_off		
+3283590860	m0_new			season_off		
+3283590861	m0_new_p					
+3283590862	m0_new_p					
+3283590863	m0_new_p					
+3283590864	m0_new_p					
+3283590865	m0_new_p					
+3283590866	m0_new_p					
+3283590867	m0_new_p					
+3283590868	m0_new			season_off		
+3283590869	m0_new_p					
+3283590870	m0_new			season_off		
+3283590871	m0_new			season_off		
+3283590872	m0_new_p					
+3283590873	m0_new_p					
+3283590874	m0_new_p					
+3283590875	m0_new_p					
+3283590876	m0_new_p					
+3283590877	m0_new			season_off		
+3283590878	m0_new_p					
+3283590879	m0_new			season_off		
+3283590880	m0_new			season_off		
+3283590881	m0_new			season_off		
+3283590882	m0_new_p					
+3283590883	m0_new			season_off		
+3283590884	m0_new_p					
+3283590885	m0_new_p					
+3283590886	m0_new_p					
+3283590887	m0_new_p					
+3283590888	m0_new_p					
+3283590889	m0_new			season_off		
+3283590890	m0_new			season_off		
+3283590891	m0_new_p					
+3283590892	m0_new_p					
+3283590893	m0_new_p					
+3283590894	m0_new_p					
+3283590895	m0_new_p					
+3283590896	m0_new			season_off		
+3283590897	m0_new_p					
+3283590898	m0_new_p			cina_vid_4000		
+3283590899	m0_new			season_off		
+3283590900	m0_new_p					
+3283590902	m0_new_p					
+3283590903	m0_new			season_off		
+3283590904	m0_new_p					
+3283590905	m0_new_p					
+3283590906	m0_new			season_off		
+3283590907	m0_new_p					
+3283590908	m0_new_p					
+3283590909	m0_new_p					
+3283590910	m0_new			season_off		
+3283590911	m0_new_p					
+3283590912	m0_new_p					
+3283590913	m0_new_p					
+3283590914	m0_new			season_off		
+3283590915	m0_new			season_off		
+3283590916	m0_new			season_off		
+3283590917	m0_new			season_off		
+3283590918	m0_new_p					
+3283590919	m0_new			season_off		
+3283590920	m0_new_p					
+3283590921	m0_new			season_off		
+3283590922	m0_new			season_off		
+3283590923	m0_new			season_off		
+3283590924	m0_new_p					
+3283590925	m0_new_p					
+3283590926	m0_new_p					
+3283590927	m0_new			season_off		
+3283590928	m0_new			season_off		
+3283594172	m0_new			season_off		
+3283594173	m0_new			season_off		
+3283594174	m0_new_p					
+3283594175	m0_new_p					
+3283594176	m0_new_p					
+3283594177	m0_new			season_off		
+3283594178	m0_new			season_off		
+3283594179	m0_new_p					
+3283594180	m0_new_p					
+3283594181	m0_new_p					
+3283594182	m0_new_p					
+3283594183	m0_new_p					
+3283594184	m0_new_p					
+3283594185	m0_new_p					
+3283594186	m0_new_p					
+3283594187	m0_new_p					
+3283594188	m0_new			season_off		
+3283594189	m0_new			season_off		
+3283594190	m0_new_p					
+3283594191	m0_new_p					
+3283594192	m0_new			season_off		
+3283594193	m0_new			season_off		
+3283594194	m0_new			season_off		
+3283594195	m0_new_p					
+3283594196	m0_new_p					
+3283594197	m0_new_p					
+3283594198	m0_new			season_off		
+3283594199	m0_new_p					
+3283594200	m0_new_p					
+3283594201	m0_new_p					
+3283594202	m0_new_p					
+3283594203	m0_new_p					
+3283594204	m0_new_p					
+3283594205	m0_new_p					
+3283594206	m0_new_p					
+3283594207	m0_new			season_off		
+3283594208	m0_new			season_off		
+3283594209	m0_new			season_off		
+3283594210	m0_new_p					
+3283594211	m0_new_p					
 745543216	m4_hit	cina			113	
 828025517	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		
 838872682	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	2802	
@@ -7733,7 +7902,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 904090226	dup:Гарбуз				113	
 904094387	dup:Гарбуз				113	
 907861625	m0_norm				2869	
-907878046	m5_hit	prybutok	Shopping_ads	vytraty_stelya	2869	
+907878046	m0_hit	prybutok	Shopping_ads	vytraty_stelya	2869	
 907903470	dup:Гарбуз				2869	
 907908346	m4_hit	prybutok			2869	
 908055054	m0_new			season_off	2869	
@@ -7743,7 +7912,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	google_prod
 908253579	m0_new			season_off	3103	
 908861739	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti	3103	
 908865202	m0_norm			season_off	3103	
-916802277	m4_hit_p	prybutok			2988	
+916802277	m0_new_p	prybutok			2988	
 917101759	m0_new_p				113	
 917862356	m0_new			season_off	3103	
 917964099	m0_norm				113	
