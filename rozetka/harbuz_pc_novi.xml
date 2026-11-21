@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-21 11:59">
+<yml_catalog date="2026-11-21 13:17">
 <shop>
 <name>Гарбуз</name>
 <company>Гарбуз</company>
@@ -7,14 +7,17 @@
 <currencies><currency id="UAH" rate="1"/></currencies>
 <categories>
 <category id="hb0073e9c5">Засоби боротьби з комахами</category>
+<category id="hb00cd8673">Засоби захисту</category>
 <category id="hb02b9f5c5">Продукти харчування</category>
 <category id="hb04858800">Замки навісні</category>
 <category id="hb0b8eaa6a">Наперстянка</category>
 <category id="hb0bb347c8">Будівельні пилососи</category>
 <category id="hb0d49ceba">Поливальний інвентар</category>
 <category id="hb124c1647">Пили та висоторізи</category>
+<category id="hb1289e0e0">Будівельні міксери</category>
 <category id="hb13eb9f05">Електропили та лобзики</category>
 <category id="hb14b250b5">Скандинавські гноми та новорічний декор</category>
+<category id="hb180af378">Газові пальники та балони</category>
 <category id="hb194ae817">Струбцини та лещата</category>
 <category id="hb19d915bc">Кутові шліфмашини (болгарки)</category>
 <category id="hb1e61d6e4">Зубила та піки SDS+</category>
@@ -27,12 +30,14 @@
 <category id="hb2b9d0e21">Насоси</category>
 <category id="hb3316c980">Добавки до ґрунтів</category>
 <category id="hb3320d987">Диски пильні</category>
+<category id="hb3c33cfa2">Паяльне та зварювальне приладдя</category>
 <category id="hb3ee95022">Кухонні предмети</category>
 <category id="hb3fb246e1">Субстрати</category>
 <category id="hb43637b01">Посуд скляний для напоїв</category>
 <category id="hb4c4eefab">Доводчики дверні</category>
 <category id="hb4ec553f6">Ручки дверні на розеті</category>
 <category id="hb5320083c">Клеї</category>
+<category id="hb55709feb">Літні іграшки, басейни та мильні бульбашки</category>
 <category id="hb55eed727">Кухонний посуд</category>
 <category id="hb579685b3">Петлі дверні та меблеві</category>
 <category id="hb58b3f3eb">Гайкокрути</category>
@@ -41,7 +46,6 @@
 <category id="hb6811f01f">Зарядні пристрої, кабелі та батарейки</category>
 <category id="hb6971d59c">Посуд для чаю та кави</category>
 <category id="hb6e1443d5">Посуд з термоскла</category>
-<category id="hb71fd17d5">Пасатижі, бокорізи, кліщі</category>
 <category id="hb77667d97">Ляльки та аксесуари</category>
 <category id="hb78cf6308">Електроінструмент</category>
 <category id="hb796ffeb1">Посуд столовий</category>
@@ -54,13 +58,12 @@
 <category id="hb969a8fde">Валики</category>
 <category id="hb96c05b41">Шліфувальні та полірувальні машини</category>
 <category id="hb9a99036a">Ящики та органайзери для інструментів</category>
-<category id="hba20776cb">Брелоки, гаджети та декор дитячої кімнати</category>
 <category id="hba4471aca">Ручки дверні на планці</category>
 <category id="hbace30362">Аксесуари для смартфонів</category>
 <category id="hbad729080">Диски відрізні та зачисні</category>
-<category id="hbae208f8a">Терки та штукатурний інструмент</category>
 <category id="hbaf0e0c82">Акумулятори</category>
 <category id="hbaf500522">Сонячні панелі та кріплення</category>
+<category id="hbb0617b6f">Хвойні гірлянди, гілки та віночки</category>
 <category id="hbb1362038">Ножівки та полотна</category>
 <category id="hbb5bd747b">Лампи та ліхтарики</category>
 <category id="hbbecb3bd4">Мережеве обладнання та кабель</category>
@@ -73,35 +76,20 @@
 <category id="hbd23201f8">Догляд за дитиною</category>
 <category id="hbdd008a69">Штучні ялинки та сосни</category>
 <category id="hbe03e9c9f">Декор для дому</category>
-<category id="hbe4daea12">Інший ручний інструмент</category>
 <category id="hbe5998e45">Верстати</category>
 <category id="hbe68921f3">Ялинкові іграшки</category>
 <category id="hbeac7652f">Зарядні пристрої та блоки живлення</category>
 <category id="hbf2e14083">Сокири та колуни</category>
 <category id="hbf398af00">Відеоспостереження та безпека</category>
 <category id="hbfa7a2777">Новорічні світлодіодні гірлянди</category>
-<category id="hbfe352fa2">Туризм і кемпінг</category>
 <category id="hbff87e100">Побутова техніка</category>
 </categories>
 <offers>
-<offer id="hb-536d7fa5c5a7" available="true">
-<url>https://harbuz.in.ua/dytiachyi-ihrovyi-namet-politseiska-mashyna-1107066-sm-namet-dlia-khlopchyka-synii/</url>
-<price>789</price>
-<currencyId>UAH</currencyId>
-<categoryId>hba20776cb</categoryId>
-<picture>https://harbuz.in.ua/content/images/8/44437102636764_+d609b2d71c.jpg</picture>
-<vendor>Lugi</vendor>
-<vendorCode>lg-HP-S-5NDBL</vendorCode>
-<name>Дитячий ігровий намет «Поліцейська машина» 110×70×66 см намет для хлопчика Синій</name>
-<name_ua>Дитячий ігровий намет «Поліцейська машина» 110×70×66 см намет для хлопчика Синій</name_ua>
-<description><![CDATA[<p>Ігровий намет у формі поліцейської машини - це ідеальне місце для захопливих рольових ігор вашої дитини. Яскравий і барвистий дизайн стилізований під справжню поліцейську машину, що робить гру ще реалістичнішою та захопливішою.</p> <p>Завдяки прямокутній конструкції, намет просторий всередині та зручний для кількох дітей. Великі сітчасті вікна забезпечують хорошу вентиляцію і дозволяють батькам спостерігати за грою дитини. Вхідні дверцята легко відчиняються і зачиняються.</p> <p><strong>Основні характеристики ігрового намету для дітей:</strong></p> <ul> <li>Розмір у розкладеному вигляді: 110×70×66 см - просторий ігровий простір.</li> <li>Внутрішні розміри: 105×68×59 см - комфортне місце для ігор.</li> <li>Розмір у складеному вигляді: 40×40×2 см - займає мінімум місця під час зберігання.</li> <li>Матеріал: поліестер - міцний, легкий і легко миється.</li> <li>Форма: прямокутна - стійка конструкція зі зручним входом.</li> <li>Конструкція: гнучкий каркас - швидко розкладається і складається без інструментів.</li> </ul> <p>Цей намет стане чудовим подарунком для дитини, допомагаючи розвивати уяву, комунікативні навички та влаштовувати веселі ігри з друзями!<br> </p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
-<description_ua><![CDATA[<p>Ігровий намет у формі поліцейської машини - це ідеальне місце для захопливих рольових ігор вашої дитини. Яскравий і барвистий дизайн стилізований під справжню поліцейську машину, що робить гру ще реалістичнішою та захопливішою.</p> <p>Завдяки прямокутній конструкції, намет просторий всередині та зручний для кількох дітей. Великі сітчасті вікна забезпечують хорошу вентиляцію і дозволяють батькам спостерігати за грою дитини. Вхідні дверцята легко відчиняються і зачиняються.</p> <p><strong>Основні характеристики ігрового намету для дітей:</strong></p> <ul> <li>Розмір у розкладеному вигляді: 110×70×66 см - просторий ігровий простір.</li> <li>Внутрішні розміри: 105×68×59 см - комфортне місце для ігор.</li> <li>Розмір у складеному вигляді: 40×40×2 см - займає мінімум місця під час зберігання.</li> <li>Матеріал: поліестер - міцний, легкий і легко миється.</li> <li>Форма: прямокутна - стійка конструкція зі зручним входом.</li> <li>Конструкція: гнучкий каркас - швидко розкладається і складається без інструментів.</li> </ul> <p>Цей намет стане чудовим подарунком для дитини, допомагаючи розвивати уяву, комунікативні навички та влаштовувати веселі ігри з друзями!<br> </p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
-</offer>
 <offer id="hb-e30f389d48cc" available="true">
 <url>https://harbuz.in.ua/dytiachyi-ihrovyi-namet-furhon-z-morozyvom-1107066-sm-namet-dlia-divchynky-rozhevyi/</url>
 <price>789</price>
 <currencyId>UAH</currencyId>
-<categoryId>hba20776cb</categoryId>
+<categoryId>hb55709feb</categoryId>
 <picture>https://harbuz.in.ua/content/images/9/42742411231167_+5c6ea5e31b.jpg</picture>
 <vendor>Lugi</vendor>
 <vendorCode>lg-HP-S-5NDP</vendorCode>
@@ -110,18 +98,18 @@
 <description><![CDATA[<p>Ігровий намет у формі фургона з морозивом - це ідеальне місце для захопливих рольових ігор вашої дитини. Яскравий і барвистий дизайн стилізований під справжній пересувний магазинчик морозива, що робить гру ще реалістичнішою та захопливішою.</p> <p>Завдяки прямокутній конструкції, намет просторий всередині та зручний для кількох дітей. Великі сітчасті вікна забезпечують хорошу вентиляцію і дозволяють батькам спостерігати за грою дитини. Вхідні дверцята легко відчиняються та зачиняються, а додаткове віконце-продавець робить ігри ще більш цікавими.</p> <p><strong>Основні характеристики ігрового намету для дітей:</strong></p> <ul> <li>Розмір у розкладеному вигляді: 110×70×66 см - просторий ігровий простір.</li> <li>Внутрішні розміри: 105×68×59 см - комфортне місце для ігор.</li> <li>Розмір у складеному вигляді: 40×40×2 см - займає мінімум місця під час зберігання.</li> <li>Матеріал: поліестер - міцний, легкий і легко миється.</li> <li>Форма: прямокутна - стійка конструкція зі зручним входом.</li> <li>Конструкція: гнучкий каркас - швидко розкладається і складається без інструментів.</li> </ul> <p>Цей намет стане чудовим подарунком для дитини, допомагаючи розвивати уяву, комунікативні навички та влаштовувати веселі ігри з друзями!<br> </p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
 <description_ua><![CDATA[<p>Ігровий намет у формі фургона з морозивом - це ідеальне місце для захопливих рольових ігор вашої дитини. Яскравий і барвистий дизайн стилізований під справжній пересувний магазинчик морозива, що робить гру ще реалістичнішою та захопливішою.</p> <p>Завдяки прямокутній конструкції, намет просторий всередині та зручний для кількох дітей. Великі сітчасті вікна забезпечують хорошу вентиляцію і дозволяють батькам спостерігати за грою дитини. Вхідні дверцята легко відчиняються та зачиняються, а додаткове віконце-продавець робить ігри ще більш цікавими.</p> <p><strong>Основні характеристики ігрового намету для дітей:</strong></p> <ul> <li>Розмір у розкладеному вигляді: 110×70×66 см - просторий ігровий простір.</li> <li>Внутрішні розміри: 105×68×59 см - комфортне місце для ігор.</li> <li>Розмір у складеному вигляді: 40×40×2 см - займає мінімум місця під час зберігання.</li> <li>Матеріал: поліестер - міцний, легкий і легко миється.</li> <li>Форма: прямокутна - стійка конструкція зі зручним входом.</li> <li>Конструкція: гнучкий каркас - швидко розкладається і складається без інструментів.</li> </ul> <p>Цей намет стане чудовим подарунком для дитини, допомагаючи розвивати уяву, комунікативні навички та влаштовувати веселі ігри з друзями!<br> </p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
 </offer>
-<offer id="hb-8016dffb74ed" available="true">
-<url>https://harbuz.in.ua/elektropyla-lantsiuhova-vitals-master-ekz-224-black-edition/</url>
-<price>4891</price>
+<offer id="hb-536d7fa5c5a7" available="true">
+<url>https://harbuz.in.ua/dytiachyi-ihrovyi-namet-politseiska-mashyna-1107066-sm-namet-dlia-khlopchyka-synii/</url>
+<price>789</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb124c1647</categoryId>
-<picture>https://harbuz.in.ua/content/images/22/86412303271199_+fc22b7f603.jpg</picture>
-<vendor>Vitals</vendor>
-<vendorCode>amt-57695</vendorCode>
-<name>Електропила ланцюгова Vitals Master EKZ 224 Black Edition</name>
-<name_ua>Електропила ланцюгова Vitals Master EKZ 224 Black Edition</name_ua>
-<description><![CDATA[<section> <div class="row"> <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"> <h2>Пила електрична Vitals Master EKZ 224 Black Edition</h2> </div> </div> </section> <section> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-1.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Опис</h3> <p style="text-align:justify;">Ланцюгова електрична пила Vitals Master EKZ 224 Black Edition — це потужний і надійний напівпрофесійний інструмент. Призначена для швидкого розпилювання свіжої, мокрої та сухої деревини різної товщини й конфігурації. Також застосовується для заготівлі дров із колод малого та середнього діаметру, розпилювання деревостружкових плит. Характеризується високою якістю виконання, технічною досконалістю, використанням високоякісної комплектації.</p><p style="text-align:justify;">Завдяки застосуванню потужного двигуна, гарнітури всесвітньо відомої марки Oregon, великій швидкості руху ланцюга має відмінну продуктивність. Пила оснащена шиною найзручнішого та найпоширенішого розміру — 16 дюймів.</p><p style="text-align:justify;">Важливою перевагою електричної пили проти бензинових є простота експлуатації та обслуговування. Завдяки відсутності вихлопних газів і парів бензину пилою можна працювати навіть в непровітрюваних приміщеннях. Електрична пила економічніше за бензинові аналоги та краще збалансована.</p><p style="text-align:justify;">Ланцюгова електрична пила Vitals Master EKZ 224 Black Edition має унікальний дизайн. Це незамінний інструмент в домашньому господарстві.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Потужний, надійний двигун</h3> <p style="text-align: justify;">Пила оснащена потужним електричним двигуном 2200 Вт, що дає високу швидкість руху ланцюга.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-2.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-3.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Оптимальна компоновка</h3> <p style="text-align: justify; ">Пила Vitals Master EKZ 224 Black Edition значно маневреніше, ергономічніше та зручніше інших моделей. Поздовжнє розташування двигуна унеможливлює відведення полотна вбік під дією реактивного моменту під час запуску та зміни швидкості обертання.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Продуктивна гарнітура</h3> <p style="text-align: justify;">Інструмент забезпечений пильною гарнітурою від світового виробника Oregon. Велика швидкість руху ланцюга (14,5 м/с) дає високу продуктивність.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-4.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-5.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Змащування</h3> <p style="text-align: justify;">Автоматичний насос із металевою приводною шестернею здійснює постійне змащування робочих механізмів. Оливний бачок оснащений індикатором рівня оливи, що допомагає уникнути роботи «всуху». Для зручного доступу до оливного насоса є спеціальне вікно з легкознімною кришкою.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Комфорт під час роботи</h3> <p style="text-align: justify; ">Пила оснащена прогумованою накладкою на руків’я, що зменшує втому кисті та запобігає ковзанню. Гачок для фіксації електрокабеля зменшує небезпеку випадкового від’єднання живлення та підвищує зручність під час роботи.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-6.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-7.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Безпека експлуатації</h3> <p style="text-align: justify;">Для унеможливлення ненавмисного запуску пила оснащена кнопкою блокування випадкового увімкнення. Від травмування в разі віддачі або «зворотного удару» оператора захищає аварійне гальмо ланцюга. Час спрацьовування гальма – всього лише 0,1 с.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Міцний, надійний редуктор та підшипники</h3> <p style="text-align: justify;">Ведуча шестерня виготовлена із особливо міцної сталі. Із міцного металу також зроблені решта шестерень шестерні редуктора. Це істотно збільшує ресурс інструменту. Довговічність механізмів гарантована також застосуванням високоякісних підшипників.</p><p style="text-align: justify;">Інструмент характеризується високою якістю складання.</p><p style="text-align: justify;">На електричну пилку Vitals Master EKZ 224 Black Edition встановлений гарантійний термін 36 місяців.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-8.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> </section><p><strong>Характеристики</strong></p><ul><li>Тип двигуна: електричний однофазний змінного струму</li><li>Напруга, В: 230</li><li>Частота струму, Гц: 50</li><li>Максимальна потужність, Вт: 2200</li><li>Час спрацювання гальма ланцюга, с: 0,1</li><li>Швидкість ланцюга, м/c: 14,5</li><li>Довжина шини, дюйм: 16</li><li>Крок ланцюга, дюйм: 3/8</li><li>Режим роботи: тривалий</li><li>Змащування ланцюга: автоматична</li><li>Об'єм масляного бака, мл: 150</li><li>Вібраційне навантаження, м/c2: 6,58</li><li>Рівень звукового тиску, дБ: 110</li><li>Габариты упаковки, мм: 560х200х265</li><li>Вага нетто/бруто, кг: 6,0/6,5</li></ul><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
-<description_ua><![CDATA[<section> <div class="row"> <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"> <h2>Пила електрична Vitals Master EKZ 224 Black Edition</h2> </div> </div> </section> <section> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-1.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Опис</h3> <p style="text-align:justify;">Ланцюгова електрична пила Vitals Master EKZ 224 Black Edition — це потужний і надійний напівпрофесійний інструмент. Призначена для швидкого розпилювання свіжої, мокрої та сухої деревини різної товщини й конфігурації. Також застосовується для заготівлі дров із колод малого та середнього діаметру, розпилювання деревостружкових плит. Характеризується високою якістю виконання, технічною досконалістю, використанням високоякісної комплектації.</p><p style="text-align:justify;">Завдяки застосуванню потужного двигуна, гарнітури всесвітньо відомої марки Oregon, великій швидкості руху ланцюга має відмінну продуктивність. Пила оснащена шиною найзручнішого та найпоширенішого розміру — 16 дюймів.</p><p style="text-align:justify;">Важливою перевагою електричної пили проти бензинових є простота експлуатації та обслуговування. Завдяки відсутності вихлопних газів і парів бензину пилою можна працювати навіть в непровітрюваних приміщеннях. Електрична пила економічніше за бензинові аналоги та краще збалансована.</p><p style="text-align:justify;">Ланцюгова електрична пила Vitals Master EKZ 224 Black Edition має унікальний дизайн. Це незамінний інструмент в домашньому господарстві.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Потужний, надійний двигун</h3> <p style="text-align: justify;">Пила оснащена потужним електричним двигуном 2200 Вт, що дає високу швидкість руху ланцюга.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-2.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-3.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Оптимальна компоновка</h3> <p style="text-align: justify; ">Пила Vitals Master EKZ 224 Black Edition значно маневреніше, ергономічніше та зручніше інших моделей. Поздовжнє розташування двигуна унеможливлює відведення полотна вбік під дією реактивного моменту під час запуску та зміни швидкості обертання.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Продуктивна гарнітура</h3> <p style="text-align: justify;">Інструмент забезпечений пильною гарнітурою від світового виробника Oregon. Велика швидкість руху ланцюга (14,5 м/с) дає високу продуктивність.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-4.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-5.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Змащування</h3> <p style="text-align: justify;">Автоматичний насос із металевою приводною шестернею здійснює постійне змащування робочих механізмів. Оливний бачок оснащений індикатором рівня оливи, що допомагає уникнути роботи «всуху». Для зручного доступу до оливного насоса є спеціальне вікно з легкознімною кришкою.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Комфорт під час роботи</h3> <p style="text-align: justify; ">Пила оснащена прогумованою накладкою на руків’я, що зменшує втому кисті та запобігає ковзанню. Гачок для фіксації електрокабеля зменшує небезпеку випадкового від’єднання живлення та підвищує зручність під час роботи.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-6.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-7.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Безпека експлуатації</h3> <p style="text-align: justify;">Для унеможливлення ненавмисного запуску пила оснащена кнопкою блокування випадкового увімкнення. Від травмування в разі віддачі або «зворотного удару» оператора захищає аварійне гальмо ланцюга. Час спрацьовування гальма – всього лише 0,1 с.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Міцний, надійний редуктор та підшипники</h3> <p style="text-align: justify;">Ведуча шестерня виготовлена із особливо міцної сталі. Із міцного металу також зроблені решта шестерень шестерні редуктора. Це істотно збільшує ресурс інструменту. Довговічність механізмів гарантована також застосуванням високоякісних підшипників.</p><p style="text-align: justify;">Інструмент характеризується високою якістю складання.</p><p style="text-align: justify;">На електричну пилку Vitals Master EKZ 224 Black Edition встановлений гарантійний термін 36 місяців.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-8.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> </section><p><strong>Характеристики</strong></p><ul><li>Тип двигуна: електричний однофазний змінного струму</li><li>Напруга, В: 230</li><li>Частота струму, Гц: 50</li><li>Максимальна потужність, Вт: 2200</li><li>Час спрацювання гальма ланцюга, с: 0,1</li><li>Швидкість ланцюга, м/c: 14,5</li><li>Довжина шини, дюйм: 16</li><li>Крок ланцюга, дюйм: 3/8</li><li>Режим роботи: тривалий</li><li>Змащування ланцюга: автоматична</li><li>Об'єм масляного бака, мл: 150</li><li>Вібраційне навантаження, м/c2: 6,58</li><li>Рівень звукового тиску, дБ: 110</li><li>Габариты упаковки, мм: 560х200х265</li><li>Вага нетто/бруто, кг: 6,0/6,5</li></ul><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
+<categoryId>hb55709feb</categoryId>
+<picture>https://harbuz.in.ua/content/images/8/44437102636764_+d609b2d71c.jpg</picture>
+<vendor>Lugi</vendor>
+<vendorCode>lg-HP-S-5NDBL</vendorCode>
+<name>Дитячий ігровий намет «Поліцейська машина» 110×70×66 см намет для хлопчика Синій</name>
+<name_ua>Дитячий ігровий намет «Поліцейська машина» 110×70×66 см намет для хлопчика Синій</name_ua>
+<description><![CDATA[<p>Ігровий намет у формі поліцейської машини - це ідеальне місце для захопливих рольових ігор вашої дитини. Яскравий і барвистий дизайн стилізований під справжню поліцейську машину, що робить гру ще реалістичнішою та захопливішою.</p> <p>Завдяки прямокутній конструкції, намет просторий всередині та зручний для кількох дітей. Великі сітчасті вікна забезпечують хорошу вентиляцію і дозволяють батькам спостерігати за грою дитини. Вхідні дверцята легко відчиняються і зачиняються.</p> <p><strong>Основні характеристики ігрового намету для дітей:</strong></p> <ul> <li>Розмір у розкладеному вигляді: 110×70×66 см - просторий ігровий простір.</li> <li>Внутрішні розміри: 105×68×59 см - комфортне місце для ігор.</li> <li>Розмір у складеному вигляді: 40×40×2 см - займає мінімум місця під час зберігання.</li> <li>Матеріал: поліестер - міцний, легкий і легко миється.</li> <li>Форма: прямокутна - стійка конструкція зі зручним входом.</li> <li>Конструкція: гнучкий каркас - швидко розкладається і складається без інструментів.</li> </ul> <p>Цей намет стане чудовим подарунком для дитини, допомагаючи розвивати уяву, комунікативні навички та влаштовувати веселі ігри з друзями!<br> </p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
+<description_ua><![CDATA[<p>Ігровий намет у формі поліцейської машини - це ідеальне місце для захопливих рольових ігор вашої дитини. Яскравий і барвистий дизайн стилізований під справжню поліцейську машину, що робить гру ще реалістичнішою та захопливішою.</p> <p>Завдяки прямокутній конструкції, намет просторий всередині та зручний для кількох дітей. Великі сітчасті вікна забезпечують хорошу вентиляцію і дозволяють батькам спостерігати за грою дитини. Вхідні дверцята легко відчиняються і зачиняються.</p> <p><strong>Основні характеристики ігрового намету для дітей:</strong></p> <ul> <li>Розмір у розкладеному вигляді: 110×70×66 см - просторий ігровий простір.</li> <li>Внутрішні розміри: 105×68×59 см - комфортне місце для ігор.</li> <li>Розмір у складеному вигляді: 40×40×2 см - займає мінімум місця під час зберігання.</li> <li>Матеріал: поліестер - міцний, легкий і легко миється.</li> <li>Форма: прямокутна - стійка конструкція зі зручним входом.</li> <li>Конструкція: гнучкий каркас - швидко розкладається і складається без інструментів.</li> </ul> <p>Цей намет стане чудовим подарунком для дитини, допомагаючи розвивати уяву, комунікативні навички та влаштовувати веселі ігри з друзями!<br> </p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
 </offer>
 <offer id="hb-62af6ca7d947" available="true">
 <url>https://harbuz.in.ua/myaka-ihrashka-velykyi-pliushevyi-vedmid-120-sm-bezhevyi/</url>
@@ -135,6 +123,19 @@
 <name_ua>М'яка іграшка великий плюшевий Ведмідь 120 (см) Бежевий</name_ua>
 <description><![CDATA[<p>Іграшка «Великий плюшевий ведмідь» — це м'який і затишний аксесуар, який можна використовувати як іграшку або як декоративний елемент інтер'єру. Завдяки висоті 120 см ведмежа має ефектний вигляд на ліжку, дивані або в дитячій кімнаті, водночас залишаючись зручним для повсякденного використання.</p> <p>Ведмідь виготовлений із приємного на дотик плюшу, який дарує комфорт під час дотику. Окремі деталі оформлені акриловою пряжею — це допомагає іграшці зберігати форму й акуратний зовнішній вигляд. Матеріали підібрані так, щоб ведмідь був м'яким, але досить щільним, тому його можна використовувати і як велику подушку для відпочинку.</p> <p>Плюшевий ведмідь підійде і дітям, і дорослим. Він стане затишним доповненням дома або приємним подарунком на будь-який випадок. Виріб не вимагає складного догляду, а зносостійкі матеріали допомагають надовго зберегти привабливий зовнішній вигляд. Універсальний дизайн легко вписується в різні стилі інтер'єру.</p> <p><strong>Основні характеристики плюшевого ведмедика:</strong></p> <ul> <li>Розмір іграшки: 50×40×120 см;</li> <li>Матеріал: плюш, акрилова пряжа.</li> </ul> <p>Великий плюшевий ведмідь — це м'яка та затишна іграшка, яка подарує дитині радість і комфорт. Вона стане вірним другом для ігор, обіймів і сну, а завдяки приємним матеріалам і продуманому дизайну буде безпечною та довговічною.</p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
 <description_ua><![CDATA[<p>Іграшка «Великий плюшевий ведмідь» — це м'який і затишний аксесуар, який можна використовувати як іграшку або як декоративний елемент інтер'єру. Завдяки висоті 120 см ведмежа має ефектний вигляд на ліжку, дивані або в дитячій кімнаті, водночас залишаючись зручним для повсякденного використання.</p> <p>Ведмідь виготовлений із приємного на дотик плюшу, який дарує комфорт під час дотику. Окремі деталі оформлені акриловою пряжею — це допомагає іграшці зберігати форму й акуратний зовнішній вигляд. Матеріали підібрані так, щоб ведмідь був м'яким, але досить щільним, тому його можна використовувати і як велику подушку для відпочинку.</p> <p>Плюшевий ведмідь підійде і дітям, і дорослим. Він стане затишним доповненням дома або приємним подарунком на будь-який випадок. Виріб не вимагає складного догляду, а зносостійкі матеріали допомагають надовго зберегти привабливий зовнішній вигляд. Універсальний дизайн легко вписується в різні стилі інтер'єру.</p> <p><strong>Основні характеристики плюшевого ведмедика:</strong></p> <ul> <li>Розмір іграшки: 50×40×120 см;</li> <li>Матеріал: плюш, акрилова пряжа.</li> </ul> <p>Великий плюшевий ведмідь — це м'яка та затишна іграшка, яка подарує дитині радість і комфорт. Вона стане вірним другом для ігор, обіймів і сну, а завдяки приємним матеріалам і продуманому дизайну буде безпечною та довговічною.</p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
+</offer>
+<offer id="hb-8016dffb74ed" available="true">
+<url>https://harbuz.in.ua/elektropyla-lantsiuhova-vitals-master-ekz-224-black-edition/</url>
+<price>4891</price>
+<currencyId>UAH</currencyId>
+<categoryId>hb124c1647</categoryId>
+<picture>https://harbuz.in.ua/content/images/22/86412303271199_+fc22b7f603.jpg</picture>
+<vendor>Vitals</vendor>
+<vendorCode>amt-57695</vendorCode>
+<name>Електропила ланцюгова Vitals Master EKZ 224 Black Edition</name>
+<name_ua>Електропила ланцюгова Vitals Master EKZ 224 Black Edition</name_ua>
+<description><![CDATA[<section> <div class="row"> <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"> <h2>Пила електрична Vitals Master EKZ 224 Black Edition</h2> </div> </div> </section> <section> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-1.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Опис</h3> <p style="text-align:justify;">Ланцюгова електрична пила Vitals Master EKZ 224 Black Edition — це потужний і надійний напівпрофесійний інструмент. Призначена для швидкого розпилювання свіжої, мокрої та сухої деревини різної товщини й конфігурації. Також застосовується для заготівлі дров із колод малого та середнього діаметру, розпилювання деревостружкових плит. Характеризується високою якістю виконання, технічною досконалістю, використанням високоякісної комплектації.</p><p style="text-align:justify;">Завдяки застосуванню потужного двигуна, гарнітури всесвітньо відомої марки Oregon, великій швидкості руху ланцюга має відмінну продуктивність. Пила оснащена шиною найзручнішого та найпоширенішого розміру — 16 дюймів.</p><p style="text-align:justify;">Важливою перевагою електричної пили проти бензинових є простота експлуатації та обслуговування. Завдяки відсутності вихлопних газів і парів бензину пилою можна працювати навіть в непровітрюваних приміщеннях. Електрична пила економічніше за бензинові аналоги та краще збалансована.</p><p style="text-align:justify;">Ланцюгова електрична пила Vitals Master EKZ 224 Black Edition має унікальний дизайн. Це незамінний інструмент в домашньому господарстві.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Потужний, надійний двигун</h3> <p style="text-align: justify;">Пила оснащена потужним електричним двигуном 2200 Вт, що дає високу швидкість руху ланцюга.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-2.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-3.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Оптимальна компоновка</h3> <p style="text-align: justify; ">Пила Vitals Master EKZ 224 Black Edition значно маневреніше, ергономічніше та зручніше інших моделей. Поздовжнє розташування двигуна унеможливлює відведення полотна вбік під дією реактивного моменту під час запуску та зміни швидкості обертання.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Продуктивна гарнітура</h3> <p style="text-align: justify;">Інструмент забезпечений пильною гарнітурою від світового виробника Oregon. Велика швидкість руху ланцюга (14,5 м/с) дає високу продуктивність.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-4.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-5.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Змащування</h3> <p style="text-align: justify;">Автоматичний насос із металевою приводною шестернею здійснює постійне змащування робочих механізмів. Оливний бачок оснащений індикатором рівня оливи, що допомагає уникнути роботи «всуху». Для зручного доступу до оливного насоса є спеціальне вікно з легкознімною кришкою.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Комфорт під час роботи</h3> <p style="text-align: justify; ">Пила оснащена прогумованою накладкою на руків’я, що зменшує втому кисті та запобігає ковзанню. Гачок для фіксації електрокабеля зменшує небезпеку випадкового від’єднання живлення та підвищує зручність під час роботи.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-6.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-7.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Безпека експлуатації</h3> <p style="text-align: justify;">Для унеможливлення ненавмисного запуску пила оснащена кнопкою блокування випадкового увімкнення. Від травмування в разі віддачі або «зворотного удару» оператора захищає аварійне гальмо ланцюга. Час спрацьовування гальма – всього лише 0,1 с.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Міцний, надійний редуктор та підшипники</h3> <p style="text-align: justify;">Ведуча шестерня виготовлена із особливо міцної сталі. Із міцного металу також зроблені решта шестерень шестерні редуктора. Це істотно збільшує ресурс інструменту. Довговічність механізмів гарантована також застосуванням високоякісних підшипників.</p><p style="text-align: justify;">Інструмент характеризується високою якістю складання.</p><p style="text-align: justify;">На електричну пилку Vitals Master EKZ 224 Black Edition встановлений гарантійний термін 36 місяців.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-8.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> </section><p><strong>Характеристики</strong></p><ul><li>Тип двигуна: електричний однофазний змінного струму</li><li>Напруга, В: 230</li><li>Частота струму, Гц: 50</li><li>Максимальна потужність, Вт: 2200</li><li>Час спрацювання гальма ланцюга, с: 0,1</li><li>Швидкість ланцюга, м/c: 14,5</li><li>Довжина шини, дюйм: 16</li><li>Крок ланцюга, дюйм: 3/8</li><li>Режим роботи: тривалий</li><li>Змащування ланцюга: автоматична</li><li>Об'єм масляного бака, мл: 150</li><li>Вібраційне навантаження, м/c2: 6,58</li><li>Рівень звукового тиску, дБ: 110</li><li>Габариты упаковки, мм: 560х200х265</li><li>Вага нетто/бруто, кг: 6,0/6,5</li></ul><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
+<description_ua><![CDATA[<section> <div class="row"> <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"> <h2>Пила електрична Vitals Master EKZ 224 Black Edition</h2> </div> </div> </section> <section> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-1.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Опис</h3> <p style="text-align:justify;">Ланцюгова електрична пила Vitals Master EKZ 224 Black Edition — це потужний і надійний напівпрофесійний інструмент. Призначена для швидкого розпилювання свіжої, мокрої та сухої деревини різної товщини й конфігурації. Також застосовується для заготівлі дров із колод малого та середнього діаметру, розпилювання деревостружкових плит. Характеризується високою якістю виконання, технічною досконалістю, використанням високоякісної комплектації.</p><p style="text-align:justify;">Завдяки застосуванню потужного двигуна, гарнітури всесвітньо відомої марки Oregon, великій швидкості руху ланцюга має відмінну продуктивність. Пила оснащена шиною найзручнішого та найпоширенішого розміру — 16 дюймів.</p><p style="text-align:justify;">Важливою перевагою електричної пили проти бензинових є простота експлуатації та обслуговування. Завдяки відсутності вихлопних газів і парів бензину пилою можна працювати навіть в непровітрюваних приміщеннях. Електрична пила економічніше за бензинові аналоги та краще збалансована.</p><p style="text-align:justify;">Ланцюгова електрична пила Vitals Master EKZ 224 Black Edition має унікальний дизайн. Це незамінний інструмент в домашньому господарстві.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Потужний, надійний двигун</h3> <p style="text-align: justify;">Пила оснащена потужним електричним двигуном 2200 Вт, що дає високу швидкість руху ланцюга.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-2.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-3.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Оптимальна компоновка</h3> <p style="text-align: justify; ">Пила Vitals Master EKZ 224 Black Edition значно маневреніше, ергономічніше та зручніше інших моделей. Поздовжнє розташування двигуна унеможливлює відведення полотна вбік під дією реактивного моменту під час запуску та зміни швидкості обертання.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Продуктивна гарнітура</h3> <p style="text-align: justify;">Інструмент забезпечений пильною гарнітурою від світового виробника Oregon. Велика швидкість руху ланцюга (14,5 м/с) дає високу продуктивність.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-4.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-5.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Змащування</h3> <p style="text-align: justify;">Автоматичний насос із металевою приводною шестернею здійснює постійне змащування робочих механізмів. Оливний бачок оснащений індикатором рівня оливи, що допомагає уникнути роботи «всуху». Для зручного доступу до оливного насоса є спеціальне вікно з легкознімною кришкою.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Комфорт під час роботи</h3> <p style="text-align: justify; ">Пила оснащена прогумованою накладкою на руків’я, що зменшує втому кисті та запобігає ковзанню. Гачок для фіксації електрокабеля зменшує небезпеку випадкового від’єднання живлення та підвищує зручність під час роботи.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-6.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> <div class="row vitals_container vitals_container_rev"> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-7.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Безпека експлуатації</h3> <p style="text-align: justify;">Для унеможливлення ненавмисного запуску пила оснащена кнопкою блокування випадкового увімкнення. Від травмування в разі віддачі або «зворотного удару» оператора захищає аварійне гальмо ланцюга. Час спрацьовування гальма – всього лише 0,1 с.</p> </div> </div> <div class="row vitals_container"> <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> <h3>Міцний, надійний редуктор та підшипники</h3> <p style="text-align: justify;">Ведуча шестерня виготовлена із особливо міцної сталі. Із міцного металу також зроблені решта шестерень шестерні редуктора. Це істотно збільшує ресурс інструменту. Довговічність механізмів гарантована також застосуванням високоякісних підшипників.</p><p style="text-align: justify;">Інструмент характеризується високою якістю складання.</p><p style="text-align: justify;">На електричну пилку Vitals Master EKZ 224 Black Edition встановлений гарантійний термін 36 місяців.</p> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> <img src="https://vitals.ua/image/catalog/rich-cont/pila-elektrichnaya-vitals-master-ekz-224-be/rich-esaw-ekz-224-black-edition-8.jpg" loading="lazy" alt="Електропила ланцюгова Vitals Master EKZ 224 Black Edition" title="Купити електропилу ланцюгову Vitals Master EKZ 224 Black Edition"> </div> </div> </section><p><strong>Характеристики</strong></p><ul><li>Тип двигуна: електричний однофазний змінного струму</li><li>Напруга, В: 230</li><li>Частота струму, Гц: 50</li><li>Максимальна потужність, Вт: 2200</li><li>Час спрацювання гальма ланцюга, с: 0,1</li><li>Швидкість ланцюга, м/c: 14,5</li><li>Довжина шини, дюйм: 16</li><li>Крок ланцюга, дюйм: 3/8</li><li>Режим роботи: тривалий</li><li>Змащування ланцюга: автоматична</li><li>Об'єм масляного бака, мл: 150</li><li>Вібраційне навантаження, м/c2: 6,58</li><li>Рівень звукового тиску, дБ: 110</li><li>Габариты упаковки, мм: 560х200х265</li><li>Вага нетто/бруто, кг: 6,0/6,5</li></ul><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
 </offer>
 <offer id="hb-9c948f26e66a" available="true">
 <url>https://harbuz.in.ua/sylikonovyi-nabir-form-dlia-vypichky-z-antypryharnym-pokryttiam-z-kukhonnym-pryladdiam-ta-prykhvatkoiu-11-sht/</url>
@@ -162,11 +163,24 @@
 <description><![CDATA[<p>Настільна газова плита для балонного газу Sokany SK07003 - це компактна та переносна плита, ідеальна для кемпінгу, походів або використання в невеликих приміщеннях. Плита має три конфорки, що дозволяє готувати кілька страв одночасно. Полум'я на кожній конфорці можна регулювати для забезпечення точного контролю за температурою. Плита компактна та легка, що робить її зручною для транспортування та зберігання.</p> <p><strong>Основні характеристики:</strong></p> <ul> <li>Кількість конфорок - 3 шт.</li> <li>Розмір 70х33х10 см.</li> <li>Тип управління – механічне.</li> <li>Матеріал корпусу - сталь з термостійким покриттям.</li> </ul> <p>Настільна газова плита сумісна з балонним газом, що робить її ідеальною для використання в місцях, де немає доступу до газу. Завдяки компактному розміру, вона легко транспортується та встановлюється. Підходить для приготування різноманітних страв, забезпечуючи стабільне полум'я та зручне регулювання інтенсивності нагріву.</p> <p>Модель Sokany SK-07003 створена з урахуванням сучасних вимог безпеки та надійності. Її конструкція виконана із міцних матеріалів, які легко чистити після використання. Це поєднання практичності, довговічності та доступності, яке стане у нагоді для вашого комфорту під час приготування їжі.</p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
 <description_ua><![CDATA[<p>Настільна газова плита для балонного газу Sokany SK07003 - це компактна та переносна плита, ідеальна для кемпінгу, походів або використання в невеликих приміщеннях. Плита має три конфорки, що дозволяє готувати кілька страв одночасно. Полум'я на кожній конфорці можна регулювати для забезпечення точного контролю за температурою. Плита компактна та легка, що робить її зручною для транспортування та зберігання.</p> <p><strong>Основні характеристики:</strong></p> <ul> <li>Кількість конфорок - 3 шт.</li> <li>Розмір 70х33х10 см.</li> <li>Тип управління – механічне.</li> <li>Матеріал корпусу - сталь з термостійким покриттям.</li> </ul> <p>Настільна газова плита сумісна з балонним газом, що робить її ідеальною для використання в місцях, де немає доступу до газу. Завдяки компактному розміру, вона легко транспортується та встановлюється. Підходить для приготування різноманітних страв, забезпечуючи стабільне полум'я та зручне регулювання інтенсивності нагріву.</p> <p>Модель Sokany SK-07003 створена з урахуванням сучасних вимог безпеки та надійності. Її конструкція виконана із міцних матеріалів, які легко чистити після використання. Це поєднання практичності, довговічності та доступності, яке стане у нагоді для вашого комфорту під час приготування їжі.</p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
 </offer>
+<offer id="hb-81b94c79839b" available="true">
+<url>https://harbuz.in.ua/dytiacha-mashynka-dlia-stryzhky-volossia-z-nasadkamy-tykha-akumuliatorna-bezdrotova-vgr/</url>
+<price>1499</price>
+<currencyId>UAH</currencyId>
+<categoryId>hbff87e100</categoryId>
+<picture>https://harbuz.in.ua/content/images/40/34002123828677_+498c419656.jpg</picture>
+<vendor>VGR</vendor>
+<vendorCode>lg-HP-V-151</vendorCode>
+<name>Дитяча машинка для стрижки волосся з насадками тиха акумуляторна бездротова VGR</name>
+<name_ua>Дитяча машинка для стрижки волосся з насадками тиха акумуляторна бездротова VGR</name_ua>
+<description><![CDATA[<p>Дитяча машинка для стрижки волосся VGR V-151 — це безпечне та зручне рішення для батьків, які бажають акуратно підстригти волосся своєму малюкові в домашніх умовах. Завдяки керамічному лезу з R-подібною формою зубів, машинка дбайливо стриже, не смикаючи волосся і не пошкоджуючи чутливу шкіру дитини. Тихий мотор робить модель придатною навіть для немовлят, дітей з підвищеною чутливістю та малюків з аутизмом.</p> <p><strong>Характеристики дитячої машинки VGR V-151</strong></p> <ul> <li>тип: дитяча машинка для стрижки волосся з вакуумом;</li> <li>потужність: 5 В;</li> <li>тип лез: кераміка + нержавіюча сталь (безпечна R-форма);</li> <li>рівень шуму: низький, підходить для немовлят;</li> <li>водонепроникність: IPX7 — можна мити під водою;</li> <li>час автономної роботи: до 120 хвилин;</li> <li>час заряджання: близько 2 години;</li> <li>тип акумулятора: Ni-MH, 800 мАг;</li> <li>індикатор заряджання, USB-підключення;</li> <li>вбудована функція вакуумного збирання волосся.</li> </ul> <p><strong>Комплектація машинки для дітей</strong></p> <ol> <li>Дитяча машинка VGR V-151.</li> <li>Насадки: 3,6,9,12 мм.</li> <li>Щітка для чищення та масло для змащування лез.</li> <li>Кабель USB для заряджання.</li> <li>Посібник користувача.</li> <li>Фірмова упаковка із зображенням малюка.</li> </ol> <p>Машинка для стрижки волосся VGR V-151 — це ваш надійний помічник для дбайливого догляду за волоссям малюка. Тихий мотор та м'яке керамічне лезо роблять процес стрижки максимально комфортним та безпечним.</p> <p>Купите VGR V-151 з доставкою по Україні та подаруйте вашому малюку комфортну та акуратну стрижку будинку. Надійна упаковка та якісне складання гарантують тривалий термін служби пристрою.</p> Цей товар знаходиться в герметичній блістерній упаковці, тому обов'язково перевірте цілісність блістера при отриманні на пошті. У разі виявлення дефектів упаковки, будь ласка, повідомте нам одразу для заміни товару. <p>Після порушення цілісності блістера товар не підлягає поверненню. У разі виявлення у заводських несправностей ви можете повернути або замінити його протягом 14 днів.</p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
+<description_ua><![CDATA[<p>Дитяча машинка для стрижки волосся VGR V-151 — це безпечне та зручне рішення для батьків, які бажають акуратно підстригти волосся своєму малюкові в домашніх умовах. Завдяки керамічному лезу з R-подібною формою зубів, машинка дбайливо стриже, не смикаючи волосся і не пошкоджуючи чутливу шкіру дитини. Тихий мотор робить модель придатною навіть для немовлят, дітей з підвищеною чутливістю та малюків з аутизмом.</p> <p><strong>Характеристики дитячої машинки VGR V-151</strong></p> <ul> <li>тип: дитяча машинка для стрижки волосся з вакуумом;</li> <li>потужність: 5 В;</li> <li>тип лез: кераміка + нержавіюча сталь (безпечна R-форма);</li> <li>рівень шуму: низький, підходить для немовлят;</li> <li>водонепроникність: IPX7 — можна мити під водою;</li> <li>час автономної роботи: до 120 хвилин;</li> <li>час заряджання: близько 2 години;</li> <li>тип акумулятора: Ni-MH, 800 мАг;</li> <li>індикатор заряджання, USB-підключення;</li> <li>вбудована функція вакуумного збирання волосся.</li> </ul> <p><strong>Комплектація машинки для дітей</strong></p> <ol> <li>Дитяча машинка VGR V-151.</li> <li>Насадки: 3,6,9,12 мм.</li> <li>Щітка для чищення та масло для змащування лез.</li> <li>Кабель USB для заряджання.</li> <li>Посібник користувача.</li> <li>Фірмова упаковка із зображенням малюка.</li> </ol> <p>Машинка для стрижки волосся VGR V-151 — це ваш надійний помічник для дбайливого догляду за волоссям малюка. Тихий мотор та м'яке керамічне лезо роблять процес стрижки максимально комфортним та безпечним.</p> <p>Купите VGR V-151 з доставкою по Україні та подаруйте вашому малюку комфортну та акуратну стрижку будинку. Надійна упаковка та якісне складання гарантують тривалий термін служби пристрою.</p> Цей товар знаходиться в герметичній блістерній упаковці, тому обов'язково перевірте цілісність блістера при отриманні на пошті. У разі виявлення дефектів упаковки, будь ласка, повідомте нам одразу для заміни товару. <p>Після порушення цілісності блістера товар не підлягає поверненню. У разі виявлення у заводських несправностей ви можете повернути або замінити його протягом 14 днів.</p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
+</offer>
 <offer id="hb-f3397ea6e984" available="true">
 <url>https://harbuz.in.ua/dytiachyi-ihrovyi-namet-shkilnyi-avtobus-1107066-sm-namet-dlia-ditei-zhovtyi/</url>
 <price>789</price>
 <currencyId>UAH</currencyId>
-<categoryId>hba20776cb</categoryId>
+<categoryId>hb55709feb</categoryId>
 <picture>https://harbuz.in.ua/content/images/10/55917827171850_+1ab1f5f0ac.jpg</picture>
 <vendor>Lugi</vendor>
 <vendorCode>lg-HP-S-5NDY</vendorCode>
@@ -1020,7 +1034,7 @@
 <url>https://harbuz.in.ua/shlifmashyna-kutova-akumuliatorna-vitals-professional-als-18125v-bs-kit-smartline/</url>
 <price>6049</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb19d915bc</categoryId>
 <picture>https://harbuz.in.ua/content/images/12/19435731496284_+21f6d9bff8.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-239534</vendorCode>
@@ -1087,7 +1101,7 @@
 <url>https://harbuz.in.ua/perforator-akumuliatornyi-vitals-professional-ara-1845-bl-smartline/</url>
 <price>5478</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb21059b14</categoryId>
 <picture>https://harbuz.in.ua/content/images/47/89120026688305_+77e7a627f8.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243516</vendorCode>
@@ -1102,7 +1116,7 @@
 <url>https://harbuz.in.ua/haikovert-akumuliatornyi-vitals-professional-at-18100-bl-smartline/</url>
 <price>5478</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb58b3f3eb</categoryId>
 <picture>https://harbuz.in.ua/content/images/1/84645929704837_+f34dc4dd08.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243525</vendorCode>
@@ -1299,7 +1313,7 @@
 <url>https://harbuz.in.ua/pylosos-akumuliatornyi-vitals-master-aps-1823-bl-smartline/</url>
 <price>5040</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb0bb347c8</categoryId>
 <picture>https://harbuz.in.ua/content/images/8/74150336562931_+876a396838.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243520</vendorCode>
@@ -1338,7 +1352,7 @@
 <url>https://harbuz.in.ua/haikovert-akumuliatornyi-vitals-professional-at-1880-bl-smartline/</url>
 <price>4821</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb58b3f3eb</categoryId>
 <picture>https://harbuz.in.ua/content/images/2/77895033432115_+ac0e4e2184.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243524</vendorCode>
@@ -1418,7 +1432,7 @@
 <url>https://harbuz.in.ua/perforator-akumuliatornyi-vitals-professional-ara-2218p-bs-smartline/</url>
 <price>4641</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb21059b14</categoryId>
 <picture>https://harbuz.in.ua/content/images/12/24943165267811_+f941f3d2ba.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-120241</vendorCode>
@@ -1519,7 +1533,7 @@
 <url>https://harbuz.in.ua/mikser-budivelnyi-akumuliatornyi-vitals-master-aem-1814d-bl-smartline/</url>
 <price>4383</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb1289e0e0</categoryId>
 <picture>https://harbuz.in.ua/content/images/7/13973362688320_+1172c7ec80.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243532</vendorCode>
@@ -1532,7 +1546,7 @@
 <url>https://harbuz.in.ua/vibrator-hlybynnyi-akumuliatornyi-dlia-betonu-vitals-professional-dv-1825-bl-smartline/</url>
 <price>4383</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hbd207cfc5</categoryId>
 <picture>https://harbuz.in.ua/content/images/48/43479837147387_+58e2615e23.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243533</vendorCode>
@@ -1545,7 +1559,7 @@
 <url>https://harbuz.in.ua/dryl-shurupokrut-akumuliatornyi-vitals-professional-au-1870-bs-smartline/</url>
 <price>4361</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hbc42b512e</categoryId>
 <picture>https://harbuz.in.ua/content/images/6/66541701136175_+f15ed3bb83.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-184441</vendorCode>
@@ -1891,7 +1905,7 @@
 <url>https://harbuz.in.ua/poliruvalna-mashyna-akumuliatorna-vitals-professional-ps-18150v-bl-smartline/</url>
 <price>3696</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb96c05b41</categoryId>
 <picture>https://harbuz.in.ua/content/images/32/19649884846109_+1bd245f534.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243529</vendorCode>
@@ -1971,7 +1985,7 @@
 <url>https://harbuz.in.ua/shlifmashyna-kutova-akumuliatorna-vitals-professional-als-18125v-bs-smartline/</url>
 <price>3616</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb19d915bc</categoryId>
 <picture>https://harbuz.in.ua/content/images/13/78580835244861_+6a8e3bd3c9.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-239533</vendorCode>
@@ -1986,7 +2000,7 @@
 <url>https://harbuz.in.ua/poliruvalna-mashyna-akumuliatorna-vitals-master-ps-18125v-smartline/</url>
 <price>3615</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb96c05b41</categoryId>
 <picture>https://harbuz.in.ua/content/images/29/30584155098636_+78b36d0ba4.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243528</vendorCode>
@@ -2064,7 +2078,7 @@
 <url>https://harbuz.in.ua/pyla-tsyrkuliarna-akumuliatorna-vitals-master-arg-18165-smartline/</url>
 <price>3474</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb13eb9f05</categoryId>
 <picture>https://harbuz.in.ua/content/images/17/94805156003550_+4693702321.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-184451</vendorCode>
@@ -2202,7 +2216,7 @@
 <url>https://harbuz.in.ua/pylosos-akumuliatornyi-vitals-master-aps-18100-smartline/</url>
 <price>3287</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb0bb347c8</categoryId>
 <picture>https://harbuz.in.ua/content/images/24/88543883726346_+2194cf89f8.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243519</vendorCode>
@@ -2215,7 +2229,7 @@
 <url>https://harbuz.in.ua/pyla-tsyrkuliarna-akumuliatorna-vitals-master-arg-18165-bl-smartline/</url>
 <price>3287</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb13eb9f05</categoryId>
 <picture>https://harbuz.in.ua/content/images/16/30326976931495_+eca32a2b5f.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243531</vendorCode>
@@ -2267,7 +2281,7 @@
 <url>https://harbuz.in.ua/haikovert-akumuliatornyi-vitals-master-at-1850-bl-smartline/</url>
 <price>3177</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb58b3f3eb</categoryId>
 <picture>https://harbuz.in.ua/content/images/50/14619022743049_+6ae43423e1.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243523</vendorCode>
@@ -2451,7 +2465,7 @@
 <url>https://harbuz.in.ua/pyla-shabelna-akumuliatorna-vitals-master-atz-1828-smartline/</url>
 <price>3062</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb13eb9f05</categoryId>
 <picture>https://harbuz.in.ua/content/images/21/22466244124235_+004427032c.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-184449</vendorCode>
@@ -2555,7 +2569,7 @@
 <url>https://harbuz.in.ua/perforator-akumuliatornyi-vitals-master-ara-1825-bl-smartline/</url>
 <price>2956</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb21059b14</categoryId>
 <picture>https://harbuz.in.ua/content/images/44/73532893323901_+c990ef0446.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243515</vendorCode>
@@ -2855,7 +2869,7 @@
 <url>https://harbuz.in.ua/shlifmashyna-kutova-akumuliatorna-vitals-professional-als-18125kv-bl-smartline/</url>
 <price>2739</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb19d915bc</categoryId>
 <picture>https://harbuz.in.ua/content/images/11/14460356190612_+061fb8d078.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243526</vendorCode>
@@ -3024,7 +3038,7 @@
 <url>https://harbuz.in.ua/multytul-akumuliatornyi-vitals-master-ami-1815pq-smartline/</url>
 <price>2540</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hbd207cfc5</categoryId>
 <picture>https://harbuz.in.ua/content/images/29/97216790248842_+9a8f0de587.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-120282</vendorCode>
@@ -3052,7 +3066,7 @@
 <url>https://harbuz.in.ua/perforator-akumuliatornyi-vitals-master-ara-1815-smartline/</url>
 <price>2520</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb21059b14</categoryId>
 <picture>https://harbuz.in.ua/content/images/43/69429698104246_+a47f792692.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243514</vendorCode>
@@ -3119,7 +3133,7 @@
 <url>https://harbuz.in.ua/pyla-shabelna-akumuliatorna-vitals-professional-atz-1825-bs-mini-smartline/</url>
 <price>2492</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb13eb9f05</categoryId>
 <picture>https://harbuz.in.ua/content/images/22/74698642874621_+55dc9b763f.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-184454</vendorCode>
@@ -3216,7 +3230,7 @@
 <url>https://harbuz.in.ua/dryl-shurupokrut-akumuliatornyi-vitals-master-au-1850-bl-smartline/</url>
 <price>2410</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hbc42b512e</categoryId>
 <picture>https://harbuz.in.ua/content/images/5/80027084403706_+83584989d4.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243510</vendorCode>
@@ -3229,7 +3243,7 @@
 <url>https://harbuz.in.ua/haikovert-akumuliatornyi-vitals-master-at-1838-bl-smartline/</url>
 <price>2410</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb58b3f3eb</categoryId>
 <picture>https://harbuz.in.ua/content/images/49/48324400113931_+9600be00e2.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243522</vendorCode>
@@ -3885,7 +3899,7 @@
 <url>https://harbuz.in.ua/renovator-akumuliatornyi-vitals-master-ami-1820-1-smartline/</url>
 <price>2081</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb96c05b41</categoryId>
 <picture>https://harbuz.in.ua/content/images/33/15034304048732_+e37466565d.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243511</vendorCode>
@@ -3898,7 +3912,7 @@
 <url>https://harbuz.in.ua/shlifmashyna-kutova-akumuliatorna-vitals-master-als-18125-bl-smartline/</url>
 <price>2081</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb19d915bc</categoryId>
 <picture>https://harbuz.in.ua/content/images/10/41690269426224_+128ef9a795.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243527</vendorCode>
@@ -4926,7 +4940,7 @@
 <url>https://harbuz.in.ua/mashyna-orbitalna-shlifuvalna-akumuliatorna-vitals-master-os-18125-smartline/</url>
 <price>1643</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb96c05b41</categoryId>
 <picture>https://harbuz.in.ua/content/images/11/26948004534769_+79161a117a.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243512</vendorCode>
@@ -5112,19 +5126,6 @@
 <description><![CDATA[<h2>Опис акумуляторного лобзика Vitals Ef 1865cl</h2> <p><strong>Акумуляторний лобзик VITALS Ef 1865cl</strong> — це надійний та зручний у використанні інструмент, призначений для прямолінійного та фігурного розпилювання деревини, деревовмісних матеріалів (ДСП, ДВП), листових пластиків і тонких металів у побутових умовах.</p> <p>Модель оснащена колекторним електродвигуном, який через редуктор із кривошипним механізмом забезпечує рівномірний хід пилки та стабільну роботу. Лобзик має пластиковий корпус із ергономічним руків’ям, металеву опорну платформу з можливістю регулювання кута нахилу та швидкозатискний патрон SDS для швидкої заміни полотен.</p> <p>Електронне регулювання частоти ходу дозволяє точно підбирати режим роботи під конкретний матеріал. Для підвищення точності різу інструмент оснащений лазерним покажчиком та LED‑підсвічуванням робочої зони. Живлення здійснюється від універсальних акумуляторів Vitals М-Type 18 (18 В), що забезпечує мобільність та автономність.</p> <h2>Комплектація моделі Ef 1865cl:</h2><ul> <li>лобзик акумуляторний;</li> <li>торцевий ключ;</li> <li>паралельний упор;</li> <li>набір різальних полотен.</li> </ul><p><strong>Характеристики</strong></p><ul><li>Модель: Ef 1865cl</li><li>Номінальна напруга живлення, В: 18</li><li>Номінальна потужність, Вт: 450</li><li>Тяговий момент приводу, Н·м: 1,6</li><li>Тип двигуна: Щітковий</li><li>Частота ходу штока без навантаження, хід/хв: 0–2700</li><li>Регулювання швидкості: Плавне, електронне</li><li>Хід штока, мм: 19</li><li>Тип патрона кріплення полотна: Безключовий, швидкозатискний (SDS)</li><li>Тип різального полотна: Полотна для електролобзиків</li><li>Кут нахилу полотна, градуси: ±45</li><li>- деревина: 65</li><li>- метал: 5</li><li>Маса нетто / брутто, кг: 1,06 / 1,3</li></ul><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
 <description_ua><![CDATA[<h2>Опис акумуляторного лобзика Vitals Ef 1865cl</h2> <p><strong>Акумуляторний лобзик VITALS Ef 1865cl</strong> — це надійний та зручний у використанні інструмент, призначений для прямолінійного та фігурного розпилювання деревини, деревовмісних матеріалів (ДСП, ДВП), листових пластиків і тонких металів у побутових умовах.</p> <p>Модель оснащена колекторним електродвигуном, який через редуктор із кривошипним механізмом забезпечує рівномірний хід пилки та стабільну роботу. Лобзик має пластиковий корпус із ергономічним руків’ям, металеву опорну платформу з можливістю регулювання кута нахилу та швидкозатискний патрон SDS для швидкої заміни полотен.</p> <p>Електронне регулювання частоти ходу дозволяє точно підбирати режим роботи під конкретний матеріал. Для підвищення точності різу інструмент оснащений лазерним покажчиком та LED‑підсвічуванням робочої зони. Живлення здійснюється від універсальних акумуляторів Vitals М-Type 18 (18 В), що забезпечує мобільність та автономність.</p> <h2>Комплектація моделі Ef 1865cl:</h2><ul> <li>лобзик акумуляторний;</li> <li>торцевий ключ;</li> <li>паралельний упор;</li> <li>набір різальних полотен.</li> </ul><p><strong>Характеристики</strong></p><ul><li>Модель: Ef 1865cl</li><li>Номінальна напруга живлення, В: 18</li><li>Номінальна потужність, Вт: 450</li><li>Тяговий момент приводу, Н·м: 1,6</li><li>Тип двигуна: Щітковий</li><li>Частота ходу штока без навантаження, хід/хв: 0–2700</li><li>Регулювання швидкості: Плавне, електронне</li><li>Хід штока, мм: 19</li><li>Тип патрона кріплення полотна: Безключовий, швидкозатискний (SDS)</li><li>Тип різального полотна: Полотна для електролобзиків</li><li>Кут нахилу полотна, градуси: ±45</li><li>- деревина: 65</li><li>- метал: 5</li><li>Маса нетто / брутто, кг: 1,06 / 1,3</li></ul><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
 </offer>
-<offer id="hb-86b5ef23bc6d" available="true">
-<url>https://harbuz.in.ua/mashyna-shlifuvalna-kutova-akumuliatorna-vitals-master-als-18125a-bl/</url>
-<price>1533</price>
-<currencyId>UAH</currencyId>
-<categoryId>hb19d915bc</categoryId>
-<picture>https://harbuz.in.ua/content/images/20/44446244775800_+c3f2fe1e1a.jpg</picture>
-<vendor>Vitals</vendor>
-<vendorCode>amt-251250</vendorCode>
-<name>Машина шліфувальна кутова акумуляторна Vitals Master ALs 18125a BL</name>
-<name_ua>Машина шліфувальна кутова акумуляторна Vitals Master ALs 18125a BL</name_ua>
-<description><![CDATA[<h2>Опис акумуляторної кутової шліфувальної машини Vitals Master ALs 18125a BL</h2> <p><b>Акумуляторна кутова шліфувальна машина Vitals Master ALs 18125a BL</b> — компактний та продуктивний інструмент із безщітковим двигуном для різання, шліфування та зачищення металевих виробів абразивними дисками.</p> <p>Модель має <b>три режими з різними швидкостями обертання — 3500, 6000 та 8000 об/хв</b>, завдяки чому можна підібрати оптимальний режим відповідно до характеру роботи. Вибір швидкості здійснюється за допомогою цифрової панелі керування зі світлодіодною індикацією. </p> <p>Для комфортної роботи передбачене <b>прогумоване ергономічне заднє руків’я</b>, а система <b>Kickback protection</b> допомагає посилити безпеку у разі виникнення зворотного удару. Швидкозатискний захисний кожух можна фіксовано позиціонувати по колу, а кнопка блокування шпинделя спрощує заміну диска. </p> <h2>Комплектація моделі Vitals Master ALs 18125a BL:</h2> <ul> <li>кутова шліфувальна машина <b>Vitals Master ALs 18125a BL</b> — 1 од.; </li> <li>допоміжне руків’я — 1 од.; </li> <li>захисний кожух — 1 од.; </li> <li>затискний ключ — 1 од.; </li> <li>інструкція з експлуатації — 1 од.; </li> <li>паковання — 1 од. </li> <b> <p style="color: red;">Акумулятор та зарядний пристрій до базової комплектації ALs 18125a BL не входять. </p> </b> </ul><p><strong>Характеристики</strong></p><ul><li>Тип двигуна: Безщітковий </li><li>Напруга живлення: 18 В</li><li>Номінальна потужність: 0,72 кВт</li><li>Максимальний крутний момент: 2,23 Н·м </li><li>Кількість режимів: 3 </li><li>Швидкість, режим 1: 3500 об/хв </li><li>Швидкість, режим 2: 6000 об/хв </li><li>Швидкість, режим 3: 8000 об/хв </li><li>Нарізка шпинделя: M14</li><li>Максимальний діаметр диска: 125 мм </li><li>Посадковий діаметр диска: 22,23 мм </li><li>Максимальна товщина диска: 5 мм </li><li>Режим роботи: S3 (20 хв) </li><li>Ступінь захисту: IP20 </li><li>Клас захисту: III</li><li>Клас теплостійкості ізоляції: F</li><li>Захист: від перерозряджання </li><li>Температура експлуатації: від +5 °C до +40 °C </li><li>Рівень звукового тиску: ≤88 дБ </li><li>Рівень звукової потужності: ≤99 дБ </li><li>Максимальний рівень віброприскорення: 2,4 м/с² </li><li>Максимальний рівень віброшвидкості: 4,9 м/с </li><li>Маса нетто: 1,42 кг </li><li>Маса брутто: 2,17 кг </li><li>Маса споряджена: 2,03 кг </li><li>Габарити паковання: 372 × 176 × 110 мм</li></ul><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
-<description_ua><![CDATA[<h2>Опис акумуляторної кутової шліфувальної машини Vitals Master ALs 18125a BL</h2> <p><b>Акумуляторна кутова шліфувальна машина Vitals Master ALs 18125a BL</b> — компактний та продуктивний інструмент із безщітковим двигуном для різання, шліфування та зачищення металевих виробів абразивними дисками.</p> <p>Модель має <b>три режими з різними швидкостями обертання — 3500, 6000 та 8000 об/хв</b>, завдяки чому можна підібрати оптимальний режим відповідно до характеру роботи. Вибір швидкості здійснюється за допомогою цифрової панелі керування зі світлодіодною індикацією. </p> <p>Для комфортної роботи передбачене <b>прогумоване ергономічне заднє руків’я</b>, а система <b>Kickback protection</b> допомагає посилити безпеку у разі виникнення зворотного удару. Швидкозатискний захисний кожух можна фіксовано позиціонувати по колу, а кнопка блокування шпинделя спрощує заміну диска. </p> <h2>Комплектація моделі Vitals Master ALs 18125a BL:</h2> <ul> <li>кутова шліфувальна машина <b>Vitals Master ALs 18125a BL</b> — 1 од.; </li> <li>допоміжне руків’я — 1 од.; </li> <li>захисний кожух — 1 од.; </li> <li>затискний ключ — 1 од.; </li> <li>інструкція з експлуатації — 1 од.; </li> <li>паковання — 1 од. </li> <b> <p style="color: red;">Акумулятор та зарядний пристрій до базової комплектації ALs 18125a BL не входять. </p> </b> </ul><p><strong>Характеристики</strong></p><ul><li>Тип двигуна: Безщітковий </li><li>Напруга живлення: 18 В</li><li>Номінальна потужність: 0,72 кВт</li><li>Максимальний крутний момент: 2,23 Н·м </li><li>Кількість режимів: 3 </li><li>Швидкість, режим 1: 3500 об/хв </li><li>Швидкість, режим 2: 6000 об/хв </li><li>Швидкість, режим 3: 8000 об/хв </li><li>Нарізка шпинделя: M14</li><li>Максимальний діаметр диска: 125 мм </li><li>Посадковий діаметр диска: 22,23 мм </li><li>Максимальна товщина диска: 5 мм </li><li>Режим роботи: S3 (20 хв) </li><li>Ступінь захисту: IP20 </li><li>Клас захисту: III</li><li>Клас теплостійкості ізоляції: F</li><li>Захист: від перерозряджання </li><li>Температура експлуатації: від +5 °C до +40 °C </li><li>Рівень звукового тиску: ≤88 дБ </li><li>Рівень звукової потужності: ≤99 дБ </li><li>Максимальний рівень віброприскорення: 2,4 м/с² </li><li>Максимальний рівень віброшвидкості: 4,9 м/с </li><li>Маса нетто: 1,42 кг </li><li>Маса брутто: 2,17 кг </li><li>Маса споряджена: 2,03 кг </li><li>Габарити паковання: 372 × 176 × 110 мм</li></ul><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
-</offer>
 <offer id="hb-523cf443cecb" available="true">
 <url>https://harbuz.in.ua/dorozhnia-praska-z-paroheneratorom-sokany-1200-vt-bilyi/</url>
 <price>1519</price>
@@ -5218,19 +5219,6 @@
 <description><![CDATA[<p>Антипригарне покриття запобігає пригоранню їжі та легко очищається, вона стане незамінним помічником на вашій кухні. Міцний алюмінієвий корпус забезпечує відмінну теплопровідність і готує їжу рівномірно та швидко. Отвори для пари в кришці дають змогу контролювати кількість вологи в сковороді для досягнення ідеальних результатів приготування. Вона забезпечує рівномірне приготування їжі без втрати тепла. </p> <p> <b>Основні характеристики сковороди </b> </p> <ul> <li>Діаметр 22 см </li> <li>Об'єм 1.4 літр </li> <li>Висота 4,7 см; </li> <li>Товщина дна 5 мм. </li> </ul> <p> <b>Запобіжні заходи </b> </p> <ul> <li>Перед першим використанням вимийте сковороду в теплій воді з м'яким мийним засобом і губкою та витріть насухо. Після повного висихання протріть антипригарне покриття невеликою кількістю рослинної олії. </li> <li>Використовуйте силіконові або дерев'яні столові прилади, щоб захистити поверхню від подряпин. Категорично не рекомендується використовувати металеві ложки або лопатки. </li> <li>Щоб уникнути пошкоджень мийте сковороду після повного охолодження. Не використовуйте жорсткі губки, щітки, абразивні пасти, чистячі порошки та агресивні речовини. </li> </ul> <p>Сковорода підходить для використання на газових, індукційних та електричних плитах. Вона поєднує в собі високу функціональність і стильний дизайн, що робить її прекрасним доповненням до будь-якої кухні. </p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
 <description_ua><![CDATA[<p>Антипригарне покриття запобігає пригоранню їжі та легко очищається, вона стане незамінним помічником на вашій кухні. Міцний алюмінієвий корпус забезпечує відмінну теплопровідність і готує їжу рівномірно та швидко. Отвори для пари в кришці дають змогу контролювати кількість вологи в сковороді для досягнення ідеальних результатів приготування. Вона забезпечує рівномірне приготування їжі без втрати тепла. </p> <p> <b>Основні характеристики сковороди </b> </p> <ul> <li>Діаметр 22 см </li> <li>Об'єм 1.4 літр </li> <li>Висота 4,7 см; </li> <li>Товщина дна 5 мм. </li> </ul> <p> <b>Запобіжні заходи </b> </p> <ul> <li>Перед першим використанням вимийте сковороду в теплій воді з м'яким мийним засобом і губкою та витріть насухо. Після повного висихання протріть антипригарне покриття невеликою кількістю рослинної олії. </li> <li>Використовуйте силіконові або дерев'яні столові прилади, щоб захистити поверхню від подряпин. Категорично не рекомендується використовувати металеві ложки або лопатки. </li> <li>Щоб уникнути пошкоджень мийте сковороду після повного охолодження. Не використовуйте жорсткі губки, щітки, абразивні пасти, чистячі порошки та агресивні речовини. </li> </ul> <p>Сковорода підходить для використання на газових, індукційних та електричних плитах. Вона поєднує в собі високу функціональність і стильний дизайн, що робить її прекрасним доповненням до будь-якої кухні. </p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
 </offer>
-<offer id="hb-81b94c79839b" available="true">
-<url>https://harbuz.in.ua/dytiacha-mashynka-dlia-stryzhky-volossia-z-nasadkamy-tykha-akumuliatorna-bezdrotova-vgr/</url>
-<price>1499</price>
-<currencyId>UAH</currencyId>
-<categoryId>hbff87e100</categoryId>
-<picture>https://harbuz.in.ua/content/images/40/34002123828677_+498c419656.jpg</picture>
-<vendor>VGR</vendor>
-<vendorCode>lg-HP-V-151</vendorCode>
-<name>Дитяча машинка для стрижки волосся з насадками тиха акумуляторна бездротова VGR</name>
-<name_ua>Дитяча машинка для стрижки волосся з насадками тиха акумуляторна бездротова VGR</name_ua>
-<description><![CDATA[<p>Дитяча машинка для стрижки волосся VGR V-151 — це безпечне та зручне рішення для батьків, які бажають акуратно підстригти волосся своєму малюкові в домашніх умовах. Завдяки керамічному лезу з R-подібною формою зубів, машинка дбайливо стриже, не смикаючи волосся і не пошкоджуючи чутливу шкіру дитини. Тихий мотор робить модель придатною навіть для немовлят, дітей з підвищеною чутливістю та малюків з аутизмом.</p> <p><strong>Характеристики дитячої машинки VGR V-151</strong></p> <ul> <li>тип: дитяча машинка для стрижки волосся з вакуумом;</li> <li>потужність: 5 В;</li> <li>тип лез: кераміка + нержавіюча сталь (безпечна R-форма);</li> <li>рівень шуму: низький, підходить для немовлят;</li> <li>водонепроникність: IPX7 — можна мити під водою;</li> <li>час автономної роботи: до 120 хвилин;</li> <li>час заряджання: близько 2 години;</li> <li>тип акумулятора: Ni-MH, 800 мАг;</li> <li>індикатор заряджання, USB-підключення;</li> <li>вбудована функція вакуумного збирання волосся.</li> </ul> <p><strong>Комплектація машинки для дітей</strong></p> <ol> <li>Дитяча машинка VGR V-151.</li> <li>Насадки: 3,6,9,12 мм.</li> <li>Щітка для чищення та масло для змащування лез.</li> <li>Кабель USB для заряджання.</li> <li>Посібник користувача.</li> <li>Фірмова упаковка із зображенням малюка.</li> </ol> <p>Машинка для стрижки волосся VGR V-151 — це ваш надійний помічник для дбайливого догляду за волоссям малюка. Тихий мотор та м'яке керамічне лезо роблять процес стрижки максимально комфортним та безпечним.</p> <p>Купите VGR V-151 з доставкою по Україні та подаруйте вашому малюку комфортну та акуратну стрижку будинку. Надійна упаковка та якісне складання гарантують тривалий термін служби пристрою.</p> Цей товар знаходиться в герметичній блістерній упаковці, тому обов'язково перевірте цілісність блістера при отриманні на пошті. У разі виявлення дефектів упаковки, будь ласка, повідомте нам одразу для заміни товару. <p>Після порушення цілісності блістера товар не підлягає поверненню. У разі виявлення у заводських несправностей ви можете повернути або замінити його протягом 14 днів.</p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
-<description_ua><![CDATA[<p>Дитяча машинка для стрижки волосся VGR V-151 — це безпечне та зручне рішення для батьків, які бажають акуратно підстригти волосся своєму малюкові в домашніх умовах. Завдяки керамічному лезу з R-подібною формою зубів, машинка дбайливо стриже, не смикаючи волосся і не пошкоджуючи чутливу шкіру дитини. Тихий мотор робить модель придатною навіть для немовлят, дітей з підвищеною чутливістю та малюків з аутизмом.</p> <p><strong>Характеристики дитячої машинки VGR V-151</strong></p> <ul> <li>тип: дитяча машинка для стрижки волосся з вакуумом;</li> <li>потужність: 5 В;</li> <li>тип лез: кераміка + нержавіюча сталь (безпечна R-форма);</li> <li>рівень шуму: низький, підходить для немовлят;</li> <li>водонепроникність: IPX7 — можна мити під водою;</li> <li>час автономної роботи: до 120 хвилин;</li> <li>час заряджання: близько 2 години;</li> <li>тип акумулятора: Ni-MH, 800 мАг;</li> <li>індикатор заряджання, USB-підключення;</li> <li>вбудована функція вакуумного збирання волосся.</li> </ul> <p><strong>Комплектація машинки для дітей</strong></p> <ol> <li>Дитяча машинка VGR V-151.</li> <li>Насадки: 3,6,9,12 мм.</li> <li>Щітка для чищення та масло для змащування лез.</li> <li>Кабель USB для заряджання.</li> <li>Посібник користувача.</li> <li>Фірмова упаковка із зображенням малюка.</li> </ol> <p>Машинка для стрижки волосся VGR V-151 — це ваш надійний помічник для дбайливого догляду за волоссям малюка. Тихий мотор та м'яке керамічне лезо роблять процес стрижки максимально комфортним та безпечним.</p> <p>Купите VGR V-151 з доставкою по Україні та подаруйте вашому малюку комфортну та акуратну стрижку будинку. Надійна упаковка та якісне складання гарантують тривалий термін служби пристрою.</p> Цей товар знаходиться в герметичній блістерній упаковці, тому обов'язково перевірте цілісність блістера при отриманні на пошті. У разі виявлення дефектів упаковки, будь ласка, повідомте нам одразу для заміни товару. <p>Після порушення цілісності блістера товар не підлягає поверненню. У разі виявлення у заводських несправностей ви можете повернути або замінити його протягом 14 днів.</p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
-</offer>
 <offer id="hb-0d3d439a734f" available="true">
 <url>https://harbuz.in.ua/kukhonna-obrobna-doshka-derevyana-3045-sm-priamokutna-lugi/</url>
 <price>1499</price>
@@ -5261,7 +5249,7 @@
 <url>https://harbuz.in.ua/maska-zvarnyka-vitals-master-2.0/</url>
 <price>1476</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb90871aff</categoryId>
+<categoryId>hb00cd8673</categoryId>
 <picture>https://harbuz.in.ua/content/images/14/75091490169792_+24e08c31c2.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-159205</vendorCode>
@@ -5429,6 +5417,19 @@
 <name_ua>Фен стайлер для волосся 3 в 1 Sokany професійний 1000 Вт</name_ua>
 <description><![CDATA[<p>Фен стайлер Sokany SK-1922 – це багатофункціональне рішення для створення ідеальної укладки волосся. Завдяки різним режимам і можливості випрямлення, укладання та сушки волосся, цей стайлер забезпечує зручність і гнучкість під час укладки.</p> <p> <b>Основні характеристики:</b> </p> <ul> <li>Поєднує функції сушки, випрямлювача та стайлера.</li> <li>З потужністю 1000 Вт і додатковими режимами, такими як іонізація та подача холодного повітря, стайлер забезпечує різноманітні варіанти укладки для вашого волосся.</li> <li>Обертання шнура на 360° і індикація ввімкнення роблять використання зручним і безпечним.</li> <li>Два температурних режими, що дозволяє вибрати оптимальні налаштування для укладки волосся. Холодний обдув дозволяє закріпити укладку і надати волоссю бажану форму, запобігаючи їх перегріванню.</li> <li>Стайлер оснащений додатковими заходами безпеки, такими як система захисту від перегріву, що забезпечує безпечне і комфортне використання при укладці волосся.</li> <li>Довжина мережевого шнура 1,8 метра забезпечує свободу рухів під час укладки.</li> </ul> <p>Sokany SK-1922 – це універсальний пристрій для стайлінгу волосся, що забезпечує не тільки різноманітні функції, але й безпеку у використанні. Ідеальний вибір для тих, хто цінує зручність і професійний результат при укладанні волосся.</p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
 <description_ua><![CDATA[<p>Фен стайлер Sokany SK-1922 – це багатофункціональне рішення для створення ідеальної укладки волосся. Завдяки різним режимам і можливості випрямлення, укладання та сушки волосся, цей стайлер забезпечує зручність і гнучкість під час укладки.</p> <p> <b>Основні характеристики:</b> </p> <ul> <li>Поєднує функції сушки, випрямлювача та стайлера.</li> <li>З потужністю 1000 Вт і додатковими режимами, такими як іонізація та подача холодного повітря, стайлер забезпечує різноманітні варіанти укладки для вашого волосся.</li> <li>Обертання шнура на 360° і індикація ввімкнення роблять використання зручним і безпечним.</li> <li>Два температурних режими, що дозволяє вибрати оптимальні налаштування для укладки волосся. Холодний обдув дозволяє закріпити укладку і надати волоссю бажану форму, запобігаючи їх перегріванню.</li> <li>Стайлер оснащений додатковими заходами безпеки, такими як система захисту від перегріву, що забезпечує безпечне і комфортне використання при укладці волосся.</li> <li>Довжина мережевого шнура 1,8 метра забезпечує свободу рухів під час укладки.</li> </ul> <p>Sokany SK-1922 – це універсальний пристрій для стайлінгу волосся, що забезпечує не тільки різноманітні функції, але й безпеку у використанні. Ідеальний вибір для тих, хто цінує зручність і професійний результат при укладанні волосся.</p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
+</offer>
+<offer id="hb-64dc96bd6ce0" available="true">
+<url>https://harbuz.in.ua/dryl-shurupokrut-akumuliatornyi-vitals-master-au-1232c-bl-kit/</url>
+<price>1457</price>
+<currencyId>UAH</currencyId>
+<categoryId>hb78cf6308</categoryId>
+<picture>https://harbuz.in.ua/content/images/21/88774520675364_+bc6f1642a3.jpg</picture>
+<vendor>Vitals</vendor>
+<vendorCode>amt-235676</vendorCode>
+<name>Дриль-шурупокрут акумуляторний Vitals Master AU 1232c BL Kit</name>
+<name_ua>Дриль-шурупокрут акумуляторний Vitals Master AU 1232c BL Kit</name_ua>
+<description><![CDATA[<h2>Опис дрилі-шурупокрута акумуляторного Vitals Master AU 1232c BL Kit</h2> <p><strong>Дриль-шурупокрут акумуляторний VITALS Master AU 1232c BL</strong> — сучасний інструмент із безщітковим двигуном, що поєднує високу продуктивність, надійність та безпеку. Призначений для закручування й відкручування кріпильних виробів, а також для свердління отворів діаметром 0,8–10 мм у металі та деревині. Завдяки двошвидкісному редуктору, режиму реверсу та LED-підсвічуванню робочої зони забезпечує комфортну роботу навіть у складних умовах. Корпус із ударостійкого пластику гарантує міцність і захист користувача від ураження електричним струмом.</p> <h2>Комплектація моделі Vitals Master AU 1232c BL Kit</h2><ul> <li>Дриль-шурупокрут акумуляторний </li> <li>Акумуляторна батарея Vitals ASL 1220c 2 А·год</li> <li>Зарядний пристрій Vitals 1210c 1 A</li> <li>Інструкція з експлуатації </li> <li>Пластиковий кейс </li> </ul><p><strong>Характеристики</strong></p><ul><li>Тип двигуна: Безщітковий</li><li>Номінальна напруга, В: 12</li><li>Номінальна потужність, кВт: 0,25</li><li>Кількість режимів регулювання швидкості: 2</li><li>Максимальний крутний момент, Н·м: 32 (1-й режим), 17 (2-й режим)</li><li>Кількість позицій муфти крутного моменту: 21+1</li><li>Реверсне обертання: Є</li><li>Швидкість обертання без навантаження, об/хв: 0–400 (1-й режим), 0–1400 (2-й режим)</li><li>Тип регулювання швидкості: Плавне</li><li>Розмір свердлильного патрона, мм: 10</li><li>Тип свердлильного патрона: Швидкозатискний ручний, 3-кулачковий, одномуфтовий</li><li>Максимальний діаметр свердління, мм (метал): 10</li><li>Максимальний діаметр свердління, мм (деревина): 20</li><li>Режим роботи: 2</li><li>Ступінь захисту корпусу: IP30</li><li>Тип та наявність підсвічування: LED-підсвічування робочої зони</li><li>Сумісні акумуляторні батареї: Лінійка «М-Type 12» ТМ «VITALS»</li><li>Сумісний зарядний пристрій: Від мережі 230 В / 50 Гц, лінійка «М-Type 12» ТМ «VITALS»</li><li>Маса нетто / брутто, кг: 1,37 / 1,42</li></ul><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
+<description_ua><![CDATA[<h2>Опис дрилі-шурупокрута акумуляторного Vitals Master AU 1232c BL Kit</h2> <p><strong>Дриль-шурупокрут акумуляторний VITALS Master AU 1232c BL</strong> — сучасний інструмент із безщітковим двигуном, що поєднує високу продуктивність, надійність та безпеку. Призначений для закручування й відкручування кріпильних виробів, а також для свердління отворів діаметром 0,8–10 мм у металі та деревині. Завдяки двошвидкісному редуктору, режиму реверсу та LED-підсвічуванню робочої зони забезпечує комфортну роботу навіть у складних умовах. Корпус із ударостійкого пластику гарантує міцність і захист користувача від ураження електричним струмом.</p> <h2>Комплектація моделі Vitals Master AU 1232c BL Kit</h2><ul> <li>Дриль-шурупокрут акумуляторний </li> <li>Акумуляторна батарея Vitals ASL 1220c 2 А·год</li> <li>Зарядний пристрій Vitals 1210c 1 A</li> <li>Інструкція з експлуатації </li> <li>Пластиковий кейс </li> </ul><p><strong>Характеристики</strong></p><ul><li>Тип двигуна: Безщітковий</li><li>Номінальна напруга, В: 12</li><li>Номінальна потужність, кВт: 0,25</li><li>Кількість режимів регулювання швидкості: 2</li><li>Максимальний крутний момент, Н·м: 32 (1-й режим), 17 (2-й режим)</li><li>Кількість позицій муфти крутного моменту: 21+1</li><li>Реверсне обертання: Є</li><li>Швидкість обертання без навантаження, об/хв: 0–400 (1-й режим), 0–1400 (2-й режим)</li><li>Тип регулювання швидкості: Плавне</li><li>Розмір свердлильного патрона, мм: 10</li><li>Тип свердлильного патрона: Швидкозатискний ручний, 3-кулачковий, одномуфтовий</li><li>Максимальний діаметр свердління, мм (метал): 10</li><li>Максимальний діаметр свердління, мм (деревина): 20</li><li>Режим роботи: 2</li><li>Ступінь захисту корпусу: IP30</li><li>Тип та наявність підсвічування: LED-підсвічування робочої зони</li><li>Сумісні акумуляторні батареї: Лінійка «М-Type 12» ТМ «VITALS»</li><li>Сумісний зарядний пристрій: Від мережі 230 В / 50 Гц, лінійка «М-Type 12» ТМ «VITALS»</li><li>Маса нетто / брутто, кг: 1,37 / 1,42</li></ul><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
 </offer>
 <offer id="hb-f59ec21f38fa" available="true">
 <url>https://harbuz.in.ua/dytiacha-mashynka-dlia-stryzhky-z-nasadkamy-akumuliatorna-bezshumna-vgr/</url>
@@ -5685,7 +5686,7 @@
 <url>https://harbuz.in.ua/namet-dytiachyi-3-v-1-707090-sm-ihrovyi-namet-z-tunelem-i-baseinom-fioletovyi/</url>
 <price>1329</price>
 <currencyId>UAH</currencyId>
-<categoryId>hba20776cb</categoryId>
+<categoryId>hb55709feb</categoryId>
 <picture>https://harbuz.in.ua/content/images/7/29755768991495_+fc88e52911.jpg</picture>
 <vendor>Lugi</vendor>
 <vendorCode>lg-HP-S-4NDV</vendorCode>
@@ -5737,7 +5738,7 @@
 <url>https://harbuz.in.ua/poliruvalna-mashyna-akumuliatorna-vitals-master-ps-1212c-kit/</url>
 <price>1314</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb96c05b41</categoryId>
 <picture>https://harbuz.in.ua/content/images/28/92146926214520_+98e2f7e8f4.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243606</vendorCode>
@@ -5841,7 +5842,7 @@
 <url>https://harbuz.in.ua/namet-dytiachyi-3-v-1-707090-sm-ihrovyi-namet-z-tunelem-i-baseinom-blakytna/</url>
 <price>1279</price>
 <currencyId>UAH</currencyId>
-<categoryId>hba20776cb</categoryId>
+<categoryId>hb55709feb</categoryId>
 <picture>https://harbuz.in.ua/content/images/6/39477772510715_+80894a593d.jpg</picture>
 <vendor>Lugi</vendor>
 <vendorCode>lg-HP-S-4NDBL</vendorCode>
@@ -5906,7 +5907,7 @@
 <url>https://harbuz.in.ua/shtuchna-khvoina-hirlianda-lyta-2-m-zelena-premium/</url>
 <price>1259</price>
 <currencyId>UAH</currencyId>
-<categoryId>hbdd008a69</categoryId>
+<categoryId>hbb0617b6f</categoryId>
 <picture>https://harbuz.in.ua/content/images/10/17388532422649_+57b0d36afa.jpg</picture>
 <vendor>Lugi</vendor>
 <vendorCode>lg-TD-BRNCHGR2</vendorCode>
@@ -6464,7 +6465,7 @@
 <url>https://harbuz.in.ua/dytiachyi-ihrovyi-namet-1809580-sm-namet-dytiachyi-vulychnyi-na-blyskavtsi-vinni-pukh/</url>
 <price>1089</price>
 <currencyId>UAH</currencyId>
-<categoryId>hba20776cb</categoryId>
+<categoryId>hb55709feb</categoryId>
 <picture>https://harbuz.in.ua/content/images/5/68377476002271_+fce69380f7.jpg</picture>
 <vendor>Lugi</vendor>
 <vendorCode>lg-HP-S-3NDO</vendorCode>
@@ -6661,7 +6662,7 @@
 <url>https://harbuz.in.ua/pylosos-akumuliatornyi-vitals-master-aps-1838-smartline/</url>
 <price>1058</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb78cf6308</categoryId>
+<categoryId>hb0bb347c8</categoryId>
 <picture>https://harbuz.in.ua/content/images/23/73800153645074_+1028f26a12.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-243518</vendorCode>
@@ -7272,8 +7273,8 @@
 <picture>https://harbuz.in.ua/content/images/34/41965547082210_+61b602370f.jpg</picture>
 <vendor>TS Kitchen</vendor>
 <vendorCode>lg-HP556</vendorCode>
-<name>Набір склянок скляний 6 шт по 250 мл прозорий прозорий</name>
-<name_ua>Набір склянок скляний 6 шт по 250 мл прозорий прозорий</name_ua>
+<name>Набір склянок скляний 6 шт по 250 мл прозорий</name>
+<name_ua>Набір склянок скляний 6 шт по 250 мл прозорий</name_ua>
 <description><![CDATA[<p>Набір склянок для віскі з товстим дном (6 штук) — це вишуканий спосіб насолодитися улюбленим напоєм. Склянки виготовлені з міцного скла, яке витримує щоденне використання. Їх товсте дно допомагає зберігати віскі холодним довше, а прозорий дизайн дозволяє оцінити колір та чистоту напою.</p> <p> <strong>Характеристики:</strong> </p> <ul> <li>Матеріал: товсте, міцне скло</li> <li>Кількість: 6 штук</li> <li>Об'єм: 250 мл</li> <li>Висота: 9 см</li> <li>Колір: прозорий</li> <li>Особливості: товсте дно, прозорий дизайн</li> </ul> <p> <strong>Переваги:</strong> </p> <ul> <li>Товсте дно для тривалого збереження температури</li> <li>Ідеально підходять для дегустації віскі та інших напоїв</li> <li>Легко миються в посудомийній машині</li> </ul> <p> <strong>Догляд:</strong> </p> <ul> <li>Мити в посудомийній машині або вручну</li> <li>Використовувати м’які губки та не агресивні чистячі засоби</li> </ul><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
 <description_ua><![CDATA[<p>Набір склянок для віскі з товстим дном (6 штук) — це вишуканий спосіб насолодитися улюбленим напоєм. Склянки виготовлені з міцного скла, яке витримує щоденне використання. Їх товсте дно допомагає зберігати віскі холодним довше, а прозорий дизайн дозволяє оцінити колір та чистоту напою.</p> <p> <strong>Характеристики:</strong> </p> <ul> <li>Матеріал: товсте, міцне скло</li> <li>Кількість: 6 штук</li> <li>Об'єм: 250 мл</li> <li>Висота: 9 см</li> <li>Колір: прозорий</li> <li>Особливості: товсте дно, прозорий дизайн</li> </ul> <p> <strong>Переваги:</strong> </p> <ul> <li>Товсте дно для тривалого збереження температури</li> <li>Ідеально підходять для дегустації віскі та інших напоїв</li> <li>Легко миються в посудомийній машині</li> </ul> <p> <strong>Догляд:</strong> </p> <ul> <li>Мити в посудомийній машині або вручну</li> <li>Використовувати м’які губки та не агресивні чистячі засоби</li> </ul><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
 </offer>
@@ -8743,7 +8744,7 @@
 <url>https://harbuz.in.ua/shtuchna-khvoina-hirlianda-1-m-zelena-lyta-premium-lugi/</url>
 <price>629</price>
 <currencyId>UAH</currencyId>
-<categoryId>hbdd008a69</categoryId>
+<categoryId>hbb0617b6f</categoryId>
 <picture>https://harbuz.in.ua/content/images/9/28670000166874_+bc0967d5b9.jpg</picture>
 <vendor>Lugi</vendor>
 <vendorCode>lg-TD-BRNCHGR1</vendorCode>
@@ -9192,7 +9193,7 @@
 <url>https://harbuz.in.ua/terka-kukhonna-z-nerzhaviiuchoi-stali-9424-sm-ruchna-dvostoronnia-terka-dlia-ovochiv/</url>
 <price>549</price>
 <currencyId>UAH</currencyId>
-<categoryId>hbae208f8a</categoryId>
+<categoryId>hb7e9b60fb</categoryId>
 <picture>https://harbuz.in.ua/content/images/40/78011201009536_+7702c18680.jpg</picture>
 <vendor>Ding Lanfang</vendor>
 <vendorCode>lg-HP-8-9</vendorCode>
@@ -10063,7 +10064,7 @@
 <url>https://harbuz.in.ua/zariadnyi-prystrii-vitals-1820n/</url>
 <price>437</price>
 <currencyId>UAH</currencyId>
-<categoryId>hbd207cfc5</categoryId>
+<categoryId>hbeac7652f</categoryId>
 <picture>https://harbuz.in.ua/content/images/19/78508524849178_+5964e9c3f5.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-213530</vendorCode>
@@ -11535,7 +11536,7 @@
 <url>https://harbuz.in.ua/nozhivky-ta-polotna/11428/</url>
 <price>379</price>
 <currencyId>UAH</currencyId>
-<categoryId>hbe4daea12</categoryId>
+<categoryId>hbb1362038</categoryId>
 <picture>https://harbuz.in.ua/content/images/29/79869653979734_+8e4de1ee2f.jpg</picture>
 <vendor>Rapide</vendor>
 <vendorCode>PLX-НФ-00001592</vendorCode>
@@ -12381,19 +12382,6 @@
 <name_ua>Рукавиця-прихватка кухонна 33*18 см для гарячого кавовий Colorful Home</name_ua>
 <description><![CDATA[<p>Класична кухонна рукавиця-прихватка 33×18 см — зручний і практичний аксесуар для безпечної роботи з гарячим посудом. Традиційна форма з окремим великим пальцем забезпечує надійне захоплення та кращий контроль під час приготування страв. Зносостійка тканина з діагональним переплетенням ниток у поєднанні з м’яким внутрішнім ізоляційним шаром ефективно захищає руку від високих температур і пари.</p> <p><strong>Переваги матеріалу</strong></p> <ul> <li>Щільна зносостійка тканина</li> <li>Діагональне переплетення ниток для підвищеної міцності</li> <li>М’який внутрішній ізоляційний шар</li> <li>Надійний захист від високих температур і пари</li> <li>Зручна форма з окремим великим пальцем для комфортного використання</li> </ul> <p><strong>Розмір</strong></p> <p>33×18 см</p> <p><strong>Правила догляду</strong></p> <ul> <li>Прати при температурі до 30°C</li> <li>Не використовувати відбілювачі та агресивні миючі засоби</li> <li>Не сушити на нагрівальних приладах</li> </ul> <p><strong>Сушити природним способом</strong></p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
 <description_ua><![CDATA[<p>Класична кухонна рукавиця-прихватка 33×18 см — зручний і практичний аксесуар для безпечної роботи з гарячим посудом. Традиційна форма з окремим великим пальцем забезпечує надійне захоплення та кращий контроль під час приготування страв. Зносостійка тканина з діагональним переплетенням ниток у поєднанні з м’яким внутрішнім ізоляційним шаром ефективно захищає руку від високих температур і пари.</p> <p><strong>Переваги матеріалу</strong></p> <ul> <li>Щільна зносостійка тканина</li> <li>Діагональне переплетення ниток для підвищеної міцності</li> <li>М’який внутрішній ізоляційний шар</li> <li>Надійний захист від високих температур і пари</li> <li>Зручна форма з окремим великим пальцем для комфортного використання</li> </ul> <p><strong>Розмір</strong></p> <p>33×18 см</p> <p><strong>Правила догляду</strong></p> <ul> <li>Прати при температурі до 30°C</li> <li>Не використовувати відбілювачі та агресивні миючі засоби</li> <li>Не сушити на нагрівальних приладах</li> </ul> <p><strong>Сушити природним способом</strong></p><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
-</offer>
-<offer id="hb-521ad17eb46d" available="true">
-<url>https://harbuz.in.ua/nabir-kukhonnykh-rushnykiv-5-shtuk-3030-sm-iz-mikrofibry-colorful-home/</url>
-<price>99</price>
-<currencyId>UAH</currencyId>
-<categoryId>hb7e9b60fb</categoryId>
-<picture>https://harbuz.in.ua/content/images/12/27661779141031_+84ce37fd9f.jpg</picture>
-<vendor>Colorful Home</vendor>
-<vendorCode>lg-501-220-F-990</vendorCode>
-<name>Набір кухонних рушників 5 штук 30*30 см із мікрофібри Colorful Home</name>
-<name_ua>Набір кухонних рушників 5 штук 30*30 см із мікрофібри Colorful Home</name_ua>
-<description><![CDATA[<p>Набір кухонних рушників із мікрофібри стане практичним доповненням для щоденного використання на кухні. М’яка та приємна на дотик тканина добре вбирає вологу, швидко висихає та допомагає підтримувати чистоту кухонних поверхонь, посуду та рук. Завдяки компактному розміру рушники зручні у використанні, а комплект із 5 штук дозволяє завжди мати чистий рушник під рукою. Матеріал стійкий до частого прання та зберігає охайний вигляд протягом тривалого часу.</p> <p><strong>Переваги тканини</strong></p> <ul> <li>Мікрофібра м’яка та приємна на дотик</li> <li>Добре вбирає вологу</li> <li>Швидко висихає після використання</li> <li>Легка у догляді та зносостійка</li> <li>Підходить для щоденного використання</li> </ul> <p><strong>Розмір</strong></p> <ul> <li>Розмір рушників: 30×30 см</li> <li>Кількість у комплекті: 5 штук</li> </ul> <p><strong>Правила догляду</strong></p> <ul> <li>Прати при температурі 30–40°C</li> <li>Використовувати делікатний режим прання</li> <li>Не застосовувати агресивні відбілювачі</li> <li>Сушити природним способом або при низькій температурі</li> <li>Не прасувати на високих температурах</li> </ul><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description>
-<description_ua><![CDATA[<p>Набір кухонних рушників із мікрофібри стане практичним доповненням для щоденного використання на кухні. М’яка та приємна на дотик тканина добре вбирає вологу, швидко висихає та допомагає підтримувати чистоту кухонних поверхонь, посуду та рук. Завдяки компактному розміру рушники зручні у використанні, а комплект із 5 штук дозволяє завжди мати чистий рушник під рукою. Матеріал стійкий до частого прання та зберігає охайний вигляд протягом тривалого часу.</p> <p><strong>Переваги тканини</strong></p> <ul> <li>Мікрофібра м’яка та приємна на дотик</li> <li>Добре вбирає вологу</li> <li>Швидко висихає після використання</li> <li>Легка у догляді та зносостійка</li> <li>Підходить для щоденного використання</li> </ul> <p><strong>Розмір</strong></p> <ul> <li>Розмір рушників: 30×30 см</li> <li>Кількість у комплекті: 5 штук</li> </ul> <p><strong>Правила догляду</strong></p> <ul> <li>Прати при температурі 30–40°C</li> <li>Використовувати делікатний режим прання</li> <li>Не застосовувати агресивні відбілювачі</li> <li>Сушити природним способом або при низькій температурі</li> <li>Не прасувати на високих температурах</li> </ul><h3>Умови замовлення</h3><p><strong>⚠️ Цей товар відправляємо лише після повної передоплати.</strong> Товар їде напряму зі складу виробника, тому оплата при отриманні (накладений платіж) недоступна.</p>]]></description_ua>
 </offer>
 <offer id="hb-8db60ae06b60" available="true">
 <url>https://harbuz.in.ua/rushnyk-dlia-kukhni-vafelnyi-3570-sm-z-bavovny-siryi-colorful-home/</url>
@@ -15375,7 +15363,7 @@
 <url>https://harbuz.in.ua/chainyk-krauff-capella-3-l.-z-vysokoiakisnoi-nerzhaviiuchoi-stali-zi-svystkom/</url>
 <price>1579</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb6971d59c</categoryId>
+<categoryId>hb55eed727</categoryId>
 <picture>https://harbuz.in.ua/content/images/49/56718610645790_+a00bb6aeb5.jpg</picture>
 <vendor>Krauff</vendor>
 <vendorCode>vt-26-303-002</vendorCode>
@@ -15403,7 +15391,7 @@
 <url>https://harbuz.in.ua/chainyk-vinzer-stels-27-l./</url>
 <price>2089</price>
 <currencyId>UAH</currencyId>
-<categoryId>hbc8243f85</categoryId>
+<categoryId>hb55eed727</categoryId>
 <picture>https://harbuz.in.ua/content/images/3/27860571446770_+82514c9945.jpg</picture>
 <vendor>VINZER</vendor>
 <vendorCode>vt-50005</vendorCode>
@@ -15417,7 +15405,7 @@
 <url>https://harbuz.in.ua/chainyk-vinzer-nero-25-l./</url>
 <price>2489</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb43637b01</categoryId>
+<categoryId>hb55eed727</categoryId>
 <picture>https://harbuz.in.ua/content/images/2/82558419529866_+d70cb86bb9.jpg</picture>
 <vendor>VINZER</vendor>
 <vendorCode>vt-50010</vendorCode>
@@ -15471,7 +15459,7 @@
 <url>https://harbuz.in.ua/nizh-vinzer-geometry-nero-line-universalnyi-lezo-127-sm./</url>
 <price>669</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb7e9b60fb</categoryId>
+<categoryId>hb55eed727</categoryId>
 <picture>https://harbuz.in.ua/content/images/12/59276894957873_+fe7d95d3a8.jpg</picture>
 <vendor>VINZER</vendor>
 <vendorCode>vt-50300</vendorCode>
@@ -15484,7 +15472,7 @@
 <url>https://harbuz.in.ua/nizh-vinzer-geometry-nero-line-santoku-lezo-178-sm./</url>
 <price>1049</price>
 <currencyId>UAH</currencyId>
-<categoryId>hbc8243f85</categoryId>
+<categoryId>hb7e9b60fb</categoryId>
 <picture>https://harbuz.in.ua/content/images/22/31032054258380_+b2d36897e1.jpg</picture>
 <vendor>VINZER</vendor>
 <vendorCode>vt-50302</vendorCode>
@@ -15498,7 +15486,7 @@
 <url>https://harbuz.in.ua/nizh-vinzer-global-line-universalnyi-lezo-127-sm.-tsilnolytyi/</url>
 <price>709</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb7e9b60fb</categoryId>
+<categoryId>hb55eed727</categoryId>
 <picture>https://harbuz.in.ua/content/images/13/19342596488408_+a51ff5720d.jpg</picture>
 <vendor>VINZER</vendor>
 <vendorCode>vt-50313</vendorCode>
@@ -15511,7 +15499,7 @@
 <url>https://harbuz.in.ua/nizh-vinzer-global-line-santoku-lezo-178-sm.-tsilnolytyi/</url>
 <price>1109</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb7e9b60fb</categoryId>
+<categoryId>hb55eed727</categoryId>
 <picture>https://harbuz.in.ua/content/images/14/23225513997350_+598c75184e.jpg</picture>
 <vendor>VINZER</vendor>
 <vendorCode>vt-50315</vendorCode>
@@ -15673,7 +15661,7 @@
 <url>https://harbuz.in.ua/forma-kamille-dlia-zapikannia-tarty-2635sm-z-vuhletsevoi-stali/</url>
 <price>269</price>
 <currencyId>UAH</currencyId>
-<categoryId>hbc8243f85</categoryId>
+<categoryId>hb7e9b60fb</categoryId>
 <picture>https://harbuz.in.ua/content/images/6/70192581606300_+546d829a42.jpg</picture>
 <vendor>Kamille</vendor>
 <vendorCode>vt-KM-6047</vendorCode>
@@ -15813,7 +15801,7 @@
 <url>https://harbuz.in.ua/konteiner-kamille-sklianyi-kharchovyi-1000ml-iz-kryshkoiu/</url>
 <price>309</price>
 <currencyId>UAH</currencyId>
-<categoryId>hbc8243f85</categoryId>
+<categoryId>hb6e1443d5</categoryId>
 <picture>https://harbuz.in.ua/content/images/30/53287889731029_+53e518606f.jpg</picture>
 <vendor>Kamille</vendor>
 <vendorCode>vt-KM-9170</vendorCode>
@@ -16055,7 +16043,7 @@
 <url>https://harbuz.in.ua/drit-zvariuvalnyi-obmidnenyi-08mm-38kh-alloid-seriia-pro/</url>
 <price>969</price>
 <currencyId>UAH</currencyId>
-<categoryId>hb71fd17d5</categoryId>
+<categoryId>hb3c33cfa2</categoryId>
 <picture>https://harbuz.in.ua/content/images/6/39610302419353_+709fe6bd1f.jpg</picture>
 <vendor>Alloid</vendor>
 <vendorCode>PLX-W-3808</vendorCode>
@@ -16552,7 +16540,7 @@
 <url>https://harbuz.in.ua/hazovi-palnyky-ta-balony/10085/</url>
 <price>1269</price>
 <currencyId>UAH</currencyId>
-<categoryId>hbfe352fa2</categoryId>
+<categoryId>hb180af378</categoryId>
 <picture>https://harbuz.in.ua/content/images/36/58456150133265_+b7dcf49a9c.jpg</picture>
 <vendor>Polax</vendor>
 <vendorCode>PLX-32-053</vendorCode>
@@ -16836,7 +16824,7 @@
 <url>https://harbuz.in.ua/zariadnyi-prystrii-vitals-1810n/</url>
 <price>135</price>
 <currencyId>UAH</currencyId>
-<categoryId>hbd207cfc5</categoryId>
+<categoryId>hbeac7652f</categoryId>
 <picture>https://harbuz.in.ua/content/images/48/91597639228047_+e774685918.jpg</picture>
 <vendor>Vitals</vendor>
 <vendorCode>amt-213529</vendorCode>
