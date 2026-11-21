@@ -18,9 +18,9 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0001	m3_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		stop		689				
 0002	c120			khvist				2988				
 0003	c120				chempion	prybutok		2988				
-0004	c100	ads_zero	Shopping_ads			stop		2988				
+0004	c100	ads_zero	Shopping_ads					2988				
 0005	c080				chempion	prybutok						
-0006	c080				chempion							
+0006	c080				chempion	prybutok						
 0009	c080		Shopping_ads	deshevyi								
 0010	c100			khvist								
 0011	c100		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
@@ -74,7 +74,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0067	dup:Тиква		Shopping_ads,Display_ads			prybutok						
 0068	c010		Shopping_ads	vytraty_stelya	chempion	prybutok						
 0069	c080				chempion	prybutok						
-0070	c150				chempion	stop						
+0070	c150				chempion							
 0071	c150		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 0072	c010		Shopping_ads	ne_v_rynku								
 0073	c020		Shopping_ads	ne_v_rynku								
@@ -248,17 +248,17 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0201	c100			season_off								
 0202	c080	test0		khvist								
 0203	c080	test0		khvist								
-0204	c060				chempion	prybutok						
+0204	c080			khvist								
 0205	c120		Shopping_ads	ne_v_rynku								
 0206	c050	test0		khvist								
 0207	c060		Shopping_ads	deshevyi								
 0208	c050		Shopping_ads	ne_v_rynku								
-0209	c080				chempion							
+0209	c080											
 0210	c150			khvist								
 0211	c020		Shopping_ads	deshevyi								
 0212	c050				chempion							
 0213	c060	ads_zero	Shopping_ads									
-0220	c100				chempion	prybutok						
+0220	c100											
 0222	c080				chempion	prybutok						
 0225	c080				chempion	prybutok						
 0226	c080			khvist								
@@ -287,7 +287,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0254	c030		Shopping_ads	deshevyi								
 0255	c080		Shopping_ads	deshevyi								
 0256	c080		Shopping_ads	deshevyi								
-0257	c080		Shopping_ads	deshevyi								
+0257	c080											
 0258	c030		Shopping_ads	deshevyi								
 0261	c080		Shopping_ads	deshevyi								
 0263	c080		Shopping_ads	deshevyi								
@@ -308,7 +308,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0279	c060		Shopping_ads	deshevyi								
 0280	c060		Shopping_ads	deshevyi	bez_foto							
 0281	c030		Shopping_ads	deshevyi								
-0283	c500		Shopping_ads	vytraty_stelya	chempion	cina						
+0283	c400		Shopping_ads	vytraty_stelya	chempion	stop						
 0285	c500			khvist								
 0286	c500		Shopping_ads,Display_ads	pid_zamovlennya	bez_foto						2026-12-05T09:00+0300	
 0287	c150		Shopping_ads	deshevyi								
@@ -323,7 +323,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0299	c020			khvist								
 03-009	c060		Shopping_ads	deshevyi								
 03-010	c060			khvist								
-03-012	c040	sklad										
+03-012	c040	sklad			chempion	prybutok						
 0300	c010	ads_zero	Shopping_ads,Display_ads	pid_zamovlennya				505295			2026-12-05T09:00+0300	
 0302	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				4928				
 0303	c100			khvist				4714				
@@ -478,7 +478,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0472	c100				chempion	prybutok						
 0473	c100		Shopping_ads	deshevyi								
 0474	c080				chempion	prybutok						
-0475	c150				chempion							
+0475	c150				chempion	prybutok						
 0476	c020		Shopping_ads	season_off								
 0477	c060			season_off								
 0478	c120			season_off								
@@ -556,7 +556,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0552	c050	ads_zero	Shopping_ads									
 0553	c030			khvist								
 0554	c120		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
-0555	c080		Shopping_ads	deshevyi								
+0555	c060				chempion							
 0556	c150				chempion	prybutok						
 0557	c050			khvist								
 0558	c010		Shopping_ads	deshevyi								
@@ -603,7 +603,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0604	dup:Тиква		Shopping_ads	ne_v_nayavnosti								
 0605	c010				chempion	cina						
 0606	c060		Shopping_ads	deshevyi								
-0607	c150		Shopping_ads	cina_vid_4000								
+0607	c150		Shopping_ads	cina_vid_4000		stop						
 0608	c100			cina_vid_4000								
 0609	c010		Shopping_ads	deshevyi								
 0610	c010		Shopping_ads	deshevyi								
@@ -642,7 +642,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0644	c250			khvist				503740				
 0645	c250			khvist				503740				
 0646	c010		Shopping_ads	pid_zamovlennya							2026-12-05T09:00+0300	
-0647	c010				chempion	prybutok						
+0647	c010											
 0648	c010		Shopping_ads	deshevyi								
 0649	c010	ads_zero	Shopping_ads	deshevyi								
 0650	c010				chempion	stop						
@@ -805,7 +805,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 0823	c060		Shopping_ads	deshevyi								
 0825	c030		Shopping_ads	ne_v_rynku								
 0826	c020		Shopping_ads	ne_v_rynku								
-0827	c080			season_off	chempion	prybutok						
+0827	c080			season_off	chempion							
 0828	c200			season_off								
 0829	c080			season_off								
 0830	c080			season_off								
@@ -969,9 +969,9 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 10-002	c040		Shopping_ads	deshevyi								
 10-004	c050		Shopping_ads	deshevyi								
 10-006	c060		Shopping_ads	deshevyi								
-100-088	c010		Shopping_ads	ne_v_rynku								
+100-088	c030											
 100-093	c030		Shopping_ads	ne_v_rynku								
-100-102	c010		Shopping_ads	ne_v_rynku		cina						
+100-102	c010		Shopping_ads	ne_v_rynku								
 100-184	c030		Shopping_ads	deshevyi								
 100-187	c030			khvist								
 100-219	c040		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
@@ -1232,7 +1232,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 119022	c020	ads_zero	Shopping_ads	deshevyi								
 119031	c080		Shopping_ads	deshevyi								
 119032	c040		Shopping_ads	ne_v_rynku								
-119093	m0_norm		Shopping_ads	ne_v_nayavnosti								
+119093	m0_new		Shopping_ads	ne_v_nayavnosti								
 119094	c060				chempion	prybutok						
 119098	c080		Shopping_ads	deshevyi								
 1191	c010		Shopping_ads	season_off								
@@ -1600,7 +1600,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1541	c010		Shopping_ads	season_off								
 1542	c010		Shopping_ads	ne_v_nayavnosti								
 1543	c010		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
-1543401837	m0_norm		Shopping_ads	ne_v_nayavnosti								
+1543401837	m0_new		Shopping_ads	ne_v_nayavnosti								
 1544	c010		Shopping_ads	season_off								
 1545	c010		Shopping_ads	ne_v_nayavnosti								
 1546	c010		Shopping_ads	season_off								
@@ -2097,7 +2097,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2020	c020		Shopping_ads	season_off								
 2021	c030		Shopping_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 2022	c010		Shopping_ads	season_off								
-2023	c010		Shopping_ads	season_off								
+2023	c010			season_off	chempion							
 2024	c010			season_off	chempion							
 2025	c010			season_off	chempion							
 2026	m5_new		Shopping_ads	ne_v_nayavnosti								
@@ -2505,11 +2505,11 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2510	c040				chempion	prybutok						
 2511	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 2511654018	c050		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
-2511798202	c060				chempion	prybutok						
+2511798202	c060		Shopping_ads	deshevyi								
 2512	c020				chempion	prybutok						
 2513	c150				konv_google							
 2514	c040			khvist								
-2515	c040											
+2515	c020				chempion	prybutok						
 2516	c060			khvist								
 2517	c040			khvist								
 2518	c040			khvist								
@@ -2633,7 +2633,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2609048795	c030			khvist								
 2609052517	c030			khvist								
 2609053451	c030			khvist								
-2609056889	c030				chempion	prybutok						
+2609056889	c030				chempion							
 2609063024	c030			khvist								
 2609078839	c030			khvist								
 2609081676	c030			khvist								
@@ -2899,7 +2899,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2985	c040			season_off								
 2986	c150			season_off								
 2987	c150			season_off								
-2988	c400				chempion	prybutok						
+2988	c300				chempion	prybutok						
 2989	c120		Shopping_ads	season_off								
 2990	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 2991	c040				chempion	prybutok						
@@ -2917,13 +2917,13 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 3-016-002	c010		Shopping_ads	deshevyi								
 3-018-001	c010		Shopping_ads	deshevyi								
 3-020-001	c010		Shopping_ads	deshevyi								
-3-020-002	c010				chempion	stop						
+3-020-002	c010				chempion	cina						
 3-022-001	dup:Едім				chempion	prybutok						
 3-022-002	c010		Shopping_ads	deshevyi								
 3-070-003	c060		Shopping_ads,Display_ads	ne_v_prajsi								
 3-071-002	c040		Shopping_ads,Display_ads	ne_v_prajsi								
 3-072-004	c030			khvist								
-30-010	c020			khvist		cina						
+30-010	c020					cina						
 30-012	c020		Shopping_ads	deshevyi								
 3000	c250			season_off								
 3001	c250			season_off								
@@ -2952,7 +2952,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 3035	c400		Shopping_ads	vytraty_stelya	chempion	prybutok		6474				
 3047	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 3060	c250	test0			chempion						2026-12-05T09:00+0300	
-3068	c020				chempion							
+3068	c020											
 31-006	c020		Shopping_ads,Display_ads	ne_v_prajsi								
 3100	c080		Shopping_ads	deshevyi								
 3101	c100			khvist								
@@ -3000,7 +3000,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482018306	c080		Shopping_ads	season_off								
 482018307	c080		Shopping_ads	deshevyi								
 482018596	c300			season_off	chempion	prybutok						
-482018601	c100				chempion						2026-12-05T09:00+0300	
+482018601	c100				chempion	prybutok					2026-12-05T09:00+0300	
 482018604	m4_new		Shopping_ads	ne_v_nayavnosti								
 482018606	c020		Shopping_ads	deshevyi								
 482018610	c150	sklad		khvist				6336				
@@ -3195,7 +3195,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482027310	c300			season_off	chempion	prybutok						
 482027311	c200				chempion	stop						
 482027312	c150		Shopping_ads	vytraty_stelya	chempion	prybutok						
-482027313	c080				chempion	cina						
+482027313	c080				chempion	stop						
 482027314	c300				chempion	prybutok						
 482027315	c400			khvist								
 482027316	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -3244,7 +3244,7 @@ ARHB3112BT	c150		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00
 ARHC2510SB	c200			khvist								
 ART0215SB	c150		Shopping_ads	vytraty_stelya	chempion	prybutok						
 ART0729PB	c150			khvist								
-AV18BSR	m2_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		cina						
+AV18BSR	m2_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 BB-20405	c030	ads_zero	Shopping_ads									
 BB-25512	c050		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 BB-261710	c040		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
@@ -3559,8 +3559,8 @@ PLX-0710-Б	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti
 PLX-0760-Б	c200		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 PLX-08-001	c030		Shopping_ads	deshevyi						08-001		
 PLX-08-002	c040		Shopping_ads	deshevyi						08-002		
-PLX-08-003	c010		Shopping_ads	deshevyi						08-003		
-PLX-08-004	c050		Shopping_ads	deshevyi						08-004		
+PLX-08-003	c020				chempion	prybutok				08-003		
+PLX-08-004	c050				chempion					08-004		
 PLX-08-005	c040		Shopping_ads	deshevyi						08-005		
 PLX-08-006	c040		Shopping_ads	deshevyi						08-006		
 PLX-08-007	c050		Shopping_ads	deshevyi						08-007		
@@ -3684,7 +3684,7 @@ PLX-10-111	dup:Едім				chempion	prybutok
 PLX-10-112	c020	ads_zero	Shopping_ads									
 PLX-10-113	c020				chempion	prybutok						
 PLX-10-114	c030			khvist								
-PLX-10-115	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
+PLX-10-115	m5_norm		Shopping_ads	ne_v_nayavnosti								
 PLX-10-116	c010		Shopping_ads	deshevyi								
 PLX-10-117	c010		Shopping_ads	deshevyi								
 PLX-10-118	c010		Shopping_ads	deshevyi								
@@ -3696,7 +3696,7 @@ PLX-10-15-001-PB	c120		Shopping_ads	deshevyi
 PLX-10-15-002-PC	c120		Shopping_ads	deshevyi								
 PLX-10-15-003-AB	c120		Shopping_ads	deshevyi								
 PLX-10-15-004-SN	c120		Shopping_ads	deshevyi								
-PLX-10-15-006-ORB(SB)	c120											
+PLX-10-15-006-ORB(SB)	c150				chempion	prybutok						
 PLX-10-15a-005-GRAFIT	c120		Shopping_ads	deshevyi								
 PLX-10-15a-006-ORB (SB)	c120		Shopping_ads	deshevyi								
 PLX-10-15а-004-AB	c120		Shopping_ads	deshevyi								
@@ -3752,7 +3752,7 @@ PLX-10-44-002	c040			khvist
 PLX-10-45	c040		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 PLX-10-45-001	c020			khvist								
 PLX-10-46	c030			khvist								
-PLX-10-50	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
+PLX-10-50	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 PLX-10-51	c030			khvist								
 PLX-10-52	c040		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-10-54-001-PB	c150			khvist								
@@ -3791,7 +3791,7 @@ PLX-10-697	c010		Shopping_ads	deshevyi
 PLX-100-004	dup:Едім				chempion	prybutok				100-004		
 PLX-100-005	c020		Shopping_ads	deshevyi						100-005		
 PLX-100-005с	c010		Shopping_ads	deshevyi								
-PLX-100-006	c010									100-006		
+PLX-100-006	c010				chempion	prybutok				100-006		
 PLX-100-007	c020		Shopping_ads	deshevyi						100-007		
 PLX-100-008	c020		Shopping_ads	deshevyi						100-008		
 PLX-100-008с	c010		Shopping_ads	deshevyi								
@@ -3890,7 +3890,7 @@ PLX-100-3044	c020	test0		khvist
 PLX-100-396	c030			khvist								
 PLX-100-398	c010		Shopping_ads	ne_v_rynku						100-398		
 PLX-100-428	c010		Shopping_ads	deshevyi						100-428		
-PLX-100-429	c020		Shopping_ads	deshevyi						100-429		
+PLX-100-429	c020				chempion					100-429		
 PLX-100-430	c010		Shopping_ads	deshevyi						100-430		
 PLX-100-431	c020		Shopping_ads	ne_v_prajsi								
 PLX-100-433	c010		Shopping_ads	deshevyi						100-433		
@@ -3962,7 +3962,7 @@ PLX-101-043	c010		Shopping_ads	deshevyi						101-043
 PLX-101-044	c010				chempion	prybutok				101-044		
 PLX-101-045	c030		Shopping_ads	deshevyi						101-045		
 PLX-101-046	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok				101-046		
-PLX-101-047	c010		Shopping_ads	ne_v_rynku						101-047		
+PLX-101-047	c020									101-047		
 PLX-101-050	c010		Shopping_ads	ne_v_rynku						101-050		
 PLX-101-051	c030		Shopping_ads	deshevyi						101-051		
 PLX-101-052	c010		Shopping_ads	ne_v_rynku						101-052		
@@ -3978,7 +3978,7 @@ PLX-101-077	c010		Shopping_ads	deshevyi						101-077
 PLX-101-078	c010		Shopping_ads	deshevyi						101-078		
 PLX-101-079	c010		Shopping_ads	ne_v_prajsi						101-079		
 PLX-101-080	c010			khvist						101-080		
-PLX-101-081	c020				chempion	prybutok				101-081		
+PLX-101-081	c010		Shopping_ads	ne_v_rynku						101-081		
 PLX-101-082	c030		Shopping_ads	deshevyi						101-082		
 PLX-101-084	c010		Shopping_ads	ne_v_rynku						101-084		
 PLX-101-085	c010		Shopping_ads	deshevyi						101-085		
@@ -4300,7 +4300,7 @@ PLX-1115600	c020		Shopping_ads	deshevyi
 PLX-1115800	c020		Shopping_ads	deshevyi								
 PLX-11196	c060		Shopping_ads	deshevyi								
 PLX-113-230	c010		Shopping_ads	deshevyi								
-PLX-113-330	c010				chempion							
+PLX-113-330	c010				chempion	prybutok						
 PLX-11348	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-116461	c040	ads_zero	Shopping_ads	deshevyi								
 PLX-117232	c100		Shopping_ads	deshevyi								
@@ -4352,7 +4352,7 @@ PLX-12-949	dup:Едім		Shopping_ads	ne_v_nayavnosti
 PLX-12-950	c030		Shopping_ads	deshevyi								
 PLX-12-951	c020		Shopping_ads	deshevyi								
 PLX-12-952	c040	test0		khvist								
-PLX-120	c020		Shopping_ads	ne_v_prajsi								
+PLX-120	c020		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-120-020	c010		Shopping_ads	deshevyi								
 PLX-120-025	c010		Shopping_ads	deshevyi								
 PLX-120-028	c010		Shopping_ads	deshevyi								
@@ -4374,7 +4374,7 @@ PLX-120-090	c010			khvist
 PLX-120-110	c020			khvist								
 PLX-120-139	c020	test0		khvist								
 PLX-12000	c020	test0		khvist								
-PLX-12001	c010				chempion	prybutok						
+PLX-12001	c020				chempion	prybutok						
 PLX-122-130	c010	ads_zero	Shopping_ads									
 PLX-122-131	c020		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 PLX-122-190	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -4463,14 +4463,14 @@ PLX-148925	c060		Shopping_ads	pid_zamovlennya							2026-12-05T09:00+0300
 PLX-149190	c080		Shopping_ads	deshevyi								
 PLX-149191	c100		Shopping_ads	deshevyi								
 PLX-149199	c120		Shopping_ads	deshevyi								
-PLX-15-001	c010		Shopping_ads	ne_v_prajsi								
-PLX-15-002	c010		Shopping_ads	deshevyi								
+PLX-15-001	c010		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-15-002	c010				chempion							
 PLX-15-003	c010		Shopping_ads	deshevyi						15-003		
 PLX-15-004	c010		Shopping_ads	deshevyi						15-004		
 PLX-15-01-001	c200	test0		khvist								
 PLX-15-01-002	c200	test0		khvist								
 PLX-15-01-004	c200		Shopping_ads,Display_ads	ne_v_prajsi								
-PLX-15-01-005	c150		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
+PLX-15-01-005	c150		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-15-01-007	c200	test0		khvist								
 PLX-15-015	c010		Shopping_ads	ne_v_rynku						15-015		
 PLX-15-02-001	c200				chempion	prybutok						
@@ -4594,14 +4594,14 @@ PLX-15-228-001	c100	test0		khvist
 PLX-15-229-001	c100	test0		khvist								
 PLX-15-240-001	c100			khvist								
 PLX-15-241-001	c100			khvist								
-PLX-15-25-001	c030	sklad										
+PLX-15-25-001	c030	sklad			chempion	prybutok						
 PLX-15-25-002	c030			khvist								
 PLX-15-25-006	c030			khvist								
 PLX-15-25-007	c030				chempion	prybutok						
 PLX-15-25-011	c030				chempion	prybutok						
 PLX-15-27-007	c100	test0		khvist								
 PLX-15-27-008	c100	test0		khvist								
-PLX-15-27-009	c100	test0		khvist								
+PLX-15-27-009	c100	test0			chempion							
 PLX-15-27-017	c100	test0		khvist								
 PLX-15-30-001	c200			khvist								
 PLX-15-30-002	c150		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
@@ -4683,7 +4683,7 @@ PLX-159558	c030	sklad		khvist
 PLX-16-001	c020		Shopping_ads	deshevyi						16-001		
 PLX-16-002	c020		Shopping_ads	deshevyi						16-002		
 PLX-16-003	c010		Shopping_ads	deshevyi						16-003		
-PLX-16-004	c010				chempion					16-004		
+PLX-16-004	c010		Shopping_ads	deshevyi						16-004		
 PLX-16-005	c010		Shopping_ads	deshevyi						16-005		
 PLX-16-006	c010		Shopping_ads	deshevyi						16-006		
 PLX-16-007	c020		Shopping_ads	deshevyi						16-007		
@@ -4732,7 +4732,7 @@ PLX-17-002	c020		Shopping_ads	deshevyi						17-002
 PLX-17-003	c010		Shopping_ads	deshevyi						17-003		
 PLX-17-004	c010		Shopping_ads	deshevyi						17-004		
 PLX-17-005	c010		Shopping_ads	deshevyi						17-005		
-PLX-17-006	c010									17-006		
+PLX-17-006	c010				chempion	prybutok				17-006		
 PLX-17-007	c010		Shopping_ads	deshevyi						17-007		
 PLX-17-008	c010		Shopping_ads	deshevyi						17-008		
 PLX-17-019	c010		Shopping_ads	ne_v_rynku						17-019		
@@ -4742,7 +4742,7 @@ PLX-17984	c060		Shopping_ads	pid_zamovlennya							2026-12-05T09:00+0300
 PLX-17996	c060		Shopping_ads	deshevyi								
 PLX-18-001	c010		Shopping_ads	ne_v_rynku						18-001		
 PLX-18-002	c010		Shopping_ads	ne_v_rynku						18-002		
-PLX-18-003	c020				chempion					18-003		
+PLX-18-003	c020		Shopping_ads	deshevyi						18-003		
 PLX-18-004	c020		Shopping_ads	deshevyi						18-004		
 PLX-18-005	c010		Shopping_ads	deshevyi						18-005		
 PLX-18-006	c010		Shopping_ads	deshevyi						18-006		
@@ -5170,7 +5170,7 @@ PLX-27966	c040			khvist
 PLX-27967	c020		Shopping_ads	ne_v_rynku								
 PLX-27968	c040			khvist								
 PLX-27969	c050			khvist								
-PLX-27970	c050				chempion	prybutok						
+PLX-27970	c050			khvist								
 PLX-27971	c040			khvist								
 PLX-28-001	c010		Shopping_ads	deshevyi						28-001		
 PLX-28-002	c020		Shopping_ads	deshevyi								
@@ -5201,7 +5201,7 @@ PLX-3-003-001	c020			khvist
 PLX-3-003-002	c020			khvist								
 PLX-3-004-001	c020		Shopping_ads	deshevyi								
 PLX-3-004-002	c010		Shopping_ads	deshevyi								
-PLX-3-005	c010		Shopping_ads,Display_ads	ne_v_prajsi		stop						
+PLX-3-005	c010		Shopping_ads,Display_ads	ne_v_prajsi		prybutok						
 PLX-3-006	c010		Shopping_ads	deshevyi								
 PLX-3-007-001	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-3-008-001	c050		Shopping_ads	deshevyi								
@@ -5265,7 +5265,7 @@ PLX-300-912	c010		Shopping_ads	deshevyi
 PLX-300/10	c030		Shopping_ads	deshevyi								
 PLX-300/6	c030		Shopping_ads	deshevyi								
 PLX-300/8	c030		Shopping_ads	deshevyi								
-PLX-300000	c020				chempion							
+PLX-300000	c020		Shopping_ads	deshevyi								
 PLX-30033	c030		Shopping_ads	ne_v_rynku								
 PLX-30063	c050		Shopping_ads	ne_v_rynku								
 PLX-30065	c150			khvist								
@@ -5279,7 +5279,7 @@ PLX-30176	c080		Shopping_ads	deshevyi
 PLX-30196	c150		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 PLX-30197	c100			khvist								
 PLX-3036	c080	test0		khvist								
-PLX-3037	c150				konv_google							
+PLX-3037	c150				chempion	prybutok						
 PLX-3039	c040		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 PLX-3040	c030			khvist								
 PLX-3041	c040				chempion						2026-12-05T09:00+0300	
@@ -5692,7 +5692,7 @@ PLX-352	c120	test0		khvist
 PLX-352022	c040		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-353	c120	test0		khvist								
 PLX-354	c150			khvist								
-PLX-354022	c010				chempion	prybutok						
+PLX-354022	c010				chempion	cina						
 PLX-35452	c100	test0		khvist								
 PLX-355	c020		Shopping_ads	deshevyi								
 PLX-355000	c040			khvist								
@@ -6351,8 +6351,8 @@ PLX-530	c200			khvist
 PLX-5301-6130	c010		Shopping_ads	deshevyi								
 PLX-5301-650	c010		Shopping_ads	deshevyi								
 PLX-5301-690	c010		Shopping_ads	deshevyi								
-PLX-5301-8160	c020				chempion							
-PLX-5301-8230	c010		Shopping_ads	deshevyi								
+PLX-5301-8160	c020				chempion	prybutok						
+PLX-5301-8230	c010				chempion							
 PLX-531	c200		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-532	c200	sklad		khvist								
 PLX-533	c200		Shopping_ads,Display_ads	ne_v_prajsi								
@@ -8795,7 +8795,7 @@ PLX-НФ-00002336	c010		Shopping_ads	deshevyi
 PLX-НФ-00002337	c010		Shopping_ads	deshevyi								
 PLX-НФ-00002338	c010		Shopping_ads	deshevyi								
 PLX-НФ-00002339	c010		Shopping_ads	deshevyi								
-PLX-НФ-00002344	c010				chempion							
+PLX-НФ-00002344	c010				chempion	prybutok						
 PLX-НФ-00002350	c010		Shopping_ads	deshevyi								
 PLX-НФ-00002396	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00002397	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -9075,7 +9075,7 @@ PLX-НФ-00003211	c040		Shopping_ads,Display_ads	ne_v_prajsi
 PLX-НФ-00003212	c040		Shopping_ads,Display_ads	ne_v_prajsi								
 PLX-НФ-00003213	c040	test0		khvist								
 PLX-НФ-00003214	c050	test0		khvist								
-PLX-НФ-00003216	c040	test0		khvist								
+PLX-НФ-00003216	c040	test0			chempion							
 PLX-НФ-00003235	c030	test0		khvist								
 PLX-НФ-00003236	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 PLX-НФ-00003237	c030	test0		khvist								
@@ -9370,7 +9370,7 @@ PLX-СК-07-32	c060		Shopping_ads	deshevyi
 PLX-СК-07-33	c060		Shopping_ads	deshevyi								
 PLX-СК-07-34	c060		Shopping_ads	deshevyi								
 PLX-СК-07-35	c060		Shopping_ads	deshevyi								
-PLX-СК-07-37	c010				chempion	cina						
+PLX-СК-07-37	c010				chempion	prybutok						
 PLX-СК-07-38	c010		Shopping_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 PLX-СК-07-41	c050		Shopping_ads	deshevyi								
 PLX-СК-07-42	c050		Shopping_ads	deshevyi								
@@ -10826,7 +10826,7 @@ amt-251246	c060		Shopping_ads,Display_ads	drop_marzha						251246
 amt-251247	c080		Shopping_ads,Display_ads	drop_t8						251247		
 amt-251248	c040		Shopping_ads,Display_ads	drop_marzha						251248		
 amt-251249	c040		Shopping_ads,Display_ads	drop_t8						251249		
-amt-251250	c030		Shopping_ads,Display_ads	drop_t8						251250		
+amt-251250	c030		Shopping_ads,Display_ads	drop_marzha						251250		
 amt-251251	c040		Shopping_ads,Display_ads	drop_t8						251251		
 amt-251252	c040		Shopping_ads,Display_ads	drop_t8						251252		
 amt-251253	c040		Shopping_ads,Display_ads	drop_t8						251253		
@@ -11758,7 +11758,7 @@ hx-47175	c020		Shopping_ads	ne_v_rynku
 hx-47176	c020		Shopping_ads	ne_v_rynku								
 hx-47178	c020		Shopping_ads	ne_v_rynku								
 hx-47179	c020		Shopping_ads	ne_v_rynku								
-hx-47180	c050			khvist								
+hx-47180	c030				chempion							
 hx-47181	c030		Shopping_ads	ne_v_rynku								
 hx-47182	c030		Shopping_ads	ne_v_rynku								
 hx-47183	c030		Shopping_ads	ne_v_rynku								
@@ -13136,7 +13136,7 @@ kk-0001	c100			khvist
 kk-0002	c200			khvist								
 kk-0003	c150				rozvidka							
 kk-0004	c100				chempion	prybutok						
-kk-0005	c200			khvist								
+kk-0005	c200											
 kk-0006	c100			khvist								
 kk-0007	c300				konv_google							
 kk-0008	c100				chempion	prybutok						
@@ -13153,7 +13153,7 @@ kk-0018	c080			khvist
 kk-0019	c100			khvist								
 kk-0020	c150			khvist								
 kk-0021	c100	ads_zero	Shopping_ads									
-kk-0022	c200			khvist								
+kk-0022	c200											
 kk-0023	c100	ads_zero	Shopping_ads									
 kk-0024	c150			khvist								
 kk-0025	c120	ads_zero	Shopping_ads									
@@ -13253,7 +13253,7 @@ km-47675	c020		Shopping_ads	deshevyi
 km-47676	c020		Shopping_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 km-47681	c020		Shopping_ads	ne_v_rynku								
 km-47682	c020		Shopping_ads	deshevyi								
-km-47685	c010		Shopping_ads	ne_v_rynku								
+km-47685	c020				chempion							
 km-47686	c010		Shopping_ads	ne_v_rynku								
 km-47687	c020				chempion	prybutok						
 km-47688	c020				chempion	prybutok						
@@ -13279,9 +13279,9 @@ km-47714	c050		Shopping_ads	pid_zamovlennya							2026-12-05T09:00+0300
 km-47716	c030		Shopping_ads	ne_v_rynku								
 km-47725	c020		Shopping_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 km-47726	c010		Shopping_ads	ne_v_rynku								
-km-47727	c010		Shopping_ads	ne_v_rynku					4820185490238			
+km-47727	c010		Shopping_ads	ne_v_rynku								
 km-47728	c020		Shopping_ads	pid_zamovlennya							2026-12-05T09:00+0300	
-km-47729	c010		Shopping_ads	ne_v_rynku								
+km-47729	c010		Shopping_ads	ne_v_rynku					4820185490221			
 km-47730	c020		Shopping_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 km-47731	c010		Shopping_ads	ne_v_rynku								
 km-47732	c020		Shopping_ads	pid_zamovlennya							2026-12-05T09:00+0300	
@@ -13406,7 +13406,7 @@ kv-34794DFF	c080		Shopping_ads,Display_ads	drop_bez_reklamy
 kv-38577236	c080	test0		khvist								
 kv-3FD8FD40	c200	test0		cina_vid_4000								
 kv-42939255	c100		Shopping_ads,Display_ads	drop_bez_reklamy								
-kv-43DF9036	m1_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
+kv-43DF9036	m1_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti								
 kv-4B5E363A	c080		Shopping_ads,Display_ads	drop_bez_reklamy								
 kv-4BB23D37	c300		Shopping_ads,Display_ads	drop_bez_reklamy		stop						
 kv-4ED2C263	c150			cina_vid_4000								
@@ -13442,7 +13442,7 @@ kv-FD31D21E	c120			khvist
 led-259	c500			cina_vid_4000				100				
 led-720	c500	sklad		khvist				106				
 led-810	c500	mykolai		khvist				104				
-led-pglf-blue	c500	mykolai			chempion	prybutok		100				
+led-pglf-blue	c500	mykolai		khvist				100				
 led-pglf-pink	c250	mykolai		khvist				100				
 led-t3	c1200	mykolai			chempion	prybutok		100				
 led-yj101	c500	mykolai			chempion	prybutok		107				
@@ -13983,7 +13983,7 @@ lg-CR-4-12	c050		Shopping_ads,Display_ads	drop_t8
 lg-CR-4-13	c080		Shopping_ads,Display_ads	drop_t8								
 lg-CR-4-15	c060		Shopping_ads,Display_ads	drop_t8								
 lg-CR-4-16	c050		Shopping_ads,Display_ads	drop_t8								
-lg-CR-4-3	c050		Shopping_ads,Display_ads	drop_t8								
+lg-CR-4-3	c050		Shopping_ads,Display_ads	drop_marzha								
 lg-CR-4-4	c060		Shopping_ads,Display_ads	drop_t8								
 lg-CR-4-5	c060		Shopping_ads,Display_ads	drop_t8								
 lg-CR-4-6	c040		Shopping_ads,Display_ads	drop_marzha								
@@ -18335,7 +18335,7 @@ sdm-0307	c030		Shopping_ads	season_off
 sdm-0308	c010		Shopping_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 sdm-0309	c010		Shopping_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 sdm-0310	c010		Shopping_ads	season_off								
-sdm-0311	c010		Shopping_ads	season_off								
+sdm-0311	c010			season_off								
 sdm-0312	c020	profnasinnya		pid_zamovlennya							2026-12-05T09:00+0300	
 sdm-0313	c020	profnasinnya		season_off								
 sdm-0314	m0_new		Shopping_ads	ne_v_nayavnosti								
@@ -27496,7 +27496,7 @@ vt-00-57	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				7113
 vt-00-58	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-00-59	c200	test0		khvist								
 vt-0013	c120			khvist								
-vt-01-056	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti					1070924745416			
+vt-01-056	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-0112	c120			khvist								
 vt-0116	c120			khvist								
 vt-011615-А	c200	test0		khvist								
@@ -27667,7 +27667,7 @@ vt-101311	c030		Shopping_ads	ne_v_rynku
 vt-101320	c060	ads_zero	Shopping_ads					3435				
 vt-101323	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				3435				
 vt-101329	c150		Shopping_ads,Display_ads	pid_zamovlennya				3435			2026-12-05T09:00+0300	
-vt-101332	c080	test0						4722				
+vt-101332	c120	test0			chempion	prybutok		4722				
 vt-101333	c080	test0		khvist				4722				
 vt-10145-3	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-102-357	c200				chempion							
@@ -27837,7 +27837,7 @@ vt-160202	c080		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-16036	m5_new		Shopping_ads	ne_v_nayavnosti								
 vt-16038	m5_new		Shopping_ads	ne_v_nayavnosti								
 vt-16041-44	c080	test0		khvist								
-vt-161285-805	c300		Shopping_ads,Display_ads	ne_v_nayavnosti					8699038086753		2026-12-05T09:00+0300	
+vt-161285-805	c300		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-161417-370	c120		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-162241-012	c250	test0		khvist								
 vt-162536	c120			khvist								
@@ -28010,10 +28010,10 @@ vt-20504	c120		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-20506	c120		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-20620	c200		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-2079-10	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-20881	c300		Shopping_ads,Display_ads	ne_v_nayavnosti					7895730213270		2026-12-05T09:00+0300	
+vt-20881	c300		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-20900	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-2091-16	m5_new		Shopping_ads	ne_v_nayavnosti								
-vt-20953	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti					7895730212242			
+vt-20953	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-21-04-244	m5_new		Shopping_ads	ne_v_nayavnosti								
 vt-21-272-051	c100			khvist								
 vt-21-279-077	c100			khvist				2169				
@@ -28047,7 +28047,7 @@ vt-212121-5	c120		Shopping_ads	ne_v_nayavnosti							2026-12-05T09:00+0300
 vt-21266	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-21266E	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 vt-2128	c100			khvist								
-vt-2177	c200		Shopping_ads,Display_ads	ne_v_nayavnosti					0883314620283		2026-12-05T09:00+0300	
+vt-2177	c200		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-2183-PL	c080		Shopping_ads	deshevyi					4823082540518			
 vt-220-25	c050	ads_zero	Shopping_ads									
 vt-2201	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -28082,10 +28082,10 @@ vt-23001 440	c120			khvist
 vt-23190-00	c150			khvist					4823082542468			
 vt-23194-00	c040		Shopping_ads	ne_v_nayavnosti					4823082543281			
 vt-23419/103	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-23498/013	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti					7891112229310			
+vt-23498/013	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-23498/032	c250		Shopping_ads	pid_zamovlennya					7891112253391		2026-12-05T09:00+0300	
 vt-23498/313	c120		Shopping_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
-vt-23498/612	c150		Shopping_ads	ne_v_nayavnosti					7891112229303		2026-12-05T09:00+0300	
+vt-23498/612	c150		Shopping_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-23498/613	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-23500/215	c200		Shopping_ads,Display_ads	pid_zamovlennya					7891112117358		2026-12-05T09:00+0300	
 vt-23511/213	c100		Shopping_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
@@ -28287,7 +28287,7 @@ vt-26-238-095	c060			khvist
 vt-26-238-096	c120				rozvidka							
 vt-26-238-098	c050			khvist								
 vt-26-238-099	c040				rozvidka							
-vt-26-238-100	c040			khvist								
+vt-26-238-100	c040				chempion	prybutok						
 vt-26-238-102	c050			khvist								
 vt-26-238-103	c150		Shopping_ads	vytraty_stelya	chempion	prybutok						
 vt-26-238-105	c150			khvist								
@@ -28696,7 +28696,7 @@ vt-43824	c150			khvist
 vt-43966	c030		Shopping_ads	ne_v_rynku					8693357052581			
 vt-440041	c060		Shopping_ads	ne_v_rynku								
 vt-440065	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-440069	c150		Shopping_ads	pid_zamovlennya					8693357196131		2026-12-05T09:00+0300	
+vt-440069	c150		Shopping_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 vt-440079/2	c120			khvist					8693357208742			
 vt-440080/2	c060	ads_zero	Shopping_ads	ne_v_rynku								
 vt-440099	c100		Shopping_ads	ne_v_rynku					8693357249172			
@@ -28705,7 +28705,7 @@ vt-440111-SL	c100		Shopping_ads	deshevyi
 vt-440176	c150			khvist					8693357418288			
 vt-440186	c250			khvist								
 vt-440211	c150			khvist								
-vt-440236	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357586154			
+vt-440236	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-440237	c080		Shopping_ads	ne_v_rynku					8693357394186			
 vt-440255	c200	test0		khvist								
 vt-440258	c300	test0		khvist					8693357457515			
@@ -28738,7 +28738,7 @@ vt-44188-12 ТЕХ	c300	test0		khvist
 vt-44238-2	c100	ads_zero	Shopping_ads						8693357091948			
 vt-44272	c120			khvist								
 vt-44273	c200	test0		khvist								
-vt-44307	c250		Shopping_ads,Display_ads	ne_v_nayavnosti					4606065039533		2026-12-05T09:00+0300	
+vt-44307	c250		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-44404-12	c300			khvist								
 vt-44411	c300		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 vt-44411-G4Y	c200			khvist								
@@ -28802,7 +28802,7 @@ vt-50092	c150		Shopping_ads	cina_vid_4000					5907706500924
 vt-50113	c200		Shopping_ads	cina_vid_4000					5907706501136			
 vt-50126	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-50127	c150		Shopping_ads	cina_vid_4000								
-vt-501306	c250		Shopping_ads,Display_ads	ne_v_nayavnosti					6953440501306		2026-12-05T09:00+0300	
+vt-501306	c250		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-50132	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-501351	c250		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-50138	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -29039,7 +29039,7 @@ vt-52820	c300	test0		khvist
 vt-52944	c200			khvist								
 vt-52952	c200			khvist								
 vt-52987	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-52988	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357215870			
+vt-52988	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-52998	c200			khvist								
 vt-5300001	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-530022	c150			khvist								
@@ -29095,7 +29095,7 @@ vt-55012	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-55022-1 ТЕХ	c200	test0		khvist								
 vt-55049	c120			khvist					8693357052550			
 vt-55129	c120			khvist					8693357598768			
-vt-55141	c150				chempion				8693357074552			
+vt-55141	c150				chempion	prybutok			8693357074552			
 vt-55201	c100	ads_zero	Shopping_ads									
 vt-55202	c080				chempion	prybutok			8693357339309			
 vt-55229	c150			khvist								
@@ -29104,7 +29104,7 @@ vt-55299	c100			khvist
 vt-553	c250		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-553 А-НАБІР	c200			khvist								
 vt-55332	c150			khvist					8693357467750			
-vt-55442	c150	test0			konv_google				8693357595026			
+vt-55442	c150	test0							8693357595026			
 vt-55452	c150			khvist					8693357593558			
 vt-55472	c100			khvist								
 vt-55531	c060			khvist								
@@ -29121,12 +29121,12 @@ vt-59001g	c060		Shopping_ads	ne_v_rynku
 vt-59004	c250		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-590046	c200			khvist					8693357600430			
 vt-59006g	c300			khvist								
-vt-59007	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok			8693357003521			
-vt-590076	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357609495			
+vt-59007	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357003521			
+vt-590076	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-59010	c120			khvist					8693357002876			
 vt-59013	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-59014	c250		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
-vt-59019	c300		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357192447		2026-12-05T09:00+0300	
+vt-59019	c300		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-59023	c250			khvist					8693357192485			
 vt-59024	c300		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357192508			
 vt-59024g	c300			khvist								
@@ -29142,14 +29142,14 @@ vt-5913805	c300			khvist
 vt-59204	c300		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-59314	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-59394	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-59514	c250				chempion	prybutok						
+vt-59514	c250			khvist								
 vt-59534#	c250			khvist								
 vt-59544	c250		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-59614	c250	test0			chempion	prybutok			8693357349384			
 vt-59854g	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-59864g	c200		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 vt-59874	c300			khvist								
-vt-59894	c200				chempion							
+vt-59894	c200			khvist								
 vt-59914	c120			khvist								
 vt-59974	c250		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-6024-19	c200				chempion	prybutok			4823082529254			
@@ -29212,7 +29212,7 @@ vt-7-581	c200		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0
 vt-7-851	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti				668				
 vt-701-13	c060		Shopping_ads	ne_v_rynku					4823082533091			
 vt-701-5	c150		Shopping_ads	deshevyi								
-vt-701-7	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
+vt-701-7	m5_norm		Shopping_ads	ne_v_nayavnosti								
 vt-7027-04	c150		Shopping_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-7027-05	c150		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-7028-01	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -29251,10 +29251,10 @@ vt-768-18 ГРАФІТ	c300		Shopping_ads,Display_ads	ne_v_nayavnosti							2026
 vt-768-18 ПЕРЛ	c300		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-77030	c080		Shopping_ads,Display_ads	ne_v_nayavnosti					6902959913117			
 vt-77031	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-77032	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti					6902959913179			
+vt-77032	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-77075	c150		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-77086	c080	test0		khvist					6904610220152			
-vt-77089	c120		Shopping_ads,Display_ads	ne_v_nayavnosti					6904610220183		2026-12-05T09:00+0300	
+vt-77089	c120		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-77090	c080			khvist					6902950022344			
 vt-77091	c050		Shopping_ads	ne_v_rynku					6902950022351			
 vt-77092	dup:Тиква		Shopping_ads	ne_v_nayavnosti					6902950022368			
@@ -29293,13 +29293,13 @@ vt-80028	c080		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0
 vt-80030	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-80030 S&T	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-80032	c200			khvist								
-vt-80034	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti					4823082543076			
+vt-80034	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-80056	c060		Shopping_ads	ne_v_rynku								
 vt-80113-1 ТЕХ	c250	test0		khvist								
 vt-80229	c300		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-80229-2	c300		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 vt-80229-SL	c150			khvist								
-vt-80230	c250		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357361300		2026-12-05T09:00+0300	
+vt-80230	c250		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-80350	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-80383	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-80383-SL	m3_new		Shopping_ads	ne_v_nayavnosti								
@@ -29434,13 +29434,13 @@ vt-9392	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-94-1200	c200			khvist					8200013590389			
 vt-94-1500	c200			khvist					8200013590396			
 vt-94-1800	c200			khvist					8200013590402			
-vt-94057	c060		Shopping_ads	deshevyi					4760155940571			
+vt-94057	c100				chempion				4760155940571			
 vt-94058	c200		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-94080	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-94082	c060		Shopping_ads	deshevyi					4760155940823			
 vt-94084	c150		Shopping_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-94087	c250		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
-vt-94088	c200				chempion	prybutok			4760155940885			
+vt-94088	c150			khvist					4760155940885			
 vt-94092	c300		Shopping_ads,Display_ads	pid_zamovlennya					4760155940922		2026-12-05T09:00+0300	
 vt-94216	c120		Shopping_ads	deshevyi					4760155942162			
 vt-94217	c080		Shopping_ads	deshevyi					4760155942179			
@@ -29477,7 +29477,7 @@ vt-96571	c030		Shopping_ads	ne_v_rynku
 vt-96761	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-96762	c120			khvist								
 vt-96763	c250			khvist								
-vt-96814	c100											
+vt-96814	c100				chempion	prybutok						
 vt-96818	m2_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-96874	c120			khvist								
 vt-96887	c150	test0		khvist					8693357508088			
@@ -29603,7 +29603,7 @@ vt-AR0910W	c080			khvist
 vt-AR0912BB	m2_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR0912WB	c150				chempion	prybutok						
 vt-AR0913BB	c040		Shopping_ads	ne_v_rynku								
-vt-AR0913SS	c120				chempion	prybutok						
+vt-AR0913SS	c120				chempion							
 vt-AR0913WB	c080				chempion	prybutok		3061				
 vt-AR0914GB	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR0914S	c040		Shopping_ads	ne_v_rynku								
@@ -29678,7 +29678,7 @@ vt-AR1250BSQ	c060				chempion	prybutok			0767637180160	AR1250BSQ
 vt-AR1260BRC	c040		Shopping_ads	ne_v_rynku					0767637180207	AR1260BRC		
 vt-AR1280BSQ	c080			khvist					0767637180177	AR1280BSQ		
 vt-AR1303BP	c040		Shopping_ads	ne_v_rynku								
-vt-AR1305SFM	c100				chempion	cina						
+vt-AR1305SFM	c100				chempion	stop						
 vt-AR1307GG	c150				chempion	prybutok			0767637187848	AR1307GG		
 vt-AR1307SF	c120			khvist								
 vt-AR1307SFM	c100			khvist								
@@ -29699,7 +29699,7 @@ vt-AR1370BH	c060		Shopping_ads	ne_v_rynku
 vt-AR1375BV	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR1375LP	c120			khvist								
 vt-AR1403BB	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				666				
-vt-AR1403DB	c200			khvist					0767637184953	AR1403DB		
+vt-AR1403DB	c200								0767637184953	AR1403DB		
 vt-AR1403GB	c150			khvist								
 vt-AR1403GR	c150				chempion	prybutok		666				
 vt-AR1403GRB	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok		666				
@@ -29961,7 +29961,7 @@ vt-AR2401BGB	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-AR2402BGB	c150		Shopping_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-AR2405BGB	c150			khvist					0767637182331	AR2405BGB		
 vt-AR2405SB	m3_new		Shopping_ads	ne_v_nayavnosti								
-vt-AR2406BG	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR2406BG	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2407BG	c300		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-AR2409BG	c400		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-AR2409BGB	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -30004,7 +30004,7 @@ vt-AR2625BA	c080	ads_zero	Shopping_ads
 vt-AR2625BAR	c080	ads_zero	Shopping_ads									
 vt-AR2625BH	c200			khvist								
 vt-AR2625BHA	c080			khvist								
-vt-AR2625BHL	c060				chempion	prybutok						
+vt-AR2625BHL	c060	ads_zero	Shopping_ads,Display_ads									
 vt-AR2625GA	c030		Shopping_ads	ne_v_rynku								
 vt-AR2625GG	c080			khvist								
 vt-AR2625GHA	c060	test0		khvist								
@@ -30050,7 +30050,7 @@ vt-AR2635BHN	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-AR2635BN	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2635BS	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2635BV	c060	ads_zero	Shopping_ads,Display_ads									
-vt-AR2635BWH	c060											
+vt-AR2635BWH	c060				chempion							
 vt-AR2635BWN	c060	ads_zero	Shopping_ads									
 vt-AR2635D	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2635MMS	c060	ads_zero	Shopping_ads									
@@ -30063,7 +30063,7 @@ vt-AR2639GW	c120	test0			rozvidka
 vt-AR2640B	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2640BGR	m2_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2640BHR	c060			khvist								
-vt-AR2640BT	c020		Shopping_ads	ne_v_rynku		cina						
+vt-AR2640BT	c050		Shopping_ads	vytraty_stelya	chempion	prybutok						
 vt-AR2640OL	c150		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-AR2640WH	c100			khvist								
 vt-AR2642BMR	c040		Shopping_ads	ne_v_rynku								
@@ -30075,7 +30075,7 @@ vt-AR2645BCH	c040		Shopping_ads	ne_v_rynku
 vt-AR2645BH	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2645BHN	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2645BWH	c120				chempion	prybutok						
-vt-AR2645BWN	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-AR2645BWN	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 vt-AR2645CG	c150		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-AR2645CML	c080			khvist								
 vt-AR2645DMM	c200		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
@@ -30095,7 +30095,7 @@ vt-AR2670WGS	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-AR2690GBL	c150	test0		khvist								
 vt-AR2690GGR	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2690GP	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-AR2914BGC	c150				konv_google	cina						
+vt-AR2914BGC	c150				chempion	prybutok						
 vt-AR2914GMC	c060		Shopping_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-AR2914GREY	c060		Shopping_ads	deshevyi								
 vt-AR2914MW	c120		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
@@ -30117,7 +30117,7 @@ vt-AR2916TG	c050		Shopping_ads	ne_v_rynku					0674012408446	AR2916TG
 vt-AR2916TW	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2918BB	c080			khvist								
 vt-AR2918BM	c120			khvist								
-vt-AR2919BGC	c060											
+vt-AR2919BGC	c100				chempion	prybutok						
 vt-AR2919GGC	c030		Shopping_ads	ne_v_rynku					0684079972385	AR2919GGC		
 vt-AR2919GREY	c030	ads_zero	Shopping_ads	ne_v_rynku								
 vt-AR2919LRG	c040		Shopping_ads	ne_v_rynku								
@@ -30140,7 +30140,7 @@ vt-AR2920AG	c080		Shopping_ads	deshevyi
 vt-AR2920AW	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-AR2920BB	c060		Shopping_ads	ne_v_rynku								
 vt-AR2920BC	c100			khvist								
-vt-AR2920BGC	c080											
+vt-AR2920BGC	c120				chempion	prybutok						
 vt-AR2920BM	c100			khvist								
 vt-AR2920BMC	c080		Shopping_ads	deshevyi								
 vt-AR2920GGC	c050		Shopping_ads	ne_v_rynku					0684079972392	AR2920GGC		
@@ -30168,7 +30168,7 @@ vt-AR2922LGC	c050		Shopping_ads	ne_v_rynku
 vt-AR2925WGP	c040		Shopping_ads	ne_v_rynku					0684079970787	AR2925WGP		
 vt-AR2926AB	c100			khvist								
 vt-AR2926BC	c100		Shopping_ads	deshevyi								
-vt-AR2926BGC	c080											
+vt-AR2926BGC	c120				chempion	prybutok						
 vt-AR2926BMC	c040		Shopping_ads	ne_v_rynku								
 vt-AR2926GGC	c050		Shopping_ads	ne_v_rynku					0684079972378	AR2926GGC		
 vt-AR2926GRC	c150		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
@@ -30656,7 +30656,7 @@ vt-B002-50	c120			khvist
 vt-B005-10	c300	ads_zero	Shopping_ads									
 vt-B005-12	m4_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti		stop						
 vt-B005-8	c250			khvist								
-vt-B006-10	c300			khvist								
+vt-B006-10	c300				chempion							
 vt-B006-12	c500				chempion	prybutok						
 vt-B006-8	c300				chempion	prybutok						
 vt-B010-18	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -30712,7 +30712,7 @@ vt-CLW-11-20	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-CLW-15	c120		Shopping_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-CLW-15 С 17,5	c120			khvist								
 vt-CLW-17-20	c120				chempion	prybutok						
-vt-CLW-17-24	c150				chempion	prybutok						
+vt-CLW-17-24	c150			khvist								
 vt-CLW-17-7	c120			khvist				3498				
 vt-CLW-17-8	c120		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-CLW-19-330	c080		Shopping_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
@@ -30724,7 +30724,7 @@ vt-CT1008А-DF3	c150			khvist
 vt-CT1008А-DS3	c150			khvist								
 vt-CT1008А-ТS3	c200			khvist								
 vt-CT108H-DF6	c200			khvist								
-vt-CT108H-DK6	c200			khvist								
+vt-CT108H-DK6	c200											
 vt-CT108H-DS6	c200	test0		khvist								
 vt-CT108H-ТS6	c120		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-CT115-DF6	c250	test0		khvist								
@@ -30832,8 +30832,8 @@ vt-EM-2515	c150		Shopping_ads	ne_v_nayavnosti							2026-12-05T09:00+0300
 vt-EM-2570	c150		Shopping_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-EM-3114	c120			khvist								
 vt-EM-3184	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti				666				
-vt-EM-3310	c120				chempion	prybutok						
-vt-EM-3343	c150	test0			chempion			3248				
+vt-EM-3310	c120	ads_zero	Shopping_ads									
+vt-EM-3343	c150	test0			chempion	prybutok		3248				
 vt-EM-3355	c300	test0		khvist								
 vt-EM-3366	m4_new		Shopping_ads	ne_v_nayavnosti				668				
 vt-EM-3367	c250		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
@@ -30993,7 +30993,7 @@ vt-KM-0552	c050		Shopping_ads	ne_v_rynku
 vt-KM-0553	c050		Shopping_ads	ne_v_rynku				1647				
 vt-KM-0560 IND	c050		Shopping_ads	ne_v_rynku				1647				
 vt-KM-0561 IND	c200	test0		khvist								
-vt-KM-0562 IND	c080			khvist				1647				
+vt-KM-0562 IND	c080							1647				
 vt-KM-0563	c060			khvist				659				
 vt-KM-0564	c080			khvist				659				
 vt-KM-0565 IND	c050		Shopping_ads	ne_v_rynku				1647				
@@ -31058,7 +31058,7 @@ vt-KM-0814	c100			khvist
 vt-KM-0815	c150			khvist								
 vt-KM-0816	c250	test0		khvist								
 vt-KM-0817	c060		Shopping_ads	ne_v_rynku								
-vt-KM-0818	c150				konv_google			4660				
+vt-KM-0818	c150				chempion	prybutok		4660				
 vt-KM-0822GR	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-KM-0827GR	c200			khvist								
 vt-KM-0830	c200				chempion	prybutok		4660				
@@ -31070,7 +31070,7 @@ vt-KM-0835	c250	test0		khvist				4660
 vt-KM-0836	c250	test0		khvist				4660				
 vt-KM-0837	c250	test0		khvist				4660				
 vt-KM-0838	c250	test0		khvist				4660				
-vt-KM-0839	c250	test0						4660				
+vt-KM-0839	c250	test0			chempion	prybutok		4660				
 vt-KM-0840	c300			khvist				4660				
 vt-KM-0852	c250			khvist								
 vt-KM-0854	c120			khvist				638				
@@ -31099,7 +31099,7 @@ vt-KM-10102	c120			khvist				3156
 vt-KM-10103	c300	test0		khvist				3156				
 vt-KM-1030	c250		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 vt-KM-1036	c250	test0			chempion	prybutok						
-vt-KM-1039A	c120	test0			chempion				5904734062417	KM-1039A		
+vt-KM-1039A	c120	test0			chempion	prybutok			5904734062417	KM-1039A		
 vt-KM-1039B	c120			khvist								
 vt-KM-1039C	c060		Shopping_ads	ne_v_rynku								
 vt-KM-1039D	c050		Shopping_ads	ne_v_rynku								
@@ -31226,7 +31226,7 @@ vt-KM-2118	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti				669
 vt-KM-2124	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-KM-2125	c080		Shopping_ads	ne_v_rynku								
 vt-KM-2126	c300	test0		khvist								
-vt-KM-2130	c250				chempion	prybutok		669				
+vt-KM-2130	c250		Shopping_ads	vytraty_stelya	chempion	prybutok		669				
 vt-KM-2130A	c120	ads_zero	Shopping_ads					669				
 vt-KM-2134	c300			khvist					5903148900032	KM-2134		
 vt-KM-2135	c300			khvist				669				
@@ -31560,7 +31560,7 @@ vt-KM-5181	c120		Shopping_ads	deshevyi				5251
 vt-KM-5182	m4_new		Shopping_ads	ne_v_nayavnosti				5251				
 vt-KM-5185	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-KM-5187	c120			khvist				666				
-vt-KM-5190	c200				konv_google			665				
+vt-KM-5190	c200							665				
 vt-KM-5191	c060		Shopping_ads	ne_v_rynku				665				
 vt-KM-5192	c060		Shopping_ads	ne_v_rynku				665				
 vt-KM-5193	m3_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti				665				
@@ -31589,7 +31589,7 @@ vt-KM-5261	c100		Shopping_ads	deshevyi
 vt-KM-5262	c150			khvist					5904734064527	KM-5262		
 vt-KM-5263	c150			khvist					5904734064534	KM-5263		
 vt-KM-5264	c200	test0		khvist								
-vt-KM-5265	c200				konv_google			666				
+vt-KM-5265	c200							666				
 vt-KM-5300	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-KM-5301	c080			khvist								
 vt-KM-5302	c150			khvist								
@@ -31705,7 +31705,7 @@ vt-KM-6304	c150			khvist
 vt-KM-6305	c060			khvist								
 vt-KM-6420	c300				chempion	prybutok		5103				
 vt-KM-6425	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				5103				
-vt-KM-6511	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok		3156				
+vt-KM-6511	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				3156				
 vt-KM-6514	c200	ads_zero	Shopping_ads					6749				
 vt-KM-6520	c150			khvist				643				
 vt-KM-6530	c500		Shopping_ads	cina_vid_4000				6749				
@@ -31839,9 +31839,9 @@ vt-KM-7754	c040		Shopping_ads	ne_v_rynku
 vt-KM-7758	c120			khvist								
 vt-KM-7759	c080		Shopping_ads	ne_v_rynku								
 vt-KM-7760	c050		Shopping_ads	ne_v_rynku								
-vt-KM-7761	c250		Shopping_ads	vytraty_stelya	konv_google			666				
+vt-KM-7761	c250		Shopping_ads	vytraty_stelya	chempion	prybutok		666				
 vt-KM-7762	c120		Shopping_ads	ne_v_rynku				666				
-vt-KM-7763	c200	ads_zero	Shopping_ads					666				
+vt-KM-7763	c200			khvist				666				
 vt-KM-7766	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-KM-7767	c100		Shopping_ads	ne_v_rynku								
 vt-KM-7770	m4_new		Shopping_ads	ne_v_nayavnosti								
@@ -31897,7 +31897,7 @@ vt-KM-9006	c060			khvist
 vt-KM-9007	c060	ads_zero	Shopping_ads									
 vt-KM-9008	c060	ads_zero	Shopping_ads									
 vt-KM-9009	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
-vt-KM-9010	c060											
+vt-KM-9010	c060				chempion	prybutok						
 vt-KM-9011	c120	ads_zero	Shopping_ads									
 vt-KM-9012	c060	ads_zero	Shopping_ads									
 vt-KM-9013	c060		Shopping_ads	pid_zamovlennya							2026-12-05T09:00+0300	
@@ -31957,7 +31957,7 @@ vt-KM-9184	c250			khvist				3498
 vt-KM-9185	c150			khvist				3498				
 vt-KM-9200	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti				3330				
 vt-KM-9201	c120		Shopping_ads	deshevyi				3330				
-vt-KM-9203	c040		Shopping_ads	ne_v_rynku				650				
+vt-KM-9203	c080		Shopping_ads	vytraty_stelya	chempion	prybutok		650				
 vt-KM-9204	c300				chempion	prybutok		650				
 vt-KM-9205	c120	ads_zero	Shopping_ads									
 vt-KM-9206	c100				chempion			650				
@@ -31967,7 +31967,7 @@ vt-KM-9209	m4_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok
 vt-KM-9210	c150		Shopping_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 vt-KM-9211	c100				chempion	prybutok						
 vt-KM-9212	c150				chempion	prybutok						
-vt-KM-9213	m3_hit		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-KM-9213	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-KM-9214	c100				chempion	prybutok						
 vt-KM-9215	c150				chempion	prybutok						
 vt-KM-9216	c300	ads_zero	Shopping_ads					650				
@@ -32326,7 +32326,7 @@ vt-ZF 3528 CR	c200			khvist
 vt-ZF 3528 PF	c200			khvist								
 vt-ZF 3529C- OP	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ZFA982 OP	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-ZFC038 LV	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
+vt-ZFC038 LV	m4_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ZFC045 CR 89863	c200		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-05T09:00+0300	
 vt-ZFC465 CR	c100		Shopping_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
 vt-ZFC465 OP	m3_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -32452,7 +32452,7 @@ vt-ФПТ- М	c120		Shopping_ads	deshevyi
 vt-ФПТ- С	c120		Shopping_ads	deshevyi								
 vt-ФСП-1	c150			khvist								
 vt-ФЧП-01	c100		Shopping_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
-vt-ЧБ-2	c120		Shopping_ads	ne_v_nayavnosti								
+vt-ЧБ-2	c120		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-ЧШ-8618	c150			season_off				3684				
 vt-ШДР 3,0/12/620 Преміум	c150			season_off				6554				
 vt-а55243	c100		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-05T09:00+0300	
