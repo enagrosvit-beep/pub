@@ -6,5 +6,5 @@
 | артикул Едіму | назва | сторінка | зараз (ціна / наявність) | очікувано після імпорту | Гарбуз |
 |---|---|---|---|---|---|
 | 01-45-003 | Ручка для металопластикових вікон CGZS036-CD | https://edimik.com.ua/ruchka-dlia-metaloplastykovykh-vikon-cgzs036-cd/ | 209 / є | 229 / немає | 2639817174 229.0 |
-| 100-153 | Стрічка серпянка Polax самоклеюча скловолоконна дл | https://edimik.com.ua/strichka-serpianka-polax-samokleiucha-sklovolokonna-dlia-stykiv-230-mm-kh-20-m/ | 219 / немає | 379 / є | 2400473061 379.0 |
-| 101-149 | Клейка ПВХ стрічка для теплоізоляції 45мм Х 30м сі | https://edimik.com.ua/kleika-pvkh-strichka-dlia-teploizoliatsii-45mm-kh-30m-sira/ | 179 / немає | 169 / є | 2430323483 169.0 |
+| 0097 | Обприскувач акумуляторний садовий Sinleader, 20 л | https://edimik.com.ua/obpryskuvach-akumuliatornyi-sadovyi-sinleader-20-l/ | 2839 / немає | 2839 / є | 0097 2839.0 |
+| 0463 | Шланг для обприскувача 100 м × 8,5 мм | https://edimik.com.ua/shlanh-dlia-obpryskuvacha-100-m-85-mm/ | 3179 / немає | 3179 / є | 0463 3179.0 |
