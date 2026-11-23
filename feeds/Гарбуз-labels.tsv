@@ -4804,7 +4804,7 @@ PLX-101705	c030		Shopping_ads	deshevyi
 PLX-101712	c030		Shopping_ads	deshevyi								
 PLX-101714	c050			khvist								
 PLX-101824	c030			khvist				503743				
-PLX-101829	c040		Shopping_ads,Display_ads	ne_v_nayavnosti				503743				
+PLX-101829	dup:Едім		Shopping_ads,Display_ads	ne_v_nayavnosti				503743				
 PLX-101830	c030		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-07T09:00+0300	
 PLX-101836	c030		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-07T09:00+0300	
 PLX-101844	c040		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-07T09:00+0300	
@@ -4970,7 +4970,7 @@ PLX-12-001	c060		Shopping_ads	deshevyi						12-001
 PLX-12-002	c050		Shopping_ads	deshevyi						12-002		
 PLX-12-003	c060		Shopping_ads	deshevyi						12-003		
 PLX-12-004	c080			khvist								
-PLX-12-083	c020		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-12-083	c020			khvist								
 PLX-12-085	m5_new		Shopping_ads	ne_v_nayavnosti								
 PLX-12-086	c010		Shopping_ads	pid_zamovlennya							2026-12-07T09:00+0300	
 PLX-12-108	c010		Shopping_ads	deshevyi								
@@ -6488,7 +6488,7 @@ PLX-37-122	c060		Shopping_ads	ne_v_rynku						37-122
 PLX-37-123	dup:Едім		Shopping_ads	ne_v_nayavnosti						37-123		
 PLX-37-124	dup:Едім		Shopping_ads	ne_v_nayavnosti						37-124		
 PLX-37-127	c120			khvist						37-127		
-PLX-37-128	c150			khvist								
+PLX-37-128	c150			khvist						37-128		
 PLX-37-129	c080		Shopping_ads	deshevyi								
 PLX-37-130	c080		Shopping_ads	deshevyi								
 PLX-37-131	c080		Shopping_ads	deshevyi								
@@ -8191,7 +8191,7 @@ PLX-WL9006	c060			khvist
 PLX-WL9010	c050	sklad			chempion	prybutok						
 PLX-WL9010m	c050			khvist								
 PLX-WR444100	c020		Shopping_ads	deshevyi								
-PLX-А-0258	c020		Shopping_ads	ne_v_prajsi								
+PLX-А-0258	c020		Shopping_ads	deshevyi								
 PLX-А-0564(чорне)	m5_new		Shopping_ads	ne_v_nayavnosti								
 PLX-А0000018351	c150				chempion	prybutok						
 PLX-А0000018404	c050		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-07T09:00+0300	
@@ -8453,11 +8453,11 @@ PLX-НФ-00000474	c080			khvist
 PLX-НФ-00000475	c120			khvist								
 PLX-НФ-00000478	c010		Shopping_ads	deshevyi								
 PLX-НФ-00000479	c010		Shopping_ads	deshevyi								
-PLX-НФ-00000480	c010		Shopping_ads	ne_v_prajsi								
+PLX-НФ-00000480	c010		Shopping_ads	deshevyi								
 PLX-НФ-00000481	dup:Едім		Shopping_ads	ne_v_nayavnosti								
 PLX-НФ-00000482	c010		Shopping_ads	deshevyi								
 PLX-НФ-00000483	c010		Shopping_ads	deshevyi								
-PLX-НФ-00000484	c010		Shopping_ads	ne_v_prajsi								
+PLX-НФ-00000484	c010		Shopping_ads	deshevyi								
 PLX-НФ-00000485	c010		Shopping_ads	deshevyi								
 PLX-НФ-00000486	c010		Shopping_ads	deshevyi								
 PLX-НФ-00000487	c010		Shopping_ads	deshevyi								
@@ -8543,7 +8543,7 @@ PLX-НФ-00000591	c020		Shopping_ads	deshevyi
 PLX-НФ-00000592	c020			khvist								
 PLX-НФ-00000593	c030			khvist								
 PLX-НФ-00000594	c030			khvist								
-PLX-НФ-00000595	c030		Shopping_ads,Display_ads	ne_v_prajsi								
+PLX-НФ-00000595	c030	test0		khvist								
 PLX-НФ-00000596	c040	test0		khvist								
 PLX-НФ-00000597	c030			khvist								
 PLX-НФ-00000598	c030			khvist								
@@ -11816,29 +11816,29 @@ hc-000320A	c010		Shopping_ads,Display_ads	drop_marzha						000320A
 hc-000408	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-004500	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-0182036L	m0_new		Shopping_ads,Display_ads	drop_marzha						0182036L		
-hc-018KB	c250		Shopping_ads,Display_ads	drop_t8						018KB		
-hc-018LGG	c250		Shopping_ads,Display_ads	drop_t8						018LGG		
-hc-020AKB	c250		Shopping_ads,Display_ads	drop_t8						020AKB		
+hc-018KB	c250		Shopping_ads,Display_ads	drop_marzha						018KB		
+hc-018LGG	c250		Shopping_ads,Display_ads	drop_marzha						018LGG		
+hc-020AKB	c250		Shopping_ads,Display_ads	drop_marzha						020AKB		
 hc-020ALGG	m0_new		Shopping_ads,Display_ads	drop_marzha						020ALGG		
 hc-020ASGHJ2	m0_new		Shopping_ads,Display_ads	drop_marzha						020ASGHJ2		
-hc-023-2W	c150		Shopping_ads,Display_ads	drop_t8		prybutok				023-2W		
+hc-023-2W	c150		Shopping_ads,Display_ads	drop_marzha		prybutok				023-2W		
 hc-036WLG	m0_new		Shopping_ads,Display_ads	drop_marzha						036WLG		
-hc-050GAH9L	c300		Shopping_ads,Display_ads	drop_t8					8595614900775			
-hc-050TAH9L	c300		Shopping_ads,Display_ads	drop_t8						050TAH9L		
-hc-060AH9L	c300		Shopping_ads,Display_ads	drop_t8						060AH9L		
+hc-050GAH9L	c300		Shopping_ads,Display_ads	drop_marzha					8595614900775			
+hc-050TAH9L	c300		Shopping_ads,Display_ads	drop_marzha						050TAH9L		
+hc-060AH9L	c300		Shopping_ads,Display_ads	drop_marzha						060AH9L		
 hc-420CC	c120		Shopping_ads,Display_ads	drop_marzha						420CC		
-hc-434DLA08	c250		Shopping_ads,Display_ads	drop_t8						434DLA08		
-hc-435HB2L	c250		Shopping_ads,Display_ads	drop_t8						435HB2L		
-hc-450153	c150		Shopping_ads,Display_ads	drop_t8						450153		
+hc-434DLA08	c250		Shopping_ads,Display_ads	drop_marzha						434DLA08		
+hc-435HB2L	c250		Shopping_ads,Display_ads	drop_marzha						435HB2L		
+hc-450153	c150		Shopping_ads,Display_ads	drop_marzha						450153		
 hc-493A	c200		Shopping_ads,Display_ads	drop_marzha						493A		
-hc-494ADN	c250		Shopping_ads,Display_ads	drop_t8						494ADN		
-hc-G02FHN	c250		Shopping_ads,Display_ads	drop_t8					8594061744758			
+hc-494ADN	c250		Shopping_ads,Display_ads	drop_marzha						494ADN		
+hc-G02FHN	c250		Shopping_ads,Display_ads	drop_marzha					8594061744758			
 hc-HECHT0000324	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT0000324		
 hc-HECHT000318	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT000650	c010		Shopping_ads,Display_ads	drop_t5						HECHT000650		
+hc-HECHT000650	c010		Shopping_ads,Display_ads	drop_marzha						HECHT000650		
 hc-HECHT000651	c010		Shopping_ads,Display_ads	drop_marzha						HECHT000651		
-hc-HECHT000670	c010		Shopping_ads,Display_ads	drop_t8						HECHT000670		
-hc-HECHT000671	c010		Shopping_ads,Display_ads	drop_t8						HECHT000671		
+hc-HECHT000670	c010		Shopping_ads,Display_ads	drop_marzha						HECHT000670		
+hc-HECHT000671	c010		Shopping_ads,Display_ads	drop_marzha						HECHT000671		
 hc-HECHT00144160	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT00144160		
 hc-HECHT005102	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT005103	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -11848,136 +11848,136 @@ hc-HECHT0052150	m0_new		Shopping_ads,Display_ads	drop_marzha
 hc-HECHT0052200	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT0052250	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT0052400	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT006060	c010		Shopping_ads,Display_ads	drop_t8						HECHT006060		
-hc-HECHT006070	c010		Shopping_ads,Display_ads	drop_t8						HECHT006070		
+hc-HECHT006060	c010		Shopping_ads,Display_ads	drop_marzha						HECHT006060		
+hc-HECHT006070	c010		Shopping_ads,Display_ads	drop_marzha						HECHT006070		
 hc-HECHT02002	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT02063	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT02063		
 hc-HECHT02096	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT02677	c020		Shopping_ads,Display_ads	drop_marzha						HECHT02677		
 hc-HECHT06018	c010		Shopping_ads,Display_ads	drop_marzha						HECHT06018		
-hc-HECHT06023	c250		Shopping_ads,Display_ads	drop_t8						HECHT06023		
-hc-HECHT07060	c030		Shopping_ads,Display_ads	drop_t8						HECHT07060		
+hc-HECHT06023	c250		Shopping_ads,Display_ads	drop_marzha						HECHT06023		
+hc-HECHT07060	c030		Shopping_ads,Display_ads	drop_marzha						HECHT07060		
 hc-HECHT08024C	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT08028C	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT08029C	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT08601	c010		Shopping_ads,Display_ads	drop_marzha						HECHT08601		
-hc-HECHT08702	c020		Shopping_ads,Display_ads	drop_t8						HECHT08702		
-hc-HECHT1000R	c100		Shopping_ads,Display_ads	drop_t8						HECHT1000R		
+hc-HECHT08702	c020		Shopping_ads,Display_ads	drop_marzha						HECHT08702		
+hc-HECHT1000R	c100		Shopping_ads,Display_ads	drop_marzha						HECHT1000R		
 hc-HECHT1010	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT120153	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT121153	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT1233	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT1233		
 hc-HECHT130153	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT1352	c030		Shopping_ads,Display_ads	drop_t8						HECHT1352		
-hc-HECHT1384	c030		Shopping_ads,Display_ads	drop_t8						HECHT1384		
-hc-HECHT14202IN1	c020		Shopping_ads,Display_ads	drop_t8						HECHT14202IN1		
-hc-HECHT1434	c020		Shopping_ads,Display_ads	drop_t8						HECHT1434		
-hc-HECHT1445	c020		Shopping_ads,Display_ads	drop_t8						HECHT1445		
+hc-HECHT1352	c030		Shopping_ads,Display_ads	drop_marzha						HECHT1352		
+hc-HECHT1384	c030		Shopping_ads,Display_ads	drop_marzha						HECHT1384		
+hc-HECHT14202IN1	c020		Shopping_ads,Display_ads	drop_marzha						HECHT14202IN1		
+hc-HECHT1434	c020		Shopping_ads,Display_ads	drop_marzha						HECHT1434		
+hc-HECHT1445	c020		Shopping_ads,Display_ads	drop_marzha						HECHT1445		
 hc-HECHT150153	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT1638R	c020		Shopping_ads,Display_ads	drop_t8						HECHT1638R		
-hc-HECHT1640	c030		Shopping_ads,Display_ads	drop_t8						HECHT1640		
-hc-HECHT1641	c030		Shopping_ads,Display_ads	drop_t8						HECHT1641		
-hc-HECHT16832IN1	c020		Shopping_ads,Display_ads	drop_t8						HECHT16832IN1		
+hc-HECHT1638R	c020		Shopping_ads,Display_ads	drop_marzha						HECHT1638R		
+hc-HECHT1640	c030		Shopping_ads,Display_ads	drop_marzha						HECHT1640		
+hc-HECHT1641	c030		Shopping_ads,Display_ads	drop_marzha						HECHT1641		
+hc-HECHT16832IN1	c020		Shopping_ads,Display_ads	drop_marzha						HECHT16832IN1		
 hc-HECHT1706	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT1706		
 hc-HECHT1708	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT1740	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT176GT	c200		Shopping_ads,Display_ads	drop_marzha						HECHT176GT		
-hc-HECHT1802S	c030		Shopping_ads,Display_ads	drop_t8						HECHT1802S		
-hc-HECHT1803S5IN1	c030		Shopping_ads,Display_ads	drop_t8						HECHT1803S5IN1		
-hc-HECHT1844	c020		Shopping_ads,Display_ads	drop_t8						HECHT1844		
-hc-HECHT1845	c030		Shopping_ads,Display_ads	drop_t8						HECHT1845		
+hc-HECHT1802S	c030		Shopping_ads,Display_ads	drop_marzha						HECHT1802S		
+hc-HECHT1803S5IN1	c030		Shopping_ads,Display_ads	drop_marzha						HECHT1803S5IN1		
+hc-HECHT1844	c020		Shopping_ads,Display_ads	drop_marzha						HECHT1844		
+hc-HECHT1845	c030		Shopping_ads,Display_ads	drop_marzha						HECHT1845		
 hc-HECHT18482IN1	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT18482IN1		
-hc-HECHT19482IN1	c020		Shopping_ads,Display_ads	drop_t8						HECHT19482IN1		
-hc-HECHT19992in1	c020		Shopping_ads,Display_ads	drop_t8						HECHT19992in1		
+hc-HECHT19482IN1	c020		Shopping_ads,Display_ads	drop_marzha						HECHT19482IN1		
+hc-HECHT19992in1	c020		Shopping_ads,Display_ads	drop_marzha						HECHT19992in1		
 hc-HECHT2039	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT2039		
 hc-HECHT207	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT207		
-hc-HECHT2098	c010		Shopping_ads,Display_ads	drop_t8						HECHT2098		
-hc-HECHT220	c400		Shopping_ads,Display_ads	drop_t8						HECHT220		
-hc-HECHT2250	c020		Shopping_ads,Display_ads	drop_t8						HECHT2250		
-hc-HECHT229	c400		Shopping_ads,Display_ads	drop_t8						HECHT229		
-hc-HECHT2416QT	c020		Shopping_ads,Display_ads	drop_t8						HECHT2416QT		
-hc-HECHT2439	c020		Shopping_ads,Display_ads	drop_t8						HECHT2439		
+hc-HECHT2098	c010		Shopping_ads,Display_ads	drop_marzha						HECHT2098		
+hc-HECHT220	c400		Shopping_ads,Display_ads	drop_marzha						HECHT220		
+hc-HECHT2250	c020		Shopping_ads,Display_ads	drop_marzha						HECHT2250		
+hc-HECHT229	c400		Shopping_ads,Display_ads	drop_marzha						HECHT229		
+hc-HECHT2416QT	c020		Shopping_ads,Display_ads	drop_marzha						HECHT2416QT		
+hc-HECHT2439	c020		Shopping_ads,Display_ads	drop_marzha						HECHT2439		
 hc-HECHT256	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT256		
-hc-HECHT270	c400		Shopping_ads,Display_ads	drop_t8						HECHT270		
+hc-HECHT270	c400		Shopping_ads,Display_ads	drop_marzha						HECHT270		
 hc-HECHT3011	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT3011		
 hc-HECHT3015	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT3015		
 hc-HECHT3016	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT3016		
-hc-HECHT3020	c080		Shopping_ads,Display_ads	drop_t8						HECHT3020		
+hc-HECHT3020	c080		Shopping_ads,Display_ads	drop_marzha						HECHT3020		
 hc-HECHT3021	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT3021		
-hc-HECHT3038	c120		Shopping_ads,Display_ads	drop_t8						HECHT3038		
-hc-HECHT3039	c120		Shopping_ads,Display_ads	drop_t8						HECHT3039		
+hc-HECHT3038	c120		Shopping_ads,Display_ads	drop_marzha						HECHT3038		
+hc-HECHT3039	c120		Shopping_ads,Display_ads	drop_marzha						HECHT3039		
 hc-HECHT3040	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT3040		
-hc-HECHT3101Inox	c020		Shopping_ads,Display_ads	drop_t8						HECHT3101Inox		
-hc-HECHT3131	c020		Shopping_ads,Display_ads	drop_t8						HECHT3131		
-hc-HECHT3166	c010		Shopping_ads,Display_ads	drop_t8						HECHT3166		
+hc-HECHT3101Inox	c020		Shopping_ads,Display_ads	drop_marzha						HECHT3101Inox		
+hc-HECHT3131	c020		Shopping_ads,Display_ads	drop_marzha						HECHT3131		
+hc-HECHT3166	c010		Shopping_ads,Display_ads	drop_marzha						HECHT3166		
 hc-HECHT322	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT3231	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT3231		
 hc-HECHT33	c250		Shopping_ads,Display_ads	drop_marzha						HECHT33		
-hc-HECHT3301	c010		Shopping_ads,Display_ads	drop_t8						HECHT3301		
-hc-HECHT333	c020		Shopping_ads,Display_ads	drop_t8						HECHT333		
-hc-HECHT3331INOX	c020		Shopping_ads,Display_ads	drop_t8						HECHT3331INOX		
+hc-HECHT3301	c010		Shopping_ads,Display_ads	drop_marzha						HECHT3301		
+hc-HECHT333	c020		Shopping_ads,Display_ads	drop_marzha						HECHT333		
+hc-HECHT3331INOX	c020		Shopping_ads,Display_ads	drop_marzha						HECHT3331INOX		
 hc-HECHT334	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT336	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT3400	c010		Shopping_ads,Display_ads	drop_t8						HECHT3400		
-hc-HECHT3415	c010		Shopping_ads,Display_ads	drop_t8						HECHT3415		
-hc-HECHT3422	c060		Shopping_ads,Display_ads	drop_t8						HECHT3422		
-hc-HECHT3520	c020		Shopping_ads,Display_ads	drop_t8						HECHT3520		
+hc-HECHT3400	c010		Shopping_ads,Display_ads	drop_marzha						HECHT3400		
+hc-HECHT3415	c010		Shopping_ads,Display_ads	drop_marzha						HECHT3415		
+hc-HECHT3422	c060		Shopping_ads,Display_ads	drop_marzha						HECHT3422		
+hc-HECHT3520	c020		Shopping_ads,Display_ads	drop_marzha						HECHT3520		
 hc-HECHT3522	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT3522		
-hc-HECHT3544	c030		Shopping_ads,Display_ads	drop_t8						HECHT3544		
-hc-HECHT3545	c030		Shopping_ads,Display_ads	drop_t8						HECHT3545		
-hc-HECHT3635	c020		Shopping_ads,Display_ads	drop_t8						HECHT3635		
+hc-HECHT3544	c030		Shopping_ads,Display_ads	drop_marzha						HECHT3544		
+hc-HECHT3545	c030		Shopping_ads,Display_ads	drop_marzha						HECHT3545		
+hc-HECHT3635	c020		Shopping_ads,Display_ads	drop_marzha						HECHT3635		
 hc-HECHT3680	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT3680		
 hc-HECHT3736	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT3736		
 hc-HECHT3740	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT3742	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT3775	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT3775		
-hc-HECHT3810	c060		Shopping_ads,Display_ads	drop_t8						HECHT3810		
+hc-HECHT3810	c060		Shopping_ads,Display_ads	drop_marzha						HECHT3810		
 hc-HECHT3919	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT3924	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT401	c060		Shopping_ads,Display_ads	drop_marzha						HECHT401		
 hc-HECHT405	c100		Shopping_ads,Display_ads	drop_marzha						HECHT405		
-hc-HECHT4050	c150		Shopping_ads,Display_ads	drop_t8						HECHT4050		
+hc-HECHT4050	c150		Shopping_ads,Display_ads	drop_marzha						HECHT4050		
 hc-HECHT408	c120		Shopping_ads,Display_ads	drop_marzha						HECHT408		
-hc-HECHT410ACCU	c300		Shopping_ads,Display_ads	drop_t8						HECHT410ACCU		
+hc-HECHT410ACCU	c300		Shopping_ads,Display_ads	drop_marzha						HECHT410ACCU		
 hc-HECHT415V	c080		Shopping_ads,Display_ads	drop_marzha						HECHT415V		
-hc-HECHT4166	c030		Shopping_ads,Display_ads	drop_t8						HECHT4166		
-hc-HECHT416ACCU	c300		Shopping_ads,Display_ads	drop_t8						HECHT416ACCU		
+hc-HECHT4166	c030		Shopping_ads,Display_ads	drop_marzha						HECHT4166		
+hc-HECHT416ACCU	c300		Shopping_ads,Display_ads	drop_marzha						HECHT416ACCU		
 hc-HECHT420153	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT433	c300		Shopping_ads,Display_ads	drop_t8						HECHT433		
-hc-HECHT443	c080		Shopping_ads,Display_ads	drop_t8						HECHT443		
+hc-HECHT433	c300		Shopping_ads,Display_ads	drop_marzha						HECHT433		
+hc-HECHT443	c080		Shopping_ads,Display_ads	drop_marzha						HECHT443		
 hc-HECHT445	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT445		
-hc-HECHT45	c020		Shopping_ads,Display_ads	drop_t8						HECHT45		
-hc-HECHT4500	c120		Shopping_ads,Display_ads	drop_t8						HECHT4500		
-hc-HECHT459	c100		Shopping_ads,Display_ads	drop_t8						HECHT459		
+hc-HECHT45	c020		Shopping_ads,Display_ads	drop_marzha						HECHT45		
+hc-HECHT4500	c120		Shopping_ads,Display_ads	drop_marzha						HECHT4500		
+hc-HECHT459	c100		Shopping_ads,Display_ads	drop_marzha						HECHT459		
 hc-HECHT485TL	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT50	c020		Shopping_ads,Display_ads	drop_t8						HECHT50		
+hc-HECHT50	c020		Shopping_ads,Display_ads	drop_marzha						HECHT50		
 hc-HECHT50006	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT5013	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5013		
-hc-HECHT5030	c010		Shopping_ads,Display_ads	drop_t8						HECHT5030		
-hc-HECHT5036	c010		Shopping_ads,Display_ads	drop_t8						HECHT5036		
-hc-HECHT504	c010		Shopping_ads,Display_ads	drop_t8						HECHT504		
-hc-HECHT50437	c010		Shopping_ads,Display_ads	drop_t8						HECHT50437		
+hc-HECHT5030	c010		Shopping_ads,Display_ads	drop_marzha						HECHT5030		
+hc-HECHT5036	c010		Shopping_ads,Display_ads	drop_marzha						HECHT5036		
+hc-HECHT504	c010		Shopping_ads,Display_ads	drop_marzha						HECHT504		
+hc-HECHT50437	c010		Shopping_ads,Display_ads	drop_marzha						HECHT50437		
 hc-HECHT5051S	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5051S		
 hc-HECHT5060	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5060		
 hc-HECHT5107	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5107		
 hc-HECHT5108TWIN	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5108TWIN		
 hc-HECHT5115	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5115		
 hc-HECHT5118	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5118		
-hc-HECHT514PROFI	c020		Shopping_ads,Display_ads	drop_t8						HECHT514PROFI		
+hc-HECHT514PROFI	c020		Shopping_ads,Display_ads	drop_marzha						HECHT514PROFI		
 hc-HECHT5167	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5167		
 hc-HECHT5168	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5168		
 hc-HECHT5198	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5198		
-hc-HECHT52	c020		Shopping_ads,Display_ads	drop_t8						HECHT52		
+hc-HECHT52	c020		Shopping_ads,Display_ads	drop_marzha						HECHT52		
 hc-HECHT5202TWIN	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5202TWIN		
-hc-HECHT52150	c010		Shopping_ads,Display_ads	drop_t8						HECHT52150		
-hc-HECHT52184	c020		Shopping_ads,Display_ads	drop_t8						HECHT52184		
+hc-HECHT52150	c010		Shopping_ads,Display_ads	drop_marzha						HECHT52150		
+hc-HECHT52184	c020		Shopping_ads,Display_ads	drop_marzha						HECHT52184		
 hc-HECHT5286	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5286		
 hc-HECHT5292	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT530	c010		Shopping_ads,Display_ads	drop_marzha						HECHT530		
-hc-HECHT53080	c030		Shopping_ads,Display_ads	drop_t8						HECHT53080		
-hc-HECHT53350	c020		Shopping_ads,Display_ads	drop_t8						HECHT53350		
+hc-HECHT53080	c030		Shopping_ads,Display_ads	drop_marzha						HECHT53080		
+hc-HECHT53350	c020		Shopping_ads,Display_ads	drop_marzha						HECHT53350		
 hc-HECHT5386	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5386		
-hc-HECHT540	c020		Shopping_ads,Display_ads	drop_t8						HECHT540		
+hc-HECHT540	c020		Shopping_ads,Display_ads	drop_marzha						HECHT540		
 hc-HECHT5408	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT543	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT543		
 hc-HECHT543SW5IN1	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT543SW5IN1		
@@ -11986,24 +11986,24 @@ hc-HECHT547SWE	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT547SWE
 hc-HECHT5483SWE5in1	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5483SWE5in1		
 hc-HECHT551XRC	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT551XRC		
 hc-HECHT551XRCAKU	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT551XRCAKU		
-hc-HECHT5534SWE5IN1	c040		Shopping_ads,Display_ads	drop_t8						HECHT5534SWE5IN1		
+hc-HECHT5534SWE5IN1	c040		Shopping_ads,Display_ads	drop_marzha						HECHT5534SWE5IN1		
 hc-HECHT5564SX5IN1	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5564SX5IN1		
 hc-HECHT5600	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT5601	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT5602	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT5645	c040		Shopping_ads,Display_ads	drop_t8						HECHT5645		
-hc-HECHT5676	c040		Shopping_ads,Display_ads	drop_t8						HECHT5676		
+hc-HECHT5645	c040		Shopping_ads,Display_ads	drop_marzha						HECHT5645		
+hc-HECHT5676	c040		Shopping_ads,Display_ads	drop_marzha						HECHT5676		
 hc-HECHT57100	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT57100		
 hc-HECHT5812	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT5812		
 hc-HECHT587	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT587		
-hc-HECHT600101	c250		Shopping_ads,Display_ads	drop_t8						HECHT600101		
+hc-HECHT600101	c250		Shopping_ads,Display_ads	drop_marzha						HECHT600101		
 hc-HECHT600112	c150		Shopping_ads,Display_ads	drop_marzha						HECHT600112		
 hc-HECHT600118	c200		Shopping_ads,Display_ads	drop_marzha						HECHT600118		
 hc-HECHT600123	c200		Shopping_ads,Display_ads	drop_marzha						HECHT600123		
 hc-HECHT600618	c010		Shopping_ads,Display_ads	drop_marzha						HECHT600618		
 hc-HECHT600621	c010		Shopping_ads,Display_ads	drop_marzha						HECHT600621		
-hc-HECHT600635	c250		Shopping_ads,Display_ads	drop_t8						HECHT600635		
-hc-HECHT600636	c250		Shopping_ads,Display_ads	drop_t8						HECHT600636		
+hc-HECHT600635	c250		Shopping_ads,Display_ads	drop_marzha						HECHT600635		
+hc-HECHT600636	c250		Shopping_ads,Display_ads	drop_marzha						HECHT600636		
 hc-HECHT600901	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT600902	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT600903	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -12012,74 +12012,74 @@ hc-HECHT600905	m0_new		Shopping_ads,Display_ads	drop_marzha
 hc-HECHT600906	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT6060	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT6060		
 hc-HECHT6070	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT6070		
-hc-HECHT610	c010		Shopping_ads,Display_ads	drop_t8						HECHT610		
-hc-HECHT611	c010		Shopping_ads,Display_ads	drop_t8						HECHT611		
+hc-HECHT610	c010		Shopping_ads,Display_ads	drop_marzha						HECHT610		
+hc-HECHT611	c010		Shopping_ads,Display_ads	drop_marzha						HECHT611		
 hc-HECHT6110	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT6110		
 hc-HECHT6121	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT6121		
 hc-HECHT6160	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT6160		
 hc-HECHT6173	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT6173		
-hc-HECHT6206	c050		Shopping_ads,Display_ads	drop_t8						HECHT6206		
+hc-HECHT6206	c050		Shopping_ads,Display_ads	drop_marzha						HECHT6206		
 hc-HECHT6208	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT6208		
-hc-HECHT6210	c020		Shopping_ads,Display_ads	drop_t8						HECHT6210		
-hc-HECHT6225	c020		Shopping_ads,Display_ads	drop_t8						HECHT6225		
+hc-HECHT6210	c020		Shopping_ads,Display_ads	drop_marzha						HECHT6210		
+hc-HECHT6225	c020		Shopping_ads,Display_ads	drop_marzha						HECHT6225		
 hc-HECHT6261	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT626BOX	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT626BOX		
-hc-HECHT627Silent	c030		Shopping_ads,Display_ads	drop_t8						HECHT627Silent		
+hc-HECHT627Silent	c030		Shopping_ads,Display_ads	drop_marzha						HECHT627Silent		
 hc-HECHT628	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT6284XL	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT6284XL		
-hc-HECHT6294	c020		Shopping_ads,Display_ads	drop_t8						HECHT6294		
+hc-HECHT6294	c020		Shopping_ads,Display_ads	drop_marzha						HECHT6294		
 hc-HECHT630	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT630		
-hc-HECHT6300XLSilent	c030		Shopping_ads,Display_ads	drop_t8						HECHT6300XLSilent		
+hc-HECHT6300XLSilent	c030		Shopping_ads,Display_ads	drop_marzha						HECHT6300XLSilent		
 hc-HECHT630BOX	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT630BOX		
-hc-HECHT6421	c050		Shopping_ads,Display_ads	drop_t8						HECHT6421		
+hc-HECHT6421	c050		Shopping_ads,Display_ads	drop_marzha						HECHT6421		
 hc-HECHT6422	c100		Shopping_ads,Display_ads	drop_marzha						HECHT6422		
 hc-HECHT6500	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT6500		
-hc-HECHT6504	c020		Shopping_ads,Display_ads	drop_t8						HECHT6504		
+hc-HECHT6504	c020		Shopping_ads,Display_ads	drop_marzha						HECHT6504		
 hc-HECHT655	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT655		
-hc-HECHT6645	c080		Shopping_ads,Display_ads	drop_t8						HECHT6645		
+hc-HECHT6645	c080		Shopping_ads,Display_ads	drop_marzha						HECHT6645		
 hc-HECHT670	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT670		
-hc-HECHT675	c020		Shopping_ads,Display_ads	drop_t8						HECHT675		
-hc-HECHT676	c040		Shopping_ads,Display_ads	drop_t8					8595614923606			
+hc-HECHT675	c020		Shopping_ads,Display_ads	drop_marzha						HECHT675		
+hc-HECHT676	c040		Shopping_ads,Display_ads	drop_marzha					8595614923606			
 hc-HECHT6810	m0_norm		Shopping_ads,Display_ads	drop_marzha						HECHT6810		
-hc-HECHT6903IN1	c020		Shopping_ads,Display_ads	drop_t8						HECHT6903IN1		
+hc-HECHT6903IN1	c020		Shopping_ads,Display_ads	drop_marzha						HECHT6903IN1		
 hc-HECHT6910	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT6910		
-hc-HECHT695	c020		Shopping_ads,Display_ads	drop_t8						HECHT695		
+hc-HECHT695	c020		Shopping_ads,Display_ads	drop_marzha						HECHT695		
 hc-HECHT700083	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT7025	c020		Shopping_ads,Display_ads	drop_t8						HECHT7025		
+hc-HECHT7025	c020		Shopping_ads,Display_ads	drop_marzha						HECHT7025		
 hc-HECHT7026	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT711003	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT711075	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT712735	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT712781	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT732	c010		Shopping_ads,Display_ads	drop_t8						HECHT732		
+hc-HECHT732	c010		Shopping_ads,Display_ads	drop_marzha						HECHT732		
 hc-HECHT737192	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT738	c020		Shopping_ads,Display_ads	drop_t8						HECHT738		
+hc-HECHT738	c020		Shopping_ads,Display_ads	drop_marzha						HECHT738		
 hc-HECHT7445	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT7445		
 hc-HECHT745	m0_norm		Shopping_ads,Display_ads	drop_marzha						HECHT745		
 hc-HECHT746	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT746		
 hc-HECHT747	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT747		
-hc-HECHT748	c020		Shopping_ads,Display_ads	drop_t8						HECHT748		
-hc-HECHT750	c050		Shopping_ads,Display_ads	drop_t8						HECHT750		
+hc-HECHT748	c020		Shopping_ads,Display_ads	drop_marzha						HECHT748		
+hc-HECHT750	c050		Shopping_ads,Display_ads	drop_marzha						HECHT750		
 hc-HECHT752	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT752		
-hc-HECHT761	c030		Shopping_ads,Display_ads	drop_t8						HECHT761		
+hc-HECHT761	c030		Shopping_ads,Display_ads	drop_marzha						HECHT761		
 hc-HECHT780122	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT785	c040		Shopping_ads,Display_ads	drop_t8						HECHT785		
+hc-HECHT785	c040		Shopping_ads,Display_ads	drop_marzha						HECHT785		
 hc-HECHT8065	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT8065		
-hc-HECHT8101	c060		Shopping_ads,Display_ads	drop_t8						HECHT8101		
-hc-HECHT8101BS	c060		Shopping_ads,Display_ads	drop_t8						HECHT8101BS		
-hc-HECHT8101S	c060		Shopping_ads,Display_ads	drop_t8						HECHT8101S		
-hc-HECHT8105	c020		Shopping_ads,Display_ads	drop_t8						HECHT8105		
-hc-HECHT8220	c040		Shopping_ads,Display_ads	drop_t8						HECHT8220		
+hc-HECHT8101	c060		Shopping_ads,Display_ads	drop_marzha						HECHT8101		
+hc-HECHT8101BS	c060		Shopping_ads,Display_ads	drop_marzha						HECHT8101BS		
+hc-HECHT8101S	c060		Shopping_ads,Display_ads	drop_marzha						HECHT8101S		
+hc-HECHT8105	c020		Shopping_ads,Display_ads	drop_marzha						HECHT8105		
+hc-HECHT8220	c040		Shopping_ads,Display_ads	drop_marzha						HECHT8220		
 hc-HECHT8300	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT8300		
 hc-HECHT8514	m0_norm		Shopping_ads,Display_ads	drop_marzha						HECHT8514		
 hc-HECHT8574	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT8574		
-hc-HECHT8615	c050		Shopping_ads,Display_ads	drop_t8						HECHT8615		
-hc-HECHT8616SE	c060		Shopping_ads,Display_ads	drop_t8						HECHT8616SE		
+hc-HECHT8615	c050		Shopping_ads,Display_ads	drop_marzha						HECHT8615		
+hc-HECHT8616SE	c060		Shopping_ads,Display_ads	drop_marzha						HECHT8616SE		
 hc-HECHT8680SE	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT8680SE		
 hc-HECHT8680SESET	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT8680SESET2	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT900	c010		Shopping_ads,Display_ads	drop_t8						HECHT900		
-hc-HECHT900025	c010		Shopping_ads,Display_ads	drop_t8						HECHT900025		
+hc-HECHT900	c010		Shopping_ads,Display_ads	drop_marzha						HECHT900		
+hc-HECHT900025	c010		Shopping_ads,Display_ads	drop_marzha						HECHT900025		
 hc-HECHT900101	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT900101		
 hc-HECHT900106	c030		Shopping_ads,Display_ads	drop_marzha						HECHT900106		
 hc-HECHT900106Y	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -12087,95 +12087,95 @@ hc-HECHT900139	m0_norm		Shopping_ads,Display_ads	drop_marzha
 hc-HECHT900160	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT900200	c120		Shopping_ads,Display_ads	drop_marzha						HECHT900200		
 hc-HECHT900300	c120		Shopping_ads,Display_ads	drop_marzha						HECHT900300		
-hc-HECHT900375	c010		Shopping_ads,Display_ads	drop_t8						HECHT900375		
+hc-HECHT900375	c010		Shopping_ads,Display_ads	drop_marzha						HECHT900375		
 hc-HECHT900376	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT900376		
 hc-HECHT900400	c120		Shopping_ads,Display_ads	drop_marzha						HECHT900400		
-hc-HECHT900444	c080		Shopping_ads,Display_ads	drop_t8						HECHT900444		
-hc-HECHT900570	c080		Shopping_ads,Display_ads	drop_t8						HECHT900570		
+hc-HECHT900444	c080		Shopping_ads,Display_ads	drop_marzha						HECHT900444		
+hc-HECHT900570	c080		Shopping_ads,Display_ads	drop_marzha						HECHT900570		
 hc-HECHT900600	c050		Shopping_ads,Display_ads	drop_marzha						HECHT900600		
 hc-HECHT900680	c060		Shopping_ads,Display_ads	drop_marzha						HECHT900680		
-hc-HECHT900700	c050		Shopping_ads,Display_ads	drop_t8						HECHT900700		
-hc-HECHT900800	c080		Shopping_ads,Display_ads	drop_t8						HECHT900800		
-hc-HECHT900813	c010		Shopping_ads,Display_ads	drop_t8						HECHT900813		
-hc-HECHT900901	c080		Shopping_ads,Display_ads	drop_t8						HECHT900901		
-hc-HECHT900950	c080		Shopping_ads,Display_ads	drop_t8						HECHT900950		
-hc-HECHT901	c010		Shopping_ads,Display_ads	drop_t8						HECHT901		
+hc-HECHT900700	c050		Shopping_ads,Display_ads	drop_marzha						HECHT900700		
+hc-HECHT900800	c080		Shopping_ads,Display_ads	drop_marzha						HECHT900800		
+hc-HECHT900813	c010		Shopping_ads,Display_ads	drop_marzha						HECHT900813		
+hc-HECHT900901	c080		Shopping_ads,Display_ads	drop_marzha						HECHT900901		
+hc-HECHT900950	c080		Shopping_ads,Display_ads	drop_marzha						HECHT900950		
+hc-HECHT901	c010		Shopping_ads,Display_ads	drop_marzha						HECHT901		
 hc-HECHT901000	c060		Shopping_ads,Display_ads	drop_marzha						HECHT901000		
 hc-HECHT901001	c060		Shopping_ads,Display_ads	drop_marzha						HECHT901001		
 hc-HECHT901018	c010		Shopping_ads,Display_ads	drop_marzha						HECHT901018		
-hc-HECHT901170	c100		Shopping_ads,Display_ads	drop_t8						HECHT901170		
+hc-HECHT901170	c100		Shopping_ads,Display_ads	drop_marzha						HECHT901170		
 hc-HECHT901201	c060		Shopping_ads,Display_ads	drop_marzha						HECHT901201		
 hc-HECHT9014	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9014		
 hc-HECHT9015	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9015		
-hc-HECHT901500	c080		Shopping_ads,Display_ads	drop_t8						HECHT901500		
-hc-HECHT901550	c080		Shopping_ads,Display_ads	drop_t8						HECHT901550		
-hc-HECHT902	c010		Shopping_ads,Display_ads	drop_t8						HECHT902		
-hc-HECHT902000	c080		Shopping_ads,Display_ads	drop_t8						HECHT902000		
-hc-HECHT9025	c010		Shopping_ads,Display_ads	drop_t8						HECHT9025		
+hc-HECHT901500	c080		Shopping_ads,Display_ads	drop_marzha						HECHT901500		
+hc-HECHT901550	c080		Shopping_ads,Display_ads	drop_marzha						HECHT901550		
+hc-HECHT902	c010		Shopping_ads,Display_ads	drop_marzha						HECHT902		
+hc-HECHT902000	c080		Shopping_ads,Display_ads	drop_marzha						HECHT902000		
+hc-HECHT9025	c010		Shopping_ads,Display_ads	drop_marzha						HECHT9025		
 hc-HECHT902550	c120		Shopping_ads,Display_ads	drop_marzha						HECHT902550		
-hc-HECHT903600	c100		Shopping_ads,Display_ads	drop_t8						HECHT903600		
+hc-HECHT903600	c100		Shopping_ads,Display_ads	drop_marzha						HECHT903600		
 hc-HECHT9040	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9040		
-hc-HECHT908500	c040		Shopping_ads,Display_ads	drop_t8						HECHT908500		
-hc-HECHT909100	c080		Shopping_ads,Display_ads	drop_t8						HECHT909100		
+hc-HECHT908500	c040		Shopping_ads,Display_ads	drop_marzha						HECHT908500		
+hc-HECHT909100	c080		Shopping_ads,Display_ads	drop_marzha						HECHT909100		
 hc-HECHT909150	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT909150		
-hc-HECHT909200	c300		Shopping_ads,Display_ads	drop_t8						HECHT909200		
-hc-HECHT920	c010		Shopping_ads,Display_ads	drop_t8						HECHT920		
+hc-HECHT909200	c300		Shopping_ads,Display_ads	drop_marzha						HECHT909200		
+hc-HECHT920	c010		Shopping_ads,Display_ads	drop_marzha						HECHT920		
 hc-HECHT9200	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9200		
 hc-HECHT9201E	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9201E		
 hc-HECHT9235	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9235		
-hc-HECHT9250	c010		Shopping_ads,Display_ads	drop_t8						HECHT9250		
-hc-HECHT9254	c020		Shopping_ads,Display_ads	drop_t8						HECHT9254		
+hc-HECHT9250	c010		Shopping_ads,Display_ads	drop_marzha						HECHT9250		
+hc-HECHT9254	c020		Shopping_ads,Display_ads	drop_marzha						HECHT9254		
 hc-HECHT9260	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9260		
-hc-HECHT9275PROFI	c030		Shopping_ads,Display_ads	drop_t8						HECHT9275PROFI		
+hc-HECHT9275PROFI	c030		Shopping_ads,Display_ads	drop_marzha						HECHT9275PROFI		
 hc-HECHT9280	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9280		
 hc-HECHT9334SQ	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9334SQ		
-hc-HECHT9415	c300		Shopping_ads,Display_ads	drop_t8						HECHT9415		
+hc-HECHT9415	c300		Shopping_ads,Display_ads	drop_marzha						HECHT9415		
 hc-HECHT94402IN1	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT94402IN1		
-hc-HECHT945	c020		Shopping_ads,Display_ads	drop_t8						HECHT945		
+hc-HECHT945	c020		Shopping_ads,Display_ads	drop_marzha						HECHT945		
 hc-HECHT946	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT950	c020		Shopping_ads,Display_ads	drop_t8						HECHT950		
+hc-HECHT950	c020		Shopping_ads,Display_ads	drop_marzha						HECHT950		
 hc-HECHT952	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT952		
 hc-HECHT9534SQ	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9534SQ		
 hc-HECHT9542SQ	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9542SQ		
 hc-HECHT9555	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9555		
 hc-HECHT9555SE	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9555SE		
-hc-HECHT956	c020		Shopping_ads,Display_ads	drop_t8						HECHT956		
-hc-HECHT962	c030		Shopping_ads,Display_ads	drop_t8						HECHT962		
+hc-HECHT956	c020		Shopping_ads,Display_ads	drop_marzha						HECHT956		
+hc-HECHT962	c030		Shopping_ads,Display_ads	drop_marzha						HECHT962		
 hc-HECHT9661	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9661		
 hc-HECHT9661SE	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9661SE		
 hc-HECHT9666	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT9666		
 hc-HECHT9676	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT971W	c010		Shopping_ads,Display_ads	drop_t8						HECHT971W		
+hc-HECHT971W	c010		Shopping_ads,Display_ads	drop_marzha						HECHT971W		
 hc-HECHT972PROFI	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHT972PROFI		
 hc-HECHT9750	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHT9764T	m0_norm		Shopping_ads,Display_ads	drop_marzha						HECHT9764T		
 hc-HECHT99125	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT99126	c020		Shopping_ads,Display_ads	drop_t8						HECHT99126		
+hc-HECHT99126	c020		Shopping_ads,Display_ads	drop_marzha						HECHT99126		
 hc-HECHT9919	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-HECHT9920	c010		Shopping_ads,Display_ads	drop_t8						HECHT9920		
-hc-HECHT9922	c010		Shopping_ads,Display_ads	drop_t8						HECHT9922		
-hc-HECHTAQUA1020	c050		Shopping_ads,Display_ads	drop_t8						HECHTAQUA1020		
-hc-HECHTAQUA1215	c030		Shopping_ads,Display_ads	drop_t8						HECHTAQUA1215		
-hc-HECHTAQUA1225	c030		Shopping_ads,Display_ads	drop_t8						HECHTAQUA1225		
-hc-HECHTAQUA3415	c030		Shopping_ads,Display_ads	drop_t8						HECHTAQUA3415		
-hc-HECHTAQUA3425	c050		Shopping_ads,Display_ads	drop_t8						HECHTAQUA3425		
+hc-HECHT9920	c010		Shopping_ads,Display_ads	drop_marzha						HECHT9920		
+hc-HECHT9922	c010		Shopping_ads,Display_ads	drop_marzha						HECHT9922		
+hc-HECHTAQUA1020	c050		Shopping_ads,Display_ads	drop_marzha						HECHTAQUA1020		
+hc-HECHTAQUA1215	c030		Shopping_ads,Display_ads	drop_marzha						HECHTAQUA1215		
+hc-HECHTAQUA1225	c030		Shopping_ads,Display_ads	drop_marzha						HECHTAQUA1225		
+hc-HECHTAQUA3415	c030		Shopping_ads,Display_ads	drop_marzha						HECHTAQUA3415		
+hc-HECHTAQUA3425	c050		Shopping_ads,Display_ads	drop_marzha						HECHTAQUA3425		
 hc-HECHTBARREL	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHTBARREL		
 hc-HECHTFERNOBLACK	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHTFERNOBLACK		
 hc-HECHTGG10000	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHTGG10000		
 hc-HECHTGG11000	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHTGG11000		
 hc-HECHTGG6500	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHTGG6500		
-hc-HECHTGG6501	c120		Shopping_ads,Display_ads	drop_t8						HECHTGG6501		
+hc-HECHTGG6501	c120		Shopping_ads,Display_ads	drop_marzha						HECHTGG6501		
 hc-HECHTGG8000	c150		Shopping_ads,Display_ads	drop_marzha						HECHTGG8000		
 hc-HECHTGG950	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHTGG950		
 hc-HECHTHL601-110	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHTIG1101	m0_norm		Shopping_ads,Display_ads	drop_marzha						HECHTIG1101		
-hc-HECHTIG2201	c080		Shopping_ads,Display_ads	drop_t5						HECHTIG2201		
+hc-HECHTIG2201	c080		Shopping_ads,Display_ads	drop_marzha						HECHTIG2201		
 hc-HECHTIG3601	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHTIG3601		
-hc-HECHTIG3602	c080		Shopping_ads,Display_ads	drop_t8						HECHTIG3602		
-hc-HECHTIG4500	c120		Shopping_ads,Display_ads	drop_t8						HECHTIG4500		
-hc-HECHTIG5500	c120		Shopping_ads,Display_ads	drop_t8						HECHTIG5500		
+hc-HECHTIG3602	c080		Shopping_ads,Display_ads	drop_marzha						HECHTIG3602		
+hc-HECHTIG4500	c120		Shopping_ads,Display_ads	drop_marzha						HECHTIG4500		
+hc-HECHTIG5500	c120		Shopping_ads,Display_ads	drop_marzha						HECHTIG5500		
 hc-HECHTJZN200	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHTJZN200		
-hc-HECHTJZN356	c020		Shopping_ads,Display_ads	drop_t8						HECHTJZN356		
+hc-HECHTJZN356	c020		Shopping_ads,Display_ads	drop_marzha						HECHTJZN356		
 hc-HECHTMERIDA	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHTMERIDA		
 hc-HECHTSENTINEL	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHTSENTINEL		
 hc-HECHTSENTINELMAX	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHTSENTINELMAX		
@@ -12184,7 +12184,7 @@ hc-HECHTSNOWSHOESS	m0_new		Shopping_ads,Display_ads	drop_marzha
 hc-HECHTSuperSilentDualPower	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-HECHTVESUV3IN1	m0_new		Shopping_ads,Display_ads	drop_marzha						HECHTVESUV3IN1		
 hc-KKT_HECHT_1	m0_new		Shopping_ads,Display_ads	drop_marzha								
-hc-M4T2A	c250		Shopping_ads,Display_ads	drop_t8						M4T2A		
+hc-M4T2A	c250		Shopping_ads,Display_ads	drop_marzha						M4T2A		
 hc-hecht8101bsset	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-hecht8101set	m0_new		Shopping_ads,Display_ads	drop_marzha								
 hc-hecht8101set1	m0_new		Shopping_ads,Display_ads	drop_marzha								
@@ -17565,7 +17565,7 @@ lp-LP19750	c250		Shopping_ads,Display_ads	drop_t5
 lp-LP19751	c250		Shopping_ads,Display_ads	drop_t5								
 lp-LP19752	c200		Shopping_ads,Display_ads	drop_t5								
 lp-LP19753	c200		Shopping_ads,Display_ads	drop_t5								
-lp-LP19761	c200		Shopping_ads,Display_ads	drop_t8								
+lp-LP19761	c200		Shopping_ads,Display_ads	drop_t5								
 lp-LP19762	c250		Shopping_ads,Display_ads	drop_t5								
 lp-LP19896	c050		Shopping_ads,Display_ads	drop_marzha						LP19896		
 lp-LP19899	c120		Shopping_ads,Display_ads	drop_t5						LP19899		
@@ -17665,7 +17665,7 @@ lp-LP20690	c060		Shopping_ads,Display_ads	drop_t5
 lp-LP20701	c120		Shopping_ads,Display_ads	drop_t8								
 lp-LP20753	c080		Shopping_ads,Display_ads	drop_t8						LP20753		
 lp-LP21031	m0_new		Shopping_ads,Display_ads	drop_marzha								
-lp-LP21310	c150		Shopping_ads,Display_ads	drop_t8								
+lp-LP21310	c150		Shopping_ads,Display_ads	drop_t5								
 lp-LP21311	c150		Shopping_ads,Display_ads	drop_t5								
 lp-LP21339	c300		Shopping_ads,Display_ads	drop_t5								
 lp-LP21379	c120		Shopping_ads,Display_ads	drop_t8								
@@ -17704,7 +17704,7 @@ lp-LP22877	c060		Shopping_ads,Display_ads	drop_marzha
 lp-LP22882	c060		Shopping_ads,Display_ads	drop_t8						LP22882		
 lp-LP22883	c080		Shopping_ads,Display_ads	drop_marzha						LP22883		
 lp-LP22894	m0_new		Shopping_ads,Display_ads	drop_marzha						LP22894		
-lp-LP22973	c060		Shopping_ads,Display_ads	drop_marzha								
+lp-LP22973	c060		Shopping_ads,Display_ads	drop_t5								
 lp-LP22974	c050		Shopping_ads,Display_ads	drop_marzha								
 lp-LP23002	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lp-LP23165	c250		Shopping_ads,Display_ads	drop_t5								
@@ -17796,13 +17796,13 @@ lp-LP30143	m0_new		Shopping_ads,Display_ads	drop_marzha						LP30143
 lp-LP30172	m0_new		Shopping_ads,Display_ads	drop_marzha						LP30172		
 lp-LP30252	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lp-LP30284	c100		Shopping_ads,Display_ads	drop_t5								
-lp-LP30285	c100		Shopping_ads,Display_ads	drop_t8								
+lp-LP30285	c100		Shopping_ads,Display_ads	drop_t5								
 lp-LP30286	c250		Shopping_ads,Display_ads	drop_t5								
 lp-LP30287	c250		Shopping_ads,Display_ads	drop_t5								
 lp-LP30320	c050		Shopping_ads,Display_ads	drop_marzha						LP30320		
 lp-LP30321	c060		Shopping_ads,Display_ads	drop_marzha						LP30321		
 lp-LP30322	c060		Shopping_ads,Display_ads	drop_marzha						LP30322		
-lp-LP30323	c060		Shopping_ads,Display_ads	drop_marzha						LP30323		
+lp-LP30323	c060		Shopping_ads,Display_ads	drop_t8						LP30323		
 lp-LP30328	c030		Shopping_ads,Display_ads	drop_marzha						LP30328		
 lp-LP30329	c030		Shopping_ads,Display_ads	drop_marzha						LP30329		
 lp-LP30330	c030		Shopping_ads,Display_ads	drop_marzha						LP30330		
@@ -17856,8 +17856,8 @@ lp-LP3651	c030		Shopping_ads,Display_ads	drop_marzha
 lp-LP36722	c030		Shopping_ads,Display_ads	drop_marzha								
 lp-LP36723	c060		Shopping_ads,Display_ads	drop_marzha								
 lp-LP36772	c050		Shopping_ads,Display_ads	drop_marzha								
-lp-LP36975	c060		Shopping_ads,Display_ads	drop_t8								
-lp-LP3718	c040		Shopping_ads,Display_ads	drop_marzha								
+lp-LP36975	c060		Shopping_ads,Display_ads	drop_t5								
+lp-LP3718	c040		Shopping_ads,Display_ads	drop_t8								
 lp-LP37266	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lp-LP37540	m0_new		Shopping_ads,Display_ads	drop_marzha						LP37540		
 lp-LP37541	m0_new		Shopping_ads,Display_ads	drop_marzha						LP37541		
@@ -17868,7 +17868,7 @@ lp-LP37729	m0_new		Shopping_ads,Display_ads	drop_marzha						LP37729
 lp-LP37730	m0_new		Shopping_ads,Display_ads	drop_marzha						LP37730		
 lp-LP37733	m0_new		Shopping_ads,Display_ads	drop_marzha						LP37733		
 lp-LP37736	m0_new		Shopping_ads,Display_ads	drop_marzha						LP37736		
-lp-LP37760	c200		Shopping_ads,Display_ads	drop_t8						LP37760		
+lp-LP37760	c200		Shopping_ads,Display_ads	drop_marzha						LP37760		
 lp-LP37950	m0_new		Shopping_ads,Display_ads	drop_marzha						LP37950		
 lp-LP38057	m0_new		Shopping_ads,Display_ads	drop_marzha						LP38057		
 lp-LP38128	m0_new		Shopping_ads,Display_ads	drop_marzha						LP38128		
@@ -17903,7 +17903,7 @@ lp-LP38575	m0_new		Shopping_ads,Display_ads	drop_marzha						LP38575
 lp-LP3859	c030		Shopping_ads,Display_ads	drop_marzha						LP3859		
 lp-LP3860	c020		Shopping_ads,Display_ads	drop_marzha						LP3860		
 lp-LP3861	c030		Shopping_ads,Display_ads	drop_marzha						LP3861		
-lp-LP3862	c030		Shopping_ads,Display_ads	drop_marzha						LP3862		
+lp-LP3862	c030		Shopping_ads,Display_ads	drop_t8						LP3862		
 lp-LP38626	c080		Shopping_ads,Display_ads	drop_t8						LP38626		
 lp-LP3863	c030		Shopping_ads,Display_ads	drop_t8						LP3863		
 lp-LP3864	c040		Shopping_ads,Display_ads	drop_t8						LP3864		
@@ -18148,11 +18148,11 @@ lp-LP6555	m0_new		Shopping_ads,Display_ads	drop_marzha						LP6555
 lp-LP6556	c060		Shopping_ads,Display_ads	drop_t8						LP6556		
 lp-LP6557	c080		Shopping_ads,Display_ads	drop_marzha						LP6557		
 lp-LP6558	c080		Shopping_ads,Display_ads	drop_t8						LP6558		
-lp-LP6559	c080		Shopping_ads,Display_ads	drop_t8						LP6559		
+lp-LP6559	c080		Shopping_ads,Display_ads	drop_marzha						LP6559		
 lp-LP6560	c040		Shopping_ads,Display_ads	drop_marzha						LP6560		
 lp-LP6561	c040		Shopping_ads,Display_ads	drop_t8						LP6561		
 lp-LP6562	c040		Shopping_ads,Display_ads	drop_t8						LP6562		
-lp-LP6615	m0_new		Shopping_ads,Display_ads	drop_marzha						LP6615		
+lp-LP6615	m0_new		Shopping_ads,Display_ads	drop_marzha								
 lp-LP8648	c150		Shopping_ads,Display_ads	drop_t8						LP8648		
 lp-LP8762	c100		Shopping_ads,Display_ads	drop_t8								
 lp-LP8846	c120		Shopping_ads,Display_ads	drop_marzha								
@@ -28048,7 +28048,7 @@ vt-00-57	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti				7113
 vt-00-58	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-00-59	c150	test0		khvist								
 vt-0013	c100			khvist								
-vt-01-056	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
+vt-01-056	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti					1070924745416			
 vt-0112	c100			khvist								
 vt-0116	c100			khvist								
 vt-011615-А	c150	test0		khvist								
@@ -28628,13 +28628,13 @@ vt-2242-21	m5_norm		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-227	c100		Shopping_ads	ne_v_nayavnosti							2026-12-07T09:00+0300	
 vt-228821-А	c060	ads_zero		khvist								
 vt-228823-А	c150	test0		khvist					6920180628488	228823-А		
-vt-228826-А	c200			khvist								
+vt-228826-А	c200		Shopping_ads,Display_ads	ne_v_prajsi								
 vt-228922	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-228922-А	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-22900	c150	test0		khvist					7895730213225			
 vt-23-060AC	c300			khvist					6942178908761	23-060AC		
 vt-23001 440	c100			khvist								
-vt-23190-00	c200			khvist					4823082542468			
+vt-23190-00	c200		Shopping_ads,Display_ads	ne_v_prajsi					4823082542468			
 vt-23194-00	c050		Shopping_ads	ne_v_nayavnosti					4823082543281			
 vt-23419/103	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-23498/013	m2_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -29224,7 +29224,7 @@ vt-42942	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-42942-G4Y	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-42997-1 ТЕХ	c120		Shopping_ads	deshevyi								
 vt-4301	c100			khvist								
-vt-43018	c040		Shopping_ads	ne_v_rynku					8693357435742			
+vt-43018	dup:Тиква		Shopping_ads	ne_v_prajsi					8693357435742			
 vt-4302	c100			khvist								
 vt-43028g	c200			khvist								
 vt-4303	c100	ads_zero		khvist								
@@ -29255,7 +29255,7 @@ vt-440065	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-440069	c150		Shopping_ads	pid_zamovlennya							2026-12-07T09:00+0300	
 vt-440079/2	c050		Shopping_ads	ne_v_rynku					8693357208742			
 vt-440080/2	c050	ads_zero	Shopping_ads	ne_v_rynku								
-vt-440099	c060		Shopping_ads	ne_v_rynku					8693357249172			
+vt-440099	c060		Shopping_ads	ne_v_prajsi					8693357249172			
 vt-440111	c120		Shopping_ads	deshevyi								
 vt-440111-SL	c080		Shopping_ads	deshevyi								
 vt-440176	c120			khvist					8693357418288			
@@ -29265,7 +29265,7 @@ vt-440236	m2_norm		Shopping_ads,Display_ads	ne_v_nayavnosti
 vt-440237	c060		Shopping_ads	ne_v_rynku					8693357394186			
 vt-440255	c150	test0		khvist								
 vt-440258	c250	test0		khvist					8693357457515			
-vt-440275	c120	test0		khvist					8693357455986			
+vt-440275	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi					8693357455986			
 vt-440276	c120		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357446526			
 vt-440295/6	c200			khvist					8693357469433			
 vt-440295/6 Gold	c300	test0		khvist								
@@ -29302,7 +29302,7 @@ vt-44412	c040		Shopping_ads	ne_v_rynku					4606065002001
 vt-44417	c250		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-07T09:00+0300	
 vt-44419	c150	test0		khvist								
 vt-44419-1 ТЕХ	c040		Shopping_ads	ne_v_nayavnosti							2026-12-07T09:00+0300	
-vt-44688-ТЕХ 6	c120	test0		khvist								
+vt-44688-ТЕХ 6	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi								
 vt-44703	c100	test0		khvist								
 vt-44704	dup:Тиква		Shopping_ads	ne_v_nayavnosti					8693357198951			
 vt-44705	c250	test0		khvist								
@@ -29553,7 +29553,7 @@ vt-51819	c200	test0		khvist
 vt-5188	c120		Shopping_ads	deshevyi					6970863769328			
 vt-51952	c150	mykolai		khvist					6922048551952			
 vt-520004	c150			khvist								
-vt-520004-GOLD	c080		Shopping_ads	ne_v_rynku								
+vt-520004-GOLD	c080		Shopping_ads	ne_v_prajsi								
 vt-520014	c250		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-520015	c150				konv_google				8693357455191			
 vt-520074	c150			khvist								
@@ -29563,7 +29563,7 @@ vt-520125-GOLD	c250		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-07T0
 vt-520185	c040		Shopping_ads	ne_v_rynku								
 vt-520215	c120	test0		khvist								
 vt-520254	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
-vt-520334	c120	test0		khvist					8693357603141			
+vt-520334	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi					8693357603141			
 vt-520345	c060		Shopping_ads	ne_v_rynku					8693357596405			
 vt-520362	c200	test0		khvist					8693357603554			
 vt-520445	m2_norm	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -29610,7 +29610,7 @@ vt-530068	c060		Shopping_ads	ne_v_rynku				637
 vt-530106	c080			khvist								
 vt-530122	c080	ads_zero		khvist								
 vt-530138	c120			khvist								
-vt-530144/4	c150	test0		khvist								
+vt-530144/4	c150		Shopping_ads,Display_ads	ne_v_prajsi								
 vt-530146	c120	ads_zero		khvist								
 vt-530156	c040		Shopping_ads	ne_v_rynku								
 vt-530166	c200			khvist								
@@ -29684,7 +29684,7 @@ vt-59010	c250				konv_google				8693357002876
 vt-59013	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-59014	c300		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-07T09:00+0300	
 vt-59019	c400		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-07T09:00+0300	
-vt-59023	c300			khvist					8693357192485			
+vt-59023	c300		Shopping_ads,Display_ads	ne_v_prajsi					8693357192485			
 vt-59024	c500		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357192508			
 vt-59024g	c500			khvist								
 vt-59032	c150		Shopping_ads,Display_ads	ne_v_nayavnosti					8693357192546			
@@ -29960,7 +29960,7 @@ vt-9097-13	c050		Shopping_ads	ne_v_rynku
 vt-9097-3	c120		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-07T09:00+0300	
 vt-9097-4	m3_hit		Shopping_ads,Display_ads	ne_v_nayavnosti		prybutok						
 vt-9097-9	c120	ads_zero		khvist								
-vt-9098	c100	ads_zero		khvist					4823082528509			
+vt-9098	c100	ads_zero	Shopping_ads,Display_ads	ne_v_prajsi					4823082528509			
 vt-9099	c100			khvist					4823082528516			
 vt-9099-4	c050		Shopping_ads	ne_v_rynku					4823082541003			
 vt-9099-5	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
@@ -31247,7 +31247,7 @@ vt-BM81810-1	c200		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-07T09:
 vt-BM81810TT	c250	test0		khvist								
 vt-BM8702	m3_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-BMIC-012	c300	test0		khvist								
-vt-BMR-00816DL-230	c250			khvist								
+vt-BMR-00816DL-230	c250		Shopping_ads,Display_ads	ne_v_prajsi								
 vt-BS-0107	c050		Shopping_ads	ne_v_rynku								
 vt-BS1012	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-BS1018	c150		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-07T09:00+0300	
@@ -31367,7 +31367,7 @@ vt-EM-1750	c250	ads_zero	Shopping_ads,Display_ads	pid_zamovlennya							2026-12-
 vt-EM-1757	c150		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-07T09:00+0300	
 vt-EM-2018	c150		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-07T09:00+0300	
 vt-EM-2024	c050		Shopping_ads	ne_v_nayavnosti							2026-12-07T09:00+0300	
-vt-EM-2068	c060		Shopping_ads	ne_v_rynku								
+vt-EM-2068	c060		Shopping_ads	ne_v_prajsi								
 vt-EM-2107	c040		Shopping_ads	ne_v_nayavnosti							2026-12-07T09:00+0300	
 vt-EM-2110	c100				chempion	prybutok						
 vt-EM-2130	c100		Shopping_ads	ne_v_nayavnosti							2026-12-07T09:00+0300	
@@ -32854,7 +32854,7 @@ vt-X18	c120		Shopping_ads	deshevyi
 vt-X20	c120		Shopping_ads	deshevyi								
 vt-X21	m5_new		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-XJPJD078	c250	test0		khvist					7895730212280	XJPJD078		
-vt-XLZB78-2	c150	ads_zero		khvist								
+vt-XLZB78-2	c150	ads_zero	Shopping_ads,Display_ads	ne_v_prajsi								
 vt-XWY6855-4	c400		Shopping_ads,Display_ads	pid_zamovlennya							2026-12-07T09:00+0300	
 vt-YB-81	m4_norm		Shopping_ads,Display_ads	ne_v_nayavnosti								
 vt-YB-88	c400		Shopping_ads,Display_ads	ne_v_nayavnosti							2026-12-07T09:00+0300	
