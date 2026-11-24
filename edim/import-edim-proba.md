@@ -6,5 +6,5 @@
 | артикул Едіму | назва | сторінка | зараз (ціна / наявність) | очікувано після імпорту | Гарбуз |
 |---|---|---|---|---|---|
 | 01-45-003 | Ручка для металопластикових вікон CGZS036-CD | https://edimik.com.ua/ruchka-dlia-metaloplastykovykh-vikon-cgzs036-cd/ | 209 / є | 229 / немає | 2639817174 229.0 |
-| 101-149 | Клейка ПВХ стрічка для теплоізоляції 45мм Х 30м сі | https://edimik.com.ua/kleika-pvkh-strichka-dlia-teploizoliatsii-45mm-kh-30m-sira/ | 179 / немає | 169 / є | 2430323483 169.0 |
-| 101-166 | Скотч армований polax, клейка стрічка синя 50 мм х | https://edimik.com.ua/skotch-armovanyi-polax-kleika-strichka-synia-50-mm-kh-25-m/ | 179 / немає | 209 / є | 2395966702 209.0 |
+| amt-190294 | Свердло по металу HSS-Co/M35 12.0 (1 од.) Vitals P | https://edimik.com.ua/sverdlo-po-metalu-hss-co-m35-12.0-1-od.-vitals-professional/ | 343 / немає | 343 / є | amt-190294 343.0 |
+| 00001396 | Сікатор для щеплення, RapidE R9004 | https://edimik.com.ua/sikator-dlia-shcheplennia-rapide-r9004/ | 789 / є | 919 / є | PLX-НФ-00001396 919.0 |
