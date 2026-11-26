@@ -7,4 +7,4 @@
 |---|---|---|---|---|---|
 | 01-45-003 | Ручка для металопластикових вікон CGZS036-CD | https://edimik.com.ua/ruchka-dlia-metaloplastykovykh-vikon-cgzs036-cd/ | 209 / є | 229 / немає | 2639817174 229.0 |
 | amt-162526 | Кронштейн для лазерного рівня Vitals LA 9 | https://edimik.com.ua/kronshtein-dlia-lazernoho-rivnia-vitals-la-9/ | 485 / немає | 577 / є | amt-162526 577.0 |
-| amt-190290 | Свердло по металу HSS-Co/M35 9.0 (1 од.) Vitals Pr | https://edimik.com.ua/sverdlo-po-metalu-hss-co-m35-9.0-1-od.-vitals-professional/ | 188 / немає | 188 / є | amt-190290 188.0 |
+| amt-190290 | Свердло по металу HSS-Co/M35 9.0 (1 од.) Vitals Pr | https://edimik.com.ua/sverdlo-po-metalu-hss-co-m35-9.0-1-od.-vitals-professional/ | 188 / немає | 250 / є | amt-190290 250.0 |
