@@ -326,7 +326,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 10-15-002-PC	dup:Гарбуз			khvist			503730	
 10-15-003-AB	dup:Гарбуз			khvist			503730	
 10-15-004-SN	dup:Гарбуз			khvist			503730	
-10-15-006-ORB (SB)	c010	prybutok			chempion		503730	
+10-15-006-ORB (SB)	c010			khvist			503730	
 10-15a-004-AB	c030			khvist			503730	
 10-15a-005-GRAFIT	dup:Гарбуз			khvist			503730	
 10-19	dup:Гарбуз			khvist			503730	
@@ -397,7 +397,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 100-038	dup:Тиква			khvist			1191	
 100-073	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi			1202	
 100-074	c040	prybutok			chempion		1202	
-100-077	dup:Тиква	prybutok			chempion		1202	
+100-077	dup:Тиква			khvist			1202	
 100-078	dup:Тиква			khvist			1202	
 100-088	dup:Гарбуз	prybutok			chempion		1305	
 100-092	c080			khvist			2181	
@@ -458,7 +458,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1000-048	dup:Гарбуз			khvist			7112	
 1000-100	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti		Polax	5591	
 1000-102	dup:Гарбуз				rozvidka		5591	
-1000-104	c020	prybutok			chempion		5591	
+1000-104	c020				chempion		5591	
 101-001	dup:Тиква			khvist			2212	
 101-002	dup:Тиква			khvist			2212	
 101-004	dup:Тиква		Shopping_ads	ne_v_rynku			2212	
@@ -578,7 +578,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 101-195	dup:Тиква			khvist			2212	
 101-196	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi			2212	
 101277	dup:Тиква		Shopping_ads	season_off				
-101278	c080	stop	Shopping_ads,Display_ads	pid_zamovlennya				2026-12-11T09:00+0300
+101278	c080	ads_zero	Shopping_ads,Display_ads	pid_zamovlennya				2026-12-11T09:00+0300
 101284	dup:Тиква		Shopping_ads	season_off				
 101285	dup:Тиква		Shopping_ads	season_off				
 101292	c050		Shopping_ads,Display_ads	pid_zamovlennya		VMF		2026-12-11T09:00+0300
@@ -630,7 +630,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 120	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya			6557	2026-12-11T09:00+0300
 12001	dup:Тиква	prybutok			chempion		1171	
 121	dup:Гарбуз			khvist			1300	
-121-k	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti			1203	
+121-k	dup:Тиква	prybutok	Shopping_ads,Display_ads	ne_v_nayavnosti			1203	
 1217	dup:Гарбуз			khvist			2802	
 1222	dup:Гарбуз	ads_zero		khvist			2802	
 123	dup:Гарбуз			khvist			7020	
@@ -687,7 +687,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 140-36	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya			499860	2026-12-11T09:00+0300
 140-360	dup:Тиква				rozvidka		499860	
 140-400	dup:Тиква			khvist			499860	
-140-60	dup:Тиква		Shopping_ads,Display_ads	pid_zamovlennya			499860	2026-12-11T09:00+0300
+140-60	dup:Тиква	prybutok			chempion		499860	2026-12-11T09:00+0300
 140-600	dup:Тиква			khvist			499860	
 140-80	dup:Гарбуз			khvist			499860	
 1401	dup:Тиква	stop		khvist				
@@ -705,7 +705,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1491	c060			khvist			1450	
 1492	dup:Гарбуз			khvist			2181	
 15-001	dup:Гарбуз	prybutok	Shopping_ads,Display_ads	ne_v_prajsi			1774	
-15-002	dup:Гарбуз				chempion		1774	
+15-002	dup:Гарбуз	prybutok			chempion		1774	
 15-003	dup:Гарбуз			khvist			1774	
 15-004	dup:Гарбуз			khvist			1774	
 15-01-002	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya			4698	2026-12-11T09:00+0300
@@ -834,7 +834,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 15-68-007	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya			1356	2026-12-11T09:00+0300
 15-70-001	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi			1356	
 15-70-002	dup:Тиква			khvist			1356	
-15-71-003	dup:Тиква			khvist			1356	
+15-71-003	dup:Тиква				chempion		1356	
 15-71-004	dup:Тиква				chempion		1356	
 15-73-003	dup:Тиква			khvist			1356	
 15-73-004	dup:Тиква			khvist			1356	
@@ -935,7 +935,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 1943	c050			khvist			2802	
 1954	dup:Гарбуз			khvist			2802	
 1979	dup:Гарбуз	stop	Shopping_ads	ne_v_rynku			2802	
-1980	dup:Гарбуз	prybutok			chempion		2802	
+1980	dup:Гарбуз			khvist			2802	
 1988	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			2802	
 1990	dup:Тиква			khvist			2802	
 20-001	dup:Гарбуз			khvist			1774	
@@ -1040,7 +1040,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 2205	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya			1832	2026-12-11T09:00+0300
 2206	dup:Гарбуз				rozvidka		1832	
 2211	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti			1171	
-2212	m0_norm		Shopping_ads,Display_ads	ne_v_nayavnosti			1171	
+2212	m0_new		Shopping_ads,Display_ads	ne_v_nayavnosti			1171	
 2213	dup:Тиква			khvist			1171	
 2214	dup:Тиква			khvist			1171	
 2224	dup:Тиква			khvist			1203	
@@ -1063,7 +1063,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 23-004	dup:Тиква		Shopping_ads	ne_v_rynku			505831	
 23-005	dup:Тиква		Shopping_ads	ne_v_rynku			2198	
 23-006	dup:Тиква		Shopping_ads	ne_v_rynku			2198	
-23-007	dup:Тиква			khvist			2198	
+23-007	dup:Тиква				chempion		2198	
 23-008	dup:Гарбуз			khvist			505831	
 23-009	c040			khvist			2198	
 23-010	dup:Тиква	ads_zero		khvist			505831	
@@ -1351,7 +1351,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 3064	dup:Тиква			khvist			1202	
 3065	dup:Тиква			khvist			1193	
 3068	dup:Тиква						1305	
-3071	dup:Гарбуз				konv_google		2181	
+3071	dup:Гарбуз	prybutok			chempion		2181	
 3085	dup:Тиква			khvist			2021	
 3086	dup:Гарбуз	ads_zero		khvist			499860	
 31-001	dup:Тиква		Shopping_ads	ne_v_rynku			499886	
@@ -1459,7 +1459,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 35-009	dup:Тиква			khvist			7562	
 35-011	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi			1958	
 35-016	dup:Тиква			khvist			1958	
-35-017	dup:Тиква	prybutok			chempion		1958	
+35-017	dup:Тиква		Shopping_ads	ne_v_rynku			1958	
 35-018	dup:Гарбуз	prybutok			chempion		1958	
 35-019	dup:Тиква			khvist			1958	
 35-020	c050		Shopping_ads,Display_ads	pid_zamovlennya			1958	2026-12-11T09:00+0300
@@ -1659,7 +1659,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 38-007	dup:Гарбуз			khvist			1191	
 38-008	dup:Гарбуз			khvist			1191	
 38-009	c080			khvist			1413	
-38-010	dup:Гарбуз		Shopping_ads	ne_v_rynku			2021	
+38-010	dup:Гарбуз	ads_zero	Shopping_ads	ne_v_rynku			2021	
 38-011	dup:Гарбуз			khvist			2021	
 38-012	dup:Гарбуз		Shopping_ads	ne_v_rynku			2021	
 38-013	dup:Тиква		Shopping_ads,Display_ads	ne_v_prajsi			1191	
@@ -1690,7 +1690,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 39-008	dup:Гарбуз				rozvidka		2208	
 39-009	dup:Гарбуз		Shopping_ads	ne_v_rynku			2208	
 391	dup:Тиква			khvist			2212	
-4-012	dup:Гарбуз						7092	
+4-012	dup:Гарбуз	ads_zero		khvist			7092	
 4-025-001	dup:Гарбуз			khvist			6343	
 4-026-001	c080		Shopping_ads,Display_ads	pid_zamovlennya			7092	2026-12-11T09:00+0300
 4-028-001	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya			6343	2026-12-11T09:00+0300
@@ -1778,7 +1778,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482018626	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya				2026-12-11T09:00+0300
 482018628	dup:Гарбуз			season_off				
 482018634	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya				2026-12-11T09:00+0300
-482018637	dup:Тиква	stop	Shopping_ads,Display_ads	ne_v_nayavnosti			4928	
+482018637	dup:Тиква	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti			4928	
 482018638	dup:Гарбуз		Shopping_ads	ne_v_rynku				
 482018639	dup:Гарбуз			khvist				
 482018640	dup:Гарбуз			khvist				
@@ -1792,7 +1792,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482018688	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti		Beston	4928	
 482018690	dup:Гарбуз			season_off				
 482018691	dup:Гарбуз			season_off				
-482018693	dup:Тиква	stop	Shopping_ads,Display_ads	ne_v_nayavnosti			536	
+482018693	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti			536	
 482018704	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			338	
 482018709	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti			505295	
 482018718	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			3329	
@@ -1811,7 +1811,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482018788	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			1632	
 482018789	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			1632	
 482018790	dup:Тиква			cina_vid_4000			2277	
-482018792	dup:Гарбуз			season_off				
+482018792	dup:Гарбуз	prybutok		season_off	chempion			
 482018793	dup:Гарбуз	prybutok		season_off	chempion			
 482018810	dup:Гарбуз	prybutok	Shopping_ads,Display_ads	ne_v_nayavnosti			2524	
 482018811	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			594	
@@ -1847,7 +1847,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482018888	dup:Гарбуз			cina_vid_4000			604	
 482018889	dup:Гарбуз			khvist			619	
 482018890	dup:Гарбуз			cina_vid_4000			619	
-482018893	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			500101	
+482018893	dup:Гарбуз	prybutok	Shopping_ads,Display_ads	ne_v_nayavnosti			500101	
 482018901	dup:Тиква	prybutok	Shopping_ads,Display_ads	ne_v_nayavnosti			4975	
 482018905	dup:Тиква	prybutok	Shopping_ads,Display_ads	ne_v_nayavnosti			1749	
 482018907	dup:Гарбуз	ads_zero			rozvidka		623	
@@ -1858,7 +1858,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482018922	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			2713	
 482018924	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			2713	
 482018928	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti			3086	
-482018930	dup:Тиква	prybutok	Shopping_ads,Display_ads	ne_v_nayavnosti			2713	
+482018930	dup:Тиква		Shopping_ads,Display_ads	ne_v_nayavnosti			2713	
 482018931	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			4515	
 482018932	c100		Shopping_ads,Display_ads	pid_zamovlennya			3268	2026-12-11T09:00+0300
 482018944	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			5119	
@@ -1908,7 +1908,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 482019754	c120			khvist			631	
 482019783	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			604	
 482019784	dup:Гарбуз	prybutok			chempion		604	
-482019785	dup:Гарбуз	stop	Shopping_ads,Display_ads	ne_v_nayavnosti			604	
+482019785	dup:Гарбуз	ads_zero	Shopping_ads,Display_ads	ne_v_nayavnosti			604	
 482019803	dup:Гарбуз			khvist				
 482019849	dup:Гарбуз			khvist				
 482019852	c150		Shopping_ads,Display_ads	pid_zamovlennya			3082	2026-12-11T09:00+0300
@@ -1929,7 +1929,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 50-003	dup:Гарбуз		Shopping_ads	ne_v_rynku			1832	
 50-004	dup:Гарбуз			khvist			1832	
 50-005	dup:Гарбуз			khvist			1305	
-50-006	dup:Гарбуз	prybutok			chempion		1832	
+50-006	dup:Гарбуз		Shopping_ads	ne_v_rynku			1832	
 50-50307	dup:Гарбуз			khvist			2212	
 500-006С	dup:Гарбуз			khvist			1206	
 500-008С	c020			khvist			1206	
@@ -2013,7 +2013,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 54-005	dup:Гарбуз		Shopping_ads	ne_v_rynku			499860	
 54-006	dup:Гарбуз			khvist			499860	
 54-008	dup:Гарбуз			khvist			499860	
-54-009	dup:Гарбуз				chempion		499860	
+54-009	dup:Гарбуз	prybutok			chempion		499860	
 54-010	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya			499860	2026-12-11T09:00+0300
 54-012	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya			499860	2026-12-11T09:00+0300
 54-013	dup:Гарбуз			khvist			499860	
@@ -2040,7 +2040,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 54-047	dup:Гарбуз			khvist			499860	
 54-048	dup:Гарбуз			khvist			499860	
 54-049	dup:Гарбуз			khvist			499860	
-54-050	c040						499860	
+54-050	c040	prybutok			chempion		499860	
 54-051	c040			khvist			499860	
 54-052	c040			khvist			499860	
 54-053	c040				rozvidka		499860	
@@ -2048,7 +2048,7 @@ id	custom_label_3	custom_label_4	excluded_destination	custom_label_1	custom_labe
 54-055	c040			khvist			499860	
 54-056	c040		Shopping_ads,Display_ads	ne_v_prajsi			499860	
 54-058	c040			khvist			499860	
-54-059	c040						499860	
+54-059	c040	prybutok			chempion		499860	
 54-071	dup:Тиква		Shopping_ads	ne_v_rynku			499860	
 54-090	dup:Гарбуз			khvist			499860	
 54-091	dup:Гарбуз			khvist			499860	
@@ -2263,7 +2263,7 @@ PLX-01-87-008	c030			khvist			1167
 PLX-02-001	dup:Гарбуз			khvist			1774	
 PLX-02-002	dup:Гарбуз			khvist			1774	
 PLX-02-003	dup:Гарбуз		Shopping_ads	ne_v_rynku			1774	
-PLX-02-004	c010		Shopping_ads	ne_v_rynku			1774	
+PLX-02-004	c010				chempion		1774	
 PLX-02-015	dup:Гарбуз		Shopping_ads	ne_v_rynku			1774	
 PLX-02-016	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_prajsi			1774	
 PLX-02-018	dup:Гарбуз				rozvidka		1774	
@@ -2444,7 +2444,7 @@ PLX-09-351	dup:Гарбуз			khvist			6343
 PLX-09-353	dup:Гарбуз			khvist				
 PLX-09-354	dup:Гарбуз			khvist			6343	
 PLX-09-355	dup:Гарбуз			khvist			6343	
-PLX-09-358	dup:Гарбуз	prybutok			chempion		6343	
+PLX-09-358	dup:Гарбуз			khvist			6343	
 PLX-09-782	dup:Гарбуз			khvist			1753	
 PLX-09-783	dup:Гарбуз				rozvidka		1753	
 PLX-09-784	dup:Гарбуз			khvist			1753	
@@ -2534,7 +2534,7 @@ PLX-10-15-001-PB	c030			khvist			1167
 PLX-10-15-002-PC	c030			khvist			503730	
 PLX-10-15-003-AB	dup:Гарбуз			khvist			503730	
 PLX-10-15-004-SN	dup:Гарбуз			khvist			503730	
-PLX-10-15-006-ORB(SB)	dup:Гарбуз	prybutok			chempion		503730	
+PLX-10-15-006-ORB(SB)	dup:Гарбуз			khvist			503730	
 PLX-10-15a-005-GRAFIT	dup:Гарбуз			khvist			503730	
 PLX-10-15a-006-ORB (SB)	dup:Гарбуз			khvist			503730	
 PLX-10-15а-004-AB	dup:Гарбуз			khvist			503730	
@@ -2654,7 +2654,7 @@ PLX-100-070	dup:Гарбуз			khvist			3944
 PLX-100-072	dup:Гарбуз			khvist			3944	
 PLX-100-073	c020		Shopping_ads,Display_ads	ne_v_prajsi			7112	
 PLX-100-074	c060	prybutok			chempion		7112	
-PLX-100-077	c040	prybutok			chempion		7112	
+PLX-100-077	c040			khvist			7112	
 PLX-100-078	c030			khvist			7112	
 PLX-100-082	dup:Гарбуз			khvist			3944	
 PLX-100-088	c030	prybutok			chempion		6549	
@@ -2700,7 +2700,7 @@ PLX-100-3044	dup:Гарбуз			khvist			499887
 PLX-100-396	dup:Гарбуз			khvist			7112	
 PLX-100-398	dup:Гарбуз		Shopping_ads	ne_v_rynku			7112	
 PLX-100-428	dup:Гарбуз			khvist			7020	
-PLX-100-429	c030				chempion		7020	
+PLX-100-429	c030	prybutok			chempion		7020	
 PLX-100-430	dup:Гарбуз		Shopping_ads	ne_v_rynku			7020	
 PLX-100-433	dup:Гарбуз			khvist			2047	
 PLX-100-435	dup:Гарбуз	prybutok			chempion		7112	
@@ -2722,10 +2722,10 @@ PLX-1000-042	c030			khvist			7112
 PLX-1000-043	c010		Shopping_ads	ne_v_rynku			7112	
 PLX-1000-044	c030			khvist			7112	
 PLX-1000-045	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya			2878	2026-12-11T09:00+0300
-PLX-1000-046	c020	prybutok			chempion		1167	
+PLX-1000-046	c010		Shopping_ads	ne_v_rynku			1167	
 PLX-1000-047	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya			2878	2026-12-11T09:00+0300
 PLX-1000-048	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya		Polax	1193	2026-12-11T09:00+0300
-PLX-1000-104	dup:Гарбуз	prybutok			chempion		2047	
+PLX-1000-104	dup:Гарбуз				chempion		2047	
 PLX-1000-227	dup:Гарбуз			khvist			1167	
 PLX-1000-229	dup:Гарбуз			khvist			1167	
 PLX-1000-230	dup:Гарбуз			khvist			1167	
@@ -3146,7 +3146,7 @@ PLX-12-398	dup:Гарбуз			khvist			1974
 PLX-12-435	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_nayavnosti			6343	
 PLX-12-458	dup:Гарбуз	ads_zero		khvist			2202	
 PLX-12-747	dup:Гарбуз			khvist			4988	
-PLX-12-749	dup:Гарбуз			khvist			499860	
+PLX-12-749	dup:Гарбуз						499860	
 PLX-12-873	dup:Гарбуз			khvist			1958	
 PLX-12-947	dup:Гарбуз			khvist			630	
 PLX-12-948	dup:Гарбуз			khvist			630	
@@ -3247,7 +3247,7 @@ PLX-140-320	dup:Гарбуз			khvist			499860
 PLX-140-36	dup:Гарбуз			khvist			499860	
 PLX-140-360	dup:Гарбуз			khvist			499860	
 PLX-140-400	dup:Гарбуз			khvist			499860	
-PLX-140-60	dup:Гарбуз						499860	
+PLX-140-60	dup:Гарбуз	prybutok			chempion		499860	
 PLX-140-600	dup:Гарбуз				rozvidka		499860	
 PLX-1400	c060			khvist			6437	
 PLX-1401	c030		Shopping_ads	ne_v_rynku			6437	
@@ -3274,7 +3274,7 @@ PLX-149190	dup:Гарбуз			khvist			500054
 PLX-149191	dup:Гарбуз			khvist			500054	
 PLX-149199	dup:Гарбуз			khvist			500054	
 PLX-15-001	dup:Гарбуз	prybutok	Shopping_ads,Display_ads	ne_v_prajsi			1774	
-PLX-15-002	dup:Гарбуз				chempion		1774	
+PLX-15-002	dup:Гарбуз	prybutok			chempion		1774	
 PLX-15-003	dup:Гарбуз			khvist			1774	
 PLX-15-004	dup:Гарбуз			khvist			1774	
 PLX-15-01-001	c060			khvist			6343	
@@ -3313,7 +3313,7 @@ PLX-15-144-01	dup:Гарбуз				rozvidka		6343
 PLX-15-145	dup:Гарбуз			khvist			6343	
 PLX-15-147-01	dup:Гарбуз			khvist			6343	
 PLX-15-147-02	c060			khvist			6343	
-PLX-15-148-AB-L	dup:Гарбуз	prybutok			chempion		6343	
+PLX-15-148-AB-L	dup:Гарбуз			khvist			6343	
 PLX-15-148-AB-R	dup:Гарбуз			khvist			6343	
 PLX-15-148-SN-L	dup:Гарбуз			khvist			6343	
 PLX-15-148-SN-R	dup:Гарбуз			khvist			6343	
@@ -3449,7 +3449,7 @@ PLX-15-68-006	c080				konv_google		6343
 PLX-15-68-007	c060		Shopping_ads,Display_ads	pid_zamovlennya		FZB	6343	2026-12-11T09:00+0300
 PLX-15-70-002	dup:Гарбуз			khvist			6343	
 PLX-15-71-002	dup:Гарбуз			khvist			6343	
-PLX-15-71-003	dup:Гарбуз			khvist			6343	
+PLX-15-71-003	dup:Гарбуз				chempion		6343	
 PLX-15-71-004	dup:Гарбуз				chempion		6343	
 PLX-15-73-003	dup:Гарбуз			khvist			6343	
 PLX-15-73-004	dup:Гарбуз			khvist			6343	
@@ -3521,7 +3521,7 @@ PLX-16-10-002	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_prajsi			1027
 PLX-16-14-001	dup:Гарбуз			khvist			1974	
 PLX-16-14-002	dup:Гарбуз			khvist			1974	
 PLX-16-21-001	c020			khvist			1974	
-PLX-16-21-003	dup:Гарбуз	prybutok			chempion		1974	
+PLX-16-21-003	dup:Гарбуз			khvist			1974	
 PLX-16-36-001	dup:Гарбуз			khvist			1974	
 PLX-16-36-002	dup:Гарбуз			khvist			1974	
 PLX-16-36-003	dup:Гарбуз			khvist			1974	
@@ -3623,7 +3623,7 @@ PLX-194-45R-3R-PB	dup:Гарбуз			khvist			1974
 PLX-1953	c010			khvist			1632	
 PLX-1954	c020			khvist			2181	
 PLX-1979	c030			khvist			1832	
-PLX-1980	c030	prybutok			chempion		1832	
+PLX-1980	c030			khvist			1832	
 PLX-1988	c030		Shopping_ads,Display_ads	pid_zamovlennya			2796	2026-12-11T09:00+0300
 PLX-1990	c020			khvist			3240	
 PLX-20-001	dup:Гарбуз			khvist			1774	
@@ -3849,7 +3849,7 @@ PLX-23-003	c030			khvist			2198
 PLX-23-004	dup:Гарбуз		Shopping_ads	ne_v_rynku			1167	
 PLX-23-005	dup:Гарбуз			khvist			5136	
 PLX-23-006	dup:Гарбуз			khvist			5136	
-PLX-23-007	dup:Гарбуз			khvist			5136	
+PLX-23-007	dup:Гарбуз				chempion		5136	
 PLX-23-009	dup:Гарбуз			khvist			5136	
 PLX-23-010	c010		Shopping_ads	ne_v_rynku			1167	
 PLX-23-011	c020	prybutok			chempion		505831	
@@ -3904,7 +3904,7 @@ PLX-2436	c050		Shopping_ads,Display_ads	ne_v_prajsi			1186
 PLX-2439	c040		Shopping_ads,Display_ads	ne_v_prajsi			2208	
 PLX-2440	c060			season_off				
 PLX-2443	c050	prybutok	Shopping_ads,Display_ads	ne_v_prajsi			1215	
-PLX-24512	dup:Гарбуз	prybutok			chempion		6343	
+PLX-24512	dup:Гарбуз				chempion		6343	
 PLX-24513	dup:Гарбуз		Shopping_ads	ne_v_rynku			6343	
 PLX-2453	c030			khvist			499860	
 PLX-2454	c030			khvist			499860	
@@ -4378,7 +4378,7 @@ PLX-3242	c060			khvist			7112
 PLX-3243	c080	ads_zero		khvist			7112	
 PLX-3244	c020	ads_zero		khvist			2878	
 PLX-3245	dup:Гарбуз	prybutok			chempion		1305	
-PLX-3246	dup:Гарбуз			khvist			1305	
+PLX-3246	dup:Гарбуз						1305	
 PLX-3251	dup:Гарбуз		Shopping_ads,Display_ads				630	
 PLX-3253	dup:Гарбуз		Shopping_ads	season_off				
 PLX-3259	c200	cina			chempion		1167	
@@ -4423,8 +4423,8 @@ PLX-33264	dup:Гарбуз			khvist			1974
 PLX-33265	dup:Гарбуз			khvist			1974	
 PLX-33266	dup:Гарбуз			khvist			1974	
 PLX-33267	dup:Гарбуз	prybutok			chempion		1974	
-PLX-33269	dup:Гарбуз	prybutok			chempion		1974	
-PLX-33271	dup:Гарбуз	prybutok			chempion		1974	
+PLX-33269	dup:Гарбуз			khvist			1974	
+PLX-33271	dup:Гарбуз			khvist			1974	
 PLX-33273	dup:Гарбуз		Shopping_ads	ne_v_rynku			1974	
 PLX-33274	dup:Гарбуз			khvist			1974	
 PLX-33275	dup:Гарбуз			khvist			1974	
@@ -4467,7 +4467,7 @@ PLX-33344	dup:Гарбуз			khvist			6343
 PLX-33345	dup:Гарбуз		Shopping_ads	ne_v_rynku			6343	
 PLX-33347	dup:Гарбуз			khvist			6343	
 PLX-33349	dup:Гарбуз			khvist			6343	
-PLX-3335	dup:Гарбуз				chempion		630	
+PLX-3335	dup:Гарбуз	ads_zero		khvist			630	
 PLX-33350	dup:Гарбуз		Shopping_ads	ne_v_rynku			6343	
 PLX-33351	dup:Гарбуз		Shopping_ads	ne_v_rynku			6343	
 PLX-33352	dup:Гарбуз			khvist			6343	
@@ -4534,7 +4534,7 @@ PLX-35-006	dup:Гарбуз			khvist			1958
 PLX-35-009	c030			khvist			1958	
 PLX-35-011	c040		Shopping_ads,Display_ads	ne_v_prajsi			1958	
 PLX-35-016	c030			khvist			1958	
-PLX-35-017	c040	prybutok			chempion		1958	
+PLX-35-017	c010		Shopping_ads	ne_v_rynku			1958	
 PLX-35-018	dup:Гарбуз	prybutok			chempion		1958	
 PLX-35-019	dup:Гарбуз			khvist			1958	
 PLX-35-021	c010		Shopping_ads	ne_v_rynku			1958	
@@ -4808,7 +4808,7 @@ PLX-38-006	dup:Гарбуз			khvist			1413
 PLX-38-007	dup:Гарбуз			khvist			1413	
 PLX-38-008	dup:Гарбуз			khvist			1413	
 PLX-38-009	c080			khvist			1191	
-PLX-38-010	dup:Гарбуз		Shopping_ads	ne_v_rynku			1305	
+PLX-38-010	dup:Гарбуз	ads_zero	Shopping_ads	ne_v_rynku			1305	
 PLX-38-011	dup:Гарбуз			khvist			1305	
 PLX-38-012	dup:Гарбуз	ads_zero	Shopping_ads	ne_v_rynku			1305	
 PLX-38-013	c150		Shopping_ads,Display_ads	ne_v_prajsi			1191	
@@ -4845,7 +4845,7 @@ PLX-39-009	dup:Гарбуз		Shopping_ads	ne_v_rynku			1186
 PLX-391	c020			khvist			2878	
 PLX-394	c030			khvist			2878	
 PLX-3H1CP	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_prajsi			1974	
-PLX-4-012	dup:Гарбуз						6343	
+PLX-4-012	dup:Гарбуз			khvist			6343	
 PLX-4-015	c040			khvist			6343	
 PLX-4-016	c020			khvist			6343	
 PLX-4-017	dup:Гарбуз			khvist			6343	
@@ -5030,7 +5030,7 @@ PLX-50-002	dup:Гарбуз			khvist			1305
 PLX-50-003	dup:Гарбуз			khvist			1305	
 PLX-50-004	dup:Гарбуз			khvist			1305	
 PLX-50-005	dup:Гарбуз			khvist			1832	
-PLX-50-006	dup:Гарбуз	prybutok			chempion		1305	
+PLX-50-006	dup:Гарбуз		Shopping_ads	ne_v_rynku			1305	
 PLX-50-50307	dup:Гарбуз			khvist			2878	
 PLX-500	dup:Гарбуз			khvist			1974	
 PLX-500-006С	dup:Гарбуз			khvist			1206	
@@ -5169,7 +5169,7 @@ PLX-54-005	dup:Гарбуз		Shopping_ads	ne_v_rynku			499860
 PLX-54-006	dup:Гарбуз		Shopping_ads	ne_v_rynku			499860	
 PLX-54-007	dup:Гарбуз			khvist			499860	
 PLX-54-008	dup:Гарбуз			khvist			499860	
-PLX-54-009	dup:Гарбуз				chempion		499860	
+PLX-54-009	dup:Гарбуз	prybutok			chempion		499860	
 PLX-54-010	dup:Гарбуз			khvist			499860	
 PLX-54-011	dup:Гарбуз			khvist			499860	
 PLX-54-012	dup:Гарбуз			khvist			499860	
@@ -5197,7 +5197,7 @@ PLX-54-046	dup:Гарбуз			khvist			499860
 PLX-54-047	dup:Гарбуз			khvist			1167	
 PLX-54-048	dup:Гарбуз			khvist			499860	
 PLX-54-049	dup:Гарбуз			khvist			1167	
-PLX-54-050	c040						1167	
+PLX-54-050	c040	prybutok			chempion		1167	
 PLX-54-051	c040			khvist			1167	
 PLX-54-052	c040			khvist			1167	
 PLX-54-053	c040			khvist			1167	
@@ -5205,7 +5205,7 @@ PLX-54-054	c040			khvist			1167
 PLX-54-055	c040			khvist			1167	
 PLX-54-056	c040		Shopping_ads,Display_ads	ne_v_prajsi			1167	
 PLX-54-058	c040			khvist			1167	
-PLX-54-059	c040						1167	
+PLX-54-059	c040	prybutok			chempion		1167	
 PLX-54-071	dup:Гарбуз		Shopping_ads	ne_v_rynku			4487	
 PLX-54-090	dup:Гарбуз			khvist			499860	
 PLX-54-091	dup:Гарбуз			khvist			499860	
@@ -5492,7 +5492,7 @@ PLX-70-133	dup:Гарбуз		Shopping_ads	season_off
 PLX-70-134	dup:Гарбуз			season_off				
 PLX-70-135	dup:Гарбуз	ads_zero	Shopping_ads	season_off				
 PLX-70-136	dup:Гарбуз		Shopping_ads	season_off				
-PLX-70-137	dup:Гарбуз	prybutok		season_off	chempion			
+PLX-70-137	dup:Гарбуз	ads_zero		season_off				
 PLX-70-141	dup:Гарбуз		Shopping_ads	season_off				
 PLX-70-142	dup:Гарбуз			season_off				
 PLX-70-143	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya				2026-12-11T09:00+0300
@@ -5705,7 +5705,7 @@ PLX-923	dup:Гарбуз			khvist			1974
 PLX-924	dup:Гарбуз			khvist			1974	
 PLX-929	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya			1974	2026-12-11T09:00+0300
 PLX-93641	dup:Гарбуз			khvist			6343	
-PLX-940004	dup:Гарбуз						503742	
+PLX-940004	dup:Гарбуз			khvist			503742	
 PLX-940006	dup:Гарбуз				konv_google		503742	
 PLX-940008	c030		Shopping_ads,Display_ads	ne_v_prajsi			503742	
 PLX-940022	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_prajsi			503742	
@@ -5774,7 +5774,7 @@ PLX-B4W, RAL8019	dup:Гарбуз			khvist			6343
 PLX-B4W, RAL9006	dup:Гарбуз			khvist			6343	
 PLX-B4W, RAL9016	dup:Гарбуз			khvist			6343	
 PLX-B5W, RAL8019	dup:Гарбуз			khvist			6343	
-PLX-B5W, RAL9005	dup:Гарбуз			khvist			6343	
+PLX-B5W, RAL9005	dup:Гарбуз	stop		khvist			6343	
 PLX-B5W, RAL9016	dup:Гарбуз			khvist			6343	
 PLX-BC 2940	dup:Гарбуз			khvist			1974	
 PLX-BC2950	dup:Гарбуз			khvist			1974	
@@ -5801,7 +5801,7 @@ PLX-DM-151	c060		Shopping_ads,Display_ads	ne_v_prajsi
 PLX-DM-154	c050			season_off				
 PLX-DS-7230T	c040		Shopping_ads	ne_v_rynku				
 PLX-DS-7230TW	c040		Shopping_ads	ne_v_rynku				
-PLX-ES-1030	c040			khvist			499947	
+PLX-ES-1030	c040	prybutok			chempion		499947	
 PLX-ES-1040	c030			khvist			499947	
 PLX-FL 1550L	dup:Гарбуз			khvist			1974	
 PLX-FL1540	dup:Гарбуз			khvist			1974	
@@ -5862,7 +5862,7 @@ PLX-HK6040SN	c030			khvist			1974
 PLX-HK6040TBR	dup:Гарбуз			khvist			1974	
 PLX-HRS-0413	dup:Гарбуз		Shopping_ads,Display_ads	pid_zamovlennya			503742	2026-12-11T09:00+0300
 PLX-HT-066-020	dup:Гарбуз			season_off				
-PLX-HT-066-025	dup:Гарбуз	prybutok		season_off	chempion			
+PLX-HT-066-025	dup:Гарбуз			season_off				
 PLX-HT-11-293	dup:Гарбуз			season_off				
 PLX-HT-11-294	dup:Гарбуз			season_off				
 PLX-HT-11-295	dup:Гарбуз			season_off				
@@ -6040,7 +6040,7 @@ PLX-LD-5260	c050		Shopping_ads	ne_v_rynku
 PLX-LN-0413	dup:Гарбуз		Shopping_ads	ne_v_rynku			503742	
 PLX-LN-0428	dup:Гарбуз			khvist			503742	
 PLX-LN-0429	dup:Гарбуз			khvist			503742	
-PLX-LN-0581	dup:Гарбуз	prybutok			chempion		503742	
+PLX-LN-0581	dup:Гарбуз	ads_zero		khvist			503742	
 PLX-LN-0582	dup:Гарбуз	ads_zero		khvist			503742	
 PLX-LN-0583	dup:Гарбуз		Shopping_ads,Display_ads	ne_v_prajsi			503742	
 PLX-LN-0586	dup:Гарбуз		Shopping_ads	ne_v_rynku			503742	
@@ -6156,7 +6156,7 @@ PLX-SG-5312	c010		Shopping_ads	ne_v_rynku
 PLX-SI-601501	c050			khvist				
 PLX-SL1540	dup:Гарбуз			khvist			1974	
 PLX-SL1550	dup:Гарбуз			khvist			1974	
-PLX-SL1550L	dup:Гарбуз				chempion		1974	
+PLX-SL1550L	dup:Гарбуз			khvist			1974	
 PLX-SL1565	dup:Гарбуз			khvist			1974	
 PLX-SL1565L	dup:Гарбуз			khvist			1974	
 PLX-SM-105080	c010		Shopping_ads	ne_v_rynku				
@@ -6475,7 +6475,7 @@ PLX-НФ-00000539	dup:Гарбуз			khvist			4487
 PLX-НФ-00000540	c100			khvist			499860	
 PLX-НФ-00000542	dup:Гарбуз			khvist			4487	
 PLX-НФ-00000545	dup:Гарбуз			khvist			4487	
-PLX-НФ-00000547	dup:Гарбуз			khvist			4487	
+PLX-НФ-00000547	dup:Гарбуз				chempion		4487	
 PLX-НФ-00000548	dup:Гарбуз			khvist			4487	
 PLX-НФ-00000549	dup:Гарбуз			khvist			4487	
 PLX-НФ-00000551	c100			khvist			4487	
@@ -6493,7 +6493,7 @@ PLX-НФ-00000571	dup:Гарбуз			khvist			3944
 PLX-НФ-00000572	dup:Гарбуз			khvist			3944	
 PLX-НФ-00000573	dup:Гарбуз			khvist			3944	
 PLX-НФ-00000574	dup:Гарбуз			khvist			3944	
-PLX-НФ-00000575	dup:Гарбуз	prybutok			chempion		3944	
+PLX-НФ-00000575	dup:Гарбуз			khvist			3944	
 PLX-НФ-00000576	dup:Гарбуз			khvist			3944	
 PLX-НФ-00000577	dup:Гарбуз			khvist			3944	
 PLX-НФ-00000579	dup:Гарбуз			khvist			3944	
@@ -8327,7 +8327,7 @@ amt-203274	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha
 amt-204107	dup:Гарбуз		Shopping_ads,Display_ads	drop_t5				
 amt-206560	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				
 amt-208214	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				
-amt-210694	dup:Гарбуз		Shopping_ads,Display_ads	drop_t5				
+amt-210694	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				
 amt-216880	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				
 amt-216881	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				
 amt-217879	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				
@@ -8403,7 +8403,7 @@ amt-239946	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha
 amt-240471	dup:Гарбуз		Shopping_ads,Display_ads	drop_t5				
 amt-240472	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				
 amt-240473	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				
-amt-241129	dup:Гарбуз		Shopping_ads,Display_ads	drop_t5				
+amt-241129	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				
 amt-241130	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha		Vitals		
 amt-241178	dup:Гарбуз		Shopping_ads,Display_ads	drop_t5				
 amt-241179	dup:Гарбуз		Shopping_ads,Display_ads	drop_t5				
@@ -8991,7 +8991,7 @@ lp-LP20121	dup:Гарбуз		Shopping_ads,Display_ads	drop_t5
 lp-LP20122	dup:Гарбуз		Shopping_ads,Display_ads	drop_t5				
 lp-LP20123	dup:Гарбуз		Shopping_ads,Display_ads	drop_t5				
 lp-LP20125	dup:Гарбуз		Shopping_ads,Display_ads	drop_t5				
-lp-LP20126	dup:Гарбуз		Shopping_ads,Display_ads	drop_t5				
+lp-LP20126	dup:Гарбуз	prybutok	Shopping_ads,Display_ads	drop_t5				
 lp-LP20127	dup:Гарбуз		Shopping_ads,Display_ads	drop_t5				
 lp-LP20130	dup:Гарбуз		Shopping_ads,Display_ads	drop_marzha				
 lp-LP20133	dup:Гарбуз		Shopping_ads,Display_ads	drop_t5				
